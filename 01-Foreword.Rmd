@@ -1,0 +1,20 @@
+# Foreword
+
+Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section “Diagnostic Horizons and other Differentiae”. 
+
+Other technical terms are defined in other books:
+
+  * Horizon notations are defined by Clayden and Hewitt (1989).
+  * Soil morphology terms are defined by Milne et al. (1991).
+  * Classes of the US Soil Taxonomy are defined by Soil Survey Staff (1999).
+  *	Soil colours are defined by Munsell Color Company (1975).
+  *	Soil mineralogy classes are defined by Whitton and Childs (1989) or Childs and Whitton (1990). Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
+  *	Soil chemical terms are explained and the analytical methods are described by Blakemore et al. (1987). Note that soil pH measurements are made in water with a ratio of 1 part of soil to 2.5 parts of water, by weight.
+  *	Soil physical terms are explained and the analytical methods are described by Gradwell and Birrell (1979).
+  *	Many other soil science concepts and technical terms are explained, in a New Zealand context, by McLaren and Cameron (1990).
+  
+The following abbreviations are used for soil chemical terms.
+
+CEC	– Cation exchange capacity.
+ECEC	– Effective cation exchange capacity, which is the CEC at natural field pH, estimated by the sum of basic cations + KCl-extractable aluminium.
+P retention	 – Phosphate retention.
