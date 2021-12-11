@@ -1,0 +1,150 @@
+# Organic Soils
+
+## Concept of the Order
+
+Organic Soils are soils that occur in the partly decomposed remains of wetland plants (peat) or forest litter. Mineral soil material is commonly present but organic soil material is dominant. The soils occur in sites where rates of organic-matter decomposition are balanced or exceeded by rates of plant biomass production and accumulation.
+
+## Correlation
+
+The order corresponds with the organic soils group of the NZ Genetic Soil Classification. It correlates in the most part with the Histosols of Soil Taxonomy.
+
+## Occurrence
+
+Organic Soils occur in wetlands in most parts of New Zealand or under forest-produced acid litter in areas with high precipitation.
+
+## Accessory Properties of the Order
+
+  1.  _Low bulk density._ Bulk densities are very low, usually in the range of
+0.03 to 0.4 Mg/m^3^. Organic Soils may contain up to 70% organic matter. Too few data are yet available to allow mineralogy classes to be stated.
+  2.  _High cation exchange capacity._ The organic components of Organic Soils have high surface area, and high negative charge that varies markedly with pH. CEC values are very high, mostly ranging from 40 to 170 cmol/kg.
+  3.  _High carbon/nitrogen ratios._ C/N ratios range from 18 to as high as 70 in unfertilised and uncultivated Organic Soils.
+  4.  _Low bearing strength._ Construction of buildings or roads requires special foundation design.
+  5.  _Very low thermal conductivity._ Soils warm and cool slowly. Bare soil surfaces, however, have high radiance.
+  6.  _High shrinkage potential._ The soils shrink markedly upon drying, and loose organic matter due to oxidation. Consequently, following drainage, the classification may change.
+  7.  _High total available water capacity._ While total available water capacity (AWC) is high, Plant-available water capacity (PAWC) may only be moderate.
+  8.  _Common nutrient deficiencies._ The major nutrients nitrogen, phosphorus, potassium and sulphur, and the trace elements copper, selenium and molybdenum, are frequently deficient for crops and pasture.
+  9.  _Peats are very poorly drained, litters are variable._ Organic Soils formed in peats are very poorly drained and those formed from litters may range from well drained to very poorly drained.
+
+## Summary of Organic Soils Hierarchy
+
+```{r}
+table_A <- data.frame(
+  'Code' = c('OL', 'OF', 'OM', 'OH'),
+  'Group' = c('Litter', 'Fibric', 'Mesic', 'Humic'),
+  'Subgroup' = c('Buried-podzol', 'Buried-gleyed', 'Orthic', 
+                 'Sphagnic', 'Acid', 'Mellow',
+                 'Acid', 'Mellow',
+                 'Acid', 'Mellow'),
+  'Example_Series' = c('pt. Waitutu', '-', 'pt. Waipoua',
+                       'Kaherekoau', 'pt. Rukuhia', 'pt. Otanomomo',
+                       'Otautau', 'Kaipaki',
+                       'Ardmore', 'Pukehina')
+)
+
+knitr::kable(table_A,
+             col.names = c('', 'Group', 'Subgroup', 'Example of series'))
+```
+
+## Key to Groups of Organic Soils
+
+### __OL__
+
+Organic Soils that occur entirely in partly or fully decomposed forest litter and that are not almost continually saturated in the natural state (F and H horizons).
+
+<div style="text-align: right"> LITTER ORGANIC SOILS </div>
+
+### __OF__
+
+Other soils that, from the upper surface of the organic soil material to 60 cm depth, or to the base of the organic soil material if shallower, have horizons dominated (by accumulated thickness) by fibric organic soil material (Of horizons).
+
+<div style="text-align: right"> FIBRIC ORGANIC SOILS </div>
+
+### __OM__
+
+Other soils that, from the upper surface of the organic soil material to 60 cm depth, or to the base of the organic soil material if shallower, have horizons dominated (by accumulated thickness) by mesic organic soil material (Om horizons).
+
+<div style="text-align: right"> MESIC ORGANIC SOILS </div>
+
+### __OH__
+
+Other soils that, from the upper surface of the organic soil material to 60 cm depth, or to the base of the organic soil material if shallower, have horizons dominated (by accumulated thickness) by humified organic soil material (Oh horizons).
+
+<div style="text-align: right"> HUMIC ORGANIC SOILS </div>
+
+## Key to Subgroups of Organic Soils
+
+### __OL__ LITTER ORGANIC SOILS
+
+Litter Organic Soils occur under forest beneath a canopy of acid litter or mor-forming species. The organic material is derived predominantly from leaves and twigs and is normally not saturated except for a few days following heavy rain.
+
+#### __OLBZ__
+
+Litter Organic Soils in which an underlying mineral soil, with an upper boundary at less than 90 cm from the soil surface, has a podzolic-B or placic horizon.
+
+<div style="text-align: right"> Buried-podzol Litter Organic Soils </div>
+
+#### __OLBG__
+
+Other soils in which a reductimorphic horizon, occurs at less than 30 cm beneath the upper surface of the underlying mineral soil.
+
+<div style="text-align: right"> Buried-gley Litter Organic Soils </div>
+ 
+#### __OLO__
+
+Other soils.
+
+<div style="text-align: right"> Orthic Litter Organic Soils </div>
+
+### __OF__ FIBRIC ORGANIC SOILS
+
+Fibric Organic Soils occur in sites that are saturated to the surface for extended periods (or in sites that have been artificially drained) in which the peat materials are only weakly decomposed. The wetland plant constituents are so little decomposed that their botanic origin may be readily determined and fibres are not destroyed by rubbing.
+
+#### __OFS__
+
+Fibric Organic Soils in which the organic fibres, to a depth of 60 cm from the soil surface, or to the base of organic soil material if shallower, are more than 70% Sphagnum species.
+
+<div style="text-align: right"> Sphagnic Fibric Organic Soils </div>
+
+#### __OFA__
+
+Other soils in which the organic soil material to a depth of 60 cm from the soil surface, or to its base if shallower, has pH of 4.5 or less throughout the major part.
+
+<div style="text-align: right"> Acid Fibric Organic Soils </div>
+
+#### __OFM__
+
+Other soils.
+
+<div style="text-align: right"> Mellow Fibric Organic Soils </div>
+
+### __OM__ MESIC ORGANIC SOILS
+
+Mesic Organic Soils occur in very wet sites (or in sites that have been artificially drained) in which the peat materials are moderately decomposed. The remains of up to two-thirds of the original wetland plants that make up the bulk of the soil are unrecognisable or are largely destroyed by rubbing between the fingers.
+
+#### __OMA__
+
+Other soils in which the organic soil material to a depth of 60 cm from the soil surface, or to its base if shallower, has pH of 4.5 or less throughout the major part.
+
+<div style="text-align: right"> Acid Mesic Organic Soils </div>
+
+#### __OMM__
+
+Other soils.
+
+<div style="text-align: right"> Mellow Mesic Organic Soils </div>
+
+### __OH__ HUMIC ORGANIC SOILS
+
+Humic Organic Soils occur in very wet sites (or in sites that have been artificially drained). The peat materials are strongly decomposed to the extent that the original wetland plant remains cannot be recognised throughout most of the soil profile.
+
+#### __OHA__
+
+Humic Organic Soils in which the organic soil material to a depth of 60 cm from the soil surface, or to its base if shallower, has pH of 4.5 or less throughout the major part.
+
+<div style="text-align: right"> Acid Humic Organic Soils </div>
+
+#### __OHM__
+
+Other soils.
+
+<div style="text-align: right"> Mellow Humic Organic Soils </div>
