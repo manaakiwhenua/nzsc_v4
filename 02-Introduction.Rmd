@@ -1,6 +1,7 @@
 # Introduction
 
 Version 3.0 of the Zealand Soil Classification is the culmination of a period of development from its initiation in 1983 to wide circulation of versions 1.0 and 2.0 (Hewitt 1989) for comment and testing. It represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary. Accounts of the methods used in developing the soil classification and the rationale for the classes and differentia used are in preparation.
+
 The New Zealand Soil Classification is a national soil classification intended to replace the New Zealand Genetic Soil Classification (Taylor 1948; Taylor and Cox 1956; Taylor and Pohlen 1962). The New Zealand Genetic Soil Classification grew out of the need for reconnaissance mapping of the nation’s soil resources. It was successful as a unifying factor in New Zealand soil science, and it played a vital role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s. The present work has grown out of the New Zealand Genetic Soil Classification and, where possible, preserves successful parts of that classification. It has also been influenced by experience in testing the US Soil Taxonomy (Leamy et al. 1983).
 
 ## Objectives
@@ -32,7 +33,7 @@ The soil individual is the fundamental unit of soil which is assigned to classes
 
 Soil Taxonomy (Soil Survey Staff 1975) regards the polypedon as the soil individual. This is rejected here because, as discussed by Hewitt (1982), it does not fulfil Cline’s (1949) or Johnson’s (1963) requirements for a soil individual. 
  
-In New Zealand, the soil individual has traditionally been the soil profile. Usually conceived as a two-dimensional section exposed by a soil pit, it is in fact a three-dimensional slice sufficiently thick to sample and examine hand specimens. It should therefore be termed a “soil profile slice”. With the realisation that soils should be examined in successive horizonal sections as well as the vertical profile, there is increasing acceptance that a volume of soil the size of the pedon (Soil Survey Staff 1975) represents a better soil individual than the soil profile slice.
+In New Zealand, the soil individual has traditionally been the soil profile. Usually conceived as a two-dimensional section exposed by a soil pit, it is in fact a three-dimensional slice sufficiently thick to sample and examine hand specimens. It should therefore be termed a “soil profile slice”. With the realisation that soils should be examined in successive horizontal sections as well as the vertical profile, there is increasing acceptance that a volume of soil the size of the pedon (Soil Survey Staff 1975) represents a better soil individual than the soil profile slice.
 
 Accordingly, the pedon as defined in Soil Taxonomy (Soil Survey Staff 1975) is recommended as the soil individual for the New Zealand Soil Classification. It is understood that assignments are often made from the examination of volumes of soil smaller than a complete pedon, where they are assumed representative of the pedon.
 
@@ -44,7 +45,7 @@ The soil horizons are examined and the assignment is then made by following the 
 
 The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, Nodular Perch-gley Oxidic Soils). Figure 1 illustrates the relationships between subgroups and groups in the Oxidic Soils order.
 
-```{r,fig.show='hold', fig.cap='The hierarchy of the Oxidic Soils as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position'}
+```{r,echo=FALSE,fig.show='hold', fig.cap='Figure 1: The hierarchy of the Oxidic Soils as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position',out.width = '70%',fig.align='center'}
 knitr::include_graphics('images/Figure-001_oxidic-soils-hierarchy.png')
 ```
 
@@ -60,26 +61,47 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In Table 1, classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification (Taylor and Pohlen 1962) and Soil Taxonomy (Soil Survey Staff 1990).
 
-```{r}
+```{r,echo=FALSE,results='hold'}
+library(flextable)
 # note order-level is added below
 # note just doing the first few rows at 2021-12-10 to test display options
 # TODO complete table import
 table_001 <- data.frame(
-  'NZSC_Suborder' = c('Perch-Gley Allophanic Soils',
+  'NZSC_Suborder' = c('ALLOPHANIC SOILS', ## ooooh i hate this approach to merging D:
+                      'Perch-Gley Allophanic Soils',
                       'Gley Allophanic Soils',
                       'Impeded Allophanic Soils',
-                      'Orthic Allophanic Soils'),
-  'NZ_Genetic_SC' = c(rep('gley soils', ),
+                      'Orthic Allophanic Soils',
+                      'ANTHROPIC SOILS',
+                      'Truncated Anthropic Soils',
+                      'Refuse Anthropic Soils',
+                      'Mixed Anthropic Soils',
+                      'Fill Anthropic Soils'),
+  'NZ_Genetic_SC' = c('ALLOPHANIC SOILS',
+                      rep('gley soils', 2),
                       rep('YB loams', 2),
+                      'ANTHROPIC SOILS',
+                      rep('anthropic soils', 4)
                       ),
-  'US_Soil_Taxonomy' = c(rep('Aquands', 2), rep('Cryands and Udands', 2))
+  'US_Soil_Taxonomy' = c('ALLOPHANIC SOILS',
+                         rep('Aquands', 2), 
+                         rep('Cryands and Udands', 2),
+                         'ANTHROPIC SOILS',
+                         'Arents',
+                         'Arents or Unclassified',
+                         'Arents',
+                         'Arents')
 )
 
-knitr::kable(table_001,
-             col.names = c('NZ Soil Classification (v. 3)',
-                           'NZ Genetic Soil Classification',
-                           'US Soil Taxonomy'),
-             caption = 'Correlation of soil groups with the Genetic New Zealand Soil Classification (Taylor and Pohlen 1962) and the US Soil Taxonomy (Soil Survey Staff 1990). The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classificaiton.')
+ft <- flextable(table_001)
+ft <- set_header_labels(ft, 
+                        'NZSC_Suborder' = 'NZ Soil Classification (v. 3)',
+                        'NZ_Genetic_SC' = 'NZ Genetic Soil Classification',
+                        'US_Soil_Taxonomy' = 'US Soil Taxonomy')
+ft <- merge_h(ft, c(1,6))
+ft <- set_caption(ft,
+                  caption = 'Correlation of soil groups with the Genetic New Zealand Soil Classification (Taylor and Pohlen 1962) and the US Soil Taxonomy (Soil Survey Staff 1990). The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classificaiton.')
+ft
 ```
 
 

@@ -13,4 +13,13 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-TBD
+# New Zealand Soil Classification
+
+v 4.0 [DRAFT]
+
+A. E. Hewitt
+
+Manaaki Whenua - Landcare Research
+
+***
+
