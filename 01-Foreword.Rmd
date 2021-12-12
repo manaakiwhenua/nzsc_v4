@@ -1,6 +1,6 @@
 # Foreword
 
-Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section “Diagnostic Horizons and other Differentiae”. 
+Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section [“Diagnostic Horizons and other Differentiae”](#diagnostics). 
 
 Other technical terms are defined in other books:
 
