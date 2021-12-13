@@ -62,7 +62,7 @@ ft_N
 
 ## Key to Groups of Granular Soils {-#grp-N}
 
-#### __NP__ {-#key_NP}
+#### __NP__ {-#key-NP}
 
 Granular soils that have _both_ 
 
