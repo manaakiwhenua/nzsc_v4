@@ -1,18 +1,18 @@
-# Allophanic Soils {-#ord-A}
+# Allophanic Soils {-#ord-L}
 
-## Concept of the Order {-#con-A}
+## Concept of the Order {-#con-L}
 
 Allophanic Soils have properties that are strongly influenced by minerals with short-range order, especially allophane, imogolite and ferrihydrite. They are characteristically weak in strength and sensitive, with very low bulk density. They occur mostly in volcanic parent materials, especially ash and basaltic scoria, but occur also in quartzo-feldspathic and tuffaceous (greywacke) sandstone.
 
-## Correlation {-#cor-A}
+## Correlation {-#cor-L}
 
 The order comprises mainly yellow-brown loams but also includes weakly weathered red loams and brown loams and some upland and high country yellow-brown earths of the NZ Genetic Soil Classification. The soils correlate predominantly with the Aquands, Cryands and Udands of Soil Taxonomy.
 
-## Occurrence {-#occ-A}
+## Occurrence {-#occ-L}
 
 Allophanic Soils occur predominantly in North Island volcanic ash, and in the weathering products of other volcanic rocks. They also occur in the weathering products of greywacke and schist in the South Island high country.
 
-## Accessory Properties of the Order {-#acc-A}
+## Accessory Properties of the Order {-#acc-L}
 
 1.  _Short-range-order minerals._ The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, imogolite and ferrihydrite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurement is difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
 2.  _Low bases._ Sum of bases are low to very low and range from less than 1 to 10 cmol/100 g  in subsoils and unfertilised topsoils.
@@ -29,12 +29,12 @@ Allophanic Soils occur predominantly in North Island volcanic ash, and in the we
 13.  _Limited fertility._ There are usually requirements for phosphorus, potassium and magnesium on dairy farms. There are no significant trace element deficiencies although cobalt is marginal in more strongly leached Allophanic Soils. Pasture may respond to lime where pH is less than 5.3. Sulphate reserves are held in B horizons. P retention and phosphate fixation are high in topsoils.
 14.  _Moist climate._ Precipitation exceeds 1000 mm and soil moisture deficits are either absent or occur for only short periods.
 
-## Summary of Allophanic Soils Hierarchy {-#sum-A}
+## Summary of Allophanic Soils Hierarchy {-#sum-L}
 
 ```{r,echo=FALSE,results='hold',fig.align='center'}
 library(flextable)
 
-table_A <- data.frame(
+table_L <- data.frame(
   'Code' = c(rep('LP', 2),
              rep('LG', 2),
              rep('LI', 3),
@@ -53,7 +53,7 @@ table_A <- data.frame(
                        'Oeo', 'Rowan', 'Lepperton', 'Patua', 'Tirau')
 ) 
 
-ft <- flextable(table_A)
+ft <- flextable(table_L)
 ft <- bold(ft, part = 'head')
 ft <- merge_v(ft, 1)
 ft <- merge_v(ft, 2)
@@ -67,7 +67,7 @@ ft
 
 ***
 
-## Key to Groups of Allophanic Soils {-#grp-A}
+## Key to Groups of Allophanic Soils {-#grp-L}
 
 ### __LP__ {-#key-LP}
 
@@ -103,7 +103,7 @@ Other Allophanic Soils.
 
 ***
 
-## Key to Subgroups of Allophanic Soils {-#sub-A}
+## Key to Subgroups of Allophanic Soils {-#sub-L}
 
 ### __LP__ - PERCH-GLEY ALLOPHANIC SOILS {-#LP}
  
