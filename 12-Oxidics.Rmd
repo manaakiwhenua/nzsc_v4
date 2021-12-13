@@ -70,7 +70,7 @@ Other Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper bound
 
 <div style="text-align: right"> [__NODULAR OXIDIC SOILS__](#XN) </div>
 
-#### __XO__ {-#key-XP}
+#### __XO__ {-#key-XO}
 
 Other Oxidic Soils.
 
