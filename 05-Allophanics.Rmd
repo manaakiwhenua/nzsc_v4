@@ -69,7 +69,7 @@ ft_L
 
 ## Key to Groups of Allophanic Soils {-#grp-L}
 
-### __LP__ {-#key-LP}
+#### __LP__ {-#key-LP}
 
 Allophanic Soils that have both
 
@@ -80,7 +80,7 @@ Allophanic Soils that have both
 
 <div style="text-align: right"> [__PERCH-GLEY ALLOPHANIC SOILS__](#LP) </div>
 
-### __LG__ {-#key-LG}
+#### __LG__ {-#key-LG}
 
 Other Allophanic Soils that have a [peaty topsoil](#diag-pts), or within 15 cm of the base of the A horizon or 30 cm of the mineral soil surface, have either 
 
@@ -89,13 +89,13 @@ Other Allophanic Soils that have a [peaty topsoil](#diag-pts), or within 15 cm o
 
 <div style="text-align: right"> [__GLEY ALLOPHANIC SOILS__](#LG) </div>
   
-### __LI__ {-#key-LI}
+#### __LI__ {-#key-LI}
 
 Other Allophanic Soils that have a [slowly permeable layer](#diag-slowp), or horizon that is at least weakly indurated, within 90 cm of the mineral soil surface.
 
 <div style="text-align: right"> [__IMPEDED ALLOPHANIC SOILS__](#LI) </div>
 
-### __LO__ {-#key-LO}
+#### __LO__ {-#key-LO}
 
 Other Allophanic Soils.
 

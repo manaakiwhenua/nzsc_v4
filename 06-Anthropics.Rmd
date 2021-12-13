@@ -54,13 +54,13 @@ ft_A
 
 ## Key to Groups of Anthropic Soils {-#grp-A}
 
-### __AT__ {-#key-AT}
+#### __AT__ {-#key-AT}
 
 Anthropic Soils in which natural _in-situ_ materials occur at or within 30 cm of the soil surface, which result from truncation of the solum of the original soil by the action of people.
 
 <div style="text-align: right"> [__TRUNCATED ANTHROPIC SOILS__](#AT) </div>
 
-### __AR__ {-#key-AR}
+#### __AR__ {-#key-AR}
 
 Other Anthropic Soils that have either
 
@@ -69,13 +69,13 @@ Other Anthropic Soils that have either
 
 <div style="text-align: right"> [__REFUSE ANTHROPIC SOILS__](#AR) </div>
 
-### __AM__ {-#key-AM}
+#### __AM__ {-#key-AM}
 
 Other Anthropic Soils in which the original soil horizons have been destroyed by deep ripping, deep subsoil lifting, or some similar practice.
 
 <div style="text-align: right"> [__MIXED ANTHROPIC SOILS__](#AM) </div>
 
-### __AF__ {-#key-AF}
+#### __AF__ {-#key-AF}
 
 Other Anthropic Soils.
 

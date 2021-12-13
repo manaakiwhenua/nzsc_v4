@@ -84,13 +84,13 @@ ft_B
 
 ## Key to Groups of Brown Soils {-#grp-B}
 
-### __BL__ {-#key-BL}
+#### __BL__ {-#key-BL}
 
 Brown soils that have within the B horizon a subhorizon that meets the requirements of [allophanic soil material](#diag-alloph) but not necessarily the requirement for bulk density, and that is 10 cm or more thick and occurs with its upper surface at 60 cm or less from the mineral soil surface.
 
 <div style="text-align: right"> [__ALLOPHANIC BROWN SOILS__](#BL) </div>
 
-### __BS__ {-#key-BS}
+#### __BS__ {-#key-BS}
 
 Other Brown Soils that from the base of the A horizon to 60 cm from the mineral soil surface, have
 
@@ -99,7 +99,7 @@ Other Brown Soils that from the base of the A horizon to 60 cm from the mineral 
   
 <div style="text-align: right"> [__SANDY BROWN SOILS__](#BS) </div>
 
-### __BX__ {-#key-BX}
+#### __BX__ {-#key-BX}
 
 Other Brown Soils that in some part of the B horizon within 60 cm of the mineral soil surface, have
 
@@ -109,7 +109,7 @@ Other Brown Soils that in some part of the B horizon within 60 cm of the mineral
 
 <div style="text-align: right"> [__OXIDIC BROWN SOILS__](#BX) </div>
 
-### __BM__ {-#key-BM}
+#### __BM__ {-#key-BM}
 
 Other Brown Soils that, in a subhorizon of the B at 60 cm from the mineral soil surface, or at the base of the B if shallower, have
 
@@ -119,7 +119,7 @@ Other Brown Soils that, in a subhorizon of the B at 60 cm from the mineral soil 
 
 <div style="text-align: right"> [__MAFIC BROWN SOILS__](#BM) </div>
 
-### __BA__ {-#key-BA}
+#### __BA__ {-#key-BA}
 
 Other Brown Soils that have _either_
 
@@ -128,13 +128,13 @@ Other Brown Soils that have _either_
 
 <div style="text-align: right"> [__ACID BROWN SOILS__](#BA) </div>
 
-### __BF__ {-#key-BF}
+#### __BF__ {-#key-BF}
 
 Other Brown Soils that have a [fragipan](#diag-fpan), or an apedal subhorizon with a slightly firm or stronger moist soil strength in the B horizon, with an upper boundary within 90 cm of the mineral soil surface.
 
 <div style="text-align: right"> [__FIRM BROWN SOILS__](#BF) </div> 
 
-### __BO__ {-#key-BO}
+#### __BO__ {-#key-BO}
 
 Other Brown Soils.
 
