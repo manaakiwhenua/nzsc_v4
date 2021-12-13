@@ -250,7 +250,7 @@ Other soils.
 
 Recent Gley Soils occur on young land surfaces, usually in fluvial or estuarine sediments. In many sites there is a significant flood risk.
 
-#### __GRO__ {-#key-BL}
+#### __GRO__ {-#key-GRO}
 
 Recent Gley Soils that have a [peaty topsoil](#diag-pts) either at the surface or buried with its upper surface within 60 cm of the soil surface.
 
@@ -357,7 +357,7 @@ Other soils that have an ironstone layer at 90 cm depth or less from the mineral
 
 <div style="text-align: right"> __Ironstone Orthic Gley Soils__ </div>
 
-#### __GOE__ {-#key-GOI}
+#### __GOE__ {-#key-GOE}
 
 Other soils that have a B horizon, in which the major part to 60 cm from the mineral soil surface or to its base (whichever is less)
 
