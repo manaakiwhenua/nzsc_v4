@@ -4,14 +4,14 @@ In the keys to orders, groups or subgroups, any surface mantle of new material, 
 
 __If any soil has an overthickened A horizon with its base at 45 cm or more from the mineral soil surface and is not mottled within 30 cm of the mineral surface, the key should be entered directly at [Recent Soils](#R).__
 
-## __O__  - Organic Soils {-#O}
+## [__O__  - Organic Soils](#ord-O) {-#O}
 
 Soils that have horizons that consist of [organic soil material](#diag-org) (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are __EITHER__
 
 1.  30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), __OR__
 2.  40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).
 
-## __G__ - Gley Soils {-#G}
+## [__G__ - Gley Soils](#ord-G) {-#G}
 
 Other soils that have __EITHER__
 
@@ -22,7 +22,7 @@ Other soils that have __EITHER__
     (d)  there is no horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface, __OR__
 2.  an [ironstone pan](#diag-ipan) with an upper surface 30 cm or less from the mineral soil surface, and has sufficient ferrous iron to give a positive reaction to α,α'-dipyridyl at some time of the year.
 
-## __U__ - Ultic Soils {-#U}
+## [__U__ - Ultic Soils](#ord-U) {-#U}
 
 Other soils that meet __ALL__ of the following:
 
@@ -39,22 +39,22 @@ Other soils that meet __ALL__ of the following:
     (c)  stones, other than quartz stones, that are strongly or very strongly indurated, __AND__
 4.  have either an E horizon, or the uppermost subhorizon of the B has colour value of 5 or more.
 
-## __Z__ - Podzols {-#Z}
+## [__Z__ - Podzols](#ord-Z) {-#Z}
 
 Other soils that have either a [podzolic-B horizon](#diag-podzb), or an [ortstein-pan](#diag-opan), that has pH less than 5.5 in some part or a [humus-pan](#diag-hpan).
 
-## __L__ - Allophanic Soils {-#L}
+## [__L__ - Allophanic Soils](#ord-L) {-#L}
 
 Other soils that have a layer or layers of [allophanic soil material](#diag-alloph), that total 35 cm or more thick, and occur within 60 cm of the mineral soil surface.
 
-## __M__ - Pumice Soils {-#M}
+## [__M__ - Pumice Soils](#ord-M) {-#M}
 
 Other soils that have __BOTH__
 
 1.  a layer of [vitric soil material] (#diag-vitr) extending from the mineral soil surface to 25 cm or more, or 35 cm or more thick occurring within 60 cm of the mineral soil surface, __AND__
 2.  a [weathered-B horizon](#diag-bw) 5 cm or more thick.
 
-## __E__ - Melanic Soils {-#E}
+## [__E__ - Melanic Soils](#ord-E) {-#E}
 
 Other soils that have __ALL__ the following
 
@@ -69,7 +69,7 @@ Other soils that have __ALL__ the following
     (b)  a subhorizon that is not clayey, _or_
     (c)  the uppermost subhorizon of the B has colour value of 5 or more.
 
-## __S__ - Semiarid Soils {-#S}
+## [__S__ - Semiarid Soils](#ord-S) {-#S}
 
 Other soils that have __ALL__ of the following
 
@@ -80,11 +80,11 @@ Other soils that have __ALL__ of the following
     (a)  a [calcareous horizon](#diag-calch), or a horizon with pH of 7.5 or more, within 90 cm of the soil surface (or within 150 cm if the particle-size class is dominantly sandy or sandy-skeletal), _or_
     (b)  P retention of 15% or less in the major part of the B horizon to 60 cm depth, and any worm mixed horizon at the base of the A horizon is less than 5 cm thick.
 
-## __X__ - Oxidic Soils {-#X}
+## [__X__ - Oxidic Soils](#ord-X) {-#X}
 
 Other soils that have an [oxidic horizon](#diag-oxh) more than 30 cm thick with an upper boundary between 20 and 60 cm from the mineral soil surface.
 
-## __N__ - Granular Soils {-#N}
+## [__N__ - Granular Soils](#ord-N) {-#N}
 
 Other soils that have __BOTH__
 
@@ -95,7 +95,7 @@ Other soils that have __BOTH__
     (a)  an overlying or overlapping [reductimorphic horizon](#diag-redmh) within 15 cm of the base of the A horizon, or 30 cm of the mineral soil surface; _or_
     (b)  polyhedral peds 20 mm or less in size in most of the B horizon within 60 cm of the mineral soil surface.
 
-## __P__ - Pallic Soils {-#P}
+## [__P__ - Pallic Soils](#ord-P) {-#P}
 
 Other soils that have textures of loamy fine sand or finer in some part from the base of the A horizon to 60 cm from the mineral soil surface, and have __EITHER__
 
@@ -110,7 +110,7 @@ Other soils that have textures of loamy fine sand or finer in some part from the
         (iii)  [argillic horizon](#diag-argh), [calcareous horizon](#diag-calch), or a [cutanic horizon](#diag-cuth) that has sodic features either within or immediately beneath it, _or_
         (iv)  eluvial features including an E horizon, skeletans on B horizon peds, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons (“two-tone”).
 
-## __B__ - Brown Soils {-#B}
+## [__B__ - Brown Soils](#ord-B) {-#B}
 
 Other soils that have __BOTH__
 
@@ -120,18 +120,18 @@ Other soils that have __BOTH__
     (b)  hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see Figure 2); and P retention is 30% or more, or the reactive-aluminium test is at least moderate, in the uppermost subhorizon (10 cm or more thick) of the B horizon, ___or___
     (c)  the texture is sand or loamy sand in the B horizon to its base, or to 60 cm from the mineral soil surface, whichever is less.
 
-## __A__ - Anthropic Soils {-#A}
+## [__A__ - Anthropic Soils](#ord-A) {-#A}
 
 Other soils that have been formed by the direct action of people by either truncation, drastic mixing or by deposition of material 30 cm or more thick.
 
-## __R__ - Recent Soils {-#R}
+## [__R__ - Recent Soils](#ord-R) {-#R}
 
 Other soils that __BOTH__
 
 1.  have a [distinct topsoil](#diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or a [weathered-B horizon](#diag-bw); __AND__
 2.  do not have any horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface.
 
-## __W__ - Raw Soils {-#W}
+## [__W__ - Raw Soils](#ord-W) {-#W}
 
 Other soils.
 
