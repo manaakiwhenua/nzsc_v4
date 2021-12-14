@@ -13,6 +13,8 @@ Other technical terms are defined in other books:
   * _Soil physical terms_ are explained and the analytical methods are described by @gradwell_c_1979.
   * Many other soil science concepts and technical terms are explained, in a New Zealand context, by @mclaren_soil_1990.
 
+***
+
 The following abbreviations are used for soil chemical terms.
 
 CEC – Cation exchange capacity.
