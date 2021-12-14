@@ -28,10 +28,9 @@ ft <- bold(ft, 13, 2)
 ft <- bold(ft, 18, 2)
 ft <- set_table_properties(ft, layout = "autofit") 
 ft
-
 ```
 
-The following diagnostic horizons and soil characteristics have been modified from Soil Taxonomy (Soil Survey Staff 1975): argillic horizon, duripan, fragipan, lithic contact, paralithic contact and placic horizon.
+The following diagnostic horizons and soil characteristics have been modified from Soil Taxonomy [@soil_survey_staff_soil_1999]: [argillic horizon](#diag-argh), [duripan](#diag-dpan), [fragipan](#diag-fpan), [lithic contact](#diag-lithc), [paralithic contact](#diag-plith) and [placic horizon](#diag-plac).
 
 ## Allophanic Soil Material {-#diag-alloph}
 
@@ -39,7 +38,7 @@ Allophanic soil material has soil properties dominated by minerals with short-ra
 
 Allophanic soil material has __BOTH__
 
-1.
+1. ___Either___
     (a) All of the following (in a fresh sample):
         (i)  Sensitive or strongly sensitive sensitivity class (distinctly greasy or smeary feel except in some sandy soils), _and_
         (ii)  Very weak or weak unconfined soil strength class (when moist), _and_
@@ -58,15 +57,15 @@ An argillic horizon is a clay-enriched horizon. It is indicated by a "Bt" horizo
 
 1.  It is vertically continuous and is 10 cm or more thick. Clay coatings occur that have a waxy lustre when dry and sufficient thickness to envelop fine sand grains. Coatings occur either on peds (10% or more of the ped surfaces), or in pores (in more than one-third of the observed tubular pores) or as bridges between sand grains (in more than half of the horizon); __OR__
 2.  It is composed of clay-enriched lamellae (clay bands), that within 90 cm of the mineral soil surface have a combined thickness of 15 cm or more; __OR__
-3.  It contains sufficiently more clay than the overlying horizon, as detected by hand texturing (5% or more) , excluding any differences which result from a lithological discontinuity, and _either_
-    (a) it is overlain by an eluvial horizon (Ew or Eg) and the upper boundary of texture contrast is abrupt or sharp, _or_
+3.  It contains sufficiently more clay than the overlying horizon, as detected by hand texturing (5% or more) , excluding any differences which result from a lithological discontinuity, and __either__
+    (a) it is overlain by an eluvial horizon (Ew or Eg) and the upper boundary of texture contrast is abrupt or sharp, __or__
     (b) clay coatings occur on ped or pore surfaces.
 
 Horizons having coatings which do not meet the requirements of an argillic horizon are likely to meet the requirements of a [cutanic horizon](#diag-cuth).
 
 ## Brittle-B Horizon {-#diag-britb}
 
-A brittle-B horizon is a B or BC horizon that has all of the following:
+A brittle-B horizon is a B or BC horizon that has __ALL__ of the following:
 
 1.  Brittle failure (the horizon may be gravelly, but the fine-earth fraction must be sufficiently coherent to allow brittle failure); __AND__
 2.  It is apedal-massive. Extremely coarse or gross prisms may be present, if the interior of the prisms is apedal-massive; __AND__
@@ -78,11 +77,11 @@ The brittle-B horizon differs from the [fragipan](#diag-fpan) by having either l
 
 A calcareous horizon is an horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. The calcium carbonate may be inherited from a calcareous parent material, or it may be formed in the soil and occur as coatings on stones, filamentous deposits in pores, or as nodules.
 
-The calcareous horizon includes horizons with the more stringent requirements of the calcic horizon of Soil Taxonomy (Soil Survey Staff 1975). The less stringent limits of the calcareous horizon are needed to distinguish the calcium-carbonate-accumulating horizons in the Semiarid Soils which have developed by weathering of calcium ions from silicate minerals in non-calcareous parent materials. Calcium carbonate dusts, which have contributed to calcium carbonate enriched horizons in other countries, have not been identified in New Zealand.
+The calcareous horizon includes horizons with the more stringent requirements of the calcic horizon of Soil Taxonomy [@soil_survey_staff_soil_1999]. The less stringent limits of the calcareous horizon are needed to distinguish the calcium-carbonate-accumulating horizons in the Semiarid Soils which have developed by weathering of calcium ions from silicate minerals in non-calcareous parent materials. Calcium carbonate dusts, which have contributed to calcium carbonate enriched horizons in other countries, have not been identified in New Zealand.
 
 ## Crumb Structure {-#diag-crumb}
 
-Crumb structure is defined as an earthy apedal material (Milne et al. 1991) with very friable failure class. Soil with crumb structure in situ has the gross appearance of massive soil material, but when disaggregated or disturbed, microfragments are produced with a superficial resemblance to breadcrumbs. When examined with a ×10 power hand-lens, these prove to be loosely packed aggregates of spheroidal micropeds (<0.5 mm) with packing voids forming a prominent part of the aggregate.
+Crumb structure is defined as an earthy apedal material [@milne_soil_1991] with very friable failure class. Soil with crumb structure in situ has the gross appearance of massive soil material, but when disaggregated or disturbed, microfragments are produced with a superficial resemblance to breadcrumbs. When examined with a ×10 power hand-lens, these prove to be loosely packed aggregates of spheroidal micropeds (<0.5 mm) with packing voids forming a prominent part of the aggregate.
 
 ## Cutanic Horizon {-#diag-cuth}
 
@@ -96,7 +95,7 @@ Many soils have horizons with coatings on peds or in pores which are very thin, 
 
 ## Cutanoxidic Horizon {-#diag-cutoxh}
 
-A cutanoxidic horizon (Wilson 1987) is a strongly weathered, clayey, low-activity-clay horizon. The dominant clays are kaolin group minerals, and clay coatings occur on less than 10% of ped faces. Exchangeable aluminium, as a percentage of CEC, is usually greater than 25% (and is frequently more than 50% in some part of the horizon). It meets the requirements of a [cutanic horizon](#diag-cuth), and has all the following characteristics:
+A cutanoxidic horizon [@wilson_classification_1987] is a strongly weathered, clayey, low-activity-clay horizon. The dominant clays are kaolin group minerals, and clay coatings occur on less than 10% of ped faces. Exchangeable aluminium, as a percentage of CEC, is usually greater than 25% (and is frequently more than 50% in some part of the horizon). It meets the requirements of a [cutanic horizon](#diag-cuth), and has __ALL__ the following characteristics:
 
 1.  It is a B horizon that is clayey and has fine polyhedral peds; __AND__
 2.  It has a failure class of friable only at water contents close to field capacity. Small changes in water content from field capacity result in large changes in soil strength and failure. Semi-deformable failure occurs at water contents wetter than field capacity. Very firm or stronger ped strength with brittle failure occurs at soil water matric potentials drier than about 30 kPa. Soil materials lack the characteristic friable failure over a wide range in moisture contents that is exhibited by [oxidic horizons](#diag-oxh); __AND__
@@ -118,34 +117,34 @@ Densipans occur in soils with siliceous parent materials. The strength is due to
 
 ## Distinct Topsoil {-#diag-dts}
 
-A distinct topsoil (modified from Avery 1980) is normally designated an A horizon and has __BOTH__ of the following:
+A distinct topsoil (modified from @avery_soil_1980) is normally designated an A horizon and has __BOTH__ of the following:
 
 1.  Moist colour value and/or chroma is less than that of the horizon below; __AND__
-2.  Thickness is 5 cm or more (including any F, H or O topsoil layer). The distinct topsoil is used to distinguish minimal soil development in the distinction between Recent Soils and Raw Soils.
+2.  Thickness is 5 cm or more (including any F, H or O topsoil layer). The distinct topsoil is used to distinguish minimal soil development in the distinction between [Recent Soils](#ord-R) and [Raw Soils](#ord-W).
 
 ## Duripan {-#diag-dpan}
 
-A duripan is a subsurface horizon that is cemented by silica or other opaque or uncoloured material. It has __ALL__ of the following requirements, but does not meet the requirements of the [calcareous horizon](#diag-calch):
+A duripan is a subsurface horizon that is cemented by silica or other opaque or uncoloured material. It has __ALL__ of the following requirements, but does __not__ meet the requirements of the [calcareous horizon](#diag-calch):
 
 1.  Dry fragments do not slake in water even during prolonged wetting; __AND__
 2.  It does not react visibly with 10% HCl; __AND__
 3.  The average lateral distance between any fractures is 100 mm or more.
 
 
-The duripan is recognised in Pallic Soils where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil.
+The duripan is recognised in [Pallic Soils](#ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil.
 
 ## Fluvial Features {-#diag-fluv}
 
-The intention of the term ‘fluvial features’ is to recognise soils with parent materials that result from transportation, sorting and deposition by water. Fluvial features are used to differentiate Recent Soils, Raw Soils and parent material classes of soil series that occur on landforms formed through fluvial processes.
+The intention of the term ‘fluvial features’ is to recognise soils with parent materials that result from transportation, sorting and deposition by water. Fluvial features are used to differentiate [Recent Soils](#ord-R), [Raw Soils](#ord-W) and parent material classes of soil series that occur on landforms formed through fluvial processes.
 
-Relevant landforms include floodplains, estuarine surfaces, lacustrine surfaces, aggregating fan surfaces, levees, backplains, bars, channels, deltas, floodplain benches, outwash plains and swamps (all defined by Milne et al. 1991).
+Relevant landforms include floodplains, estuarine surfaces, lacustrine surfaces, aggregating fan surfaces, levees, backplains, bars, channels, deltas, floodplain benches, outwash plains and swamps (all defined by @milne_soil_1991).
 
 Confirming soil characteristics include:
 
 1.  A buried A horizon or some other field indication of an irregular change in carbon with depth (such as sedimentary plant-leaf material).
 2.  Sedimentary bedding in C horizons, indicating deposition in water (such as scoured surfaces, cross-stratification, sedimentary laminations, current ripples or foreset beds).
 3.  An unripened horizon with fluid, or very fluid, fluidity class in some layer with an upper surface within 120 cm of the soil surface.
-4.  In tephric soil materials
+4. In [tephric soil materials](#diag-teph)
     a.  disturbance or overthickening of the regional sequence of tephras;
     b.  rounded or subrounded gravel;
     c.  presence of non-volcanic rock fragments.
@@ -154,7 +153,7 @@ The emphasis here on genetic landform criteria is not consistent with the princi
 
 ## Fragipan {-#diag-fpan}
 
-A fragipan is an apparently non-cemented horizon that has high bulk density (usually 1.5 Mg/m^3^) with high strength when dry. It has all of the following:
+A fragipan is an apparently non-cemented horizon that has high bulk density (usually 1.5 Mg/m^3^) with high strength when dry. It has __ALL__ of the following:
 
 1.  An air-dried clod must slake when fully immersed in water; __AND__
 2.  Brittle failure when moist (the horizon may be gravelly but the fine-earth material must be Sufficiently coherent to allow brittle failure); __AND__
@@ -170,12 +169,13 @@ A fragipan is an apparently non-cemented horizon that has high bulk density (usu
 
 A gley profile form is defined by the presence of a [reductimorphic horizon](#diag-redmh) with an upper boundary within either 15 cm of the base of the A horizon (excluding an AB or A/B horizon) or 30 cm of the mineral soil surface.
 
-Soils with a gley profile form have usually been recognised as poorly or very poorly drained soils in the soil drainage classification of Taylor and Pohlen (1962).
+Soils with a gley profile form have usually been recognised as poorly or very poorly drained soils in the soil drainage classification of @taylor_classification_1962.
 
 ## Humus-Pan {-#diag-hpan}
 
 A humus-pan is a B horizon that is 10 mm or more thick and is normally given the horizon designation Bhm.
-It has all of the following requirements:
+
+It has __ALL__ of the following requirements:
 
 1.  It is apedal (massive); __AND__
 2.  It has either firm or stronger moist soil strength, brittle failure when moist, or moist penetration resistance of 3100 kPa or more; __AND__
@@ -184,27 +184,28 @@ It has all of the following requirements:
 
 ## Ironstone-Pan {-#diag-ipan}
 
-An ironstone-pan is an indurated horizon dominantly composed of iron oxides with or without manganese oxides. It has all of the following characteristics:
+An ironstone-pan is an indurated horizon dominantly composed of iron oxides with or without manganese oxides. It has __ALL__ of the following characteristics:
 
 1.  The upper boundary is distinct, abrupt or sharp; __AND__
 2.  It is weakly or strongly indurated; __AND__
 3.  Fresh fracture surfaces are black and have a metallic lustre; __AND__
-4.  It forms a continuous horizon, or it is fractured into blocks of 100 mm (in horizontal dimension) or   more; __AND__
+4.  It forms a continuous horizon, or it is fractured into blocks of 100 mm (in horizontal dimension) or more; __AND__
 5.  It is 10 mm or more thick.
 
-Ironstone-pans commonly occur at a textural discontinuity, in the fluctuating zone of a water-table. It is likely that the iron has been precipitated from iron-rich groundwater moving laterally. In Taranaki (Childs et al. 1990), the pans are porous and some appear to have formed as iron-oxide rhizomorphs, which have been progressively infilled and welded together by further precipitations of iron oxide. In these pans the mineralogy is dominated by varying proportions of goethite and ferrihydrite.
+Ironstone-pans commonly occur at a textural discontinuity, in the fluctuating zone of a water-table. It is likely that the iron has been precipitated from iron-rich groundwater moving laterally. In Taranaki [@childs_thick_1990], the pans are porous and some appear to have formed as iron-oxide rhizomorphs, which have been progressively infilled and welded together by further precipitations of iron oxide. In these pans the mineralogy is dominated by varying proportions of goethite and ferrihydrite.
 
-Ironstone-pans are not usually associated with eluvial horizons and do not occur in Podzols. They differ from [ortstein-pans](#diag-opan) and [placic horizons](#diag-plac) which are often associated with eluvial horizons in Podzols or Brown Soils, and which have high organic carbon levels. Ironstone pans meet the requirements of the material below a petroferric contact of Soil Taxonomy.
+Ironstone-pans are not usually associated with eluvial horizons and do not occur in [Podzols](#ord-Z). They differ from [ortstein-pans](#diag-opan) and [placic horizons](#diag-plac) which are often associated with eluvial horizons in [Podzols](#ord-Z) or [Brown Soils](#ord-B), and which have high organic carbon levels. Ironstone pans meet the requirements of the material below a petroferric contact of Soil Taxonomy [@soil_survey_staff_soil_1999].
 
 The pans are a barrier to plant roots. Heavy machinery is required to break them up for the installation of drains. The permeability of the pans is likely to be slow.
 
-## Lithic Contaact {-#diag-lithc}
+## Lithic Contact {-#diag-lithc}
 
 A lithic contact occurs at the contact of soil with underlying rock. The rock is hard or very hard and is impracticable to dig with a spade.
 
-_In situ_ rocks in New Zealand are commonly jointed at intervals of less than 100 mm, and consequently the lithic contact definition of Soil Taxonomy often fails to apply (Laffan 1979). The lithic contact is defined here as follows:
+_In situ_ rocks in New Zealand are commonly jointed at intervals of less than 100 mm, and consequently the lithic contact definition of Soil Taxonomy [@soil_survey_staff_soil_1999] often fails to apply [@laffan_comment_1979]. The lithic contact is defined here as follows:
 
 At a lithic contact, rock fragments accommodate one another with non-random orientation with respect to any geological structure that may be present, and cracks or joints are mostly less than 5 mm wide.
+
 The lithic contact may be subdivided into coherent-lithic or shattered-lithic materials.
 
 _Coherent-lithic_ materials are equivalent to materials beneath the lithic contact of Soil Taxonomy. Cracks or joints occur at horizontal intervals of more than 100 mm. These materials occur on the ignimbrites, Otago schists, basalt flows of the Dunedin complex, and Fiordland granites. They often cause drainage impedance.
@@ -218,13 +219,13 @@ A mottled profile form is defined by __EITHER__
 1.  A [redox-mottled horizon](#diag-roxh) with an upper boundary within 15 cm of the base of the A horizon, or within 30 cm of the mineral soil surface; __OR__
 2.  A [reductimorphic horizon](#diag-redmh) with an upper boundary between 30 and 60 cm of the mineral soil surface.
 
-Soils with a mottled profile form have usually been recognised as imperfectly drained soils in the soil drainage classification of Taylor and Pohlen (1962). Redox mottles are formed as a result of the reduction and solubilisation of iron and/or manganese, their translocation and concentration, and their oxidation and precipitation in the form of oxides. Mottles that have originated in some other way (e.g. rock colour patterns or skeletans) are excluded.
+Soils with a mottled profile form have usually been recognised as imperfectly drained soils in the soil drainage classification of @taylor_classification_1962. Redox mottles are formed as a result of the reduction and solubilisation of iron and/or manganese, their translocation and concentration, and their oxidation and precipitation in the form of oxides. Mottles that have originated in some other way (e.g. rock colour patterns or skeletans) are excluded.
 
 ## Nodular Horizon {-#diag-nodh}
 
 A nodular horizon has more than 15% (by volume) nodules, as segregations of iron or aluminium oxyhydroxides, with some kaolinite, in a layer more than 10 cm thick.
 
-The nodules are common features in Oxidic Soils and some Granular Soils (Wilson 1987). The frequency distribution of nodules is clustered in the < 2% range and the > 15% range. Few profiles are known to lie in between.
+The nodules are common features in [Oxidic Soils](#ord-X) and some [Granular Soils](#ord-N) [@wilson_classification_1987]. The frequency distribution of nodules is clustered in the < 2% range and the > 15% range. Few profiles are known to lie in between.
 
 The nodular horizon limit is intended to exclude thin layers of rewashed nodules on colluvial footslopes, and also infrequent localised concentrations in soils with characteristically few nodules.
 
@@ -234,7 +235,7 @@ Organic soil material is soil material dominated by organic matter, excluding fr
 
 Organic soil material has __EITHER__
 
-1.  All of the following:
+1. ___All___ of the following:
     (a)  Colour value moist of 3 or less (after exposure to air) and colour value dry of 4 or less, __AND__
     (b) Deformable failure, __AND__
     (c) Weight loss of 65% or more by oven-drying a field-saturated sample; __OR__
@@ -242,9 +243,10 @@ Organic soil material has __EITHER__
 3.  More than 35% (by weight) loss on ignition except in materials dominated by allophanic soil material or by limestone; __OR__
 4. 18% or more total carbon.
 
-Organic soil materials that have been accumulated under wet conditions are subdivided into three classes, based on evidence of decomposition (Clayden and Hewitt 1989). These classes are used to distinguish soil groups of Organic Soils.
+Organic soil materials that have been accumulated under wet conditions are subdivided into three classes, based on evidence of decomposition [@clayden_horizon_1989]. These classes are used to distinguish soil groups of [Organic Soils](#ord-O).
 
 _Fibric soil material_ (Of horizon) consists mainly of well preserved plant remains that are readily identifiable in terms of botanical origin. The fibre content after rubbing is at least 75% by volume.
+
 Fibres are pieces of plant tissue large enough to be retained on a 100-mesh (0.15 mm) sieve, except for wood fragments that cannot be crushed or shredded in the hand and are larger than 2 cm in the smallest dimension. Rubbed fibre is the fibre that remains after rubbing a wet sample 10 times between the thumb and forefinger, or kneading a ball in the palm 10 times using firm pressure.
 
 _Mesic soil material_ (Om horizon) consists mainly of partially decomposed plant remains (semi-fibrous peat or hemic soil material) and does not meet the requirements of either fibric soil material or humified soil material.
@@ -253,7 +255,7 @@ _Humified soil material_ (Oh horizon) consists of strongly decomposed organic ma
 
 ## Ortstein-Pan {-#diag-opan}
 
-An ortstein-pan is a B horizon that is normally given the horizon notation Bsm. It has all of the following requirements:
+An ortstein-pan is a B horizon that is normally given the horizon notation Bsm. It has __ALL__ of the following requirements:
 
 1.  Thickness of more than 10 mm; __AND__
 2.  The upper boundary is sharp or abrupt; __AND__
@@ -266,8 +268,8 @@ The oxidic horizon is a strongly weathered B horizon consisting of mixed crystal
 
 1.  Weak or very weak primary ped strength and soil strength as determined by the unconfined resistance-to-crushing test at moist to dry soil water states; __AND__
 2.  Unconfined failure is friable or very friable over very moist to dry soil water states. Materials fail to predominantly 3 mm or smaller peds comprising silt- and sand-sized polyhedra and spheroids; __AND__
-3.  Primary peds slake rapidly in water to stable microaggregates which show no dispersion or slight dispersion after 100 inversions using the method of McQueen (1981); __AND__
-4.  Non-reactive or very weakly reactive to the reactive-aluminium test (Fieldes and Perrott 1966).
+3.  Primary peds slake rapidly in water to stable microaggregates which show no dispersion or slight dispersion after 100 inversions using the method of @mcqueen_new_1981; __AND__
+4.  Non-reactive or very weakly reactive to the reactive-aluminium test [@fieldes_rapid_1966].
 Oxidic horizons are clayey, with measured clay contents commonly exceeding 60%. The measured clay percentage is usually larger than in overlying A horizons, but clay increase is not a defining criterion because of the problem of quantifying clay contents in materials that are frequently difficult to disperse.
 
 Materials are only slightly sticky and plastic in relation to clay content. Clay coatings are either visually absent or only present at frequencies of about 1%. The oxidic horizon has low activity clay accessory properties with ECEC and CEC less than 12 and 16 cmol/100g clay respectively.
@@ -281,7 +283,7 @@ A paralithic contact is the upper surface of rock or regolith material that has 
 3.  Roots if present are few and confined to cracks; __AND__
 4.  If the overlying horizon is a [reductimorphic](#diag-redmh) or [redox-mottled](#diag-roxh) horizon, low chroma or high chroma mottles are less common below the contact.
 
-The paralithic contact meets the definition of a paralithic contact of Soil Taxonomy, but without the restrictive requirement for spacing of cracks. The horizon beneath the contact is given the horizon designation CR. Paralithic contacts may occur either on weakly weathered or unweathered rocks which are not strongly lithified, or on saprolites which have become soft by strong weathering.
+The paralithic contact meets the definition of a paralithic contact of Soil Taxonomy [@soil_survey_staff_soil_1999], but without the restrictive requirement for spacing of cracks. The horizon beneath the contact is given the horizon designation CR. Paralithic contacts may occur either on weakly weathered or unweathered rocks which are not strongly lithified, or on saprolites which have become soft by strong weathering.
 
 ## Peaty Topsoil {-#diag-pts}
 
@@ -294,11 +296,11 @@ In some subgroups a peaty topsoil may be buried by a surface mantle of new mater
 
 ## Perch-Gley Features {-#diag-pgley}
 
-Perch-gley features are the morphologic indicators of saturation and reducing conditions caused by a water-table perched on a slowly permeable layer within the soil profile.
+Perch-gley features are the morphologic indicators of saturation and reducing conditions caused by a water-table perched on a [slowly permeable layer](#diag-slowp) within the soil profile.
 
 A horizon with perch-gley features __EITHER__
 
-1.  Has [redox-segregations] (#diag-rsegs) that occur mainly within peds, or in the case of an apedal soil, mainly within the soil matrix. Macro-void surfaces, either partings or pores, are dominated by greyish colours (moist chroma 2 or less, or moist chroma 3 and value 6 or more). Iron and manganese precipitates occur either adjacent to the greyish void surfaces as a selvedge or as discrete mottles within the soil mass; __OR__
+1.  Has [redox-segregations](#diag-rsegs) that occur mainly within peds, or in the case of an apedal soil, mainly within the soil matrix. Macro-void surfaces, either partings or pores, are dominated by greyish colours (moist chroma 2 or less, or moist chroma 3 and value 6 or more). Iron and manganese precipitates occur either adjacent to the greyish void surfaces as a selvedge or as discrete mottles within the soil mass; __OR__
 2.  Overlies a horizon that is less gleyed (e.g. less redox-segregations) with a matrix that is not dominated by greyish colours.
 
 ## Placic Horizon {-#diag-plac}
@@ -309,7 +311,7 @@ A placic horizon is a thin iron pan that is normally designated Bfm. It has __AL
 2.  It is at least weakly indurated, and is black to reddish brown or dark red in colour. A black upper part can often be distinguished from a reddish brown lower part; __AND__
 3.  The upper and lower boundaries are sharp, and may be smooth, wavy or convolute in shape.
 
-The placic horizon usually occurs as a single pan but in places can be bifurcated. It is equivalent to the placic horizon of Soil Taxonomy except that New Zealand iron pans are enriched in iron and organic matter without significant accumulations of manganese (Clayden et al. 1990).
+The placic horizon usually occurs as a single pan but in places can be bifurcated. It is equivalent to the placic horizon of Soil Taxonomy [@soil_survey_staff_soil_1999] except that New Zealand iron pans are enriched in iron and organic matter without significant accumulations of manganese [@clayden_nature_1990].
 
 ## Podzolic-B Horizon {-#diag-podzb}
 
@@ -329,9 +331,9 @@ A podzolic-B horizon is a B horizon that meets one of the following:
 
 ## Reactive-Aluminium Test {-#diag-naf}
 
-This test indicates the presence of reactive hydroxy-aluminium groups, as occur for example in allophane and aluminium-humus complexes (Milne et al. 1991).
+This test indicates the presence of reactive hydroxy-aluminium groups, as occur for example in allophane and aluminium-humus complexes [@milne_soil_1991].
 
-Using the procedure of Fieldes and Perrott (1966), 1 drop of saturated sodium fluoride (NaF) solution is placed on a small test sample of soil, which has been smeared on to a filter paper treated with phenolphthalein indicator. The soil sample must be field moist. For classification, the reactivity of the soil sample is placed into one of the following classes.
+Using the procedure of @fieldes_rapid_1966, 1 drop of saturated sodium fluoride (NaF) solution is placed on a small test sample of soil, which has been smeared on to a filter paper treated with phenolphthalein indicator. The soil sample must be field moist. For classification, the reactivity of the soil sample is placed into one of the following classes.
 
 ```{r,echo=FALSE,results='hold',fig.align='center'}
 
@@ -368,9 +370,9 @@ The intermittent wetness may be caused by intermittent perched water, or by the 
 
 ## Redox Segregations {-#diag-rsegs}
 
-Redox segregations are mottles or concretions formed as a result of the reduction and solubilisation of iron and/or manganese, their translocation, concentration, and their oxidation and precipitation in the form of oxides (Clayden and Hewitt 1989). They may occur as low or high chroma colours, or both.
- 
-The nature of the water table is indicated by the association of low and high chroma colours. If subject to reduction by perched water, the low chroma colours are likely to be at ped or pore surfaces and the high chroma colours are likely to be within the soil matrix. If the soil is subject to reduction by groundwater, the low chroma colours are likely to be within the soil matrix and the high chroma colours are likely to be at ped or pore surfaces. Reducing conditions may also be indicated by the presence of sufficient ferrous iron to give a positive reaction to α,α'-dipyridyl (Childs 1981).
+Redox segregations are mottles or concretions formed as a result of the reduction and solubilisation of iron and/or manganese, their translocation, concentration, and their oxidation and precipitation in the form of oxides @clayden_horizon_1989. They may occur as low or high chroma colours, or both.
+
+The nature of the water table is indicated by the association of low and high chroma colours. If subject to reduction by perched water, the low chroma colours are likely to be at ped or pore surfaces and the high chroma colours are likely to be within the soil matrix. If the soil is subject to reduction by groundwater, the low chroma colours are likely to be within the soil matrix and the high chroma colours are likely to be at ped or pore surfaces. Reducing conditions may also be indicated by the presence of sufficient ferrous iron to give a positive reaction to α,α'-dipyridyl [@childs_field_1981].
 
 ## Reductimorphic Horizon {-#diag-redmh}
 
@@ -380,7 +382,7 @@ A reductimorphic horizon is a horizon strongly affected by reducing conditions a
 
 ## Slowly Permeable Layer {-#diag-slowp}
 
-A slowly permeable layer is one in which the vertical saturated hydraulic conductivity is less than 4 mm/h (1.0 × 10^–6^ m/s) as measured by a standard method. If no measurement is available then the horizon can be identified by the following morphological characteristics (Griffiths 1991):
+A slowly permeable layer is one in which the vertical saturated hydraulic conductivity is less than 4 mm/h (1.0 × 10^–6^ m/s) as measured by a standard method. If no measurement is available then the horizon can be identified by the following morphological characteristics [@griffiths_assessing_1991]:
 
 A slowly permeable layer meets __EITHER__
 
@@ -412,14 +414,14 @@ A horizon with sodic features has significant exchangeable sodium (not necessari
 
 Tephric soil material occurs in or below the soil solum. It includes:
 
-1.  Tephra — unconsolidated, primary pyroclastic products of volcanic eruptions (Froggatt and Lowe 1990) (including ash, cinders, lapilli, pumice, pumice-like vesicular pyroclastics, blocks, or volcanic bombs), and
+1.  Tephra — unconsolidated, primary pyroclastic products of volcanic eruptions [@froggatt_review_1990] (including ash, cinders, lapilli, pumice, pumice-like vesicular pyroclastics, blocks, or volcanic bombs), and
 2.  Tephra deposits — material derived at least partly from tephra that has been reworked and mixed with material from other sources. They include tephric loess, tephric blown sand and volcanogenic alluvium. As a general guide, tephric deposits from andesitic sources have more than 10% volcanic glass in the sand fraction and those from rhyolitic sources have more than 40% volcanic glass in the sand fraction.
 
-Tephric soil material may include soil materials that meet the requirements of [allophanic soil material](#diag-alloph) or [vitric soil material](#diag-vitr). It is used to distinguish soil groups of the Raw Soils and Recent Soils, and parent material classes at soil series level.
+Tephric soil material may include soil materials that meet the requirements of [allophanic soil material](#diag-alloph) or [vitric soil material](#diag-vitr). It is used to distinguish soil groups of the [Raw Soils](#ord-W) and [Recent Soils](#ord-R), and parent material classes at soil series level.
 
 ## Vitric Soil Material {-#diag-vitr}
 
-Vitric soil material (Parfitt 1985) has more than 35% coarse-fraction (2 mm or greater, by volume) of which 60% is pumice or cinders, or there is more than 40% sand of which more than 30% is volcanic glass (or crystals coated with glass) (Eden 1990).
+Vitric soil material [@parfitt_proposed_1984] has more than 35% coarse-fraction (2 mm or greater, by volume) of which 60% is pumice or cinders, or there is more than 40% sand of which more than 30% is volcanic glass (or crystals coated with glass) [@eden_standard_1992].
 
 ## Weathered-B Horizon {-#diag-bw}
 
