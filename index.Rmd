@@ -4,7 +4,8 @@ author: "Alan. E. Hewitt"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [nzsc_reference_list.bib, book.bib]
+bibliography: [nzsc_reference_list_3e.bib, book.bib]
+link-citations: yes
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
