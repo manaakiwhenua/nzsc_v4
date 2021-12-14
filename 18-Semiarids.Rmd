@@ -148,7 +148,7 @@ Other soils.
 
 Argillic Semiarid Soils occur on land surfaces of early Holocene or late Pleistocene age. The argillic horizon is brown, dark brown or olive brown in colour and usually slowly permeable.
 
-#### __SJM__ {-#key-SJ}
+#### __SJM__ {-#key-SJM}
 
 Argillic Semiarid Soils that have a [mottled profile form](#diag-mottpf).
 
