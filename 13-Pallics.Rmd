@@ -23,7 +23,7 @@ Pallic Soils occur predominantly in the seasonally dry eastern part of North and
 7.  _Limited root depth._ Potential rooting depth in most soils is limited by a subsurface horizon of high bulk density at shallow depths or by brittle silty cappings on stones.
 8.  _Strongly worm-mixed._ Topsoils generally have a significant proportion of worm casts and a distinct worm-mixed horizon occurs in the transition from A to B horizons. Topsoil worm activity is greatly reduced during summer periods of soil moisture deficit.
 9.  _High slaking and dispersion potential._ Soil material, particularly in B horizons, is strongly dispersive and will readily slake. Topsoil structures may break down under prolonged impact by heavy machinery or by continuous tillage.
-10.  _Droughty summers, moist winters._ Precipitation ranges from about 500 to 1000 mm per year. A spring surplus of soil water is common but the annual surplus is less than about 200 mm. The average annual deficit is approximately 90–200 mm/year.
+10.  _Droughty summers, moist winters._ Precipitation ranges from about 500 to 1000\ mm per year. A spring surplus of soil water is common but the annual surplus is less than about 200\ mm. The average annual deficit is approximately 90–200\ mm/year.
 11.  _Phosphorus status._ A high proportion of the inorganic phosphorus is non-occluded and a relatively high proportion of total phosphorus is in an organic form.
 12.  _Sulphur status._ Levels of extractable sulphate are low.
 
@@ -154,7 +154,7 @@ Other soils that have an [argillic horizon](#diag-argh).
 
 #### __PPC__ {-#key-PPC}
 
-Other soils that have a horizon that is cemented to the degree that it is at least weakly indurated, within 90 cm of the mineral soil surface.
+Other soils that have a horizon that is cemented to the degree that it is at least weakly indurated, within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Cemented Perch-gley Pallic Soils__ </div>
 
@@ -341,7 +341,7 @@ Other soils that have gravel in which the majority is weathered to the extent th
 
 #### __PJC__ {-#key-PJC}
 
-Other soils that have a [calcareous horizon](#diag-calch) with an upper surface occurring within 90 cm of the mineral soil surface, or occurring within or immediately below the [argillic horizon](#diag-argh).
+Other soils that have a [calcareous horizon](#diag-calch) with an upper surface occurring within 90\ cm of the mineral soil surface, or occurring within or immediately below the [argillic horizon](#diag-argh).
 
 <div style="text-align: right"> __Calcareous Argillic Pallic Soils__ </div>
 
@@ -360,7 +360,7 @@ Immature Pallic Soils are insufficiently developed to have [fragipans](#diag-fpa
 Immature Pallic Soils that have both
 
 1.  a [mottled profile form](#diag-mottpf), _and_
-2.  are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
+2.  are moderately or strongly pedal, with peds 100\ mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
 
 <div style="text-align: right"> __Mottled-pedal Immature Pallic Soils__ </div>
 
@@ -372,13 +372,13 @@ Other soils that have a [mottled profile form](#diag-mottpf).
 
 #### __PIC__ {-#key-PIC}
 
-Other soils that have a [calcareous horizon](#diag-calch) with an upper surface within 90 cm of the mineral soil surface.
+Other soils that have a [calcareous horizon](#diag-calch) with an upper surface within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Calcareous Immature Pallic Soils__ </div>
 
 #### __PID__ {-#key-PID}
 
-Other soils that are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
+Other soils that are moderately or strongly pedal, with peds 100\ mm or less in horizontal diameter, throughout the major part of the B horizon to 60\ cm from the mineral soil surface, or to the base of the B horizon if shallower.
 
 <div style="text-align: right"> __Pedal Immature Pallic Soils__ </div>
 

@@ -14,8 +14,8 @@ Granular Soils are only known to occur in the northern North Island, particularl
 
 ## Accessory Properties of the Order {-#acc-N}
 
-1.  _Moderate activity clay._ CEC is greater than 16 cmol/kg (clay) and ECEC ranges from about 8 to 16 cmol/kg (clay).
-2.  _Parent materials._ The soils are derived predominantly from strongly weathered tephras mostly older than 50 000 years, but also from basaltic and andesitic rocks with possible additions from aeolian material.
+1.  _Moderate activity clay._ CEC is greater than 16\ cmol/kg (clay) and ECEC ranges from about 8 to 16\ cmol/kg (clay).
+2.  _Parent materials._ The soils are derived predominantly from strongly weathered tephras mostly older than 50\ 000 years, but also from basaltic and andesitic rocks with possible additions from aeolian material.
 3.  _Kandic mineralogy._ Granular Soils usually belong to the Kandic mineralogy class.
 4. _Slowly permeable._ Saturated hydraulic conductivity is slow or marginally slow somewhere in the profile, resulting in periods of perching of water.
 5.  _Limited root depth._ The extension of plant roots in subsoils is commonly limited by either high penetration resistance, wetness or aluminium toxicity.
@@ -73,13 +73,13 @@ Granular soils that have _both_
 
 #### __NE__ {-#key-NE}
 
-Other Granular soils that have pH of 5.9 or more in the major part of the B horizon to 60 cm from the mineral soil surface.
+Other Granular soils that have pH of 5.9 or more in the major part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> [__MELANIC GRANULAR SOILS__](#NE) </div>
 
 #### __NX__ {-#key-NX}
 
-Other Granular soils that have a [cutanoxidic horizon](#diag-cutoxh) more than 30 cm thick with an upper boundary at 25 cm or more from the mineral soil surface.
+Other Granular soils that have a [cutanoxidic horizon](#diag-cutoxh) more than 30 cm thick with an upper boundary at 25\ cm or more from the mineral soil surface.
 
 <div style="text-align: right"> [__OXIDIC GRANULAR SOILS__](#NX) </div>
 
@@ -97,13 +97,13 @@ Perch-gley Granular Soils occur in sites that are periodically saturated (if und
 
 #### __NPX__ {-#key-NPX}
 
-Perch-gley Granular Soils that have a [cutanoxidic horizon](#diag-cutoxh) more than 30 cm thick with an upper boundary below 25 cm from the mineral soil surface.
+Perch-gley Granular Soils that have a [cutanoxidic horizon](#diag-cutoxh) more than 30\ cm thick with an upper boundary below 25\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Oxidic Perch-gley Granular Soils__ </div>
 
 #### __NPA__ {-#key-NPA}
 
-Other soils that have pH 5.1 or less in some part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH 5.1 or less in some part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Acidic Perch-gley Granular Soils__ </div>
 
@@ -125,7 +125,7 @@ Melanic Granular Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __NEL__ {-#key-NEL}
 
-Soils that have a horizon that is 10 cm or more thick within 60 cm of the mineral soil surface that meets all the requirements of [allophanic soil material](#diag-alloph), but not necessarily the requirement for bulk density.
+Soils that have a horizon that is 10 cm or more thick within 60\ cm of the mineral soil surface that meets all the requirements of [allophanic soil material](#diag-alloph), but not necessarily the requirement for bulk density.
 
 <div style="text-align: right"> __Allophanic Melanic Granular Soils__ </div>
 
@@ -144,7 +144,7 @@ Oxidic Granular Soils have low ECEC (marginal to [Oxidic Soils](#X)), have low f
 Oxidic Granular Soils that have _both_
 
 1.  a [mottled profile form](#diag-mottpf), _and_
-2.  pH of less than 5.1 in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  pH of less than 5.1 in some part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Mottled-acidic Oxidic Granular Soils__ </div>
 
@@ -156,13 +156,13 @@ Other soils that have a [mottled profile form](#diag-mottpf).
 
 #### __NXL__ {-#key-NXL}
 
-Other soils that have a layer that meets the requirements of [allophanic soil material](#diag-alloph) except for bulk density, and is 10 cm or more thick, within 60 cm of the mineral soil surface.
+Other soils that have a layer that meets the requirements of [allophanic soil material](#diag-alloph) except for bulk density, and is 10\ cm or more thick, within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Allophanic Oxidic Granular Soils__ </div>
 
 #### __NXA__ {-#key-NXA}
 
-Other soils that have pH of less than 5.1 in some part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH of less than 5.1 in some part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Acidic Oxidic Granular Soils__ </div>
 
@@ -181,7 +181,7 @@ Orthic Granular Soils are well, moderately well or imperfectly drained soils tha
 Orthic Granular Soils that have _both_
 
 1.  a [mottled profile form](#diag-mottpf), _and_
-2.  pH of less than 5.1 in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  pH of less than 5.1 in some part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Mottled-acidic Orthic Granular Soils__ </div>
 
@@ -193,13 +193,13 @@ Other soils that have a [mottled profile form](#diag-mottpf).
 
 #### __NOL__ {-#key-NOL}
 
-Other soils that have a layer that meets the requirements of [allophanic soil material](#diag-alloph) except for bulk density, and is 10 cm or more thick within 60 cm of the mineral soil surface.
+Other soils that have a layer that meets the requirements of [allophanic soil material](#diag-alloph) except for bulk density, and is 10\ cm or more thick within 60 cm of the mineral soil surface.
 
 <div style="text-align: right"> __Allophanic Orthic Granular Soils__ </div>
 
 #### __NOA__ {-#key-NOA}
 
-Other soils that have pH of less than 5.1 in the major part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH of less than 5.1 in the major part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Acidic Orthic Granular Soils__ </div>
 

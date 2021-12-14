@@ -71,7 +71,7 @@ Pumice Soils that have _both_
 
 #### __MI__ {-#key-MI}
 
-Other Pumic Soils that have a [slowly permeable layer](#diag-slowp), or a compacted welded layer that has brittle failure and no roots, within 90 cm of the mineral soil surface.
+Other Pumic Soils that have a [slowly permeable layer](#diag-slowp), or a compacted welded layer that has brittle failure and no roots, within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> [__IMPEDED PUMICE SOILS__](#MI) </div>
 
@@ -89,7 +89,7 @@ Perch-gley Pumice Soils occur in periodically saturated sites (unless artificial
 
 #### __MPU__ {-#key-MPU}
 
-Perch-gley Pumice Soils with a [duric horizon](#diag-dpan) within 90 cm of the mineral soil surface.
+Perch-gley Pumice Soils with a [duric horizon](#diag-dpan) within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Duric Perch-gley Pumice Soils__ </div>
 
@@ -107,14 +107,14 @@ Impeded Pumice Soils have a horizon that severely restricts the movement of wate
 
 Impeded Pumice Soils that have both
 
-1.  a compact welded layer of flow tephra (ignimbrite) that has brittle failure and no roots with an upper boundary within 90 cm of the mineral soil surface, _and_
+1.  a compact welded layer of flow tephra (ignimbrite) that has brittle failure and no roots with an upper boundary within 90\ cm of the mineral soil surface, _and_
 2.  a [mottled profile form](#diag-mottpf).
 
 <div style="text-align: right"> __Mottled-welded Impeded Pumice Soils__ </div>
 
 #### __MIW__ {-#key-MIW}
 
-Other soils that have a compact welded layer of flow tephra (ignimbrite) that has brittle failure and no roots with an upper boundary within 90 cm of the mineral soil surface.
+Other soils that have a compact welded layer of flow tephra (ignimbrite) that has brittle failure and no roots with an upper boundary within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Welded Impeded Pumice Soils__ </div>
 
@@ -142,7 +142,7 @@ Orthic Pumice Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __MOZ__ {-#key-MOZ}
 
-Other soils that have a B horizon, or subhorizon of the B, that is thicker than 20 cm and has hue 7.5YR or more.
+Other soils that have a B horizon, or subhorizon of the B, that is thicker than 20\ cm and has hue 7.5YR or more.
 
 <div style="text-align: right"> __Podzolic Orthic Pumice Soils__ </div>
 
@@ -154,13 +154,13 @@ Other soils that have a layer within the thickness of [vitric soil material](#di
 
 #### __MOBL__ {-#key-MOBL}
 
-Other soils with a layer of [vitric soil material](#diag-vitr) with a base at less than 60 cm from the mineral soil surface and within the B horizon, that overlies a layer which fails to meet the requirements of a vitric soil material but meets the requirements of [allophanic soil material](#diag-alloph) (except bulk density).
+Other soils with a layer of [vitric soil material](#diag-vitr) with a base at less than 60\ cm from the mineral soil surface and within the B horizon, that overlies a layer which fails to meet the requirements of a vitric soil material but meets the requirements of [allophanic soil material](#diag-alloph) (except bulk density).
 
 <div style="text-align: right"> __Buried-allophanic Orthic Pumice Soils__ </div>
 
 #### __MOI__ {-#key-MOI}
 
-Other soils with a Bw that is 30 cm or less thick and has hue 10YR or yellower and chroma 4 or more.
+Other soils with a Bw that is 30\ cm or less thick and has hue 10YR or yellower and chroma 4 or more.
 
 <div style="text-align: right"> __Immature Orthic Pumice Soils__ </div>
 

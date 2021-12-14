@@ -60,7 +60,7 @@ ft_W
 
 #### __WG__ {-#key-WG}
 
-Raw Soils that at 30 cm or less from the mineral soil surface have either
+Raw Soils that at 30\ cm or less from the mineral soil surface have either
 
   1.  the upper boundary of a [reductimorphic horizon](#diag-redmh), _or_
   2.  sufficient active ferrous iron to give a positive reaction to α,α'-dipyridyl at some time in the year, _or_
@@ -70,31 +70,31 @@ Raw Soils that at 30 cm or less from the mineral soil surface have either
 
 #### __WH__ {-#key-WH}
 
-Other Raw Soils that have mean annual soil temperature at 30 cm depth of at least 2.5°C more than the mean annual air temperature.
+Other Raw Soils that have mean annual soil temperature at 30\ cm depth of at least 2.5°C more than the mean annual air temperature.
 
 <div style="text-align: right"> [__HYDROTHERMAL RAW SOILS__](#WH) </div>
 
 #### __WX__ {-#key-WX}
 
-Other Raw Soils with a [lithic](#diag-lithc) or [paralithic contact](#diag-lithp) within 30 cm of the soil surface.
+Other Raw Soils with a [lithic](#diag-lithc) or [paralithic contact](#diag-lithp) within 30\ cm of the soil surface.
 
 <div style="text-align: right"> [__ROCKY RAW SOILS__](#WX) </div>
 
 #### __WS__ {-#key-WS}
 
-Other Raw Soils that have sand or loamy sand texture and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60 cm depth or more.
+Other Raw Soils that have sand or loamy sand texture and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60\ cm depth or more.
 
 <div style="text-align: right"> [__SANDY RAW SOILS__](#WS) </div>
 
 #### __WF__ {-#key-WF}
 
-Other Raw Soils that have [fluvial features](#diag-fluv) and are not buried by more than 30 cm of non­fluvial soil material.
+Other Raw Soils that have [fluvial features](#diag-fluv) and are not buried by more than 30\ cm of non­fluvial soil material.
 
 <div style="text-align: right"> [__FLUVIAL RAW SOILS__](#WF) </div>
 
 #### __WT__ {-#key-WT}
 
-Other Raw Soils in [tephric soil material](#diag-teph) from the soil surface to 30 cm depth or more.
+Other Raw Soils in [tephric soil material](#diag-teph) from the soil surface to 30\ cm depth or more.
 
 <div style="text-align: right"> [__TEPHRIC RAW SOILS__](#WT) </div>
 
@@ -114,8 +114,8 @@ Gley Raw Soils occur in sites that are periodically or permanently flooded. Wetn
 
 Soils that have both
 
-1.  moderately fluid or very fluid fluidity class at a depth of 30 cm or less, _and_
-2.  pH more than 4.0 and pH in boiling hydrogen peroxide less than 3.0, in some horizon at less than 90 cm from the mineral soil surface.
+1.  moderately fluid or very fluid fluidity class at a depth of 30\ cm or less, _and_
+2.  pH more than 4.0 and pH in boiling hydrogen peroxide less than 3.0, in some horizon at less than 90\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Fluid-sulphidic Gley Raw Soils__ </div>
 
@@ -130,25 +130,25 @@ Other soils that have pH more than 4.0 and pH in boiling hydrogen peroxide less 
 Other soils that within 30 cm of the mineral soil surface have both
 
 1.  moderately fluid or very fluid fluidity class, _and_
-2.  electrical conductivity of 0.8 mS/cm.
+2.  electrical conductivity of 0.8\ mS/cm.
 
 <div style="text-align: right"> __Fluid-saline Gley Raw Soils__ </div>
 
 #### __WGQ__ {-#key-WGQ}
 
-Other soils that within 30 cm of the mineral soil surface have electrical conductivity of 0.8 mS/cm or more.
+Other soils that within 30\ cm of the mineral soil surface have electrical conductivity of 0.8\ mS/cm or more.
 
 <div style="text-align: right"> __Saline Gley Raw Soils__ </div>
 
 #### __WGF__ {-#key-WGF}
 
-Other soils that within 30 cm of the mineral soil surface have moderately fluid or very fluid fluidity class.
+Other soils that within 30\ cm of the mineral soil surface have moderately fluid or very fluid fluidity class.
 
 <div style="text-align: right"> __Fluid Gley Raw Soils__ </div>
 
 #### __WGS__ {-#key-WGS}
 
-Other soils that have sand or loamy sand texture  and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60 cm depth or more.
+Other soils that have sand or loamy sand texture  and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60\ cm depth or more.
 
 <div style="text-align: right"> __Sandy Gley Raw Soils__ </div>
 

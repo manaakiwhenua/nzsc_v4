@@ -77,32 +77,32 @@ ft_R
 
 Recent soils that have either
 
-1.  mean annual soil temperature at 30 cm from the mineral soil surface of at least 2.5°C more than the mean annual air temperature, or
-2.  pH of 4.8 or less in some part of a subsurface horizon at less than 60 cm from the mineral soil surface.
+1.  mean annual soil temperature at 30\ cm from the mineral soil surface of at least 2.5°C more than the mean annual air temperature, or
+2.  pH of 4.8 or less in some part of a subsurface horizon at less than 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> [__HYDROTHERMAL RECENT SOILS__](#RH) </div>
 
 #### __RX__ {-#key-RX}
 
-Other Recent Soils that have a lithic or paralithic contact either directly beneath the A horizon or have a weathered-B or unconsolidated C horizon that is less than 10 cm thick.
+Other Recent Soils that have a [lithic](#diag-lithc) or [paralithic contact](#diag-plith) either directly beneath the A horizon or have a weathered-B or unconsolidated C horizon that is less than 10\ cm thick.
 
 <div style="text-align: right"> [__ROCKY RECENT SOILS__](#RX) </div>
 
 #### __RS__ {-#key-RS}
 
-Other Recent Soils that are have sand or loamy sand texture and have less than 35% (by volume) gravel, in all horizons between the base of the A horizon and 60 cm from the mineral soil surface. Lamellae of sandy loam (of insufficient thickness to meet the requirements of an argillic horizon) may be present.
+Other Recent Soils that are have sand or loamy sand texture and have less than 35% (by volume) gravel, in all horizons between the base of the A horizon and 60\ cm from the mineral soil surface. Lamellae of sandy loam (of insufficient thickness to meet the requirements of an argillic horizon) may be present.
 
 <div style="text-align: right"> [__SANDY RECENT SOILS__](#RS) </div>
 
 #### __RF__ {-#key-RF}
 
-Other Recent Soils that have fluvial features and are not buried by more than 30 cm of non-fluvial soil material.
+Other Recent Soils that have fluvial features and are not buried by more than 30\ cm of non-fluvial soil material.
 
 <div style="text-align: right"> [__FLUVIAL RECENT SOILS__](#RF) </div>
 
 #### __RT__ {-#key-RT}
 
-Other Recent Soils in tephric soil material from the mineral soil surface to 30 cm depth or more.
+Other Recent Soils in tephric soil material from the mineral soil surface to 30\ cm depth or more.
 
 <div style="text-align: right"> [__TEPHRIC RECENT SOILS__](#RT) </div>
 
@@ -130,13 +130,13 @@ Rocky Recent Soils have rock at shallow depths, severely restricting the soil vo
 
 #### __RXOA__ {-#key-RXOA}
 
-Rocky Recent Soils that have a [peaty topsoil](#diag-pts) and a pH less than 5.5 in some part below 20 cm from the mineral soil surface.
+Rocky Recent Soils that have a [peaty topsoil](#diag-pts) and a pH less than 5.5 in some part below 20\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Peaty-acidic Rocky Recent Soils__ </div>
 
 #### __RXA__ {-#key-RXA}
 
-Other soils that have pH less than 5.5 in some part below 20 cm from the mineral soil surface. 
+Other soils that have pH less than 5.5 in some part below 20\ cm from the mineral soil surface. 
 
 <div style="text-align: right"> __Acidic Rocky Recent Soils__ </div>
 
@@ -158,13 +158,13 @@ Sandy Recent Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __RSA__ {-#key-RSA}
 
-Other soils that have pH less than 5.5 in some part between 20 and 60 cm from the mineral soil surface. 
+Other soils that have pH less than 5.5 in some part between 20 and 60\ cm from the mineral soil surface. 
 
 <div style="text-align: right"> __Acidic Sandy Recent Soils__ </div>
 
 #### __RSK__ {-#key-RSK}
 
-Other soils in [tephric soil material](#diag-teph) from the mineral soil surface to 30 cm depth or more.
+Other soils in [tephric soil material](#diag-teph) from the mineral soil surface to 30\ cm depth or more.
 
 <div style="text-align: right"> __Tephric Sandy Recent Soils__ </div>
 
@@ -183,7 +183,7 @@ Fluvial Recent Soils occur in sediments deposited by flowing water. Many occur o
 Fluvial Recent Soils that have both
 
 1.  a [mottled profile form](#diag-mottpf), _and_
-2.  pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
+2.  pH less than 5.5 in some part between the base of the A horizon and within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Mottled-acidic Fluvial Recent Soils__ </div>
 
@@ -192,13 +192,13 @@ Fluvial Recent Soils that have both
 Other soils that have both
 
 1.  a [mottled profile form](#diag-mottpf), _and_
-2.  have electrical conductivity of 0.8 mS/cm or more within 60 cm of the mineral soil surface at some time of the year.
+2.  have electrical conductivity of 0.8\ mS/cm or more within 60\ cm of the mineral soil surface at some time of the year.
 
 <div style="text-align: right"> __Mottled-saline Fluvial Recent Soils__ </div>
 
 #### __RFQ__ {-#key-RFQ}
 
-Other soils that have electrical conductivity of 0.8 mS/ cm or more within 60 cm of the mineral soil surface at some time of the year.
+Other soils that have electrical conductivity of 0.8\ mS/cm or more within 60\ cm of the mineral soil surface at some time of the year.
 
 <div style="text-align: right"> __Saline Fluvial Recent Soils__ </div>
 
@@ -207,7 +207,7 @@ Other soils that have electrical conductivity of 0.8 mS/ cm or more within 60 cm
 Other soils that have both
 
 1.  a [mottled profile form](#diag-mottpf), _and_
-2.  a [weathered-B horizon](#diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface.
+2.  a [weathered-B horizon](#diag-bw) with its lower boundary at 30\ cm or more from the mineral soil surface.
 
 <div style="text-align: right"> __Mottled-weathered Fluvial Recent Soils__ </div>
 
@@ -221,20 +221,20 @@ Other soils that have a [mottled profile form](#diag-mottpf).
 
 Other soils that have both
 
-1.  a [weathered-B horizon](#diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface, _and_
-2.  pH less than 5.5 in some part of the subsurface horizons within 60 cm of the mineral soil surface.
+1.  a [weathered-B horizon](#diag-bw) with its lower boundary at 30\ cm or more from the mineral soil surface, _and_
+2.  pH less than 5.5 in some part of the subsurface horizons within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Acidic-weathered Fluvial Recent Soils__ </div>
 
 #### __RFW__ {-#key-RFW}
 
-Other soils that have a [weathered-B horizon](#diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface.
+Other soils that have a [weathered-B horizon](#diag-bw) with its lower boundary at 30\ cm or more from the mineral soil surface.
 
 <div style="text-align: right"> __Weathered Fluvial Recent Soils__ </div>
 
 #### __RFA__ {-#key-RFA}
 
-Other soils that have pH less than 5.5 in some part of subsurface horizons within 60 cm of the mineral soil surface.
+Other soils that have pH less than 5.5 in some part of subsurface horizons within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Acidic Fluvial Recent Soils__ </div>
 
@@ -256,15 +256,15 @@ Tephric Recent Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __RTBP__ {-#key-RTBP}
 
-Other soils that have a buried soil, with its upper surface within 60 cm or less from the mineral soil surface that has a B horizon that meets the requirements of [vitric soil material](#diag-vitr).
+Other soils that have a buried soil, with its upper surface within 60\ cm or less from the mineral soil surface that has a B horizon that meets the requirements of [vitric soil material](#diag-vitr).
 
 <div style="text-align: right"> __Buried-pumice Tephric Recent Soils__ </div>
 
 #### __RTBL__ {-#key-RTBL}
 
-Other soils that have a buried soil within 60 cm or less from the mineral soil surface to the upper surface of the buried soil, and have a B horizon that meets the requirements of [allophanic soil material](#diag-alloph), but not necessarily the requirements for bulk density.
+Other soils that have a buried soil within 60\ cm or less from the mineral soil surface to the upper surface of the buried soil, and have a B horizon that meets the requirements of [allophanic soil material](#diag-alloph), but not necessarily the requirements for bulk density.
 
-<div style="text-align: right">__Buried-allophanic Tephric Recent Soils__ </div>
+<div style="text-align: right"> __Buried-allophanic Tephric Recent Soils__ </div>
 
 #### __RTT__ {-#key-RTT}
 
@@ -295,20 +295,20 @@ Orthic Recent Soils that have a [mottled profile form](#diag-mottpf).
 
 Other soils that have _both_
 
-1.  a [weathered-B horizon](#diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface, _and_
-2.  pH less than 5.5 in some part of the subsurface horizons within 60 cm of the mineral soil surface.
+1.  a [weathered-B horizon](#diag-bw) with its lower boundary at 30\ cm or more from the mineral soil surface, _and_
+2.  pH less than 5.5 in some part of the subsurface horizons within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Acidic-weathered Orthic Recent Soils__ </div>
 
 #### __ROW__ {-#key-ROW}
 
-Other soils that have a [weathered-B horizon](#diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface.
+Other soils that have a [weathered-B horizon](#diag-bw) with its lower boundary at 30\ cm or more from the mineral soil surface.
 
 <div style="text-align: right"> __Weathered Orthic Recent Soils__ </div>
 
 #### __ROA__ {-#key-ROA}
 
-Other soils that have pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
+Other soils that have pH less than 5.5 in some part between the base of the A horizon and within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Acidic Orthic Recent Soils__ </div>
 

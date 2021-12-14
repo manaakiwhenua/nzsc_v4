@@ -10,7 +10,7 @@ The order comprises brown-grey earths, associated steepland soils and intergrade
 
 ## Occurrence {-#occ-S}
 
-Semiarid Soils occur in the inland basins of Otago and southern Canterbury, where precipitation is less than about 500 mm per year.
+Semiarid Soils occur in the inland basins of Otago and southern Canterbury, where precipitation is less than about 500\ mm per year.
 
 ## Accessory Properties of the Order {-#acc-S}
 
@@ -27,7 +27,7 @@ Semiarid Soils occur in the inland basins of Otago and southern Canterbury, wher
 11.  _Weakly buffered._ The soils are weakly buffered because of low CEC and anion adsorption capacity. They are consequently very sensitive to management, showing rapid changes in response to fertilisation, irrigation and cultivation.
 12.  _Soluble salts._ Soluble salts are present in many soils and land management must consider the risk of salinisation.
 13.  _High sodium._ Many soils, particularly those with [argillic horizons](#diag-argh) have high percentage sodium saturation of the exchange complex.
-14.  _Climate._ Precipitation ranges from about 350 to 500 mm per year, with zero water surplus and a spring soil moisture deficit.
+14.  _Climate._ Precipitation ranges from about 350 to 500\ mm per year, with zero water surplus and a spring soil moisture deficit.
 
 ## Summary of Semiarid Soils Hierarchy {-#sum-S}
 
@@ -112,13 +112,13 @@ Other soils in which the majority of the gravel is weathered to the extent that 
 
 #### __SAK__ {-#key-SAK}
 
-Other soils that have pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
+Other soils that have pH of 8.6 or more in some part within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Alkaline Aged-argillic Semiarid Soils__ </div>
 
 #### __SAH__ {-#key-SAH}
 
-Other soils with an [argillic horizon](#diag-argh) 30 cm or more thick.
+Other soils with an [argillic horizon](#diag-argh) 30\ cm or more thick.
 
 <div style="text-align: right"> __Thick Aged-argillic Semiarid Soils__ </div>
 
@@ -134,7 +134,7 @@ Solonetzic Semiarid Soils have a higher proportion of exchangeable sodium than o
 
 #### __SZQ__{-#key-SZQ}
 
-Solonetzic Semiarid Soils that have electrical conductivity of 0.8 mS/cm or more within 60 cm of the mineral soil surface at some time of the year.
+Solonetzic Semiarid Soils that have electrical conductivity of 0.8\ mS/cm or more within 60\ cm of the mineral soil surface at some time of the year.
 
 <div style="text-align: right"> __Saline Solonetzic Semiarid Soils__ </div>
 
@@ -156,13 +156,13 @@ Argillic Semiarid Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __SJQ__ {-#key-SJQ}
 
-Other soils that have electrical conductivity of 0.8 mS/cm or more within 60 cm of the mineral soil surface at some time of the year.
+Other soils that have electrical conductivity of 0.8\ mS/cm or more within 60\ cm of the mineral soil surface at some time of the year.
 
 <div style="text-align: right"> __Saline Argillic Semiarid Soils__ </div>
 
 #### __SJK__ {-#key-SJK}
 
-Other soils that have pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
+Other soils that have pH of 8.6 or more in some part within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Alkaline Argillic Semiarid Soils__ </div>
 
@@ -190,13 +190,13 @@ Immature Semiarid Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __SIQ__{-#key-SIQ}
 
-Soils that have a horizon with electrical conductivity of 0.8 mS/ cm or more within 60 cm of the mineral soil surface at some time of the year.
+Soils that have a horizon with electrical conductivity of 0.8\ mS/cm or more within 60\ cm of the mineral soil surface at some time of the year.
 
 <div style="text-align: right"> __Saline Immature Semiarid Soils__ </div>
 
 #### __SIK__{-#key-SIK}
 
-Other soils that have pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
+Other soils that have pH of 8.6 or more in some part within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Alkaline Immature Semiarid Soils__ </div>
 

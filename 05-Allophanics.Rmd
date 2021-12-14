@@ -15,10 +15,10 @@ Allophanic Soils occur predominantly in North Island volcanic ash, and in the we
 ## Accessory Properties of the Order {-#acc-L}
 
 1.  _Short-range-order minerals._ The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, imogolite and ferrihydrite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurement is difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
-2.  _Low bases._ Sum of bases are low to very low and range from less than 1 to 10 cmol/100 g  in subsoils and unfertilised topsoils.
+2.  _Low bases._ Sum of bases are low to very low and range from less than 1 to 10\ cmol/100 g  in subsoils and unfertilised topsoils.
 3.  _Volcanic or greywacke parent materials._ Predominantly in andesitic, rhyolitic or mixed tephra, they also occur in soil materials from sandstone (greywacke) of humid uplands and high country and basalt scoria or pumice.
 4.  _Rapidly weatherable minerals._ Volcanic glass and feldspar dominate the sand fractions of soils in igneous parent materials, and are the primary source of the short-range-order minerals. Feldspars are most likely the primary source in non-igneous parent materials. Typically they have an Amorphic mineralogy class.
-5.  _Rapid permeability and high water retention._ The macroporosity is very high and rapid drainage occurs at low soil moisture tensions. Water contents at 1500 kPa soil moisture tension are very high.
+5.  _Rapid permeability and high water retention._ The macroporosity is very high and rapid drainage occurs at low soil moisture tensions. Water contents at 1500\ kPa soil moisture tension are very high.
 6.  _Well drained._ Although poorly, imperfectly and moderately well drained soils occur, well drained soils are predominant.
 7.  _Good rooting medium._ Bulk density is very low and there is little resistance to root extension. In many soils the potential rooting depth is very deep.
 8.  _Active soil fauna._ Microbial biomass is generally high.
@@ -74,7 +74,7 @@ ft_L
 Allophanic Soils that have both
 
 1.  [Perch-gley features](#diag-pgley), _and_
-2. Either a [peaty topsoil](#diag-pts), or within 15 cm of the base of the A horizon or 30 cm of the mineral soil surface, have 
+2. Either a [peaty topsoil](#diag-pts), or within 15\ cm of the base of the A horizon or 30\ cm of the mineral soil surface, have 
     (a)  a [reductimorphic horizon](#diag-redmh), _or_
     (b)  a [redox-mottled horizon](#diag-roxh) if the parent material is predominantly andesitic or basaltic.
 
@@ -82,7 +82,7 @@ Allophanic Soils that have both
 
 #### __LG__ {-#key-LG}
 
-Other Allophanic Soils that have a [peaty topsoil](#diag-pts), or within 15 cm of the base of the A horizon or 30 cm of the mineral soil surface, have either 
+Other Allophanic Soils that have a [peaty topsoil](#diag-pts), or within 15\ cm of the base of the A horizon or 30\ cm of the mineral soil surface, have either 
 
 1.  a [reductimorphic horizon](#diag-redmh), ___or___
 2.  a [redox-mottled horizon](#diag-roxh) if the parent material is predominantly andesitic or basaltic.
@@ -91,7 +91,7 @@ Other Allophanic Soils that have a [peaty topsoil](#diag-pts), or within 15 cm o
   
 #### __LI__ {-#key-LI}
 
-Other Allophanic Soils that have a [slowly permeable layer](#diag-slowp), or horizon that is at least weakly indurated, within 90 cm of the mineral soil surface.
+Other Allophanic Soils that have a [slowly permeable layer](#diag-slowp), or horizon that is at least weakly indurated, within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> [__IMPEDED ALLOPHANIC SOILS__](#LI) </div>
 
@@ -111,7 +111,7 @@ Perch-gley Allophanic Soils occur in sites that are periodically saturated (unle
 
 #### __LPI__ {-#key-LPI}
 
-Perch-gley Allophanic Soils that have an [ironstone-pan](#diag-ipan) within 90 cm of the mineral soil surface.
+Perch-gley Allophanic Soils that have an [ironstone-pan](#diag-ipan) within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Ironstone Perch-gley Allophanic Soils__ </div>
 
@@ -143,7 +143,7 @@ Impeded Allophanic Soils have a subsurface horizon that acts as a barrier to the
 
 #### __LIMI__ {-#key-LIMI}
 
-Impeded Allophanic Soils that have an ironstone-pan within 90 cm of the mineral soil surface and that have a mottled profile form.
+Impeded Allophanic Soils that have an ironstone-pan within 90\ cm of the mineral soil surface and that have a mottled profile form.
 
 <div style="text-align: right"> __Mottled-ironstone Impeded Allophanic Soils__ </div>
 
@@ -187,10 +187,10 @@ Other soils in which [allophanic soil material](#diag-alloph) layers are formed 
 
 #### __LOA__ {-#key-LOA}
 
-Other soils that have, in some part of the B horizon to 60 cm from the mineral soil surface, _either_
+Other soils that have, in some part of the B horizon to 60\ cm from the mineral soil surface, _either_
 
 1.  coatings on pores (excluding root linings), or gel-like masses bridging sand grains or coating coarse-fragments, that have hue 7.5YR or redder, value 5 or less and chroma 3 or more, _or_
-2.  pH less than 5.5 in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  pH less than 5.5 in some part of the B horizon to 60\ cm from the mineral soil surface.
 
 <div style="text-align: right"> __Acidic Orthic Allophanic Soils__ </div>
 

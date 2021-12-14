@@ -14,10 +14,10 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 
 ## Accessory Properties of the Order {-#acc-U}
 
-1.  _Acidity._ KCl-extractable aluminium levels of more than 1 cmol(+)/ kg are usual in B horizons, and indicate toxic aluminium which may inhibit root function and may contribute to shallow rooting habits in aluminium-sensitive plants.
+1.  _Acidity._ KCl-extractable aluminium levels of more than 1\ cmol(+)/kg are usual in B horizons, and indicate toxic aluminium which may inhibit root function and may contribute to shallow rooting habits in aluminium-sensitive plants.
 2.  _Clayey subsoils._ CEC values are medium to high. Ultic Soils cover a wide range of mineralogy classes, Kandic and Smectitic being the most common.
 3.  _Low Kc and Mgr._ Low concentrations of reserve magnesium and potassium resulting from strong weathering.
-4.  _Strongly weathered with low nutrient reserves._ Low levels of 0.5M H~2~SO~4~^-^ extractable phosphorus (usually less than 3 mg/100 g) and total phosphorus (usually less than 20 mg/100 g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of 0.5M H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
+4.  _Strongly weathered with low nutrient reserves._ Low levels of 0.5M\ H~2~SO~4~^-^ extractable phosphorus (usually less than 3\ mg/100\ g) and total phosphorus (usually less than 20\ mg/100\ g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of 0.5M\ H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
 5.  _Slow permeability._ A slowly permeable layer occurs in clayey profiles. The majority of soils are imperfectly to poorly drained, few are well-drained. Soil water movement is mainly along planar voids.
 6.  _Susceptibility to livestock treading damage._ Clayey or low strength silty surface horizons are susceptible to treading damage or compaction during wet periods.
 7.  _Dispersible surface horizons._ Surface horizons, especially silty ones, are dispersible according to the test of McQueen (1981), and are prone to erosion where the surface cover has been removed. Although P retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
@@ -67,7 +67,7 @@ ft_U
 
 #### __UD__ {-#key-UD}
 
-Ultic Soils that have a [densipan](#diag-dpan) (Ed horizon)
+Ultic Soils that have a [densipan](#diag-dens) (Ed horizon)
 
 <div style="text-align: right"> [__DENSIPAN ULTIC SOILS__](#UD) </div>
 
@@ -147,7 +147,7 @@ Soils that have more than 60% sand in the B horizon.
 
 #### __UPT__ {-#key-UPT}
 
-Other soils that have a [reductimorphic horizon](#diag-redmh) with an upper boundary within either 15 cm of the base of the A horizon, or 30 cm of the mineral soil surface.
+Other soils that have a [reductimorphic horizon](#diag-redmh) with an upper boundary within either 15\ cm of the base of the A horizon, or 30\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Typic Perch-gley Ultic Soils__ </div>
 
@@ -182,7 +182,7 @@ Yellow Ultic Soils are clayey and lack [densipans](#diag-dens) or thick E horizo
 Soils that have either
 
 1.  5% (by volume) or more gravel that consists mainly of ultramafic rocks, _or_
-2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5\ cmol/kg or more in some part of the B horizon to 60\ cm from the mineral soil surface.
   
 <div style="text-align: right"> __Magnesic Yellow Ultic Soils__ </div>
 
@@ -211,7 +211,7 @@ Other soils that have pH of 4.8 or less in the E horizon (if present) or upper s
 
 Other soils that have both
 
-1.  silt loam or silty clay texture dominant from the soil surface to a depth of 60 cm, _and_
+1.  silt loam or silty clay texture dominant from the soil surface to a depth of 60\ cm, _and_
 2. is underlain by a texture contrast to clay horizons that have colour values of 4 or less.
   
 <div style="text-align: right"> __Buried-granular Yellow Ultic Soils__ </div>

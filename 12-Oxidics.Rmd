@@ -2,7 +2,7 @@
 
 ## Concept of the Order {-#con-X}
 
-Oxidic Soils contain low-activity phyllosilicate clays and secondary oxides which give rise to variable charge properties. They form in the clayey weathering products of basic rocks. The soils have a fine or very fine polyhedral fabric with friable failure to stable microaggregates of 2 mm or less, and low plasticity in relation to clay content. Surface horizons are clayey, and an increase in clay content occurs with depth although clay illuvial features are generally not apparent.
+Oxidic Soils contain low-activity phyllosilicate clays and secondary oxides which give rise to variable charge properties. They form in the clayey weathering products of basic rocks. The soils have a fine or very fine polyhedral fabric with friable failure to stable microaggregates of 2\ mm or less, and low plasticity in relation to clay content. Surface horizons are clayey, and an increase in clay content occurs with depth although clay illuvial features are generally not apparent.
 
 ## Correlation {-#cor-X}
 
@@ -14,7 +14,7 @@ Oxidic Soils are only known to occur in the Auckland and Northland regions.
 
 ## Accessory Properties of the Order {-#acc-X}
 
-1.  _Low-activity clay._ CEC is low at field pH. ECEC is less than 12 cmol/kg (clay), and CEC less than 16 cmol/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic.
+1.  _Low-activity clay._ CEC is low at field pH. ECEC is less than 12\ cmol/kg (clay), and CEC less than 16 cmol/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic.
 2.  _High phosphate retention._ P-retention ranges from 60 to 90%. High sulphate adsorption occurs in B horizons.
 3.  _Parent materials._ The soils are derived from andesites, dolerites and basalts of Tertiary to Upper Cretaceous age.
 4.  _Limited root depth._ The extension of plant roots is limited by high dry bulk density and high penetration resistance, particularly in well drained soils. Plant root depths are shallow to medium.
@@ -66,7 +66,7 @@ Oxidic soils Soils that have both
 
 #### __XN__ {-#key-XN}
 
-Other Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
+Other Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper boundary within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> [__NODULAR OXIDIC SOILS__](#XN) </div>
 
@@ -80,11 +80,11 @@ Other Oxidic Soils.
 
 ### __XP__ - PERCH-GLEY OXIDIC SOILS {-#XP}
 
-Perch-gley Oxidic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by grey colours, and are caused by perching on a slowly permeable layer.
+Perch-gley Oxidic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by grey colours, and are caused by perching on a [slowly permeable layer](#diag-slowp).
 
 #### __XPN__ {-#key-XPN}
 
-Perch-gley Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
+Perch-gley Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper boundary within 60\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Nodular Perch-gley Oxidic Soils__ </div>
 
@@ -116,10 +116,10 @@ Orthic Oxidic Soils that have a [mottled profile form](#diag-mottpf).
 
 #### __XOB__ {-#key-XOB}
 
-Other soils that have within 90 cm of the mineral soil surface, _either_
+Other soils that have within 90\ cm of the mineral soil surface, _either_
 
 1.  a clay decrease with depth of more than one-fifth of the clay percentage of the horizon with maximum clay, or
-2.  more than 5% weathered gravel, within 90 cm of the mineral soil surface.
+2.  more than 5% weathered gravel, within 90\ cm of the mineral soil surface.
 
 <div style="text-align: right"> __Brown Orthic Oxidic Soils__ </div>
 
