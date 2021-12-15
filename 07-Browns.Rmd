@@ -21,7 +21,7 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 5.  _Good Drainage._ No poorly drained or very poorly drained soils are included. Macroporosity is generally moderate (10–14%) except in subsurface horizons of [Firm Brown Soils](#BF).
 6.  _Biologically active._ Except in soils that are limited by coldness or acidity, cast spheroidal peds are common in topsoils and C/N ratios are moderate to low. The roots of native plants penetrate deeply.
 7.  _Relatively stable topsoils._ Aggregates are not readily dispersed.
-8.  _Moist climate or low available-water capacity._ Most soils occur in areas with mean annual precipitation more than 1000 mm. Others have low available-water capacity (usually less than 75\ mm as in some Stony Brown Soils and [Sandy Brown Soils](#BS)), or are in sites with low evapotranspiration.
+8.  _Moist climate or low available-water capacity._ Most soils occur in areas with mean annual precipitation more than 1000\ mm. Others have low available-water capacity (usually less than 75\ mm as in some Stony Brown Soils and [Sandy Brown Soils](#BS)), or are in sites with low evapotranspiration.
 
 ## Summary of Brown Soils Hierarchy {-#sum-B}
 
