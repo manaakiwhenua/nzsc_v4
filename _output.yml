@@ -10,3 +10,6 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
+word_document:
+  bookdown::word_document2:
+    reference_docx: 'sources\NZSC 4th edition MASTER.docx'
