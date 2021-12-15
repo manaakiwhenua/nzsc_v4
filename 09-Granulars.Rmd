@@ -2,7 +2,7 @@
 
 ## Concept of the Order {-#con-N}
 
-Granular soils are clayey soils in which kaolin-group minerals are dominant, and are usually associated with vermiculite and hydrous-interlayered vermiculite. The soil fabric comprises polyhedral peds with strength characteristics which change rapidly with water content. Consistence is sticky and plastic. The presence of vermiculite gives these soils a moderate buffer capacity. The soils lack the weak strength, friable failure, low plasticity, and low-activity-clay properties which either define or are accessory to Oxidic Soils. Clay coatings where they occur are thin.
+Granular soils are clayey soils in which kaolin-group minerals are dominant, and are usually associated with vermiculite and hydrous-interlayered vermiculite. The soil fabric comprises polyhedral peds with strength characteristics which change rapidly with water content. Consistence is sticky and plastic. The presence of vermiculite gives these soils a moderate buffering capacity. The soils lack the weak strength, friable failure, low plasticity, and low-activity-clay properties which either define or are accessory to Oxidic Soils. Clay coatings where they occur are thin.
 
 ## Correlation {-#cor-N}
 
