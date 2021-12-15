@@ -1,0 +1,4 @@
+fig:fighier
+tab:unnamed-chunk-1
+tab:unnamed-chunk-2
+fig:unnamed-chunk-1
