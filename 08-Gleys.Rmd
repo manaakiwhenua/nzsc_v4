@@ -28,7 +28,7 @@ Gley Soils occur throughout New Zealand, usually in low parts of the landscape w
 
 ## Summary of Gley Soils Hierarchy {-#sum-G}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_G <- data.frame(

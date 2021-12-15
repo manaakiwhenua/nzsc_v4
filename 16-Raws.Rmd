@@ -25,7 +25,7 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 
 ## Summary of Raw Soils Hierarchy {-#sum-W}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_W <- data.frame(

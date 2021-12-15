@@ -27,7 +27,7 @@ Organic Soils occur in wetlands in most parts of New Zealand or under forest-pro
 
 ## Summary of Organic Soils Hierarchy {-#sum-O}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_O <- data.frame(

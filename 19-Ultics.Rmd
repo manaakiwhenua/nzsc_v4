@@ -24,7 +24,7 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 
 ## Summary of Ultic Soils Hierarchy {-#sum-U}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_U <- data.frame(

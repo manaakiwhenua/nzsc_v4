@@ -24,7 +24,7 @@ Anthropic Soils are most extensive in urban areas and areas that have been mined
 
 ## Summary of Anthropic Soils Hierarchy {-#sum-A}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_A <- data.frame(

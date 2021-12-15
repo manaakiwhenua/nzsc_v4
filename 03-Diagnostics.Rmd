@@ -2,7 +2,7 @@
 
 Diagnostic horizons and other differentiating criteria are defined to facilitate the assignment of soils to classes. The definitions are not intended to represent a comprehensive classification of horizons. A summary of these is given below.
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 t2 <- data.frame(
@@ -335,8 +335,7 @@ This test indicates the presence of reactive hydroxy-aluminium groups, as occur 
 
 Using the procedure of @fieldes_rapid_1966, 1 drop of saturated sodium fluoride (NaF) solution is placed on a small test sample of soil, which has been smeared on to a filter paper treated with phenolphthalein indicator. The soil sample must be field moist. For classification, the reactivity of the soil sample is placed into one of the following classes.
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
-
+```{r}
 table_003 <- data.frame(
   'Code' = seq(0,5,1),
   'Name' = c('Non-reactive',

@@ -26,7 +26,7 @@ Granular Soils are only known to occur in the northern North Island, particularl
 
 ## Summary of Granular Soils Hierarchy {-#sum-N}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_N <- data.frame(

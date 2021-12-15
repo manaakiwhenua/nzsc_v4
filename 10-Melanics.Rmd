@@ -25,7 +25,7 @@ Melanic Soils are scattered throughout New Zealand in association with calcareou
 
 ## Summary of Melanic Soils Hierarchy {-#sum-E}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_E <- data.frame(

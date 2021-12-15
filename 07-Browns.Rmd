@@ -25,7 +25,7 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 
 ## Summary of Brown Soils Hierarchy {-#sum-B}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_B <- data.frame(

@@ -27,7 +27,7 @@ Pumice Soils occur in sandy or pumiceous volcanic ashes which are relatively you
 
 ## Summary of Pumice Soils Hierarchy {-#sum-M}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_M <- data.frame(

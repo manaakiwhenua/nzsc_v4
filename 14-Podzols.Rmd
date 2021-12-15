@@ -26,7 +26,7 @@ Podzols occur in areas of high precipitation and are usually associated with for
 
 ## Summary of Podzols Hierarchy {-#sum-Z}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_Z <- data.frame(

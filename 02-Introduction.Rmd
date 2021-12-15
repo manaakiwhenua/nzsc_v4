@@ -44,9 +44,9 @@ Normally, a soil pit must be dug of sufficient size to expose the soil horizons 
 
 The soil horizons are examined and the assignment is then made by following the key, starting with the [Key to Orders](#key) on page\ 35. The [“Diagnostic Horizons and Other Differentiae”](#diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia. For some classes, pH or other chemical measurements must be made. These should be performed on samples taken between the specified depths, and bulked from at least four places in the pit. The characteristics of the soil are compared with the key statements of each soil order, starting with [Organic Soils](#O) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup.
 
-The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](#key-XPN)). Figure \@ref(fig:fighier) illustrates the relationships between subgroups and groups in the [Oxidic Soils](#ord-X) order.
+The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](#key-XPN)). Figure \@ref(fig:f1) illustrates the relationships between subgroups and groups in the [Oxidic Soils](#ord-X) order.
 
-```{r fighier,echo=FALSE,fig.show='hold',fig.cap='The hierarchy of the [Oxidic Soils](#ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position',out.width = '85%',fig.align='center'}
+```{r f1,fig.cap='The hierarchy of the [Oxidic Soils](\\#ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position.'}
 knitr::include_graphics('images/Figure-001_oxidic-soils-hierarchy.png')
 ```
 
@@ -60,9 +60,9 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 ## Correlations with other soil classification systems {-#intro-correls}
 
-Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In Table 1, classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification [@taylor_classification_1962] and Soil Taxonomy [@soil_survey_staff_soil_1999].
+Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In Table \@ref(tab:t1), classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification [@taylor_classification_1962] and Soil Taxonomy [@soil_survey_staff_soil_1999].
 
-```{r,echo=FALSE,results='hold'}
+```{r t1}
 library(flextable)
 
 table_001 <- data.frame(

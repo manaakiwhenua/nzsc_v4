@@ -135,7 +135,7 @@ Other soils that __BOTH__
 
 Other soils.
 
-```{r,echo=FALSE,results='hold', out.width='85%',fig.align='center',fig.cap='Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](#ord-B) from [Pallic Soils](#ord-P) and [Recent Soils](#ord-R). See [part 2(a) of the Pallic Soils](#P), and [part 2(a) and 2(b) of the Brown Soils](#B) in the [Key to Orders](#key).'}
+```{r f2,fig.cap='Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](\\#ord-B) from [Pallic Soils](\\#ord-P) and [Recent Soils](\\#ord-R). See [part 2(a) of the Pallic Soils](\\#P), and [part 2(a) and 2(b) of the Brown Soils](\\#B) in the [Key to Orders](\\#key).'}
 knitr::include_graphics('images/Figure-002_pallic-vs-brown-colours_alternate-version.png')
 ```
 

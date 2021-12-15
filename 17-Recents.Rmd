@@ -26,7 +26,7 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 
 ## Summary of Recent Soils Hierarchy {-#sum-R}
 
-```{r,echo=FALSE,results='hold',fig.align='center'}
+```{r}
 library(flextable)
 
 table_R <- data.frame(
