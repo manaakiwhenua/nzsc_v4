@@ -3,7 +3,7 @@ bookdown::bs4_book:
   theme:
     primary: "#096B72"
   repo: https://github.com/rstudio/bookdown-demo
-bookdown::pdf_book:
+bookdown::pdf_document2:
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
