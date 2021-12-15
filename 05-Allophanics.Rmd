@@ -27,7 +27,7 @@ Allophanic Soils occur predominantly in North Island volcanic ash, and in the we
 11.  _Slight to insignificant erosion under pasture._ Generally the erosion potential is low, except on steep slopes or exposed sites and under cultivation on rolling slopes.
 12.  _Sensitive._ A pronounced loss of strength occurs on disturbance.
 13.  _Limited fertility._ There are usually requirements for phosphorus, potassium and magnesium on dairy farms. There are no significant trace element deficiencies although cobalt is marginal in more strongly leached Allophanic Soils. Pasture may respond to lime where pH is less than 5.3. Sulphate reserves are held in B horizons. P retention and phosphate fixation are high in topsoils.
-14.  _Moist climate._ Precipitation exceeds 1000 mm and soil moisture deficits are either absent or occur for only short periods.
+14.  _Moist climate._ Precipitation exceeds 1000\ mm and soil moisture deficits are either absent or occur for only short periods.
 
 ## Summary of Allophanic Soils Hierarchy {-#sum-L}
 
@@ -143,13 +143,13 @@ Impeded Allophanic Soils have a subsurface horizon that acts as a barrier to the
 
 #### __LIMI__ {-#key-LIMI}
 
-Impeded Allophanic Soils that have an ironstone-pan within 90\ cm of the mineral soil surface and that have a mottled profile form.
+Impeded Allophanic Soils that have an ironstone-pan within 90\ cm of the mineral soil surface and that have a [mottled profile form](#diag-mottpf).
 
 <div style="text-align: right"> __Mottled-ironstone Impeded Allophanic Soils__ </div>
 
 #### __LIM__ {-#key-LIM}
 
-Other soils that have a mottled profile form.
+Other soils that have a [mottled profile form](#diag-mottpf).
 
 <div style="text-align: right"> __Mottled Impeded Allophanic Soils__ </div>
 
@@ -174,7 +174,7 @@ Orthic Allophanic Soils that have a [mottled profile form](#diag-mottpf).
 Other soils that have both
 1. ___either___
     (a)  coatings on pores (excluding root linings), or gel-like masses bridging sand grains or coating coarse-fragments, that have hue 7.5YR or redder, value 5 or less and chroma 3 or more, _or_
-    (b)  pH less than 5.5 in some part of the B horizon to 60 cm from the mineral soil surface, _and_
+    (b)  pH less than 5.5 in some part of the B horizon to 60\ cm from the mineral soil surface, _and_
 2.  [allophanic soil material](#diag-alloph) that is formed predominantly from [tephric soil material](#diag-teph) and has 50% or more sand (by weighted average).
 
 <div style="text-align: right"> __Vitric-acidic Orthic Allophanic Soils__ </div>
