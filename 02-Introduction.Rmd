@@ -62,6 +62,8 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In Table \@ref(tab:t1), classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification [@taylor_classification_1962] and Soil Taxonomy [@soil_survey_staff_soil_1999].
 
+\newpage
+
 ```{r t1}
 library(flextable)
 
@@ -297,4 +299,4 @@ ft <- set_caption(ft,
 ft
 ```
 
-***
+\newpage

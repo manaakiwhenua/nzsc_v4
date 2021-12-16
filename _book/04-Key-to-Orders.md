@@ -136,8 +136,8 @@ Other soils that __BOTH__
 Other soils.
 
 <div class="figure" style="text-align: center">
-<img src="images/Figure-002_pallic-vs-brown-colours_alternate-version.png" alt="Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](#ord-B) from [Pallic Soils](#ord-P) and [Recent Soils](#ord-R). See [part 2(a) of the Pallic Soils](#P), and [part 2(a) and 2(b) of the Brown Soils](#B) in the [Key to Orders](#key)." width="85%" />
-<p class="caption">(\#fig:unnamed-chunk-1)Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](#ord-B) from [Pallic Soils](#ord-P) and [Recent Soils](#ord-R). See [part 2(a) of the Pallic Soils](#P), and [part 2(a) and 2(b) of the Brown Soils](#B) in the [Key to Orders](#key).</p>
+<img src="images/Figure-002_pallic-vs-brown-colours_alternate-version.png" alt="Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](\#ord-B) from [Pallic Soils](\#ord-P) and [Recent Soils](\#ord-R). See [part 2(a) of the Pallic Soils](\#P), and [part 2(a) and 2(b) of the Brown Soils](\#B) in the [Key to Orders](\#key)." width="85%" />
+<p class="caption">(\#fig:f2)Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](\#ord-B) from [Pallic Soils](\#ord-P) and [Recent Soils](\#ord-R). See [part 2(a) of the Pallic Soils](\#P), and [part 2(a) and 2(b) of the Brown Soils](\#B) in the [Key to Orders](\#key).</p>
 </div>
 
 [^1]: "the major part" means that the requirement must be met over more than half the specified thickness (in this case from the base of the A horizon to 60\ cm from the mineral soil surface). Analyses or estimates should be used from subhorizons that subdivide the thickness, or if the subhorizons are not recognised, then from subsamples of the relevant horizons.
