@@ -302,7 +302,7 @@ Mottled-weathered Argillic Pallic Soils that have both
 
 #### __PJM__ {-#key-PJM}
 
-Other soils that have a [mottled profile form](#diag-mottpf.
+Other soils that have a [mottled profile form](#diag-mottpf).
 
 <div style="text-align: right"> __Mottled Argillic Pallic Soils__ </div>
 
