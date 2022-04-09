@@ -1,7 +1,7 @@
 --- 
 title: "New Zealand Soil Classification"
 author: "Alan. E. Hewitt"
-date: "2022-01-31"
+date: "2022-04-09"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [nzsc_reference_list_3e.bib, book.bib]
