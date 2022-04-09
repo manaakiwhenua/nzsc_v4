@@ -48,7 +48,7 @@ ft_A <- merge_v(ft_A, 1)
 ft_A <- merge_v(ft_A, 2)
 ft_A <- valign(ft_A, j = c(1,2), valign = 'top')
 ft_A <- bold(ft_A, j = 1)
-ft_A <- set_table_properties(ft_A, layout = "autofit")
+ft_A <- set_table_properties(ft_A, layout = "autofit", width = 1)
 ft_A
 ```
 

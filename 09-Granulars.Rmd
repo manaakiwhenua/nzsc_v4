@@ -54,7 +54,7 @@ ft_N <- merge_v(ft_N, 1)
 ft_N <- merge_v(ft_N, 2)
 ft_N <- valign(ft_N, j = c(1,2), valign = 'top')
 ft_N <- bold(ft_N, j = 1)
-ft_N <- set_table_properties(ft_N, layout = "autofit")
+ft_N <- set_table_properties(ft_N, layout = "autofit", width = 1)
 ft_N <- set_header_labels(ft_N, 
                           'Example_Series' = 'Example Series')
 ft_N

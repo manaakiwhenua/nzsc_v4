@@ -285,7 +285,7 @@ table_001 <- data.frame(
                          ))
 
 ft <- flextable(table_001)
-ft <- set_table_properties(ft, layout = "autofit")
+ft <- set_table_properties(ft, layout = "autofit", width = 1)
 ft <- set_header_labels(ft, 
                         'NZSC_Suborder' = 'NZ Soil Classification (v. 3)',
                         'NZ_Genetic_SC' = 'NZ Genetic Soil Classification',

@@ -73,7 +73,7 @@ ft_G <- merge_v(ft_G, 1)
 ft_G <- merge_v(ft_G, 2)
 ft_G <- valign(ft_G, j = c(1,2), valign = 'top')
 ft_G <- bold(ft_G, j = 1)
-ft_G <- set_table_properties(ft_G, layout = "autofit")
+ft_G <- set_table_properties(ft_G, layout = "autofit", width = 1)
 ft_G <- set_header_labels(ft_G, 
                           'Example_Series' = 'Example Series')
 ft_G

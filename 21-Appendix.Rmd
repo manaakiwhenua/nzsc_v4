@@ -54,7 +54,7 @@ table_App1 <- data.frame('Code' = LETTERS,
 ft_A1 <- flextable(table_App1)
 ft_A1 <- bold(ft_A1, part = 'head')
 ft_A1 <- bold(ft_A1, j = 1)
-ft_A1 <- set_table_properties(ft_A1, layout = "autofit")
+ft_A1 <- set_table_properties(ft_A1, layout = "autofit", width = 1)
 ft_A1
 
 ```

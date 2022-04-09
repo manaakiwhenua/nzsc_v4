@@ -355,7 +355,7 @@ table_003 <- data.frame(
 ft <- flextable(table_003)
 ft <- bold(ft, part = 'head')
 ft <- set_caption(ft, 'Reactive-aluminium test interpretation.')
-ft <- set_table_properties(ft, layout = "autofit") # not working atm...
+ft <- set_table_properties(ft, layout = "autofit", width = 1)
 ft
 ```
 
