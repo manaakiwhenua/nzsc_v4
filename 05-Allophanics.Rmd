@@ -50,10 +50,24 @@ table_L <- data.frame(
   'Example_Series' = c('-', 'Awatuna',
                        'Rahotu var.', 'Glenn',
                        'pt. Okato var.', 'Tipoka', 'Bruntwood',
-                       'Oeo', 'Rowan', 'Lepperton', 'Patua', 'Tirau')
+                       'Oeo', 'Rowan', 'Lepperton', 'Patua', 'Tirau'),
+  'Series_URL' = c(NA,
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1854?view=sitereport', # awatuna
+                   NA,
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2766?view=sitereport', # glenn
+                   NA, 
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1597?view=sitereport', # tipoka (NB link is LOT, not LIM)
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2763?view=sitereport', # bruntwood (NB link is LOM not LIT)
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2786?view=sitereport', # oeo 
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1742?view=sitereport', # rowan
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1937?view=sitereport', # lepperton  (NB link is LOT not LOV)
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1940?view=sitereport', # patua
+                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2964?view=sitereport'  # tirau
+                   )
 ) 
 
-ft_L <- flextable(table_L)
+ft_L <- flextable(table_L, 
+                  col_keys = c('Code', 'Group', 'Subgroup', 'Example_Series'))
 ft_L <- bold(ft_L, part = 'head')
 ft_L <- merge_v(ft_L, 1)
 ft_L <- merge_v(ft_L, 2)
@@ -62,6 +76,9 @@ ft_L <- bold(ft_L, j = 1)
 ft_L <- set_table_properties(ft_L, layout = "autofit", width = 1)
 ft_L <- set_header_labels(ft_L, 
                           'Example_Series' = 'Example Series')
+ft_L <- compose(x = ft_L, j = 'Example_Series', 
+                value = as_paragraph(hyperlink_text(x = Example_Series, 
+                                                    url = Series_URL)))
 ft_L
 ```
 
