@@ -349,7 +349,7 @@ Firm Brown Soils that have _both_
 1.  a [mottled profile form](#diag-mottpf), _and_
 2.  pH less than 5.5 in some part between the base of the A horizon and within 60\ cm of the mineral soil surface.
 
-<div style="text-align: right"> _Mottled-acidic Firm Brown Soils_ </div>
+<div style="text-align: right"> __Mottled-acidic Firm Brown Soils__ </div>
 
 #### __BFMC__ {-#key-BFMC}
 
@@ -442,7 +442,7 @@ Other soils that have in some part of the B horizon above the apedal horizon wit
 1.  pH less than 5.5, _or_
 2.  a subhorizon with 10% or more humus or humus-clay coatings of moist colour value 4 or less or colour value 5 and chroma 3.
   
-<div style="text-align: right"> _Acidic__ Firm Brown Soils__ </div>
+<div style="text-align: right"> __Acidic Firm Brown Soils__ </div>
 
 #### __BFT__ {-#key-BFT}
 

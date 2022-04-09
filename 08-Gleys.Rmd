@@ -16,7 +16,7 @@ Gley Soils occur throughout New Zealand, usually in low parts of the landscape w
 
 1.  _Segregation of iron and manganese oxides._ Particles in reduced parts of the soil are not coated by secondary oxides. [Redox segregations](#diag-rsegs) of iron and manganese oxides, however, are usually present elsewhere in the soil and may occupy large volumes.
 2.  _Commonly formed in alluvial or colluvial parent materials._ Soils most frequently occur in relatively low parts of the landscape, in hollows or associated with flushes.
-3.  _Wide range of clay minerals.__ The clay mineralogy commonly reflects the mineralogy of the ungleyed material from which the soils are derived. Gley Soils cover a wide range of mineralogy classes with Mixed, Illitic, and Smectitic being the most common.
+3.  _Wide range of clay minerals._ The clay mineralogy commonly reflects the mineralogy of the ungleyed material from which the soils are derived. Gley Soils cover a wide range of mineralogy classes with Mixed, Illitic, and Smectitic being the most common.
 4.  _Poorly or very poorly drained._ Topsoils have relatively high levels of organic matter and some are peaty. Subsurface horizons to depth are dominantly grey or bluish grey in colour with strong brown to dark brown redox segregations.
 5.  _High groundwater-tables._ Most are affected by high groundwater-tables, at least throughout winter months. Soils with slowly permeable layers may also be subject to perching.
 6.  _Shallow potential rooting depth._ Potential rooting depth is limited by poor aeration. Even after drainage, root extension may be limited in some horizons.
