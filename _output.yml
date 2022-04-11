@@ -11,4 +11,4 @@ bookdown::pdf_document2:
   keep_tex: yes
 bookdown::epub_book: default
 bookdown::word_document2:
-  reference_docx: "sources\\NZSC 4th edition MASTER.docx"
+  reference_docx: "templates\\nzsc_word.docx"
