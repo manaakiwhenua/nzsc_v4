@@ -1,9 +1,16 @@
 Welcome! 
 
-This is a cross-port of the draft NZSC 4th edition.
+This is a Bookdown version of the New Zealand Soil Classification (NZSC), draft 4th edition. This version contains only minor typographical corrections at April 2022.
 
-The intent of cross-porting is to demonstrate 
+Introductory information about the NZSC is available at [https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/](The New Zealand Soils Portal). 
 
-  * utility of the bookdown authoring format 
+The third edition of the NZSC (Hewitt, 2010) should be treated as current, and can be downloaded from the [Manaaki Whenua Digital Library](http://doi.org/10.7931/DL1-LRSS-1-2010).
+
+The intent of this project is to demonstrate 
+
+  * utility of the Bookdown authoring format for interacting with the classification on electronic devices
   * utility of Git for tracking changes to the classification over time.
   
+Please address any feedback to soils-help@landcareresearch.co.nz 
+  
+***
