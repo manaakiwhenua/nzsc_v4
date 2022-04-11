@@ -1,7 +1,7 @@
 --- 
 title: "New Zealand Soil Classification"
 author: "Alan. E. Hewitt"
-date: "2022-04-09"
+date: "2022-04-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [nzsc_reference_list_3e.bib, book.bib]
@@ -24,30 +24,33 @@ Manaaki Whenua - Landcare Research New Zealand Ltd
 
 Landcare Research Science Series No. 1
 
-***
-
-_©  Landcare Research New Zealand Ltd 2010_
-
-No part of this work covered by copyright may be reproduced or copied in any form or by any means (graphic, electronic or mechanical, including photocopying, recording, taping, information retrieval systems, or otherwise) without the written permission of the publisher.
-
-Cataloguing in publication:
-
-|    HEWITT, A.E.
-|    New Zealand soil classification / A.E. Hewitt. – 3rd edition – Lincoln, N.Z. :  
-|    Manaaki Whenua Press 2010.
-|    (Landcare Research science series, ISSN 1172-269X ; no.1)  		ISBN 978-0-478-34710-4
-|    1 Soils – New Zealand – Classification. I.  
-|    Manaaki Whenua – Landcare Research New Zealand Ltd. II. Title. III. Series.
-|    UDC 631.44 (931)
-
-
-Published by Manaaki Whenua Press,  Landcare Research  PO Box 40, Lincoln, New Zealand.
-
 _First published as DSIR Land Resources Scientific Report No.19_
 
-_Reprinted with corrections as Landcare Research Science Series No. 1, 1998. This 3rd edition includes updates and corrections._
+_Reprinted with corrections as Landcare Research Science Series No. 1, 1998._
 
-Editing and desktop publishing originally by A.D. Pritchard
+_Reprinted with updates and corrections as Landcare Research Science Series No. 1, 2010._
 
-Printed by The Caxton Press
+_© Landcare Research New Zealand Ltd 2010_
 
+***
+
+Welcome! 
+
+This is a [Bookdown](https://bookdown.org/) version of the New Zealand Soil Classification (NZSC), draft 4th edition. This version contains only minor typographical corrections at April 2022.
+
+Introductory information about the NZSC is available at [The New Zealand Soils Portal](https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/). 
+
+The third edition of the NZSC (Hewitt, 2010) should be treated as current, and can be downloaded from the [Manaaki Whenua Digital Library](http://doi.org/10.7931/DL1-LRSS-1-2010).
+
+The intent of this project is to demonstrate 
+
+  * utility of the Bookdown authoring format for interacting with the classification on electronic devices
+  * utility of Git for tracking changes to the classification over time.
+  
+*** 
+
+To raise an issue about the book’s content (e.g. code not running) or make a feature request, please use the [issue tracker](https://github.com/manaakiwhenua/nzsc_bookdown/issues).
+
+Maintainers and contributors must follow this repository’s [Code of Conduct]().
+
+***
