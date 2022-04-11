@@ -26,7 +26,7 @@ ft <- bold(ft,  1, 2)
 ft <- bold(ft,  9, 2)
 ft <- bold(ft, 13, 2)
 ft <- bold(ft, 18, 2)
-ft <- set_table_properties(ft, layout = "autofit") 
+ft <- set_table_properties(ft, layout = "autofit", width = 1) 
 ft
 ```
 
