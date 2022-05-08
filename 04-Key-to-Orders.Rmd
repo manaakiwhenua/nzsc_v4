@@ -51,7 +51,7 @@ Other soils that have a layer or layers of [allophanic soil material](#diag-allo
 
 Other soils that have __BOTH__
 
-1.  a layer of [vitric soil material] (#diag-vitr) extending from the mineral soil surface to 25\ cm or more, or 35\ cm or more thick occurring within 60\ cm of the mineral soil surface, __AND__
+1.  a layer of [vitric soil material](#diag-vitr) extending from the mineral soil surface to 25\ cm or more, or 35\ cm or more thick occurring within 60\ cm of the mineral soil surface, __AND__
 2.  a [weathered-B horizon](#diag-bw) 5\ cm or more thick.
 
 ## [__E__ - Melanic Soils](#ord-E) {-#E}
