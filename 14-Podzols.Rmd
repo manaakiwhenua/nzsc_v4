@@ -256,7 +256,7 @@ Other soils that have a [fragipan](#diag-fpan).
 
 <div style="text-align: right"> __Fragic Pan Podzols__ </div>
 
-### __ZXQ__ {-#key-ZXQ}
+#### __ZXQ__ {-#key-ZXQ}
 
 Other soils that have an [ortstein-pan](#diag-opan).
 
