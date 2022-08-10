@@ -32,10 +32,12 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -80,6 +82,9 @@ ul.task-list{list-style: none;}
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">New Zealand Soil Classification v4.0 (draft)</a> 
+        <div class="sidebar-tools-main">
+  <a href="" class="quarto-color-scheme-toggle sidebar-tool" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
     </div>
       </div>
       <div class="mt-2 flex-shrink-0 align-items-center">
@@ -378,7 +383,7 @@ ul.task-list{list-style: none;}
 <li>between the base of the A horizon to 60&nbsp;cm from the mineral soil surface the matrix throughout is <strong><em>either</em></strong>
 <ol type="i">
 <li>hue 10YR or yellower with chroma 3 or less and value 4 or more (all colours moist), <strong><em>or</em></strong></li>
-<li>hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see <a href="#fig-2">Figure&nbsp;<span class="quarto-unresolved-ref">fig-2</span></a>); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B horizon, <em>and</em></li>
+<li>hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see <a href="#fig-2">Figure&nbsp;<span>4.1</span></a>); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B horizon, <em>and</em></li>
 </ol></li>
 <li>a B horizon that is 10&nbsp;cm or more thick, and has either
 <ol type="i">
@@ -398,7 +403,7 @@ ul.task-list{list-style: none;}
 <li>in the B horizon, a subhorizon that has in the matrix <strong><em>either</em></strong>
 <ol type="a">
 <li>hue 7.5YR or redder, or hue 10YR and chroma 6 or more; <strong><em>or</em></strong></li>
-<li>hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see <a href="#fig-2">Figure&nbsp;<span class="quarto-unresolved-ref">fig-2</span></a>); and P retention is 30% or more, or the reactive-aluminium test is at least moderate, in the uppermost subhorizon (10&nbsp;cm or more thick) of the B horizon, <strong><em>or</em></strong></li>
+<li>hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see <a href="#fig-2">Figure&nbsp;<span>4.1</span></a>); and P retention is 30% or more, or the reactive-aluminium test is at least moderate, in the uppermost subhorizon (10&nbsp;cm or more thick) of the B horizon, <strong><em>or</em></strong></li>
 <li>the texture is sand or loamy sand in the B horizon to its base, or to 60&nbsp;cm from the mineral soil surface, whichever is less.</li>
 </ol></li>
 </ol>
@@ -459,6 +464,109 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } 
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {

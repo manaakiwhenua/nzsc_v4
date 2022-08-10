@@ -38,12 +38,12 @@ bibliography: NZSC_reference_list_3e.bib
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: slate
     number-sections: false
     css: styles.css
     citations-hover: true
-  pdf:
-    documentclass: scrreprt
 
 editor: visual
 
