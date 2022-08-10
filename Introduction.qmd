@@ -1,10 +1,10 @@
-# Introduction {.unnumbered}
+# Introduction {#sec-intro}
 
 Version 3.0 of the Zealand Soil Classification is the culmination of a period of development from its initiation in 1983 to wide circulation of versions 1.0 and 2.0 [@hewitt_new_1989] for comment and testing. It represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary. Accounts of the methods used in developing the soil classification and the rationale for the classes and differentia used are in preparation.
 
 The New Zealand Soil Classification is a national soil classification intended to replace the New Zealand Genetic Soil Classification [@taylor_soil_1948; @taylor_soil_1957; @taylor_classification_1962]. The New Zealand Genetic Soil Classification grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played a vital role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s. The present work has grown out of the New Zealand Genetic Soil Classification and, where possible, preserves successful parts of that classification. It has also been influenced by experience in testing the US Soil Taxonomy [@leamy_soil_1983].
 
-## Objectives {.unnumbered}
+## Objectives {#sec-intro-objectives}
 
 The objectives of the New Zealand Soil Classification are:
 
@@ -15,7 +15,7 @@ The objectives of the New Zealand Soil Classification are:
 
 A discussion of these objectives is given by @hewitt_nz_1984.
 
-## Principles {.unnumbered}
+## Principles {#sec-intro-principles}
 
 To accomplish the objectives, the following principles have guided the development of this proposal. These are explained further by @hewitt_nz_1984.
 
@@ -28,7 +28,7 @@ To accomplish the objectives, the following principles have guided the developme
 7.  Where possible, continuity with successful parts of the New Zealand Genetic Classification should be maintained.
 8.  The soil classification must be valid for the main islands of New Zealand. Classes must be correlated with Soil Taxonomy [@soil_survey_staff_soil_1999] to support international extension.
 
-## The Soil Individual {#intro-soil-indiv .unnumbered}
+## The Soil Individual {#sec-intro-soil-indiv}
 
 The soil individual is the fundamental unit of soil which is assigned to classes. @cline_basic_1949 defined an individual as "the smallest natural body that can be defined as a thing complete in itself".
 
@@ -38,37 +38,36 @@ In New Zealand, the soil individual has traditionally been the soil profile. Usu
 
 Accordingly, the pedon as defined in Soil Taxonomy [@soil_survey_staff_soil_1999] is recommended as the soil individual for the New Zealand Soil Classification. It is understood that assignments are often made from the examination of volumes of soil smaller than a complete pedon, where they are assumed representative of the pedon.
 
-## How to assign a soil to Subgroup level {#intro-assign-subgroup .unnumbered}
+## How to assign a soil to Subgroup level {#sec-intro-assign-subgroup}
 
 Normally, a soil pit must be dug of sufficient size to expose the soil horizons to about 1 m depth, or to rock if shallower.
 
-The soil horizons are examined and the assignment is then made by following the key, starting with the [Key to Orders](#key) on page 35. The ["Diagnostic Horizons and Other Differentiae"](#diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia. For some classes, pH or other chemical measurements must be made. These should be performed on samples taken between the specified depths, and bulked from at least four places in the pit. The characteristics of the soil are compared with the key statements of each soil order, starting with [Organic Soils](#O) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup.
+The soil horizons are examined and the assignment is then made by following the key, starting with the [Key to Orders](key-to-orders.qmd#sec-key) on page 35. The ["Diagnostic Horizons and Other Differentiae"](diagnostics.qmd#sec-diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia. For some classes, pH or other chemical measurements must be made. These should be performed on samples taken between the specified depths, and bulked from at least four places in the pit. The characteristics of the soil are compared with the key statements of each soil order, starting with [Organic Soils](key-to-orders#sec-O) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup.
 
-The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](#key-XPN)). Figure \@ref(fig:f1) illustrates the relationships between subgroups and groups in the [Oxidic Soils](#ord-X) order.
+The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](oxidics.qmd#sec-key-XPN)). @fig-1 illustrates the relationships between subgroups and groups in the [Oxidic Soils](oxidics.qmd#sec-ord-X) order.
 
 ```{r}
-#| label: f1
-#| fig.cap: "The hierarchy of the [Oxidic Soils](\\#ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position."
+#| label: fig-1
+#| fig.cap: "The hierarchy of the [Oxidic Soils](Key-to-Orders.qmd#ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position."
 
 knitr::include_graphics('images/Figure-001_oxidic-soils-hierarchy.png')
 ```
 
-## Misclassification {.unnumbered}
+## Misclassification {#sec-intro-misclass}
 
 The classes are the most important part of the soil classification. The key is merely a means of allocating soils to these classes, and by its nature is imperfect because only a sample of all the possible soils that might potentially be allocated were used in developing the key. Consequently, soils will be found that are not allocated to the appropriate class by the key. This will be apparent when a soil, allocated to a class, does not conform to the concept and accessory statements that can normally be made about that class. Because the key is the servant of the classes, the allocator is justified in placing the soil misfit into a more appropriate class. If this is done, however, it must be registered with the person with responsibility for the national soil classification system, so that appropriate adjustments may be made to the key when the soil classification is next revised. An allocation contrary to the key must also be noted in any records or publication of the allocation.
 
-## Justification of new Subgroups {#intro-new-sgs .unnumbered}
+## Justification of new Subgroups {#sec-intro-new-sgs}
 
 Justification for new subgroups may be made in two ways. First, if a soil is judged to be misclassified, and a more appropriate class is not available, then a new subgroup may be justifiable. Second, an existing subgroup may encompass a set of soils with properties that are too wide in range. The old subgroup could be split into two new ones. Splitting may be justified if it will significantly increase the number and precision of accessory statements that can be made about both of the new classes.
 
-## Correlations with other soil classification systems {#intro-correls .unnumbered}
+## Correlations with other soil classification systems {#sec-intro-correls}
 
-Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In Table \@ref(tab:t1), classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification [@taylor_classification_1962] and Soil Taxonomy [@soil_survey_staff_soil_1999].
-
-\newpage
+Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In @tbl-1, classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification [@taylor_classification_1962] and Soil Taxonomy [@soil_survey_staff_soil_1999].
 
 ```{r}
-#| label: t1
+#| label: tbl-1
+#| tbl-cap: "Correlation of soil groups with the Genetic New Zealand Soil Classification [@taylor_classification_1962] and the US Soil Taxonomy [@soil_survey_staff_soil_1999]. The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classification."
 
 library(flextable)
 
@@ -299,7 +298,5 @@ ft <- bold(ft, part = 'head')
 ft <- bold(ft, c(1,6, 11, 19, 26, 31, 37, 42, 46, 53, 59, 63, 71, 78, 83), part = 'body')
 ft <- merge_h(ft, c(1,6, 11, 19, 26, 31, 37, 42, 46, 53, 59, 63, 71, 78, 83))
 ft <- merge_at(ft, c(44, 45), 2)
-ft <- set_caption(ft,
-                  caption = 'Correlation of soil groups with the Genetic New Zealand Soil Classification [@taylor_classification_1962] and the US Soil Taxonomy [@soil_survey_staff_soil_1999]. The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classification.')
 ft
 ```

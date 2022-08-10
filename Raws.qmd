@@ -1,18 +1,18 @@
-# Raw Soils {#ord-W .unnumbered}
+# Raw Soils {#sec-ord-W}
 
-## Concept of the Order {#con-W .unnumbered}
+## Concept of the Order {#sec-con-W}
 
 Raw Soils lack distinct topsoil development or are fluid at a shallow depth. They occur in environments where the development of topsoils is prevented by rockiness, by active erosion, or deposition. They include beach sands, alpine rock areas and active screes, lagoons and tidal estuaries.
 
-## Correlation {#cor-W .unnumbered}
+## Correlation {#sec-cor-W}
 
 Raw Soils correspond in part with very weakly developed recent soils of the NZ Genetic Soil Classification, and in part with materials that were often not considered to be soil. They are either Entisols or are unclassified in Soil Taxonomy.
 
-## Occurrence {#occ-W .unnumbered}
+## Occurrence {#sec-occ-W}
 
 Raw Soils occur scattered throughout New Zealand, particularly in association with high mountains, braided rivers, beaches and tidal mudflats.
 
-## Accessory Properties of the Order {#acc-W .unnumbered}
+## Accessory Properties of the Order {#sec-acc-W}
 
 1.  *No B horizons.* Pedogenetic horizons are lacking apart from a rudimentary topsoil.
 2.  *Fresh or weakly weathered.* Coarse fragments and sand particles are generally without coatings, although clasts in some screes may have weathering rinds.
@@ -23,7 +23,7 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 7.  *Erosive.* Most materials are unaggregated and likely to be highly erosive.
 8.  *Sparse vegetation.* Vegetation is either absent, sparse or patchy, often consisting of ephemeral herbaceous plants, mosses or lichens. Mangroves occur mainly on Raw Soils.
 
-## Summary of Raw Soils Hierarchy {#sum-W .unnumbered}
+## Summary of Raw Soils Hierarchy {#sec-sum-W}
 
 ```{r}
 library(flextable)
@@ -56,75 +56,75 @@ ft_W <- set_header_labels(ft_W,
 ft_W
 ```
 
-## Key to Groups of Raw Soils {#grp-W .unnumbered}
+## Key to Groups of Raw Soils {#sec-grp-W}
 
-#### **WG** {#key-WG .unnumbered}
+#### **WG** {#sec-key-WG}
 
 Raw Soils that at 30 cm or less from the mineral soil surface have either
 
-1.  the upper boundary of a [reductimorphic horizon](#diag-redmh), *or*
+1.  the upper boundary of a [reductimorphic horizon](diagnostics.qmd#sec-diag-redmh), *or*
 2.  sufficient active ferrous iron to give a positive reaction to α,α'-dipyridyl at some time in the year, *or*
 3.  are saturated for 30 or more consecutive days in most years.
 
 ::: {style="text-align: right"}
-[**GLEY RAW SOILS**](#WG)
+[**GLEY RAW SOILS**](#sec-WG)
 :::
 
-#### **WH** {#key-WH .unnumbered}
+#### **WH** {#sec-key-WH}
 
 Other Raw Soils that have mean annual soil temperature at 30 cm depth of at least 2.5°C more than the mean annual air temperature.
 
 ::: {style="text-align: right"}
-[**HYDROTHERMAL RAW SOILS**](#WH)
+[**HYDROTHERMAL RAW SOILS**](#sec-WH)
 :::
 
-#### **WX** {#key-WX .unnumbered}
+#### **WX** {#sec-key-WX}
 
-Other Raw Soils with a [lithic](#diag-lithc) or [paralithic contact](#diag-lithp) within 30 cm of the soil surface.
+Other Raw Soils with a [lithic](diagnostics.qmd#sec-diag-lithc) or [paralithic contact](diagnostics.qmd#sec-diag-lithp) within 30 cm of the soil surface.
 
 ::: {style="text-align: right"}
-[**ROCKY RAW SOILS**](#WX)
+[**ROCKY RAW SOILS**](#sec-WX)
 :::
 
-#### **WS** {#key-WS .unnumbered}
+#### **WS** {#sec-key-WS}
 
 Other Raw Soils that have sand or loamy sand texture and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60 cm depth or more.
 
 ::: {style="text-align: right"}
-[**SANDY RAW SOILS**](#WS)
+[**SANDY RAW SOILS**](#sec-WS)
 :::
 
-#### **WF** {#key-WF .unnumbered}
+#### **WF** {#sec-key-WF}
 
-Other Raw Soils that have [fluvial features](#diag-fluv) and are not buried by more than 30 cm of non­fluvial soil material.
+Other Raw Soils that have [fluvial features](diagnostics.qmd#sec-diag-fluv) and are not buried by more than 30 cm of non­fluvial soil material.
 
 ::: {style="text-align: right"}
-[**FLUVIAL RAW SOILS**](#WF)
+[**FLUVIAL RAW SOILS**](#sec-WF)
 :::
 
-#### **WT** {#key-WT .unnumbered}
+#### **WT** {#sec-key-WT}
 
-Other Raw Soils in [tephric soil material](#diag-teph) from the soil surface to 30 cm depth or more.
+Other Raw Soils in [tephric soil material](diagnostics.qmd#sec-diag-teph) from the soil surface to 30 cm depth or more.
 
 ::: {style="text-align: right"}
-[**TEPHRIC RAW SOILS**](#WT)
+[**TEPHRIC RAW SOILS**](#sec-WT)
 :::
 
-#### **WO** {#key-WO .unnumbered}
+#### **WO** {#sec-key-WO}
 
 Other Raw Soils.
 
 ::: {style="text-align: right"}
-[**ORTHIC RAW SOILS**](#WO)
+[**ORTHIC RAW SOILS**](#sec-WO)
 :::
 
-## Key to Subgroups of Raw Soils {#sub-W .unnumbered}
+## Key to Subgroups of Raw Soils {#sec-sub-W}
 
-### **WG** - GLEY RAW SOILS {#WG .unnumbered}
+### **WG** - GLEY RAW SOILS {#sec-WG}
 
 Gley Raw Soils occur in sites that are periodically or permanently flooded. Wetness is expressed in the soil by grey colours with brownish or reddish mottles, by water saturation or is indicated by a chemical test for the presence of reduced iron.
 
-#### **WGFU** {#key-WGFU .unnumbered}
+#### **WGFU** {#sec-key-WGFU}
 
 Soils that have both
 
@@ -135,7 +135,7 @@ Soils that have both
 **Fluid-sulphidic Gley Raw Soils**
 :::
 
-#### **WGU** {#key-WGU .unnumbered}
+#### **WGU** {#sec-key-WGU}
 
 Other soils that have pH more than 4.0 and pH in boiling hydrogen peroxide less than 3.0, in some horizon at less than 90 cm from the mineral soil surface.
 
@@ -143,7 +143,7 @@ Other soils that have pH more than 4.0 and pH in boiling hydrogen peroxide less 
 **Sulphidic Gley Raw Soils**
 :::
 
-#### **WGFQ** {#key-WGFQ .unnumbered}
+#### **WGFQ** {#sec-key-WGFQ}
 
 Other soils that within 30 cm of the mineral soil surface have both
 
@@ -154,7 +154,7 @@ Other soils that within 30 cm of the mineral soil surface have both
 **Fluid-saline Gley Raw Soils**
 :::
 
-#### **WGQ** {#key-WGQ .unnumbered}
+#### **WGQ** {#sec-key-WGQ}
 
 Other soils that within 30 cm of the mineral soil surface have electrical conductivity of 0.8 mS/cm or more.
 
@@ -162,7 +162,7 @@ Other soils that within 30 cm of the mineral soil surface have electrical condu
 **Saline Gley Raw Soils**
 :::
 
-#### **WGF** {#key-WGF .unnumbered}
+#### **WGF** {#sec-key-WGF}
 
 Other soils that within 30 cm of the mineral soil surface have moderately fluid or very fluid fluidity class.
 
@@ -170,7 +170,7 @@ Other soils that within 30 cm of the mineral soil surface have moderately fluid
 **Fluid Gley Raw Soils**
 :::
 
-#### **WGS** {#key-WGS .unnumbered}
+#### **WGS** {#sec-key-WGS}
 
 Other soils that have sand or loamy sand texture and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60 cm depth or more.
 
@@ -178,7 +178,7 @@ Other soils that have sand or loamy sand texture and that have less than 35% gra
 **Sandy Gley Raw Soils**
 :::
 
-#### **WGT** {#key-WGT .unnumbered}
+#### **WGT** {#sec-key-WGT}
 
 Other soils.
 
@@ -186,11 +186,11 @@ Other soils.
 **Typic Gley Raw Soils**
 :::
 
-### **WH** - HYDROTHERMAL RAW SOILS {#WH .unnumbered}
+### **WH** - HYDROTHERMAL RAW SOILS {#sec-WH}
 
 Hydrothermal Raw Soils occur in active hydrothermal areas affected by hot water.
 
-#### **WHA** {#key-WHA .unnumbered}
+#### **WHA** {#sec-key-WHA}
 
 (only one subgroup recognised).
 
@@ -198,31 +198,31 @@ Hydrothermal Raw Soils occur in active hydrothermal areas affected by hot water.
 **Active Hydrothermal Raw Soils**
 :::
 
-### **WX** - ROCKY RAW SOILS {#WX .unnumbered}
+### **WX** - ROCKY RAW SOILS {#sec-WX}
 
 Rocky Raw Soils occur on rock outcrops subject to erosion. The soil volume available to roots is severely restricted.
 
 No subgroups have been defined.
 
-### **WS** - SANDY RAW SOILS {#WS .unnumbered}
+### **WS** - SANDY RAW SOILS {#sec-WS}
 
 Sandy Raw Soils occur in areas of active sand erosion, transportation and deposition, most commonly as dune sands.
 
 No subgroups have been defined.
 
-### **WF** - FLUVIAL RAW SOILS {#WF .unnumbered}
+### **WF** - FLUVIAL RAW SOILS {#sec-WF}
 
 Fluvial Raw Soils occur in sediments deposited by flowing water. They occur on land surfaces on which there is a high risk of flooding.
 
 No subgroups have been defined.
 
-### **WT** - TEPHRIC RAW SOILS {#WT .unnumbered}
+### **WT** - TEPHRIC RAW SOILS {#sec-WT}
 
 Tephric Raw Soils occur in unconsolidated sediments of volcanic origin including ash, cinders, lapilli, pumice and other pyroclastic material.
 
 No subgroups have been defined.
 
-### **WO** - ORTHIC RAW SOILS {#WO .unnumbered}
+### **WO** - ORTHIC RAW SOILS {#sec-WO}
 
 Orthic Raw Soils occur in land that is being eroded, on rock outcrops or land that has received sediment emplaced primarily by slope processes.
 

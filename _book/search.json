@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "New Zealand Soil Classification v4.0 (draft)",
+    "section": "",
+    "text": "v 4.0 [DRAFT]\nA. E. Hewitt\nManaaki Whenua - Landcare Research New Zealand Ltd\nLandcare Research Science Series No. 1\nFirst published as DSIR Land Resources Scientific Report No.19\nReprinted with corrections as Landcare Research Science Series No. 1, 1998.\nReprinted with updates and corrections as Landcare Research Science Series No. 1, 2010.\n© Landcare Research New Zealand Ltd 2010\n\nWelcome!\nThis is a Quarto version of the New Zealand Soil Classification (NZSC), draft 4th edition. This edition contains only minor typographical corrections at April 2022.\nIntroductory information about the NZSC is available at The New Zealand Soils Portal.\nThe third edition of the NZSC (Hewitt, 2010) should be treated as current, and can be downloaded from the Manaaki Whenua Digital Library.\nThe intent of this project is to demonstrate\n\nutility of the Quarto authoring format for interacting with the classification on electronic devices\nutility of Git for tracking changes to the classification over time.\n\n\nTo raise an issue about the book’s content (e.g. code not running) or make a feature request, please use the issue tracker.\nMaintainers and contributors must follow this repository’s Code of Conduct."
+  }
+]

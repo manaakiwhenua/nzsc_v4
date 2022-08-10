@@ -1,10 +1,8 @@
-# Appendix {.unnumbered}
+# Appendix {#sec-appendix}
 
 The system for designating the soils consists of letters only. This method has been adopted to make for easier insertion of new subgroups, and to make the codes easier to remember.
 
 The following is a list of the use which has been made of each code letter of the soil classification, the level at which it has been used, and the meanings.
-
-------------------------------------------------------------------------
 
 ```{r}
 library(flextable)

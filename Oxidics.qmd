@@ -1,18 +1,18 @@
-# Oxidic Soils {#ord-X .unnumbered}
+# Oxidic Soils {#sec-ord-X}
 
-## Concept of the Order {#con-X .unnumbered}
+## Concept of the Order {#sec-con-X}
 
 Oxidic Soils contain low-activity phyllosilicate clays and secondary oxides which give rise to variable charge properties. They form in the clayey weathering products of basic rocks. The soils have a fine or very fine polyhedral fabric with friable failure to stable microaggregates of 2 mm or less, and low plasticity in relation to clay content. Surface horizons are clayey, and an increase in clay content occurs with depth although clay illuvial features are generally not apparent.
 
-## Correlation {#cor-X .unnumbered}
+## Correlation {#sec-cor-X}
 
 The order comprises most of the strongly weathered red loams and brown loams, many northern brown granular clays, and a few brown granular soils from ash beds and basaltic and andesitic rocks of the NZ Genetic Soil Classification. It correlates with the Oxisols of Soil Taxonomy.
 
-## Occurrence {#occ-X .unnumbered}
+## Occurrence {#sec-occ-X}
 
 Oxidic Soils are only known to occur in the Auckland and Northland regions.
 
-## Accessory Properties of the Order {#acc-X .unnumbered}
+## Accessory Properties of the Order {#sec-acc-X}
 
 1.  *Low-activity clay.* CEC is low at field pH. ECEC is less than 12 cmol/kg (clay), and CEC less than 16 cmol/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic.
 2.  *High phosphate retention.* P-retention ranges from 60 to 90%. High sulphate adsorption occurs in B horizons.
@@ -25,7 +25,7 @@ Oxidic Soils are only known to occur in the Auckland and Northland regions.
 9.  *Well developed structure.* Topsoils have mostly well developed spheroidal or polyhedral peds. Topsoil bulk densities are low.
 10. *Strongly weathered with very low nutrient reserves.* The soils have very low reserves of potassium, magnesium, calcium and phosphorus.
 
-## Summary of Oxidic Soils Hierarchy {#sum-X .unnumbered}
+## Summary of Oxidic Soils Hierarchy {#sec-sum-X}
 
 ```{r}
 library(flextable)
@@ -53,50 +53,50 @@ ft_X <- set_header_labels(ft_X,
 ft_X
 ```
 
-## Key to Groups of Oxidic Soils {#grp-X .unnumbered}
+## Key to Groups of Oxidic Soils {#sec-grp-X}
 
-#### **XP** {#key-XP .unnumbered}
+#### **XP** {#sec-key-XP}
 
 Oxidic soils Soils that have both
 
-1.  a [gley profile form](#diag-gleypf), *and*
-2.  [perch-gley features](#diag-pgley).
+1.  a [gley profile form](diagnostics.qmd#sec-diag-gleypf), *and*
+2.  [perch-gley features](diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
-[**PERCH-GLEY OXIDIC SOILS**](#XP)
+[**PERCH-GLEY OXIDIC SOILS**](#sec-XP)
 :::
 
-#### **XN** {#key-XN .unnumbered}
+#### **XN** {#sec-key-XN}
 
-Other Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
+Other Oxidic Soils that have a [nodular horizon](diagnostics.qmd#sec-diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
-[**NODULAR OXIDIC SOILS**](#XN)
+[**NODULAR OXIDIC SOILS**](#sec-XN)
 :::
 
-#### **XO** {#key-XO .unnumbered}
+#### **XO** {#sec-key-XO}
 
 Other Oxidic Soils.
 
 ::: {style="text-align: right"}
-[**ORTHIC OXIDIC SOILS**](#XO)
+[**ORTHIC OXIDIC SOILS**](#sec-XO)
 :::
 
-## Key to Subgroups of Oxidic Soils {#sub-X .unnumbered}
+## Key to Subgroups of Oxidic Soils {#sec-sub-X}
 
-### **XP** - PERCH-GLEY OXIDIC SOILS {#XP .unnumbered}
+### **XP** - PERCH-GLEY OXIDIC SOILS {#sec-XP}
 
-Perch-gley Oxidic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by grey colours, and are caused by perching on a [slowly permeable layer](#diag-slowp).
+Perch-gley Oxidic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by grey colours, and are caused by perching on a [slowly permeable layer](diagnostics.qmd#sec-diag-slowp).
 
-#### **XPN** {#key-XPN .unnumbered}
+#### **XPN** {#sec-key-XPN}
 
-Perch-gley Oxidic Soils that have a [nodular horizon](#diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
+Perch-gley Oxidic Soils that have a [nodular horizon](diagnostics.qmd#sec-diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Nodular Perch-gley Oxidic Soils**
 :::
 
-#### **XPT** {#key-XPT .unnumbered}
+#### **XPT** {#sec-key-XPT}
 
 Other soils.
 
@@ -104,11 +104,11 @@ Other soils.
 **Typic Perch-gley Oxidic Soils**
 :::
 
-### **XN** - NODULAR OXIDIC SOILS {#XN .unnumbered}
+### **XN** - NODULAR OXIDIC SOILS {#sec-XN}
 
 Nodular Oxidic Soils occur in clayey soil materials derived from Pliocene or early Pleistocene basalts. They have clay-enriched B horizons and a prominent layer of iron oxide nodules. The soils have extremely low CEC (at natural pH) and natural fertility. Intermittent wetness is usual.
 
-#### **XNT** {#key-XNT .unnumbered}
+#### **XNT** {#sec-key-XNT}
 
 Only one subgroup is recognised.
 
@@ -116,19 +116,19 @@ Only one subgroup is recognised.
 **Typic Nodular Oxidic Soils**
 :::
 
-### **XO** - ORTHIC OXIDIC SOILS {#XO .unnumbered}
+### **XO** - ORTHIC OXIDIC SOILS {#sec-XO}
 
 Orthic Oxidic Soils occur in clayey soil materials derived from early to mid-Pleistocene basalts. They have clay-enriched B horizons but lack prominent nodules, although up to 2% may be present in some horizons.
 
-#### **XOM** {#key-XOM .unnumbered}
+#### **XOM** {#sec-key-XOM}
 
-Orthic Oxidic Soils that have a [mottled profile form](#diag-mottpf).
+Orthic Oxidic Soils that have a [mottled profile form](diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
 **Mottled Orthic Oxidic Soils**
 :::
 
-#### **XOB** {#key-XOB .unnumbered}
+#### **XOB** {#sec-key-XOB}
 
 Other soils that have within 90 cm of the mineral soil surface, *either*
 
@@ -139,7 +139,7 @@ Other soils that have within 90 cm of the mineral soil surface, *either*
 **Brown Orthic Oxidic Soils**
 :::
 
-#### **XOT** {#key-XOT .unnumbered}
+#### **XOT** {#sec-key-XOT}
 
 Other soils.
 
