@@ -1,0 +1,58 @@
+project:
+  type: book
+
+book:
+  title: "New Zealand Soil Classification v4.0 (draft)"
+  author: "Alan. E. Hewitt"
+  date: "`r Sys.Date()`"
+  chapters:
+    - index.qmd
+    - Foreword.qmd
+    - Introduction.qmd
+    - Diagnostics.qmd
+    - Key-to-Orders.qmd
+    - Allophanics.qmd
+    - Anthropics.qmd
+    - Browns.qmd
+    - Gleys.qmd
+    - Granulars.qmd
+    - Melanics.qmd
+    - Organics.qmd
+    - Oxidics.qmd
+    - Pallics.qmd
+    - Podzols.qmd
+    - Pumices.qmd
+    - Raws.qmd
+    - Recents.qmd
+    - Semiarids.qmd
+    - Ultics.qmd
+    - Acknowledgements.qmd
+    - Appendix.qmd
+    - References.qmd
+
+
+bibliography: NZSC_reference_list_3e.bib
+
+format:
+  html:
+    theme: cosmo
+    number-sections: false
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+# global knitr options
+knitr:
+  opts_chunk:
+    comment: "#>"
+    collapse: true
+    out.width: '85%'
+    fig.align: 'center'
+    echo: false
+    fig.show: 'hold'
+    results: 'hold'
+
+# leftover from _common.R:
+# example R options set globally
+#options(width = 60)
