@@ -1,6 +1,6 @@
-# Allophanic Soils {#sec-sec-ord-L}
+# Allophanic Soils {#sec-ord-L}
 
-## Concept of the Order {#sec-sec-con-L}
+## Concept of the Order {#sec-con-L}
 
 Allophanic Soils have properties that are strongly influenced by minerals with short-range order, especially allophane, imogolite and ferrihydrite. They are characteristically weak in strength and sensitive, with very low bulk density. They occur mostly in volcanic parent materials, especially ash and basaltic scoria, but occur also in quartzo-feldspathic and tuffaceous (greywacke) sandstone.
 
@@ -91,7 +91,7 @@ ft_L
 
 Allophanic Soils that have both
 
-1.  [Perch-gley features](diagnostics.qmd#sec-sec-diag-pgley), *and*
+1.  [Perch-gley features](diagnostics.qmd#sec-diag-pgley), *and*
 2.  Either a [peaty topsoil](diagnostics.qmd#sec-diag-pts), or within 15 cm of the base of the A horizon or 30 cm of the mineral soil surface, have
     (a) a [reductimorphic horizon](diagnostics.qmd#sec-diag-redmh), *or*
     (b) a [redox-mottled horizon](diagnostics.qmd#sec-diag-roxh) if the parent material is predominantly andesitic or basaltic.
