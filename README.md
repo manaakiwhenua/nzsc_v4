@@ -11,6 +11,6 @@ The intent of this project is to demonstrate
 -   utility of the Quarto authoring format for interacting with the classification on electronic devices
 -   utility of Git for tracking changes to the classification over time.
 
-To raise an issue about the book's content (e.g. code not running) or make a feature request, please use the [issue tracker](https://github.com/manaakiwhenua/nzsc_bookdown/issues).
+To raise an issue about the book's content (e.g. code not running) or make a feature request, please use the [issue tracker](https://github.com/manaakiwhenua/nzsc_quarto/issues).
 
 ------------------------------------------------------------------------

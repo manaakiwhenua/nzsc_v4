@@ -8,7 +8,7 @@ book:
   author: "Alan. E. Hewitt"
   date: last-modified
   search: false
-  repo-url: https://github.com/manaakiwhenua/nzsc_bookdown
+  repo-url: https://github.com/manaakiwhenua/nzsc_quarto
   sharing: [twitter]
   chapters:
     - index.qmd
