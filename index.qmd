@@ -2,8 +2,6 @@
 
 **v 4.0 \[DRAFT\]**
 
-A. E. Hewitt
-
 Manaaki Whenua - Landcare Research New Zealand Ltd
 
 Landcare Research Science Series No. 1
@@ -35,6 +33,6 @@ The intent of this project is to demonstrate
 
 To raise an issue about the book's content (e.g. code not running) or make a feature request, please use the [issue tracker](https://github.com/manaakiwhenua/nzsc_bookdown/issues).
 
-Maintainers and contributors must follow this repository's [Code of Conduct]().
-
 ------------------------------------------------------------------------
+
+{{< pagebreak >}}

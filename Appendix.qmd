@@ -54,3 +54,5 @@ ft_A1 <- set_table_properties(ft_A1, layout = "autofit", width = 1)
 ft_A1
 
 ```
+
+{{< pagebreak >}}

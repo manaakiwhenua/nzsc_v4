@@ -431,3 +431,5 @@ A weathered-B horizon shows evidence of alteration and is normally designated Bw
 3.  Evidence of either partial or complete decalcification, i.e. less CaCO~3~ than the underlying horizon which may contain redeposited carbonates.
 
 A weathered-B horizon may also meet the requirements of a [redox-mottled horizon](#sec-diag-roxh), [argillic horizon](#sec-diag-argh), [cutanic horizon](#sec-diag-cuth), or [brittle-B horizon](#sec-diag-britb).
+
+{{< pagebreak >}}

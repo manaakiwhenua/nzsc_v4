@@ -143,3 +143,5 @@ Other soils.
 
 knitr::include_graphics('images/Figure-002_pallic-vs-brown-colours_alternate-version.png')
 ```
+
+{{< pagebreak >}}

@@ -22,3 +22,5 @@ CEC -- Cation exchange capacity.
 ECEC -- Effective cation exchange capacity, which is the CEC at natural field pH, estimated by the sum of basic cations + KCl-extractable aluminium.
 
 P retention -- Phosphate retention.
+
+{{< pagebreak >}}

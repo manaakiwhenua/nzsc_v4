@@ -7,6 +7,9 @@ book:
   title: "New Zealand Soil Classification v4.0 (draft)"
   author: "Alan. E. Hewitt"
   date: last-modified
+  search: false
+  repo-url: https://github.com/manaakiwhenua/nzsc_bookdown
+  sharing: [twitter]
   chapters:
     - index.qmd
     - Foreword.qmd
@@ -42,8 +45,13 @@ format:
       light: cosmo
       dark: slate
     number-sections: false
-    css: styles.css
     citations-hover: true
+  epub:
+    number-sections: false
+  docx:
+    number-sections: false
+    toc-depth: 1
+
 
 editor: visual
 
