@@ -20,7 +20,7 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 4.  *Strongly weathered with low nutrient reserves.* Low levels of 0.5M H~2~SO~4~^-^ extractable phosphorus (usually less than 3 mg/100 g) and total phosphorus (usually less than 20 mg/100 g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of 0.5M H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
 5.  *Slow permeability.* A slowly permeable layer occurs in clayey profiles. The majority of soils are imperfectly to poorly drained, few are well-drained. Soil water movement is mainly along planar voids.
 6.  *Susceptibility to livestock treading damage.* Clayey or low strength silty surface horizons are susceptible to treading damage or compaction during wet periods.
-7.  *Dispersible surface horizons.* Surface horizons, especially silty ones, are dispersible according to the test of McQueen (1981), and are prone to erosion where the surface cover has been removed. Although P retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
+7.  *Dispersible surface horizons.* Surface horizons, especially silty ones, are dispersible according to the test of @mcqueen1981, and are prone to erosion where the surface cover has been removed. Although P retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
 
 ## Summary of Ultic Soils Hierarchy {#sec-sum-U}
 

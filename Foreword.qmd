@@ -4,14 +4,14 @@ Many technical terms are used throughout this report in the keys and definitions
 
 Other technical terms are defined in other books:
 
--   *Horizon notations* are defined by @clayden_horizon_1989.
--   *Soil morphology* terms are defined by @milne_soil_1991.
--   *Classes of the US Soil Taxonomy* are defined by @soil_survey_staff_soil_1999.
--   *Soil colours* are defined by @munsell_color_company_munsell_1975.
--   *Soil mineralogy classes* are defined by @whitton_new_1989 or @childs_proposed_1990. Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
--   *Soil chemical terms* are explained and the analytical methods are described by @blakemore_methods_1987. Note that soil pH measurements are made in water with a ratio of 1 part of soil to 2.5 parts of water, by weight.
--   *Soil physical terms* are explained and the analytical methods are described by @gradwell_c_1979.
--   Many other soil science concepts and technical terms are explained, in a New Zealand context, by @mclaren_soil_1990.
+-   *Horizon notations* are defined by @clayden1989.
+-   *Soil morphology* terms are defined by @milne1991.
+-   *Classes of the US Soil Taxonomy* are defined by @soilsurveystaff1999.
+-   *Soil colours* are defined by @munsellcolorcompany1975.
+-   *Soil mineralogy classes* are defined by @whitton1989 or @childs1990. Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
+-   *Soil chemical terms* are explained and the analytical methods are described by @blakemore1987. Note that soil pH measurements are made in water with a ratio of 1 part of soil to 2.5 parts of water, by weight.
+-   *Soil physical terms* are explained and the analytical methods are described by @gradwell1979.
+-   Many other soil science concepts and technical terms are explained, in a New Zealand context, by @mclaren1990.
 
 ------------------------------------------------------------------------
 
