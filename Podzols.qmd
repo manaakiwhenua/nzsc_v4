@@ -186,7 +186,7 @@ Other soils that have both
 
 1.  an E horizon that
     (a) has slightly firm or greater moist soil strength, *and*
-    (b) is apedal massive or has very coarse to extremely coarse prismatic pedality, *and*
+    (b) is apedal-massive or has very coarse to extremely coarse prismatic structure, *and*
     (c) occurs within a layer that is silty through a thickness of at least 15 cm, *and*
 2.  a [peaty topsoil](diagnostics.qmd#sec-diag-pts).
 
