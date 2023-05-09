@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
   preview:
     browser: true
 
@@ -35,9 +36,7 @@ book:
     - Appendix.qmd
     - references.qmd
 
-
 bibliography: NZSC_reference_list_3e.bib
-#csl: geoderma.csl
 
 format:
   html:
@@ -46,8 +45,7 @@ format:
       dark: slate
     number-sections: false
     citations-hover: true
-  epub:
-    number-sections: false
+    footnotes-hover: true
   docx:
     number-sections: false
     toc-depth: 1
@@ -65,7 +63,3 @@ knitr:
     echo: false
     fig.show: 'hold'
     results: 'hold'
-
-# leftover from _common.R:
-# example R options set globally
-#options(width = 60)
