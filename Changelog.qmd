@@ -4,11 +4,14 @@
 
 #### Mafic Melanic/Brown subgroup revision
 
-  - ADD subgroups EML (Allophanic Mafic Melanic), EMA (Acidic Mafic Melanic), BML (Allophanic Mafic Brown)
-  - REMOVE subgroup BLAM (Acidic-mafic Allophanic Brown Soils)
+-   **ADD** subgroups EML ([Allophanic Mafic Melanic](Melanics.qmd#sec-key-EML)), EMA ([Acidic Mafic Melanic](Melanics.qmd#sec-key-EMA)).
+-   **ADD** subgroup BML ([Allophanic Mafic Brown](Browns.qmd#sec-key-BML))\
+    **Rationale:** Acidification, high P retention and presence of allophanic material in Melanic soils from mafic rock types (e.g., basalt) as observed under higher precipitation (\>800-1000 mm) does not necessarily lead to the loss of the typical characteristics of Melanic soils, such as the dominance of mafic parent material, dark-coloured Fe/Mg/Ti-rich minerals, smectitic clays, a well-developed pedality and higher organic carbon contents. Despite their lower soil pH and exchangeable bases, they are more closely related to soils in the existing EM group than they are to their former groups (BL, BM) in the Brown Soil order.
+-   **REMOVE** subgroup BLAM (Acidic-mafic Allophanic Brown)\
+    **Rationale:** With the changes above, this subgroup has become superfluous. Linking allophanic subgroups directly to mafic groups (EM, BM) will better account for the mechanisms behind the allophanic characteristics in these soils that are likely different to that of soils with allophanic characteristics from tephra and more felsic lithology.
 
 ### Minor
 
 #### Word usage
 
-  - AMEND subgroup ZPOZ (Peaty-silt-mantled Perch-gley Podzols); in requirement 1(b), 'pedality' was used where 'structure' should have been.
+-   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
