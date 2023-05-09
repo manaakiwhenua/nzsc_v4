@@ -192,19 +192,6 @@ Other soils that have both
 **Firm Allophanic Brown Soils**
 :::
 
-#### **BLAM** {#sec-key-BLAM}
-
-Other soils that have both
-
-1.  pH less than 5.5 in some part of the B horizon to 60 cm from the mineral soil surface, *and*
-2.  in a subhorizon at 60 cm from the mineral soil surface, or at the base of the B horizon if shallower, *either*
-    (a) matrix colour value 4 or less and moderately or strongly pedal polyhedral fabric, *or*
-    (b) 5% (by volume) or more gravel consisting mainly of mafic rocks.
-
-::: {style="text-align: right"}
-**Acidic-mafic Allophanic Brown Soils**
-:::
-
 #### **BLT** {#sec-key-BLT}
 
 Other soils that have, in some part of the B horizon to 60 cm depth from the mineral soil surface, crumb (or earthy) structure, or bulk density of the fine-earth fraction less than 1.1 Mg/m^3^ with weakly pedal or apedal fabric.
@@ -330,6 +317,14 @@ Other soils that have a [mottled profile form](diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
 **Mottled Mafic Brown Soils**
+:::
+
+#### **BML** {#sec-key-BML}
+
+Other soils that have P-retention 85% or more, or strong or very strong [reactive-aluminium test](diagnostics.qmd#sec-diag-naf), in some part of the B horizon to 90 cm or less from the mineral soil surface.
+
+::: {style="text-align: right"}
+**Allophanic Mafic Brown Soils**
 :::
 
 #### **BMA** {#sec-key-BMA}
