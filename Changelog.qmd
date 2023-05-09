@@ -1,0 +1,14 @@
+## Changes in the Fourth Edition
+
+### Major
+
+#### Melanic subgroup revision
+
+  - ADD subgroups EML (Allophanic Mafic Melanic), EMA (Acidic Mafic Melanic), BML (Allophanic Mafic Brown)
+  - REMOVE subgroup BLAM (Acidic-mafic Allophanic Brown Soils)
+
+### Minor
+
+#### Word Usage
+
+  - AMEND subgroup ZPOZ (Peaty-silt-mantled Perch-gley Podzols); in requirement 1(b), 'pedality' was used where 'structure' should have been.

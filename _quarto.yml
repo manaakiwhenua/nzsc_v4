@@ -15,6 +15,7 @@ book:
     - index.qmd
     - Foreword.qmd
     - Introduction.qmd
+    - Changelog.qmd
     - Diagnostics.qmd
     - Key-to-Orders.qmd
     - Allophanics.qmd
