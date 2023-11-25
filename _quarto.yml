@@ -51,7 +51,6 @@ format:
     number-sections: false
     toc-depth: 1
 
-
 editor: visual
 
 # global knitr options
@@ -64,3 +63,6 @@ knitr:
     echo: false
     fig.show: 'hold'
     results: 'hold'
+    warning: false
+    message: false
+    error: false
