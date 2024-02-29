@@ -130,7 +130,7 @@ Other soils that have been formed by the direct action of people by either trunc
 
 Other soils that **BOTH**
 
-1.  have a [distinct topsoil](diagnostics.qmd#sec-diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or a [weathered-B horizon](diagnostics.qmd#sec-diag-bw); **AND**
+1.  have a [distinct topsoil](diagnostics.qmd#sec-diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or at least moderate structural development in the top 15 cm, or a [weathered-B horizon](diagnostics.qmd#sec-diag-bw); **AND**
 2.  do not have any horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface.
 
 ## [**W** - Raw Soils](raws.qmd#sec-ord-W) {#sec-W}
