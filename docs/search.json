@@ -20,11 +20,21 @@
     ]
   },
   {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Objectives\nThe objectives of the New Zealand Soil Classification are:\nA discussion of these objectives is given by Hewitt (1984).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
     "objectID": "Introduction.html#sec-intro-objectives",
     "href": "Introduction.html#sec-intro-objectives",
     "title": "Introduction",
-    "section": "Objectives",
-    "text": "Objectives\nThe objectives of the New Zealand Soil Classification are:\n\nto provide a better means of communication about New Zealand soils and their utilisation;\nto provide an efficient vehicle for soil identification, soil series recognition and correlation, and soil map legend establishment in soil surveys;\nto enable an efficient stratification of soil database information;\nto draw together knowledge of the properties of New Zealand soils and important similarities and differences among them.\n\nA discussion of these objectives is given by Hewitt (1984).",
+    "section": "",
+    "text": "to provide a better means of communication about New Zealand soils and their utilisation;\nto provide an efficient vehicle for soil identification, soil series recognition and correlation, and soil map legend establishment in soil surveys;\nto enable an efficient stratification of soil database information;\nto draw together knowledge of the properties of New Zealand soils and important similarities and differences among them.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -100,11 +110,21 @@
     ]
   },
   {
+    "objectID": "Diagnostics.html",
+    "href": "Diagnostics.html",
+    "title": "Diagnostic horizons and other differentiae",
+    "section": "",
+    "text": "Allophanic Soil Material\nAllophanic soil material has soil properties dominated by minerals with short-range order, especially allophane, imogolite and ferrihydrite. Other terms such as “amorphous”, “poorly crystalline” and “non-crystalline”, have been, or are, sometimes used for such minerals. Their chief characteristics are reactive variable-charge surfaces, and a very high specific surface area (several hundreds of m2/g).\nAllophanic soil material has BOTH\nLayers meeting the requirements of allophanic soil material may also meet the requirements of vitric soil material.\nAccessory chemical properties relate to variable-charge characteristics, P retention, and high organic-matter contents. Accessory physical properties include high total available water capacity and readily available water capacity, and low penetration resistance. In addition, allophanic soil material undergoes irreversible changes upon drying, for example, in plastic and liquid limits and in apparent particle-size distribution. It should be noted that minerals other than allophane (e.g. ferrihydrite) can give rise to allophanic soil material.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Diagnostic horizons and other differentiae</span>"
+    ]
+  },
+  {
     "objectID": "Diagnostics.html#sec-diag-alloph",
     "href": "Diagnostics.html#sec-diag-alloph",
     "title": "Diagnostic horizons and other differentiae",
-    "section": "Allophanic Soil Material",
-    "text": "Allophanic Soil Material\nAllophanic soil material has soil properties dominated by minerals with short-range order, especially allophane, imogolite and ferrihydrite. Other terms such as “amorphous”, “poorly crystalline” and “non-crystalline”, have been, or are, sometimes used for such minerals. Their chief characteristics are reactive variable-charge surfaces, and a very high specific surface area (several hundreds of m2/g).\nAllophanic soil material has BOTH\n\nEither\n\nAll of the following (in a fresh sample):\n\nSensitive or strongly sensitive sensitivity class (distinctly greasy or smeary feel except in some sandy soils), and\nVery weak or weak unconfined soil strength class (when moist), and\nNon-sticky or slightly sticky stickiness class, and\nStrong or very strong reactive-aluminium test; OR\n\nP retention of 85% or more; AND\n\nDry bulk density of the fine-earth fraction (where the volume is determined on a field-moist soil) of less than 0.9 Mg/m3.\n\nLayers meeting the requirements of allophanic soil material may also meet the requirements of vitric soil material.\nAccessory chemical properties relate to variable-charge characteristics, P retention, and high organic-matter contents. Accessory physical properties include high total available water capacity and readily available water capacity, and low penetration resistance. In addition, allophanic soil material undergoes irreversible changes upon drying, for example, in plastic and liquid limits and in apparent particle-size distribution. It should be noted that minerals other than allophane (e.g. ferrihydrite) can give rise to allophanic soil material.",
+    "section": "",
+    "text": "Either\n\nAll of the following (in a fresh sample):\n\nSensitive or strongly sensitive sensitivity class (distinctly greasy or smeary feel except in some sandy soils), and\nVery weak or weak unconfined soil strength class (when moist), and\nNon-sticky or slightly sticky stickiness class, and\nStrong or very strong reactive-aluminium test; OR\n\nP retention of 85% or more; AND\n\nDry bulk density of the fine-earth fraction (where the volume is determined on a field-moist soil) of less than 0.9 Mg/m3.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Diagnostic horizons and other differentiae</span>"
     ]
@@ -450,11 +470,21 @@
     ]
   },
   {
+    "objectID": "Key-to-Orders.html",
+    "href": "Key-to-Orders.html",
+    "title": "Key to Soil Orders",
+    "section": "",
+    "text": "O - Organic Soils\nSoils that have horizons that consist of organic soil material (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are EITHER",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Key to Soil Orders</span>"
+    ]
+  },
+  {
     "objectID": "Key-to-Orders.html#sec-O",
     "href": "Key-to-Orders.html#sec-O",
     "title": "Key to Soil Orders",
-    "section": "O - Organic Soils",
-    "text": "O - Organic Soils\nSoils that have horizons that consist of organic soil material (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are EITHER\n\n30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), OR\n40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).",
+    "section": "",
+    "text": "30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), OR\n40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Key to Soil Orders</span>"
     ]
@@ -584,7 +614,7 @@
     "href": "Key-to-Orders.html#sec-R",
     "title": "Key to Soil Orders",
     "section": "R - Recent Soils",
-    "text": "R - Recent Soils\nOther soils that BOTH\n\nhave a distinct topsoil at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or a weathered-B horizon; AND\ndo not have any horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface.",
+    "text": "R - Recent Soils\nOther soils that BOTH\n\nhave a distinct topsoil at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or at least moderate structural development in the top 15 cm, or a weathered-B horizon; AND\ndo not have any horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface.",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Key to Soil Orders</span>"
     ]
@@ -600,10 +630,20 @@
     ]
   },
   {
-    "objectID": "Allophanics.html#sec-con-L",
-    "href": "Allophanics.html#sec-con-L",
+    "objectID": "Key-to-Orders.html#footnotes",
+    "href": "Key-to-Orders.html#footnotes",
+    "title": "Key to Soil Orders",
+    "section": "",
+    "text": "“the major part” means that the requirement must be met over more than half the specified thickness (in this case from the base of the A horizon to 60 cm from the mineral soil surface). Analyses or estimates should be used from subhorizons that subdivide the thickness, or if the subhorizons are not recognised, then from subsamples of the relevant horizons.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Key to Soil Orders</span>"
+    ]
+  },
+  {
+    "objectID": "Allophanics.html",
+    "href": "Allophanics.html",
     "title": "Allophanic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nAllophanic Soils have properties that are strongly influenced by minerals with short-range order, especially allophane, imogolite and ferrihydrite. They are characteristically weak in strength and sensitive, with very low bulk density. They occur mostly in volcanic parent materials, especially ash and basaltic scoria, but occur also in quartzo-feldspathic and tuffaceous (greywacke) sandstone.",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Allophanic Soils</span>"
@@ -670,10 +710,10 @@
     ]
   },
   {
-    "objectID": "Anthropics.html#sec-con-A",
-    "href": "Anthropics.html#sec-con-A",
+    "objectID": "Anthropics.html",
+    "href": "Anthropics.html",
     "title": "Anthropic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nAnthropic Soils are soils that have been made by the direct action of people, including truncation of natural soils by earth-moving equipment, drastic mixing of natural soils so that their original character is lost, or by deposition of thick layers of organic or inorganic material. Anthropic Soils occur in land surfaces that are made by people. Their classification reflects the way in which they were made and the kinds of materials used.\nNote that soils that have been drastically disturbed but have been restored to the extent that they will meet the requirements of orders other than Recent Soils or Raw Soils, will not be assigned to Anthropic Soils. For this reason Anthropic soils are placed late in the Key to Orders but before Recent Soils and Raw Soils.",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Anthropic Soils</span>"
@@ -740,10 +780,10 @@
     ]
   },
   {
-    "objectID": "Browns.html#sec-con-B",
-    "href": "Browns.html#sec-con-B",
+    "objectID": "Browns.html",
+    "href": "Browns.html",
     "title": "Brown Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nBrown Soils usually contain 2:1 clay minerals. Secondary iron oxides tend to be evenly dispersed through the soil and give a yellowish brown colour to the upper part of the B horizon. Base saturation values are usually moderate to very low.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Brown Soils</span>"
@@ -810,10 +850,20 @@
     ]
   },
   {
-    "objectID": "Gleys.html#sec-con-G",
-    "href": "Gleys.html#sec-con-G",
+    "objectID": "Browns.html#footnotes",
+    "href": "Browns.html#footnotes",
+    "title": "Brown Soils",
+    "section": "",
+    "text": "“in some part” means that the requirement must be met in some subhorizon or some subsample that is 10 cm or more thick within the specified thickness.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Brown Soils</span>"
+    ]
+  },
+  {
+    "objectID": "Gleys.html",
+    "href": "Gleys.html",
     "title": "Gley Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nGley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically affecting iron, manganese, nitrates, and sometimes sulphates). Greyish colours are dominant throughout the solum or to a depth of 90 cm or more.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Gley Soils</span>"
@@ -880,10 +930,10 @@
     ]
   },
   {
-    "objectID": "Granulars.html#sec-con-N",
-    "href": "Granulars.html#sec-con-N",
+    "objectID": "Granulars.html",
+    "href": "Granulars.html",
     "title": "Granular Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nGranular soils are clayey soils in which kaolin-group minerals are dominant, and are usually associated with vermiculite and hydrous-interlayered vermiculite. The soil fabric comprises polyhedral peds with strength characteristics which change rapidly with water content. Consistence is sticky and plastic. The presence of vermiculite gives these soils a moderate buffering capacity. The soils lack the weak strength, friable failure, low plasticity, and low-activity-clay properties which either define or are accessory to Oxidic Soils. Clay coatings where they occur are thin.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Granular Soils</span>"
@@ -950,10 +1000,10 @@
     ]
   },
   {
-    "objectID": "Melanics.html#sec-con-E",
-    "href": "Melanics.html#sec-con-E",
+    "objectID": "Melanics.html",
+    "href": "Melanics.html",
     "title": "Melanic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nMelanic Soils are soils with high base saturations, well structured, very dark A horizons, and with weakly alkaline or weakly acid subsurface horizons. Their parent materials are rich in calcium and/or magnesium.",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Melanic Soils</span>"
@@ -1020,10 +1070,10 @@
     ]
   },
   {
-    "objectID": "Organics.html#sec-con-O",
-    "href": "Organics.html#sec-con-O",
+    "objectID": "Organics.html",
+    "href": "Organics.html",
     "title": "Organic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nOrganic Soils are soils that occur in the partly decomposed remains of wetland plants (peat) or forest litter. Mineral soil material is commonly present but organic soil material is dominant. The soils occur in sites where rates of organic-matter decomposition are balanced or exceeded by rates of plant biomass production and accumulation.",
     "crumbs": [
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Organic Soils</span>"
@@ -1090,10 +1140,10 @@
     ]
   },
   {
-    "objectID": "Oxidics.html#sec-con-X",
-    "href": "Oxidics.html#sec-con-X",
+    "objectID": "Oxidics.html",
+    "href": "Oxidics.html",
     "title": "Oxidic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nOxidic Soils contain low-activity phyllosilicate clays and secondary oxides which give rise to variable charge properties. They form in the clayey weathering products of basic rocks. The soils have a fine or very fine polyhedral fabric with friable failure to stable microaggregates of 2 mm or less, and low plasticity in relation to clay content. Surface horizons are clayey, and an increase in clay content occurs with depth although clay illuvial features are generally not apparent.",
     "crumbs": [
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Oxidic Soils</span>"
@@ -1160,10 +1210,10 @@
     ]
   },
   {
-    "objectID": "Pallics.html#sec-con-P",
-    "href": "Pallics.html#sec-con-P",
+    "objectID": "Pallics.html",
+    "href": "Pallics.html",
     "title": "Pallic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nPallic Soils are soils with moderate to high base status and low contents of secondary iron oxides. They have pale colours, high slaking potential and high density in subsurface horizons. Pallic Soils have water deficits in summer, and soil water surpluses in winter or spring.",
     "crumbs": [
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Pallic Soils</span>"
@@ -1230,10 +1280,10 @@
     ]
   },
   {
-    "objectID": "Podzols.html#sec-con-Z",
-    "href": "Podzols.html#sec-con-Z",
+    "objectID": "Podzols.html",
+    "href": "Podzols.html",
     "title": "Podzols",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nPodzols are acid soils with low base saturation. Podzols have an horizon of accumulation of aluminium occurring as complexes with organic matter and/or as short-range-order minerals (typically with silicon as allophane/ imogolite). Iron (typically as ferrihydrite) may or may not be accumulated with aluminium. This horizon is usually associated with an overlying E horizon indicating translocation. The E horizon may be missing as a result of erosion, ploughing or bioturbation or it may be masked by organic matter.",
     "crumbs": [
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Podzols</span>"
@@ -1300,10 +1350,10 @@
     ]
   },
   {
-    "objectID": "Pumices.html#sec-con-M",
-    "href": "Pumices.html#sec-con-M",
+    "objectID": "Pumices.html",
+    "href": "Pumices.html",
     "title": "Pumice Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nPumice soils are soils that have properties dominated by a pumiceous and glassy skeleton with a low content of clay (which typically contains allophane). They occur in sandy or pumiceous tephra ranging from 700 to 3500 years in age.",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Pumice Soils</span>"
@@ -1370,10 +1420,10 @@
     ]
   },
   {
-    "objectID": "Raws.html#sec-con-W",
-    "href": "Raws.html#sec-con-W",
+    "objectID": "Raws.html",
+    "href": "Raws.html",
     "title": "Raw Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nRaw Soils lack distinct topsoil development or are fluid at a shallow depth. They occur in environments where the development of topsoils is prevented by rockiness, by active erosion, or deposition. They include beach sands, alpine rock areas and active screes, lagoons and tidal estuaries.",
     "crumbs": [
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Raw Soils</span>"
@@ -1440,10 +1490,10 @@
     ]
   },
   {
-    "objectID": "Recents.html#sec-con-R",
-    "href": "Recents.html#sec-con-R",
+    "objectID": "Recents.html",
+    "href": "Recents.html",
     "title": "Recent Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nRecent Soils show only incipient marks of soil-forming processes because of youthfulness, truncation of an older solum or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a distinct topsoil, or as in the case of fine-textured wetland soils, to have ripened sufficiently that fluid layers are not close to the surface. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Recent Soils</span>"
@@ -1510,10 +1560,10 @@
     ]
   },
   {
-    "objectID": "Semiarids.html#sec-con-S",
-    "href": "Semiarids.html#sec-con-S",
+    "objectID": "Semiarids.html",
+    "href": "Semiarids.html",
     "title": "Semiarid Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nSemiarid Soils are high base status soils in which a soil water deficit prevails over most of the growing season. Wetting fronts in the natural state fail to penetrate deeper than the base of the solum, with consequent accumulation of pedogenic lime and soluble salts.",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Semiarid Soils</span>"
@@ -1580,10 +1630,10 @@
     ]
   },
   {
-    "objectID": "Ultics.html#sec-con-U",
-    "href": "Ultics.html#sec-con-U",
+    "objectID": "Ultics.html",
+    "href": "Ultics.html",
     "title": "Ultic Soils",
-    "section": "Concept of the Order",
+    "section": "",
     "text": "Concept of the Order\nUltic soils are acid soils with clayey and/or organic illuvial features in subsoil horizons. They are developed in clayey weathering products of siliceous sediments or acid igneous rocks and usually contain mixtures of clay minerals including kaolinite, halloysite, aluminium-interlayered vermiculite and smectite. A few are developed in the weathering products of limestones and greensands. They have low potassium, magnesium and phosphorus reserves and small concentrations of weatherable minerals. E horizons or other features such as skeletans in the upper parts of the Bt horizon are indicative of clay destruction/removal processes. Argillic horizons are usually present.",
     "crumbs": [
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Ultic Soils</span>"
