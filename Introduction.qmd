@@ -9,7 +9,7 @@ The New Zealand Soil Classification is a national soil classification intended t
 The objectives of the New Zealand Soil Classification are:
 
 1.  to provide a better means of communication about New Zealand soils and their utilisation;
-2.  to provide an efficient vehicle for soil identification, soil series recognition and correlation, and soil map legend establishment in soil surveys;
+2.  to provide an efficient vehicle for soil identification, soil series/family recognition and correlation, and soil map legend establishment in soil surveys;
 3.  to enable an efficient stratification of soil database information;
 4.  to draw together knowledge of the properties of New Zealand soils and important similarities and differences among them.
 
@@ -63,7 +63,7 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 ## Correlations with other soil classification systems {#sec-intro-correls}
 
-Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. In @tbl-one, classes of the Zealand Soil Classification are correlated with the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999].
+Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. @tbl-one summarises the correlations of classes of the Zealand Soil Classification with those of the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999]. For further information on the Soil Taxonomy terms used in the correlation, the reader is referred to the Soil Taxonomy.
 
 ```{r}
 #| label: tbl-one
