@@ -12,9 +12,10 @@ t2 <- data.frame(
              'Nodular horizon', 'Ortstein-pan', 'Oxidic horizon', 'Peaty topsoil',
              'Placic horizon', 'Podzolic-B horizon', 'Reductimorphic horizon',
              'Redox-mottled horizon', 'Slowly permeable layer', 'Weathered-B horizon'),
-  'col2' = c('Soil materials and\n Contacts:', 'Allophanic soil material', 'Lithic contact',
-             'Organic soil material', 'Paralithic contact', 'Tephric soil material',
-             'Vitric soil material', '', 'Profile Forms:', 'Gley profile form', 'Mottled profile form',
+  'col2' = c('Soil materials and\n Contacts:', 'Allophanic soil material', 
+             'Anthropic soil material', 'Lithic contact', 'Organic soil material',
+             'Paralithic contact', 'Tephric soil material', 'Vitric soil material', 
+             '', 'Profile Forms:', 'Gley profile form', 'Mottled profile form',
              '', 'Features:', 'Fluvial features', 'Perch-gley features', 'Sodic features', '',
              'Other Differentiae:', 'Crumb structure', 'Reactive-aluminium test',
              'Redox segregations', ''))
@@ -50,6 +51,20 @@ Allophanic soil material has **BOTH**
 Layers meeting the requirements of allophanic soil material may also meet the requirements of [vitric soil material](#sec-diag-vitr).
 
 Accessory chemical properties relate to variable-charge characteristics, P retention, and high organic-matter contents. Accessory physical properties include high total available water capacity and readily available water capacity, and low penetration resistance. In addition, allophanic soil material undergoes irreversible changes upon drying, for example, in plastic and liquid limits and in apparent particle-size distribution. It should be noted that minerals other than allophane (e.g. ferrihydrite) can give rise to allophanic soil material.
+
+## Anthropic soil material {#sec-diag-anthro}
+
+Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
+
+- excavated or constructed landforms,
+- mechanically detached, redistributed, and re-oriented soil material,
+- mechanically abraded and broken rock fragments that do not correspond with the fragments in the underlying soil material (e.g., fractures that cut through rather than between individual minerals),
+- manufactured materials, such as charcoal, and artefacts,
+- relocated soil material overlying bones, shells or manufactured materials,
+- eating and cooking waste and associated charred products,
+- waste products of manufacturing processes, including chemical contaminants.
+
+The relationship between natural soil horizons or parent materials with Anthropic material or truncation is commonly in the form of a lithological discontinuity, indicated by distinct to sharp transitions between horizons. The majority of Anthropic material (including truncation) in NZ is the result of distinct and extensive modification from the mid-19th century coinciding with early European settlement, deforestation, and farming. From the mid-20th century, excavation and construction (e.g., infrastructure, roading, industrial and urban expansion) has further pronounced lithological discontinuity and alteration. The influence of ‘older’ Māori cultural practice (e.g., soil alteration/modification practices, Māori plaggen soils) is still recognised in many parts of NZ, and can predate European settlement. Distinct soil management alterations from historical (dating back to early Polynesian settlement) to modern can be distinguished at the group or family level. Anthropic material is indicated on a per-horizon basis by the Parent Material Class notation 'An'. This notation can be appended with 'm', 'e', or 'n' to distinguish pre-modern Māori modifications, pre-modern European modifications, and modern modifications, if desired (e.g 'An-m').
 
 ## Argillic Horizon {#sec-diag-argh}
 
