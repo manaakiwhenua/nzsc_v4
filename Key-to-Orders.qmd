@@ -4,9 +4,13 @@ In the keys to orders, groups or subgroups, any surface mantle of new material, 
 
 **If any soil has an overthickened A horizon with its base at 45 cm or more from the mineral soil surface and is not mottled within 30 cm of the mineral surface, the key should be entered directly at [Recent Soils](#sec-R).**
 
+## [**A** - Anthropic Soils](anthropics.qmd#sec-ord-A) {#sec-A}
+
+Soils that have been formed from [Anthropic soil material](Diagnostics.qmd#sec-diag-anthro) (including truncation) of at least a combined thickness of 30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith).
+
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O}
 
-Soils that have horizons that consist of [organic soil material](diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are **EITHER**
+Other soils that have horizons that consist of [organic soil material](diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are **EITHER**
 
 1.  30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), **OR**
 2.  40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).
@@ -121,10 +125,6 @@ Other soils that have **BOTH**
     (a) hue 7.5YR or redder, or hue 10YR and chroma 6 or more; ***or***
     (b) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is 30% or more, or the reactive-aluminium test is at least moderate, in the uppermost subhorizon (10 cm or more thick) of the B horizon, ***or***
     (c) the texture is sand or loamy sand in the B horizon to its base, or to 60 cm from the mineral soil surface, whichever is less.
-
-## [**A** - Anthropic Soils](anthropics.qmd#sec-ord-A) {#sec-A}
-
-Other soils that have been formed by the direct action of people by either truncation, drastic mixing or by deposition of material 30 cm or more thick.
 
 ## [**R** - Recent Soils](recents.qmd#sec-ord-R) {#sec-R}
 
