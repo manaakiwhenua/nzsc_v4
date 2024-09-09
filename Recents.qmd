@@ -110,7 +110,7 @@ Other Recent Soils that have [fluvial features](Diagnostics.qmd#sec-diag-fluv) a
 
 #### **RT** {#sec-key-RT}
 
-Other Recent Soils in tephric soil material from the mineral soil surface to 30 cm depth or more.
+Other Recent Soils in [tephric soil material](diagnostics.qmd#sec-diag-teph) from the mineral soil surface to 30 cm depth or more.
 
 ::: {style="text-align: right"}
 [**TEPHRIC RECENT SOILS**](#sec-RT)
