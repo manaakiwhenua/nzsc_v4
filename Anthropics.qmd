@@ -6,7 +6,7 @@ Anthropic Soils are soils that have been made by the direct action of people, in
 
 ## Correlation {#sec-cor-A}
 
-Anthropic Soils were not formally part of the NZ Genetic Soil Classification although anthropic soils were described in some soil survey reports. The soils either correlate with Entisols or are unclassified in Soil Taxonomy.
+Anthropic Soils were not formally part of the NZ Genetic Soil Classification although anthropic soils were described in some soil survey reports. In US Soil Taxonomy, the soils either correlate with soils containing an Anthropic or Plaggen Epipedon, Entisols, or are unclassified.
 
 ## Occurrence {#sec-occ-A}
 
