@@ -1,6 +1,8 @@
 # Key to Soil Orders {#sec-key}
 
-In the keys to orders, groups or subgroups, any surface mantle of new material, e.g. fresh alluvium, that is less than 30 cm thick, is not considered as part of the soil for assignment to orders, groups or subgroups, except in the [Recent Soils](recents.qmd#sec-ord-R) or [Raw Soils](raws.qmd#sec-ord-W), or [Sulphuric Gley](gleys.qmd#sec-key-GU) or [Recent Gley](gleys.qmd#sec-key-GR) groups of the [Gley Soils](gleys.qmd#sec-ord-G). A surface mantle of new material can be recognised because it will not meet the requirements of the key for any order or group except those specified above.
+In the keys to orders, groups or subgroups, any surface mantle of new material, e.g. fresh alluvium, that is less than 30 cm thick, is not considered as part of the soil for assignment to orders, groups or subgroups, except in the [Recent Soils](recents.qmd#sec-ord-R) or [Raw Soils](raws.qmd#sec-ord-W), or [Sulphuric Gley](gleys.qmd#sec-key-GU) or [Recent Gley](gleys.qmd#sec-key-GR) groups of the [Gley Soils](gleys.qmd#sec-ord-G). A surface mantle of new material can be recognised because it will not meet the requirements of the key for any order or group except those specified above. 
+
+When horizon notations are included as criteria in the key, the statements do not apply to transitional horizons, unless explicitly stated.
 
 **If any soil has an overthickened A horizon with its base at 45 cm or more from the mineral soil surface and is not mottled within 30 cm of the mineral surface, the key should be entered directly at [Recent Soils](#sec-R).**
 
