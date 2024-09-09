@@ -81,7 +81,7 @@ The calcareous horizon includes horizons with the more stringent requirements of
 
 ## Crumb Structure {#sec-diag-crumb}
 
-Crumb structure is defined as an earthy apedal material [@milne1991] with very friable failure class. Soil with crumb structure in situ has the gross appearance of massive soil material, but when disaggregated or disturbed, microfragments are produced with a superficial resemblance to breadcrumbs. When examined with a ×10 power hand-lens, these prove to be loosely packed aggregates of spheroidal micropeds (\<0.5 mm) with packing voids forming a prominent part of the aggregate.
+Crumb structure is defined as an earthy apedal material [@milne1995] with very friable failure class. Soil with crumb structure in situ has the gross appearance of massive soil material, but when disaggregated or disturbed, microfragments are produced with a superficial resemblance to breadcrumbs. When examined with a ×10 power hand-lens, these prove to be loosely packed aggregates of spheroidal micropeds (\<0.5 mm) with packing voids forming a prominent part of the aggregate.
 
 ## Cutanic Horizon {#sec-diag-cuth}
 
@@ -135,7 +135,7 @@ The duripan is recognised in [Pallic Soils](key-to-orders.qmd#sec-ord-P) where t
 
 The intention of the term 'fluvial features' is to recognise soils with parent materials that result from transportation, sorting and deposition by water. Fluvial features are used to differentiate [Recent Soils](key-to-orders.qmd#sec-ord-R), [Raw Soils](key-to-orders.qmd#sec-ord-W) and parent material classes of soil series that occur on landforms formed through fluvial processes.
 
-Relevant landforms include floodplains, estuarine surfaces, lacustrine surfaces, aggregating fan surfaces, levees, backplains, bars, channels, deltas, floodplain benches, outwash plains and swamps (all defined by @milne1991).
+Relevant landforms include floodplains, estuarine surfaces, lacustrine surfaces, aggregating fan surfaces, levees, backplains, bars, channels, deltas, floodplain benches, outwash plains and swamps (all defined by @milne1995).
 
 Confirming soil characteristics include:
 
@@ -328,7 +328,7 @@ A podzolic-B horizon is a B horizon that meets one of the following:
 
 ## Reactive-Aluminium Test {#sec-diag-naf}
 
-This test indicates the presence of reactive hydroxy-aluminium groups, as occur for example in allophane and aluminium-humus complexes [@milne1991].
+This test indicates the presence of reactive hydroxy-aluminium groups, as occur for example in allophane and aluminium-humus complexes [@milne1995].
 
 Using the procedure of @fieldes1966, 1 drop of saturated sodium fluoride (NaF) solution is placed on a small test sample of soil, which has been smeared on to a filter paper treated with phenolphthalein indicator. The soil sample must be field moist. For classification, the reactivity of the soil sample is placed into one of the following classes.
 

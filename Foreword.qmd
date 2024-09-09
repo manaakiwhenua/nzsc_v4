@@ -5,7 +5,7 @@ Many technical terms are used throughout this report in the keys and definitions
 Other technical terms are defined in other books:
 
 -   *Horizon notations* are defined by @clayden1989.
--   *Soil morphology* terms are defined by @milne1991.
+-   *Soil morphology* terms are defined by @milne1995.
 -   *Classes of the US Soil Taxonomy* are defined by @soilsurveystaff1999.
 -   *Soil colours* are defined by @munsellcolorcompany1975.
 -   *Soil mineralogy classes* are defined by @whitton1989 or @childs1990. Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
