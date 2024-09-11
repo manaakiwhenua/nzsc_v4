@@ -6,9 +6,13 @@ In the keys to orders, groups or subgroups, any surface mantle of new material, 
 
 **If any soil has an overthickened A horizon with its base at 45 cm or more from the mineral soil surface and is not mottled within 30 cm of the mineral surface, the key should be entered directly at [Recent Soils](#sec-R).**
 
-[## [**A** - Anthropic Soils](Anthropics.qmd#sec-ord-A) {#sec-A}
+::: maj
 
-Soils that have been formed from [Anthropic soil material](Diagnostics.qmd#sec-diag-anthro) (including truncation) of at least a combined thickness of 30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith).]{.maj}
+## [**A** - Anthropic Soils](Anthropics.qmd#sec-ord-A) {#sec-A}
+
+Soils that have been formed from [Anthropic soil material](Diagnostics.qmd#sec-diag-anthro) (including truncation) of at least a combined thickness of 30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith).
+
+:::
 
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O}
 
@@ -22,10 +26,12 @@ Other soils that have horizons that consist of [organic soil material](Diagnosti
 Other soils that have **EITHER**
 
 1.  a [gley profile form](Diagnostics.qmd#sec-diag-gleypf) in which the [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) (but not including soils with pedal horizons in which the defined greyish colours occur on ped faces but not in 50% or more of the matrix) meets all of the following:
-    (a) it has a lower boundary 90 cm or more from the mineral soil surface, or to a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) if shallower, or rests upon a permeable sandy-skeletal layer with a base that extends to 90 cm or more from the mineral soil surface, or to the base of the B horizon, ***and***
+    (a) [the reductimorphic horizon]{.min} has a lower boundary [of at least]{.min} 90 cm from the mineral soil surface[. If shallower, the reductimorphic horizon must have]{.min} a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith), or rest upon a permeable sandy-skeletal layer, ***and***
     (b) there is no underlying [fragipan](Diagnostics.qmd#sec-diag-fpan) with matrix of chroma 3 or more dominant, [duripan](Diagnostics.qmd#sec-diag-dpan) or underlying [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb), ***and***
     (c) a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) occurs at the surface or is buried with its upper surface within 60 cm of the mineral soil surface, ***and***
-    (d) there is no horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface, **OR**
+    (d) there is no horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface, ***and***
+    (e) [there is no [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) with a total of 35 cm thickness or more occurring within 60 cm of the mineral soil surface]{.maj}
+    **OR**
 2.  an [ironstone pan](Diagnostics.qmd#sec-diag-ipan) with an upper surface 30 cm or less from the mineral soil surface, and has sufficient ferrous iron to give a positive reaction to α,α'-dipyridyl at some time of the year.
 
 ## [**U** - Ultic Soils](Ultics.qmd#sec-ord-U) {#sec-U}

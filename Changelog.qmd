@@ -22,6 +22,8 @@
 -   **CHANGE** the criteria for [Recent Soils](Key-to-Orders.qmd#sec-R) to allow soils that do not fully meet the criteria for a [Distinct Topsoil](Diagnostics.qmd#sec-diag-dts) by only having a 'structural A' horizon.\
     **Rationale:** This change helps to account for soils that have only a slight colour difference (e.g. visually perceptible darkening but still within the same Munsell chip, or only a Hue shift) in the A horizon due to tillage, low natural organic carbon content, or similar, but are still clearly too developed and in the wrong landscapes for the Raw order to make sense. \
     The definition of [Distinct Topsoil](Diagnostics.qmd#sec-diag-dts) itself is not proposed to be changed so that the definitions of other orders remain consistent.
+-   **ADD** an additional criteria that [Gley soils](Key-to-Orders.qmd#sec-G) do not contain a diagnostic amount of allophanic soil material (new criteria 1(e))\
+    **Rationale** soils that fail out on this new criteria belong more correctly in the LG [Allophanic Gley](Allophanics.qmd#sec-key-LG) group, and new criteria directs them there. Gleys that contain [tephric soil material](Diagnostics.qmd#sec-diag-teph) that doesn't meet the requirements for [allophanic soil materials](Diagnostics.qmd#sec-diag-alloph) (for example, gley soils forming in poorly drained alluvia from mixed sources but including some reworked ash), may still key out as GT [Tephric Gleys](Gleys.qmd#sec-key-GT).
 
 #### Mafic Melanic/Brown subgroup revision
 
