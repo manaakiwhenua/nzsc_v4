@@ -142,7 +142,7 @@ A duripan is a subsurface horizon that is cemented by silica or other opaque or 
 2.  It does not react visibly with 10% HCl; **AND**
 3.  The average lateral distance between any fractures is 100 mm or more.
 
-The duripan is recognised in [Pallic Soils](key-to-orders.qmd#sec-ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil.
+The duripan is recognised in [Pallic Soils](key-to-orders.qmd#sec-ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil. A duripan is given the horizon notation suffix q (e.g. Bq).
 
 ## Fluvial Features {#sec-diag-fluv}
 
