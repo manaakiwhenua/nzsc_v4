@@ -15,7 +15,7 @@ Allophanic Soils occur predominantly in North Island volcanic ash, and in the we
 ## Accessory Properties of the Order {#sec-acc-L}
 
 1.  *Short-range-order minerals.* The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, imogolite and ferrihydrite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurement is difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
-2.  *Low bases.* Sum of bases are low to very low and range from less than 1 to 10 cmol/100 g in subsoils and unfertilised topsoils.
+2.  *Low bases.* Sum of bases are low to very low and range from less than 1 to 10 cmol~c~/100 g in subsoils and unfertilised topsoils.
 3.  *Volcanic or greywacke parent materials.* Predominantly in andesitic, rhyolitic or mixed tephra, they also occur in soil materials from sandstone (greywacke) of humid uplands and high country and basalt scoria or pumice.
 4.  *Rapidly weatherable minerals.* Volcanic glass and feldspar dominate the sand fractions of soils in igneous parent materials, and are the primary source of the short-range-order minerals. Feldspars are most likely the primary source in non-igneous parent materials. Typically they have an Amorphic mineralogy class.
 5.  *Rapid permeability and high water retention.* The macroporosity is very high and rapid drainage occurs at low soil moisture tensions. Water contents at 1500 kPa soil moisture tension are very high.

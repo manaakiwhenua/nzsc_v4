@@ -14,7 +14,7 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 
 ## Accessory Properties of the Order {#sec-acc-U}
 
-1.  *Acidity.* KCl-extractable aluminium levels of more than 1 cmol(+)/kg are usual in B horizons, and indicate toxic aluminium which may inhibit root function and may contribute to shallow rooting habits in aluminium-sensitive plants.
+1.  *Acidity.* KCl-extractable aluminium levels of more than 1 cmol~c~/kg are usual in B horizons, and indicate toxic aluminium which may inhibit root function and may contribute to shallow rooting habits in aluminium-sensitive plants.
 2.  *Clayey subsoils.* CEC values are medium to high. Ultic Soils cover a wide range of mineralogy classes, Kandic and Smectitic being the most common.
 3.  *Low Kc and Mgr.* Low concentrations of reserve magnesium and potassium resulting from strong weathering.
 4.  *Strongly weathered with low nutrient reserves.* Low levels of 0.5M H~2~SO~4~^-^ extractable phosphorus (usually less than 3 mg/100 g) and total phosphorus (usually less than 20 mg/100 g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of 0.5M H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
@@ -212,7 +212,7 @@ Yellow Ultic Soils are clayey and lack [densipans](Diagnostics.qmd#sec-diag-dens
 Soils that have either
 
 1.  5% (by volume) or more gravel that consists mainly of ultramafic rocks, *or*
-2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Yellow Ultic Soils**

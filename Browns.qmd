@@ -15,7 +15,7 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 ## Accessory Properties of the Order {#sec-acc-B}
 
 1.  *Dispersed secondary oxides.* Secondary iron and aluminium oxides are dispersed throughout the soil mass. The soil is brunified (i.e. iron and aluminium oxides form coatings around phyllosilicate clay particles and form bridges between these particles and humus). P retention is moderate to very high.
-2.  *Low to moderate base saturation.* Base saturation values in subsoils are usually less than 50%, and KCl-extractable aluminium levels are usually more than 1.5 cmol(+)/kg except where clay contents are relatively low.
+2.  *Low to moderate base saturation.* Base saturation values in subsoils are usually less than 50%, and KCl-extractable aluminium levels are usually more than 1.5 cmol~c~/kg except where clay contents are relatively low.
 3.  *Parent materials are mostly weakly weathered.* [Mafic Brown Soils](#sec-BM) are derived from weakly weathered intermediate or basic igneous rocks (e.g. phonolite and basalt). Other groups are derived dominantly from acid quartzo-feldspathic sedimentary rocks (schist and greywacke) or acid igneous rocks (e.g. rhyolites and granites).The alteration status of gravel or hard rock substrates is usually fresh to moderately weathered and occasionally highly weathered.
 4.  *Mica/illite and vermiculite are common clay minerals.* Profiles tend to be mineralogically uniform with depth. Brown soils cover a wide range of mineralogy classes. Mixed, Illitic, Vermiculitic and Clay-mineralic (involving vermiculite and mica-vermiculite) are common. Some [Allophanic Brown Soils](#sec-BA) have an Amorphic mineralogy class.
 5.  *Good Drainage.* No poorly drained or very poorly drained soils are included. Macroporosity is generally moderate (10--14%) except in subsurface horizons of [Firm Brown Soils](#sec-BF).
@@ -121,7 +121,7 @@ Other Brown Soils that, in a subhorizon of the B at 60 cm from the mineral soil
 
 1.  Matrix colour value 4 or less and moderately or strongly pedal polyhedral peds (20 mm or less in size), *or*
 2.  5% (by volume) or more gravel that consists mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
-3.  an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol/kg or more.
+3.  an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
 [**MAFIC BROWN SOILS**](#sec-BM)

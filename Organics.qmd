@@ -15,7 +15,7 @@ Organic Soils occur in wetlands in most parts of New Zealand or under forest-pro
 ## Accessory Properties of the Order {#sec-acc-O}
 
 1.  *Low bulk density.* Bulk densities are very low, usually in the range of 0.03 to 0.4 Mg/m^3^. Organic Soils may contain up to 70% organic matter. Too few data are yet available to allow mineralogy classes to be stated.
-2.  *High cation exchange capacity.* The organic components of Organic Soils have high surface area, and high negative charge that varies markedly with pH. CEC values are very high, mostly ranging from 40 to 170 cmol/kg.
+2.  *High cation exchange capacity.* The organic components of Organic Soils have high surface area, and high negative charge that varies markedly with pH. CEC values are very high, mostly ranging from 40 to 170 cmol~c~/kg.
 3.  *High carbon/nitrogen ratios.* C/N ratios range from 18 to as high as 70 in unfertilised and uncultivated Organic Soils.
 4.  *Low bearing strength.* Construction of buildings or roads requires special foundation design.
 5.  *Very low thermal conductivity.* Soils warm and cool slowly. Bare soil surfaces, however, have high radiance.

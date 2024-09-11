@@ -284,7 +284,7 @@ The oxidic horizon is a strongly weathered B horizon consisting of mixed crystal
 3.  Primary peds slake rapidly in water to stable microaggregates which show no dispersion or slight dispersion after 100 inversions using the method of @mcqueen1981; **AND**
 4.  Non-reactive or very weakly reactive to the reactive-aluminium test [@fieldes1966]. Oxidic horizons are clayey, with measured clay contents commonly exceeding 60%. The measured clay percentage is usually larger than in overlying A horizons, but clay increase is not a defining criterion because of the problem of quantifying clay contents in materials that are frequently difficult to disperse.
 
-Materials are only slightly sticky and plastic in relation to clay content. Clay coatings are either visually absent or only present at frequencies of about 1%. The oxidic horizon has low activity clay accessory properties with ECEC and CEC less than 12 and 16 cmol/100g clay respectively.
+Materials are only slightly sticky and plastic in relation to clay content. Clay coatings are either visually absent or only present at frequencies of about 1%. The oxidic horizon has low activity clay accessory properties with ECEC and CEC less than 12 and 16 cmol~c~/100g clay respectively.
 
 ## Paralithic Contact {#sec-diag-plith}
 
@@ -417,7 +417,7 @@ A slowly permeable layer is significant for the land use, genetic and hydrologic
 A horizon with sodic features has significant exchangeable sodium (not necessarily related to a high soluble salt content). It has **BOTH**
 
 1.  **Either**
-    (a) Exchangeable sodium percentage of 6% or more (or exchangeable sodium is 0.7 cmol/kg or more); *or*
+    (a) Exchangeable sodium percentage of 6% or more (or exchangeable sodium is 0.7 cmol~c~/kg or more); *or*
     (b) When a 10 mm diameter sample which has been air-dried is placed in distilled water or salt free water a cloud of dispersed clay will form within 10 minutes around the sample. This test will not apply if the soil is in any degree cemented; **AND**
 2.  **Either**
     (a) Clay or clay/organic coatings have colour value 4 or less; *or*

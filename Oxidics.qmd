@@ -14,7 +14,7 @@ Oxidic Soils are only known to occur in the Auckland and Northland regions.
 
 ## Accessory Properties of the Order {#sec-acc-X}
 
-1.  *Low-activity clay.* CEC is low at field pH. ECEC is less than 12 cmol/kg (clay), and CEC less than 16 cmol/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic.
+1.  *Low-activity clay.* CEC is low at field pH. ECEC is less than 12 cmol~c~/kg (clay), and CEC less than 16 cmol/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic.
 2.  *High phosphate retention.* P-retention ranges from 60 to 90%. High sulphate adsorption occurs in B horizons.
 3.  *Parent materials.* The soils are derived from andesites, dolerites and basalts of Tertiary to Upper Cretaceous age.
 4.  *Limited root depth.* The extension of plant roots is limited by high dry bulk density and high penetration resistance, particularly in well drained soils. Plant root depths are shallow to medium.

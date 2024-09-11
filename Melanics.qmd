@@ -106,7 +106,7 @@ Other soils that, in a subhorizon of the B horizon at 60 cm from the mineral so
 
 1.  matrix colour value 4 or less and chroma 3 or more, *or*
 2.  5% (by volume) or more gravel that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
-3.  an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol/kg or more.
+3.  an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
 [**MAFIC MELANIC SOILS**](#sec-EM)
@@ -237,7 +237,7 @@ Mafic Melanic Soils occur in soil materials weathered from ultrabasic, basic or 
 Mafic Melanic Soils that have, in some part of the B horizon to 60 cm from the mineral soil surface, either
 
 1.  5% (by volume) or more gravel that consist mainly of ultramafic rocks, *or*
-2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol/kg or more.
+2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
 **Magnesic Mafic Melanic Soils**

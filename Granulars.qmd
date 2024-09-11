@@ -14,7 +14,7 @@ Granular Soils are only known to occur in the northern North Island, particularl
 
 ## Accessory Properties of the Order {#sec-acc-N}
 
-1.  *Moderate activity clay.* CEC is greater than 16 cmol/kg (clay) and ECEC ranges from about 8 to 16 cmol/kg (clay).
+1.  *Moderate activity clay.* CEC is greater than 16 cmol~c~/kg (clay) and ECEC ranges from about 8 to 16 cmol~c~/kg (clay).
 2.  *Parent materials.* The soils are derived predominantly from strongly weathered tephras mostly older than 50 000 years, but also from basaltic and andesitic rocks with possible additions from aeolian material.
 3.  *Kandic mineralogy.* Granular Soils usually belong to the Kandic mineralogy class.
 4.  *Slowly permeable.* Saturated hydraulic conductivity is slow or marginally slow somewhere in the profile, resulting in periods of perching of water.
