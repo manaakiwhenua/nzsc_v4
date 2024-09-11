@@ -204,7 +204,7 @@ It has **ALL** of the following requirements:
 
 ## Ironstone-Pan {#sec-diag-ipan}
 
-An ironstone-pan is an indurated horizon dominantly composed of iron oxides with or without manganese oxides. It has **ALL** of the following characteristics:
+An ironstone-pan is an indurated B horizon that is given the notation Bsm. It is dominantly composed of iron oxides with or without manganese oxides. It has **ALL** of the following characteristics:
 
 1.  The upper boundary is distinct, abrupt or sharp; **AND**
 2.  It is weakly or strongly indurated; **AND**
@@ -214,7 +214,7 @@ An ironstone-pan is an indurated horizon dominantly composed of iron oxides with
 
 Ironstone-pans commonly occur at a textural discontinuity, in the fluctuating zone of a water-table. It is likely that the iron has been precipitated from iron-rich groundwater moving laterally. In Taranaki [@childs1990], the pans are porous and some appear to have formed as iron-oxide rhizomorphs, which have been progressively infilled and welded together by further precipitations of iron oxide. In these pans the mineralogy is dominated by varying proportions of goethite and ferrihydrite.
 
-Ironstone-pans are not usually associated with eluvial horizons and do not occur in [Podzols](key-to-orders.qmd#sec-ord-Z). They differ from [ortstein-pans](#sec-diag-opan) and [placic horizons](#sec-diag-plac) which are often associated with eluvial horizons in [Podzols](key-to-orders.qmd#sec-ord-Z) or [Brown Soils](key-to-orders.qmd#sec-ord-B), and which have high organic carbon levels. Ironstone pans meet the requirements of the material below a petroferric contact of Soil Taxonomy [@soilsurveystaff1999].
+Ironstone-pans are not usually associated with [eluvial horizons](#sec-diag-eluvh) and do not occur in [Podzols](key-to-orders.qmd#sec-ord-Z). They differ from [ortstein-pans](#sec-diag-opan) and [placic horizons](#sec-diag-plac) which are often associated with [eluvial horizons](#sec-diag-eluvh) in [Podzols](key-to-orders.qmd#sec-ord-Z) or [Brown Soils](key-to-orders.qmd#sec-ord-B), and which have high organic carbon levels. Ironstone pans meet the requirements of the material below a petroferric contact of Soil Taxonomy [@soilsurveystaff1999].
 
 The pans are a barrier to plant roots. Heavy machinery is required to break them up for the installation of drains. The permeability of the pans is likely to be slow.
 
