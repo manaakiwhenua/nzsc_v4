@@ -399,7 +399,7 @@ Other soils.
 
 ### **GO** - ORTHIC GLEY SOILS {#sec-GO}
 
-Orthic Gley Soils occur on relatively stable land surfaces in sites affected by groundwater. Sediment deposition is unlikely if flooding occurs. They are neither strongly acid, sandy nor sulphuric and have no [oxidic horizon](diagnostics.qmd#sec-diag-oxh).
+Orthic Gley Soils occur on relatively stable land surfaces in sites affected by groundwater. Sediment deposition is unlikely if flooding occurs. They are neither strongly acidic, sandy nor sulphuric and have no [oxidic horizon](diagnostics.qmd#sec-diag-oxh).
 
 #### **GOO** {#sec-key-GOO}
 

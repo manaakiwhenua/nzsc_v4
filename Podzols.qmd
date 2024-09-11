@@ -2,7 +2,7 @@
 
 ## Concept of the Order {#sec-con-Z}
 
-Podzols are acid soils with low base saturation. Podzols have an horizon of accumulation of aluminium occurring as complexes with organic matter and/or as short-range-order minerals (typically with silicon as allophane/ imogolite). Iron (typically as ferrihydrite) may or may not be accumulated with aluminium. This horizon is usually associated with an overlying E horizon indicating translocation. The E horizon may be missing as a result of erosion, ploughing or bioturbation or it may be masked by organic matter.
+Podzols are acidic soils with low base saturation. Podzols have an horizon of accumulation of aluminium occurring as complexes with organic matter and/or as short-range-order minerals (typically with silicon as allophane/ imogolite). Iron (typically as ferrihydrite) may or may not be accumulated with aluminium. This horizon is usually associated with an overlying E horizon indicating translocation. The E horizon may be missing as a result of erosion, ploughing or bioturbation or it may be masked by organic matter.
 
 ## Correlation {#sec-cor-Z}
 

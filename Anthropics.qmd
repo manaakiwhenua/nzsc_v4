@@ -90,7 +90,7 @@ Other Anthropic Soils.
 
 ### **AT** - TRUNCATED ANTHROPIC SOILS {#sec-AT}
 
-Truncated Anthropic Soils result from cutting away any existing soil, by mechanical equipment, leaving material that would be recognised as a BC, C or R horizon. The scalped surface maybe overlain by up to 29 cm of soil, deposited for landscaping purposes.
+Truncated Anthropic Soils result from cutting away any existing soil, by mechanical equipment, leaving material that would be recognised as a BC, C or R horizon. The scalped surface may be overlain by up to 29 cm of soil, deposited for landscaping purposes.
 
 #### **ATX** {#sec-key-ATX}
 
