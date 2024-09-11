@@ -6,7 +6,7 @@ Brown Soils usually contain 2:1 clay minerals. Secondary iron oxides tend to be 
 
 ## Correlation {#sec-cor-B}
 
-The order comprises moderately and weakly weathered yellow-brown earths, yellow-brown sands, southern brown-granular loams and clays, and intergrades from yellow-brown earths to yellow-grey earths, podzols, brown-granular soils, and recent soils, as well as associated steepland soils of the NZ Genetic Soil Classification. The soils predominantly correlate with the Dystrochrepts of Soil Taxonomy, except for some stony and sandy soils which are Ustochrepts or Psamments.
+The order comprises moderately and weakly weathered yellow-brown earths, yellow-brown sands, southern brown-granular loams and clays, and intergrades from yellow-brown earths to yellow-grey earths, podzols, brown-granular soils, and recent soils, as well as associated steepland soils of the NZ Genetic Soil Classification. The soils predominantly correlate with the Inceptisols of Soil Taxonomy, excluding the suborder of Aquepts.
 
 ## Occurrence {#sec-occ-B}
 
