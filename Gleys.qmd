@@ -18,7 +18,7 @@ Gley Soils occur throughout New Zealand, usually in low parts of the landscape w
 2.  *Commonly formed in alluvial or colluvial parent materials.* Soils most frequently occur in relatively low parts of the landscape, in hollows or associated with flushes.
 3.  *Wide range of clay minerals.* The clay mineralogy commonly reflects the mineralogy of the ungleyed material from which the soils are derived. Gley Soils cover a wide range of mineralogy classes with Mixed, Illitic, and Smectitic being the most common.
 4.  *Poorly or very poorly drained.* Topsoils have relatively high levels of organic matter and some are peaty. Subsurface horizons to depth are dominantly grey or bluish grey in colour with strong brown to dark brown redox segregations.
-5.  *High groundwater-tables.* Most are affected by high groundwater-tables, at least throughout winter months. Soils with slowly permeable layers may also be subject to perching.
+5.  *High groundwater-tables.* Most are affected by high groundwater-tables, at least throughout winter months. Soils with [slowly permeable layers](Diagnostics.qmd#sec-diag-slowp) may also be subject to perching.
 6.  *Shallow potential rooting depth.* Potential rooting depth is limited by poor aeration. Even after drainage, root extension may be limited in some horizons.
 7.  *Relatively high bulk densities.* Bulk densities are likely to be higher than in well drained soils in similar soil materials.
 8.  *Limited trafficability.* Trafficability is limited in most soils when wet and pugging damage by stock is likely.
