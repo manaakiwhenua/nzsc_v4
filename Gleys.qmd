@@ -2,11 +2,11 @@
 
 ## Concept of the Order {#sec-con-G}
 
-Gley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically affecting iron, manganese, nitrates, and sometimes sulphates). Greyish colours are dominant throughout the solum or to a depth of 90 cm or more.
+Gley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically mobilising iron, manganese, nitrates, and sometimes sulphates). Greyish colours are dominant throughout the solum or to a depth of 90 cm or more.
 
 ## Correlation {#sec-cor-G}
 
-The order comprises gley soils and gleyed recent soils of the NZ Genetic Soil Classification. The soils correlate predominantly with the Aquents, Aquepts and Aquox (Oxidic Gley Soils) of Soil Taxonomy.
+The order comprises gley soils and gleyed recent soils of the NZ Genetic Soil Classification. The soils correlate predominantly with soils having aquic conditions in Soil Taxonomy, particularly the suborders Aquents, Aquepts, Aquults, and Aquox.
 
 ## Occurrence {#sec-occ-G}
 
