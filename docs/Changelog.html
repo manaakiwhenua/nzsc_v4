@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.8">
+<meta name="generator" content="quarto-1.6.4">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>New Zealand Soil Classification v4.0 (draft) – Changes in the Fourth Edition</title>
+<title>Changes in the Fourth Edition – New Zealand Soil Classification v4.0 (draft)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -56,6 +76,7 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-sidebar floating">
@@ -64,11 +85,11 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Changelog.html"><span class="chapter-title">Changes in the Fourth Edition</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
   </nav>
@@ -249,6 +270,31 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="major" class="level3">
 <h3 class="anchored" data-anchor-id="major">Major</h3>
+<section id="diagnostics" class="level4">
+<h4 class="anchored" data-anchor-id="diagnostics">Diagnostics</h4>
+<ul>
+<li><strong>ADD</strong> <a href="./Diagnostics.html#sec-diag-anthro">Anthropic Soil Material</a> as a diagnostic for the Anthropic order.<br>
+<strong>Rationale:</strong> Anthropic materials were not previously defined, causing confusion during the classification process.</li>
+<li><strong>ADD</strong> <a href="./Diagnostics.html#sec-diag-eluvh">Eluvial horizon</a> as a diagnostic for Pallic and some Brown soils.<br>
+<strong>Rationale:</strong> Concepts appearing in the key require a clear diagnostic definition within the classification, independant of the description manual, which was previously implicitly linked.</li>
+<li><strong>AMEND</strong> <a href="./Diagnostics.html#sec-diag-calch">Calcareous horizon</a> for clarity and brevity, adding a clearer definition of primary vs secondary carbonates and including example horizon notation. Removed extraneous second paragraph.<br>
+<strong>Rationale:</strong> Removal of the second paragraph is justified on the grounds that the content is better suited to the Methods and Rationale of the NZSC <span class="citation" data-cites="hewitt1993">(<a href="references.html#ref-hewitt1993" role="doc-biblioref">Hewitt 1993</a>)</span>.</li>
+<li><strong>AMEND</strong> <a href="./Diagnostics.html#sec-diag-dens">Densipan</a> to include expected horizon notation, and remove reference to specific types of field testing.<br>
+<strong>Rationale:</strong> Strength and penetration resistance testing should be undertaken using current best practices, which do not need to be specified in this document.</li>
+<li><strong>AMEND</strong> <a href="./Diagnostics.html#sec-diag-fpan">Fragipan</a> to include expected horizon notation, and remove reference to specific types of field testing. Additionally, clarify that bulk density is expected to be <em>greater than or equal to</em> 1.5 Mg/m<sup>3</sup>.</li>
+</ul>
+</section>
+<section id="key" class="level4">
+<h4 class="anchored" data-anchor-id="key">Key</h4>
+<ul>
+<li><strong>MOVE</strong> Anthropic soils to the top of the key.<br>
+<strong>Rationale:</strong> Removing Anthropic Soils from contention first can reduce confusion when applying the rest of the key, and keeps the overall classification structure relatively simple. The Australian Soil Classification with its Anthroposol order and the Japanese Soil Classification with its Developed/Reclaimed soils (造成土大群) make a similar choice. The World Reference base is effectively the same - it places its two equivalent orders (Anthrosols and Technosols, for agricultural and urban/industrial situations respectively) in second and third place after the Histosols. This reflects the rapidity with which organic soil materials can accumulate on the land surface. The Histosol definition itself allows for the presence of anthropic features like artefacts, so all human-modified profiles are effectively classified out early in the WRB key.<br>
+By contrast, US Soil Taxonomy uses the Anthric and Plaggic Epipedon concepts to modify other orders. This has the advantage of keeping human-influenced soils conceptually close to their more natural neighbours, but adds a large number of subgroups to the classification, making it potentially more difficult to use. These subgroups will continue to proliferate as humans discover new and interesting ways to modify their environment. Other systems either ignore human-modified profiles or deliberately exclude them from consideration, neither of which practice is considered useful.</li>
+<li><strong>CHANGE</strong> the criteria for <a href="./Key-to-Orders.html#sec-R">Recent Soils</a> to allow soils that do not fully meet the criteria for a <a href="./Diagnostics.html#sec-diag-dts">Distinct Topsoil</a> by only having a ‘structural A’ horizon.<br>
+<strong>Rationale:</strong> This change helps to account for soils that have only a slight colour difference (e.g.&nbsp;visually perceptible darkening but still within the same Munsell chip, or only a Hue shift) in the A horizon due to tillage, low natural organic carbon content, or similar, but are still clearly too developed and in the wrong landscapes for the Raw order to make sense.<br>
+The definition of <a href="./Diagnostics.html#sec-diag-dts">Distinct Topsoil</a> itself is not proposed to be changed so that the definitions of other orders remain consistent.</li>
+</ul>
+</section>
 <section id="mafic-melanicbrown-subgroup-revision" class="level4">
 <h4 class="anchored" data-anchor-id="mafic-melanicbrown-subgroup-revision">Mafic Melanic/Brown subgroup revision</h4>
 <ul>
@@ -262,19 +308,46 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="minor" class="level3">
 <h3 class="anchored" data-anchor-id="minor">Minor</h3>
-<section id="word-usage" class="level4">
-<h4 class="anchored" data-anchor-id="word-usage">Word usage</h4>
+<section id="correlations" class="level4">
+<h4 class="anchored" data-anchor-id="correlations">Correlations</h4>
+<ul>
+<li>Discussions of correlations between the NZSC and other systems have been updated to reflect changes to both them and the NZSC.</li>
+</ul>
+</section>
+<section id="terminology" class="level4">
+<h4 class="anchored" data-anchor-id="terminology">Terminology</h4>
 <ul>
 <li><strong>AMEND</strong> subgroup ZPOZ (<a href="./Podzols.html#sec-key-ZPOZ">Peaty-silt-mantled Perch-gley Podzols</a>); in requirement 1(b), ‘pedality’ was used where ‘structure’ should have been.</li>
+<li><strong>AMEND</strong> the definition of <a href="./Anthropics.html#sec-AT">Truncated Anthropic</a> soils for clarity.</li>
+<li><strong>AMEND</strong> the definition of Refuse Anthropic soils to specifically include plastics in ‘manufactured organic material’ and remove the requirement to attempt ignition of suspected methane.</li>
+<li><strong>AMEND</strong> the <a href="./Gleys.html#sec-con-G">concept statement for Gley Soils</a> to use the more precise term ‘mobilising’ rather than ‘affecting’ when talking about the impact of reducing conditions on soil chemistry.</li>
+<li><strong>REPLACE</strong> use of the term ‘clasts’ with ‘coarse rock fragments’.</li>
+<li><strong>REPLACE</strong> use of the term ‘acid’ with ‘acidic’ when used as a descriptor.</li>
+<li><strong>AMEND</strong> the definition of <a href="./Diagnostics.html#sec-diag-dpan">Duripan</a> to include a horizon notation example.</li>
+<li><strong>AMEND</strong> the definition of <a href="./Diagnostics.html#sec-diag-ipan">Ironstone-pan</a> to include a horizon notation example.</li>
+<li><strong>AMEND</strong> the defnition of <a href="./Diagnostics.html#sec-diag-teph">Tephric soil materials</a> to simpify the terminology list.</li>
 </ul>
 </section>
 <section id="consistency" class="level4">
 <h4 class="anchored" data-anchor-id="consistency">Consistency</h4>
 <ul>
 <li><strong>REMOVE</strong> reference to ‘stony brown’ soil group in the Brown soils accessory properties list, point 8. This concept was retired between v2.0 and v3.0.</li>
+<li><strong>AMEND</strong> all units to SI standards (e.g.&nbsp;CEC in cmol<sub>c</sub>/kg)</li>
+<li>Refer consistently to ‘B or BC’ horizons where appropriate.</li>
+</ul>
+</section>
+<section id="references" class="level4">
+<h4 class="anchored" data-anchor-id="references">References</h4>
+<ul>
+<li>References have been updated where new editions or versions of certain documents have become available. New contextual references have been added in a number of places.</li>
 </ul>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-hewitt1993" class="csl-entry" role="listitem">
+Hewitt, A. E. 1993. <em>Methods and Rationale of the New Zealand Soil Classification</em>. Landcare Research Science Series 2. Wellington, New Zealand: Manaaki Whenua Press. <a href="https://doi.org/10.7931/DL1-LRSS-2">https://doi.org/10.7931/DL1-LRSS-2</a>.
+</div>
+</div>
 </section>
 </section>
 
@@ -458,18 +531,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -501,7 +563,47 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -536,7 +638,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
