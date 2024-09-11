@@ -2,13 +2,13 @@
 
 In the keys to orders, groups or subgroups, any surface mantle of new material, e.g. fresh alluvium, that is less than 30 cm thick, is not considered as part of the soil for assignment to orders, groups or subgroups, except in the [Recent Soils](Recents.qmd#sec-ord-R) or [Raw Soils](Raws.qmd#sec-ord-W), or [Sulphuric Gley](Gleys.qmd#sec-key-GU) or [Recent Gley](Gleys.qmd#sec-key-GR) groups of the [Gley Soils](Gleys.qmd#sec-ord-G). A surface mantle of new material can be recognised because it will not meet the requirements of the key for any order or group except those specified above.
 
-When horizon notations are included as criteria in the key, the statements do not apply to transitional horizons, unless explicitly stated.
+[When horizon notations are included as criteria in the key, the statements do not apply to transitional horizons, unless explicitly stated.]{.maj}
 
 **If any soil has an overthickened A horizon with its base at 45 cm or more from the mineral soil surface and is not mottled within 30 cm of the mineral surface, the key should be entered directly at [Recent Soils](#sec-R).**
 
-## [**A** - Anthropic Soils](Anthropics.qmd#sec-ord-A) {#sec-A}
+[## [**A** - Anthropic Soils](Anthropics.qmd#sec-ord-A) {#sec-A}
 
-Soils that have been formed from [Anthropic soil material](Diagnostics.qmd#sec-diag-anthro) (including truncation) of at least a combined thickness of 30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith).
+Soils that have been formed from [Anthropic soil material](Diagnostics.qmd#sec-diag-anthro) (including truncation) of at least a combined thickness of 30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith).]{.maj}
 
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O}
 
@@ -111,8 +111,8 @@ Other soils that have textures of loamy fine sand or finer in some part from the
 2.  ***both***
     (a) between the base of the A horizon to 60 cm from the mineral soil surface the matrix throughout is ***either***
         (i) hue 10YR or yellower with chroma 3 or less and value 4 or more (all colours moist), ***or***
-        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B or BC horizon, *and*
-    (b) a B or BC horizon that is 10 cm or more thick, and has either
+        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B [or BC]{.min} horizon, *and*
+    (b) a B [or BC]{.min} horizon that is 10 cm or more thick, and has either
         (i) a [fragipan](Diagnostics.qmd#sec-diag-fpan), [duripan](Diagnostics.qmd#sec-diag-dpan) or [brittle-B horizon](Diagnostics.qmd#sec-diag-britb), *or*
         (ii) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) that has in part a moderately or strongly pedal subhorizon with blocky, polyhedral or prismatic peds and slightly firm or greater soil or ped strength, *or*
         (iii) [argillic horizon](Diagnostics.qmd#sec-diag-argh), [calcareous horizon](Diagnostics.qmd#sec-diag-calch), or a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) that has sodic features either within or immediately beneath it, *or*
@@ -132,7 +132,7 @@ Other soils that have **BOTH**
 
 Other soils that **BOTH**
 
-1.  have a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or at least moderate structural development in the top 15 cm, or a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw); **AND**
+1.  have a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, [or at least moderate structural development in the top 15 cm,]{.maj} or a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw); **AND**
 2.  do not have any horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface.
 
 ## [**W** - Raw Soils](Raws.qmd#sec-ord-W) {#sec-W}

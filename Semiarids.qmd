@@ -116,7 +116,7 @@ Aged-Argillic Semiarid Soils that have a [mottled soil profile form](Diagnostics
 
 #### **SAW** {#sec-key-SAW}
 
-Other soils in which the majority of the gravel is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade.
+Other soils in which the majority of the gravel is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Aged-argillic Semiarid Soils**

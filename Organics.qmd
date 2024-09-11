@@ -10,7 +10,7 @@ The order corresponds with the organic soils group of the NZ Genetic Soil Classi
 
 ## Occurrence {#sec-occ-O}
 
-Organic Soils occur in wetlands in most parts of New Zealand or under forest-produced acidic litter in areas with high precipitation.
+Organic Soils occur in wetlands in most parts of New Zealand or under forest-produced [acidic]{.min} litter in areas with high precipitation.
 
 ## Accessory Properties of the Order {#sec-acc-O}
 

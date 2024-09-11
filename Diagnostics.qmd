@@ -52,6 +52,8 @@ Layers meeting the requirements of allophanic soil material may also meet the re
 
 Accessory chemical properties relate to variable-charge characteristics, P retention, and high organic-matter contents. Accessory physical properties include high total available water capacity and readily available water capacity, and low penetration resistance. In addition, allophanic soil material undergoes irreversible changes upon drying, for example, in plastic and liquid limits and in apparent particle-size distribution. It should be noted that minerals other than allophane (e.g. ferrihydrite) can give rise to allophanic soil material.
 
+::: maj
+
 ## Anthropic soil material {#sec-diag-anthro}
 
 Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
@@ -65,6 +67,8 @@ Anthropic material constitutes human-altered or human-transported soil material 
 -   waste products of manufacturing processes, including chemical contaminants.
 
 The relationship between natural soil horizons or parent materials with Anthropic material or truncation is commonly in the form of a lithological discontinuity, indicated by distinct to sharp transitions between horizons. The majority of Anthropic material (including truncation) in NZ is the result of distinct and extensive modification from the mid-19th century coinciding with early European settlement, deforestation, and farming. From the mid-20th century, excavation and construction (e.g., infrastructure, roading, industrial and urban expansion) has further pronounced lithological discontinuity and alteration. The influence of ‘older’ Māori cultural practice (e.g., soil alteration/modification practices, Māori plaggen soils) is still recognised in many parts of NZ, and can predate European settlement. Distinct soil management alterations from historical (dating back to early Polynesian settlement) to modern can be distinguished at the group or family level. Anthropic material is indicated on a per-horizon basis by the Parent Material Class notation 'An'. This notation can be appended with 'm', 'e', or 'n' to distinguish pre-modern Māori modifications, pre-modern European modifications, and modern modifications, if desired (e.g 'An-m').
+
+:::
 
 ## Argillic Horizon {#sec-diag-argh}
 
@@ -90,7 +94,7 @@ The brittle-B horizon differs from the [fragipan](#sec-diag-fpan) by having eith
 
 ## Calcareous Horizon {#sec-diag-calch}
 
-A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on stones, threadlike deposits in pores, or as nodules ('secondary' carbonates). Such a horizon is given the notation suffix k (e.g. Btk, Bwk, etc).
+A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on stones, threadlike deposits in pores, or as nodules ('secondary' carbonates). Such a horizon is given the notation suffix k (e.g. Btk, Bwk, etc).]{.min}
 
 ## Crumb Structure {#sec-diag-crumb}
 
@@ -118,14 +122,14 @@ The significance of this horizon lies in the combination of low ECEC, clay illuv
 
 ## Densipan {#sec-diag-dens}
 
-A densipan is a non-cemented E horizon, denoted with the suffix d (e.g. Ed), of very high soil strength and bulk density. It meets the requirements of an [eluvial horizon](#sec-diag-eluvh) and **BOTH** of the following:
+A densipan is a non-cemented E horizon, [denoted with the suffix d (e.g. Ed)]{.min}, of very high soil strength and bulk density. It meets the requirements of an [eluvial horizon](#sec-diag-eluvh) and **BOTH** of the following:
 
 1.  Either
     (a) Unconfined strength is hard or very hard at soil water states from near wet to dry, *or*
     (b) Soil penetration resistance exceeds 4000 kPa at soil water states from near wet to dry; **AND**
 2.  Moist and dry samples slake in water.
 
-Densipans occur in soils with felsic parent materials. The strength is due to a close-fit arrangement of sand and silt-sized quartz particles. It differs from a [duripan](#sec-diag-dpan) by lack of cementation.
+Densipans occur in soils with [felsic]{.min} parent materials. The strength is due to a close-fit arrangement of sand and silt-sized quartz particles. It differs from a [duripan](#sec-diag-dpan) by lack of cementation.
 
 ## Distinct Topsoil {#sec-diag-dts}
 
@@ -142,7 +146,9 @@ A duripan is a subsurface horizon that is cemented by silica or other opaque or 
 2.  It does not react visibly with 10% HCl; **AND**
 3.  The average lateral distance between any fractures is 100 mm or more.
 
-The duripan is recognised in [Pallic Soils](Key-to-Orders.qmd#sec-ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil. A duripan is given the horizon notation suffix q (e.g. Bq).
+The duripan is recognised in [Pallic Soils](Key-to-Orders.qmd#sec-ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil. [A duripan is given the horizon notation suffix q (e.g. Bq).]{.min}
+
+::: maj
 
 ## Eluvial horizon {#sec-diag-eluvh}
 
@@ -152,6 +158,7 @@ An eluvial horizon is a mineral horizon that contains less organic matter, pedog
 2.  Both
     (a) A higher colour value or lower chroma combined with less well developed pedality or coarser texture than an underlying B horizon; **AND**
     (b) A higher colour value than an overlying H, O or A horizon.
+:::
 
 ## Fluvial Features {#sec-diag-fluv}
 
@@ -173,7 +180,7 @@ The emphasis here on genetic landform criteria is not consistent with the princi
 
 ## Fragipan {#sec-diag-fpan}
 
-A fragipan is an apparently non-cemented subsoil horizon that has high bulk density (usually ≥ 1.5 Mg/m^3^) with high strength when dry. It is given the horizon notation suffix x (e.g. Bwx, BCx). It has **ALL** of the following:
+A fragipan is an apparently non-cemented [subsoil]{.min} horizon that has high bulk density (usually [≥]{.min} 1.5 Mg/m^3^) with high strength when dry. [It is given the horizon notation suffix x (e.g. Bwx, BCx).]{.min} It has **ALL** of the following:
 
 1.  An air-dried clod must slake when fully immersed in water; **AND**
 2.  Brittle failure when moist (the horizon may be gravelly but the fine-earth material must be Sufficiently coherent to allow brittle failure); **AND**
@@ -204,7 +211,7 @@ It has **ALL** of the following requirements:
 
 ## Ironstone-Pan {#sec-diag-ipan}
 
-An ironstone-pan is an indurated B horizon that is given the notation Bsm. It is dominantly composed of iron oxides with or without manganese oxides. It has **ALL** of the following characteristics:
+An ironstone-pan is an indurated [B horizon that is given the notation Bsm]{.min}. It is dominantly composed of iron oxides with or without manganese oxides. It has **ALL** of the following characteristics:
 
 1.  The upper boundary is distinct, abrupt or sharp; **AND**
 2.  It is weakly or strongly indurated; **AND**
@@ -243,7 +250,7 @@ Soils with a mottled profile form have usually been recognised as imperfectly dr
 
 ## Nodular Horizon {#sec-diag-nodh}
 
-A nodular horizon has more than 15% (by volume) nodules, as segregations of iron or aluminium oxyhydroxides, with some kaolinite, in a layer more than 10 cm thick. Nodular horizons are given the horizon notation suffix i (e.g. Boi, BCi).
+A nodular horizon has more than 15% (by volume) nodules, as segregations of iron or aluminium oxyhydroxides, with some kaolinite, in a layer more than 10 cm thick. [Nodular horizons are given the horizon notation suffix i (e.g. Boi, BCi).]{.min}
 
 The nodules are common features in [Oxidic Soils](Key-to-Orders.qmd#sec-ord-X) and some [Granular Soils](Key-to-Orders.qmd#sec-ord-N) [@wilson1987]. The frequency distribution of nodules is clustered in the \< 2% range and the \> 15% range. Few profiles are known to lie in between.
 
@@ -284,7 +291,7 @@ An ortstein-pan is a B horizon that is normally given the horizon notation Bsm. 
 
 ## Oxidic Horizon {#sec-diag-oxh}
 
-The oxidic horizon is a strongly weathered B horizon consisting of mixed crystalline iron and aluminium oxides and kaolin group minerals, with low activity clay properties. An oxidic horizon is given the notation suffix o (e.g. Bo). It has **ALL** the following requirements:
+The oxidic horizon is a strongly weathered B horizon consisting of mixed crystalline iron and aluminium oxides and kaolin group minerals, with low activity clay properties. [An oxidic horizon is given the notation suffix o (e.g. Bo).]{.min} It has **ALL** the following requirements:
 
 1.  Weak or very weak primary ped strength and soil strength as determined by the unconfined resistance-to-crushing test at moist to dry soil water states; **AND**
 2.  Unconfined failure is friable or very friable over very moist to dry soil water states. Materials fail to predominantly 3 mm or smaller peds comprising silt- and sand-sized polyhedra and spheroids; **AND**
@@ -380,7 +387,7 @@ ft
 
 ## Redox-Mottled Horizon {#sec-diag-roxh}
 
-A redox-mottled horizon is a horizon affected in parts by reducing conditions as indicated by the presence of [redox-segregations](#sec-diag-rsegs). These usually indicate intermittent saturation of the soil by water. A redox-mottled horizon is given the notation suffix (f) if no low-chroma colours are present, or (g) if they are (e.g. Bw(f), B(g), BC(g)).
+A redox-mottled horizon is a horizon affected in parts by reducing conditions as indicated by the presence of [redox-segregations](#sec-diag-rsegs). These usually indicate intermittent saturation of the soil by water. [A redox-mottled horizon is given the notation suffix (f) if no low-chroma colours are present, or (g) if they are (e.g. Bw(f), B(g), BC(g)).]{.min}
 
 A redox-mottled horizon has 2% or more redox segregations. If low chroma colours (moist chroma 2 or less, or moist chroma 3 with value 6 or more) occur, they must occupy less than 50% of the matrix exposed in a cut face of the horizon and are not dominant on ped faces.
 
@@ -396,7 +403,7 @@ The nature of the water table is indicated by the association of low and high ch
 
 A reductimorphic horizon has a slightly peaty texture class, or low chroma colours (moist chroma 2 or less, or moist chroma 3 with value 6 or more) that occupy 50% or more of the matrix exposed in a cut face of the horizon or are dominant on ped faces. A reductimorphic horizon includes any subjacent layers or interlayers of peaty soil material.
 
-A reductimorphic horizon is a horizon strongly affected by reducing conditions as indicated by greyish colours consistent with long saturation by water. The prolonged wetness may be caused by a water-table perched on a slowly permeable layer within the soil profile or by a groundwater-table. A reductimorphic horizon is given the horizon notification g (if more than 2% mottles are present, e.g. Bg, BCg, Cg) or r (if the horizon is almost or completely reduced, e.g. Br, BCr).
+A reductimorphic horizon is a horizon strongly affected by reducing conditions as indicated by greyish colours consistent with long saturation by water. The prolonged wetness may be caused by a water-table perched on a slowly permeable layer within the soil profile or by a groundwater-table. [A reductimorphic horizon is given the horizon notification g (if more than 2% mottles are present, e.g. Bg, BCg, Cg) or r (if the horizon is almost or completely reduced, e.g. Br, BCr).]{.min}
 
 ## Slowly Permeable Layer {#sec-diag-slowp}
 
@@ -421,7 +428,7 @@ A slowly permeable layer is significant for the land use, genetic and hydrologic
 
 ## Sodic Features {#sec-diag-sod}
 
-A horizon with sodic features has significant exchangeable sodium. This is not necessarily related to a high soluble salt content. A sodic horizon is given the notation suffix n (e.g. Btn, BCn). It has **BOTH**
+A horizon with sodic features has significant exchangeable sodium. This is not necessarily related to a high soluble salt content. [A sodic horizon is given the notation suffix n (e.g. Btn, BCn).]{.min} It has **BOTH**
 
 1.  **Either**
     (a) Exchangeable sodium percentage of 6% or more (or exchangeable sodium is 0.7 cmol~c~/kg or more); *or*
@@ -435,7 +442,7 @@ A horizon with sodic features has significant exchangeable sodium. This is not n
 
 Tephric soil material occurs in or below the soil solum. It includes:
 
-1.  Tephra --- unconsolidated, primary pyroclastic products of volcanic eruptions [@froggatt1990] such as ash, cinders, lapilli, pumice, scoria, blocks, or volcanic bombs, and
+1.  Tephra --- unconsolidated, primary pyroclastic products of volcanic eruptions [@froggatt1990] such as ash, cinders, lapilli, pumice, [scoria]{.min}, blocks, or volcanic bombs, and
 2.  Tephra deposits --- material derived at least partly from tephra that has been reworked and mixed with material from other sources. They include tephric loess, tephric blown sand and volcanogenic alluvium. As a general guide, tephric deposits from andesitic sources have more than 10% volcanic glass in the sand fraction and those from rhyolitic sources have more than 40% volcanic glass in the sand fraction.
 
 Tephric soil material may include soil materials that meet the requirements of [allophanic soil material](#sec-diag-alloph) or [vitric soil material](#sec-diag-vitr). It is used to distinguish soil groups of the [Raw Soils](Key-to-Orders.qmd#sec-ord-W) and [Recent Soils](Key-to-Orders.qmd#sec-ord-R), and parent material classes at soil series level.

@@ -47,6 +47,7 @@ format:
     number-sections: false
     citations-hover: true
     footnotes-hover: true
+    css: styles.css
   docx:
     number-sections: false
     toc-depth: 1

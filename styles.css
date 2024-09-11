@@ -1,0 +1,9 @@
+/* highlighting major new additions */
+.maj {
+  background-color: skyblue
+}
+
+/* highlighting minor changes */
+.min {
+  background-color: lavender
+}

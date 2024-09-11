@@ -15,7 +15,7 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 ## Accessory Properties of the Order {#sec-acc-W}
 
 1.  *No B horizons.* Pedogenetic horizons are lacking apart from a rudimentary topsoil.
-2.  *Fresh or weakly weathered.* Coarse fragments and sand particles are generally without coatings, although coarse rock fragments in some screes may have weathering rinds.
+2.  *Fresh or weakly weathered.* Coarse [rock]{.min} fragments and sand particles are generally without coatings, although [such material]{.min} in some screes may have weathering rinds.
 3.  *Inherited mineralogy.* The soil mineralogy is very similar to that of the parent material and a range of mineralogy classes is possible.
 4.  *In soils with a fluid subsurface layer, a continuously high water-table is present.* The deposition of fresh sediment may occur.
 5.  *Non-fluid soils occur in environments with active erosion or deposition.*

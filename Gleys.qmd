@@ -2,11 +2,11 @@
 
 ## Concept of the Order {#sec-con-G}
 
-Gley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically mobilising iron, manganese, nitrates, and sometimes sulphates). Greyish colours are dominant throughout the solum or to a depth of 90 cm or more.
+Gley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically [mobilising]{.min} iron, manganese, nitrates, and sometimes sulphates). Greyish colours are dominant throughout the solum or to a depth of 90 cm or more.
 
 ## Correlation {#sec-cor-G}
 
-The order comprises gley soils and gleyed recent soils of the NZ Genetic Soil Classification. The soils correlate predominantly with soils having aquic conditions in Soil Taxonomy, particularly the suborders Aquents, Aquepts, Aquults, and Aquox.
+The order comprises gley soils and gleyed recent soils of the NZ Genetic Soil Classification. The soils correlate predominantly with [soils having aquic conditions in Soil Taxonomy, particularly the suborders Aquents, Aquepts, Aquults, and Aquox.]{.min}
 
 ## Occurrence {#sec-occ-G}
 
@@ -399,7 +399,7 @@ Other soils.
 
 ### **GO** - ORTHIC GLEY SOILS {#sec-GO}
 
-Orthic Gley Soils occur on relatively stable land surfaces in sites affected by groundwater. Sediment deposition is unlikely if flooding occurs. They are neither strongly acidic, sandy nor sulphuric and have no [oxidic horizon](Diagnostics.qmd#sec-diag-oxh).
+Orthic Gley Soils occur on relatively stable land surfaces in sites affected by groundwater. Sediment deposition is unlikely if flooding occurs. They are neither strongly [acidic]{.min}, sandy nor sulphuric and have no [oxidic horizon](Diagnostics.qmd#sec-diag-oxh).
 
 #### **GOO** {#sec-key-GOO}
 

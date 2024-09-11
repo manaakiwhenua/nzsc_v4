@@ -63,7 +63,7 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 ## Correlations with other soil classification systems {#sec-intro-correls}
 
-Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. @tbl-one summarises the correlations of classes of the Zealand Soil Classification with those of the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999]. For further information on the Soil Taxonomy terms used in the correlation, the reader is referred to the Soil Taxonomy.
+Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. @tbl-one summarises the correlations of classes of the Zealand Soil Classification with those of the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999]. [For further information on the Soil Taxonomy terms used in the correlation, the reader is referred to the Soil Taxonomy.]{.min}
 
 ```{r}
 #| label: tbl-one

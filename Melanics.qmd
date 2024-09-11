@@ -102,7 +102,7 @@ Other soils that have limestone or other calcareous material either in the form 
 
 #### **EM** {#sec-key-EM}
 
-Other soils that, in a subhorizon of the B or BC horizon at 60 cm from the mineral soil surface, or at the base of the B or BC if shallower, have
+Other soils that, in a subhorizon of the B [or BC]{.min} horizon at 60 cm from the mineral soil surface, or at the base of the B or BC if shallower, have
 
 1.  matrix colour value 4 or less and chroma 3 or more, *or*
 2.  5% (by volume) or more gravel that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
@@ -234,7 +234,7 @@ Mafic Melanic Soils occur in soil materials weathered from ultrabasic, basic or 
 
 #### **EMG** {#sec-key-EMG}
 
-Mafic Melanic Soils that have, in some part of the B or BC horizon to 60 cm from the mineral soil surface, either
+Mafic Melanic Soils that have, in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface, either
 
 1.  5% (by volume) or more gravel that consist mainly of ultramafic rocks, *or*
 2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
@@ -251,6 +251,8 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Mafic Melanic Soils**
 :::
 
+::: maj 
+
 #### **EML** {#sec-key-EML}
 
 Other soils that have P-retention 85% or more, or strong or very strong [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B horizon to 90 cm or less from the mineral soil surface.
@@ -265,6 +267,8 @@ Other soils that have pH less than 5.5 in some part of the B horizon to 60 cm or
 
 ::: {style="text-align: right"}
 **Acidic Mafic Melanic Soils**
+:::
+
 :::
 
 #### **EMT** {#sec-key-EMT}

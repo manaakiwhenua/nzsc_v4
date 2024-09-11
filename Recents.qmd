@@ -304,7 +304,7 @@ Tephric Recent Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag
 
 #### **RTBP** {#sec-key-RTBP}
 
-Other soils that have a buried soil, with its upper surface within 60 cm or less from the mineral soil surface that has a B or BC horizon that meets the requirements of [vitric soil material](Diagnostics.qmd#sec-diag-vitr).
+Other soils that have a buried soil, with its upper surface within 60 cm or less from the mineral soil surface that has a B [or BC]{.min} horizon that meets the requirements of [vitric soil material](Diagnostics.qmd#sec-diag-vitr).
 
 ::: {style="text-align: right"}
 **Buried-pumice Tephric Recent Soils**
@@ -312,7 +312,7 @@ Other soils that have a buried soil, with its upper surface within 60 cm or les
 
 #### **RTBL** {#sec-key-RTBL}
 
-Other soils that have a buried soil within 60 cm or less from the mineral soil surface to the upper surface of the buried soil, and have a B or BC horizon that meets the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), but not necessarily the requirements for bulk density.
+Other soils that have a buried soil within 60 cm or less from the mineral soil surface to the upper surface of the buried soil, and have a B [or BC]{.min} horizon that meets the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), but not necessarily the requirements for bulk density.
 
 ::: {style="text-align: right"}
 **Buried-allophanic Tephric Recent Soils**

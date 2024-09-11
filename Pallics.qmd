@@ -160,7 +160,7 @@ Other soils that have a [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 #### **PPWJ** {#sec-key-PPWJ}
 
-Other soils in which the majority of the gravel is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade, and have an [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+Other soils in which the majority of the gravel is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade, and have an [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
 ::: {style="text-align: right"}
 **Weathered-argillic Perch-gley Pallic Soils**
@@ -354,7 +354,7 @@ Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duri
 Mottled-weathered Argillic Pallic Soils that have both
 
 1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
-2.  gravel in which the majority is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade.
+2.  gravel in which the majority is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Mottled-weathered Argillic Pallic Soils**
@@ -405,7 +405,7 @@ Other soils that have [sodic features](Diagnostics.qmd#sec-diag-sod) within or i
 
 #### **PJW** {#sec-key-PJW}
 
-Other soils that have gravel in which the majority is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade.
+Other soils that have gravel in which the majority is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Argillic Pallic Soils**

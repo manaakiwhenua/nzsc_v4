@@ -2,15 +2,15 @@
 
 ## Concept of the Order {#sec-con-A}
 
-Anthropic Soils are soils that have been made by the direct action of people, including truncation and excavation of natural soils by earth-moving equipment, human redistribution of soils from original sites, mixing of natural soils so that their original character is significantly altered, or through deposition of thick layers of organic or inorganic material, where they may also contain artefacts. Their classification reflects the way in which they were made, and the kinds of materials used.
+[Anthropic Soils are soils that have been made by the direct action of people, including truncation and excavation of natural soils by earth-moving equipment, human redistribution of soils from original sites, mixing of natural soils so that their original character is significantly altered, or through deposition of thick layers of organic or inorganic material, where they may also contain artefacts. Their classification reflects the way in which they were made, and the kinds of materials used.]{.min}
 
 ## Correlation {#sec-cor-A}
 
-Anthropic Soils were not formally part of the NZ Genetic Soil Classification although anthropic soils were described in some soil survey reports. In US Soil Taxonomy, the soils either correlate with soils containing an Anthropic or Plaggen Epipedon, Entisols, or are unclassified.
+Anthropic Soils were not formally part of the NZ Genetic Soil Classification although anthropic soils were described in some soil survey reports. In US Soil Taxonomy, the soils either correlate with [soils containing an Anthropic or Plaggen Epipedon, Entisols, or are unclassified.]{.min}
 
 ## Occurrence {#sec-occ-A}
 
-Anthropic Soils are most extensive in urban and peri-urban areas and areas that have been mined. While not necessarily covering extensive areas, soils sufficiently altered by Maōri are of particular cultural interest as the oldest examples of anthropogenic alteration of soils in New Zealand.
+Anthropic Soils are most extensive in urban [and peri-urban areas and areas that have been mined. While not necessarily covering extensive areas, soils sufficiently altered by Maōri are of particular cultural interest as the oldest examples of anthropogenic alteration of soils in New Zealand.]{.min}
 
 ## Accessory Properties of the Order {#sec-acc-A}
 
@@ -63,7 +63,7 @@ Anthropic Soils in which more than 30 cm of the natural *in-situ* materials hav
 
 Other Anthropic Soils that have either
 
-1.  a layer comprising natural organic waste, or manufactured organic material, including plastics, that is at least 30 cm thick and has an upper boundary at the land surface, or is buried within 90 cm of the land surface, *or*
+1.  a layer comprising natural organic waste, or manufactured organic material, [including plastics,]{.min} that is at least 30 cm thick and has an upper boundary at the land surface, or is buried within 90 cm of the land surface, *or*
 2.  has a methane content sufficient to be detected by odour.
 
 ::: {style="text-align: right"}
@@ -90,7 +90,7 @@ Other Anthropic Soils.
 
 ### **AT** - TRUNCATED ANTHROPIC SOILS {#sec-AT}
 
-Truncated Anthropic Soils result from cutting away any existing soil, by mechanical equipment, leaving material that would be recognised as a BC, C or R horizon. The scalped surface may be overlain by up to 29 cm of soil, deposited for landscaping purposes.
+[Truncated Anthropic Soils result from cutting away any existing soil, by mechanical equipment, leaving material that would be recognised as a BC, C or R horizon. The scalped surface may be overlain by up to 29 cm of soil, deposited for landscaping purposes.]{.min}
 
 #### **ATX** {#sec-key-ATX}
 
