@@ -86,7 +86,7 @@ ft_B
 
 #### **BL** {#sec-key-BL}
 
-Brown soils that have within the B horizon a subhorizon that meets the requirements of [allophanic soil material](diagnostics.qmd#sec-diag-alloph) but not necessarily the requirement for bulk density, and that is 10 cm or more thick and occurs with its upper surface at 60 cm or less from the mineral soil surface.
+Brown soils that have within the B or BC horizon a subhorizon that meets the requirements of [allophanic soil material](diagnostics.qmd#sec-diag-alloph) but not necessarily the requirement for bulk density, and that is 10 cm or more thick and occurs with its upper surface at 60 cm or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 [**ALLOPHANIC BROWN SOILS**](#sec-BL)
@@ -117,7 +117,7 @@ Other Brown Soils that in some part of the B horizon within 60 cm of the minera
 
 #### **BM** {#sec-key-BM}
 
-Other Brown Soils that, in a subhorizon of the B at 60 cm from the mineral soil surface, or at the base of the B if shallower, have
+Other Brown Soils that, in a subhorizon of the B or BC at 60 cm from the mineral soil surface, or at the base of the B or BC if shallower, have
 
 1.  Matrix colour value 4 or less and moderately or strongly pedal polyhedral peds (20 mm or less in size), *or*
 2.  5% (by volume) or more gravel that consists mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
@@ -140,7 +140,7 @@ Other Brown Soils that have *either*
 
 #### **BF** {#sec-key-BF}
 
-Other Brown Soils that have a [fragipan](diagnostics.qmd#sec-diag-fpan), or an apedal subhorizon with a slightly firm or stronger moist soil strength in the B horizon, with an upper boundary within 90 cm of the mineral soil surface.
+Other Brown Soils that have a [fragipan](diagnostics.qmd#sec-diag-fpan), or an apedal subhorizon with a slightly firm or stronger moist soil strength in the B or BC horizon, with an upper boundary within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 [**FIRM BROWN SOILS**](#sec-BF)
@@ -170,7 +170,7 @@ Allophanic Brown Soils that have a [mottled profile form](diagnostics.qmd#sec-di
 
 #### **BLA** {#sec-key-BLA}
 
-Other soils that have, in some part[^browns-1] of the B horizon to 60 cm from the mineral soil surface, **both**
+Other soils that have, in some part[^browns-1] of the B or BC horizon to 60 cm from the mineral soil surface, **both**
 
 [^browns-1]: "in some part" means that the requirement must be met in some subhorizon or some subsample that is 10 cm or more thick within the specified thickness.
 
@@ -194,7 +194,7 @@ Other soils that have both
 
 #### **BLT** {#sec-key-BLT}
 
-Other soils that have, in some part of the B horizon to 60 cm depth from the mineral soil surface, crumb (or earthy) structure, or bulk density of the fine-earth fraction less than 1.1 Mg/m^3^ with weakly pedal or apedal fabric.
+Other soils that have, in some part of the B or BC horizon to 60 cm depth from the mineral soil surface, crumb (or earthy) structure, or bulk density of the fine-earth fraction less than 1.1 Mg/m^3^ with weakly pedal or apedal fabric.
 
 ::: {style="text-align: right"}
 **Typic Allophanic Brown Soils**
@@ -202,7 +202,7 @@ Other soils that have, in some part of the B horizon to 60 cm depth from the mi
 
 #### **BLAD** {#sec-key-BLAD}
 
-Other soils that have pH less than 5.5 in some part of the B horizon at 60 cm or less from the mineral soil surface.
+Other soils that have pH less than 5.5 in some part of the B or BC horizon at 60 cm or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic-pedal Allophanic Brown Soils**
@@ -238,7 +238,7 @@ Other soils that have a [mottled profile form](diagnostics.qmd#sec-diag-mottpf).
 
 #### **BSA** {#sec-key-BSA}
 
-Other soils that have pH less than 5.5 in some part of the B horizon, to its base, or to 60 cm from the mineral soil surface (whichever is shallower).
+Other soils that have pH less than 5.5 in some part of the B or BC horizon, to its base, or to 60 cm from the mineral soil surface (whichever is shallower).
 
 ::: {style="text-align: right"}
 **Acidic Sandy Brown Soils**
@@ -294,7 +294,7 @@ Mafic Brown Soils that have *both*
 1.  a [mottled profile form](diagnostics.qmd#sec-diag-mottpf), *and*
 2.  *either*
     (a) 5% (by volume) or more gravel consisting mainly of ultramafic rocks, *or*
-    (b) have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B horizon to 60 cm from the mineral soil surface.
+    (b) have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-magnesic Mafic Brown Soils**
@@ -305,7 +305,7 @@ Mafic Brown Soils that have *both*
 Other soils that have *either*
 
 1.  5% (by volume) or more gravel consisting mainly of ultramafic rocks, *or*
-2.  have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Mafic Brown Soils**
@@ -329,7 +329,7 @@ Other soils that have P-retention 85% or more, or strong or very strong [reactiv
 
 #### **BMA** {#sec-key-BMA}
 
-Other soils that have pH less than 5.5 in some part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH less than 5.5 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Mafic Brown Soils**
@@ -478,7 +478,7 @@ Other soils that have a horizon that is cemented to the degree that it is at lea
 
 #### **BFAL** {#sec-key-BFAL}
 
-Other soils that have in some part of the B horizon to 90 cm or less from the mineral soil surface both
+Other soils that have in some part of the B or BC horizon to 90 cm or less from the mineral soil surface both
 
 1.  P retention 85% or more, or strong or very strong [reactive-aluminium test](diagnostics.qmd#sec-diag-naf), *and*
 2.  pH of less than 5.5.
@@ -489,7 +489,7 @@ Other soils that have in some part of the B horizon to 90 cm or less from the m
 
 #### **BFL** {#sec-key-BFL}
 
-Other soils that have P retention 85% or more, or strong or very strong [reactive-aluminium test](diagnostics.qmd#sec-diag-naf), in some part of the B horizon to 90 cm or less from the mineral soil surface.
+Other soils that have P retention 85% or more, or strong or very strong [reactive-aluminium test](diagnostics.qmd#sec-diag-naf), in some part of the B or BC horizon to 90 cm or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Allophanic Firm Brown Soils**
@@ -610,7 +610,7 @@ Other soils that have in some part of the solum within 90 cm from the mineral s
 
 #### **BOA** {#sec-key-BOA}
 
-Other soils that have pH less than 5.5 in some part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH less than 5.5 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Orthic Brown Soils**

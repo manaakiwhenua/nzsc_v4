@@ -178,7 +178,7 @@ Other soils that have a layer within the thickness of [vitric soil material](dia
 
 #### **MOBL** {#sec-key-MOBL}
 
-Other soils with a layer of [vitric soil material](diagnostics.qmd#sec-diag-vitr) with a base at less than 60 cm from the mineral soil surface and within the B horizon, that overlies a layer which fails to meet the requirements of a vitric soil material but meets the requirements of [allophanic soil material](diagnostics.qmd#sec-diag-alloph) (except bulk density).
+Other soils with a layer of [vitric soil material](diagnostics.qmd#sec-diag-vitr) with a base at less than 60 cm from the mineral soil surface and within the B or BC horizon, that overlies a layer which fails to meet the requirements of a vitric soil material but meets the requirements of [allophanic soil material](diagnostics.qmd#sec-diag-alloph) (except bulk density).
 
 ::: {style="text-align: right"}
 **Buried-allophanic Orthic Pumice Soils**

@@ -102,7 +102,7 @@ Other soils that have limestone or other calcareous material either in the form 
 
 #### **EM** {#sec-key-EM}
 
-Other soils that, in a subhorizon of the B horizon at 60 cm from the mineral soil surface, or at the base of the B if shallower, have
+Other soils that, in a subhorizon of the B or BC horizon at 60 cm from the mineral soil surface, or at the base of the B or BC if shallower, have
 
 1.  matrix colour value 4 or less and chroma 3 or more, *or*
 2.  5% (by volume) or more gravel that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
@@ -234,7 +234,7 @@ Mafic Melanic Soils occur in soil materials weathered from ultrabasic, basic or 
 
 #### **EMG** {#sec-key-EMG}
 
-Mafic Melanic Soils that have, in some part of the B horizon to 60 cm from the mineral soil surface, either
+Mafic Melanic Soils that have, in some part of the B or BC horizon to 60 cm from the mineral soil surface, either
 
 1.  5% (by volume) or more gravel that consist mainly of ultramafic rocks, *or*
 2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.

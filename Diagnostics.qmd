@@ -173,7 +173,7 @@ The emphasis here on genetic landform criteria is not consistent with the princi
 
 ## Fragipan {#sec-diag-fpan}
 
-A fragipan is an apparently non-cemented horizon that has high bulk density (usually ≥ 1.5 Mg/m^3^) with high strength when dry. It is given the horizon notation suffix x (e.g. Bwx, BCx). It has **ALL** of the following:
+A fragipan is an apparently non-cemented subsoil horizon that has high bulk density (usually ≥ 1.5 Mg/m^3^) with high strength when dry. It is given the horizon notation suffix x (e.g. Bwx, BCx). It has **ALL** of the following:
 
 1.  An air-dried clod must slake when fully immersed in water; **AND**
 2.  Brittle failure when moist (the horizon may be gravelly but the fine-earth material must be Sufficiently coherent to allow brittle failure); **AND**

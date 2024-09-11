@@ -113,7 +113,7 @@ Perch-gley Granular Soils that have a [cutanoxidic horizon](diagnostics.qmd#sec-
 
 #### **NPA** {#sec-key-NPA}
 
-Other soils that have pH 5.1 or less in some part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH 5.1 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Perch-gley Granular Soils**
@@ -164,7 +164,7 @@ Oxidic Granular Soils have low ECEC (marginal to [Oxidic Soils](key-to-orders.qm
 Oxidic Granular Soils that have *both*
 
 1.  a [mottled profile form](diagnostics.qmd#sec-diag-mottpf), *and*
-2.  pH of less than 5.1 in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  pH of less than 5.1 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-acidic Oxidic Granular Soils**
@@ -188,7 +188,7 @@ Other soils that have a layer that meets the requirements of [allophanic soil ma
 
 #### **NXA** {#sec-key-NXA}
 
-Other soils that have pH of less than 5.1 in some part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH of less than 5.1 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Oxidic Granular Soils**
@@ -211,7 +211,7 @@ Orthic Granular Soils are well, moderately well or imperfectly drained soils tha
 Orthic Granular Soils that have *both*
 
 1.  a [mottled profile form](diagnostics.qmd#sec-diag-mottpf), *and*
-2.  pH of less than 5.1 in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  pH of less than 5.1 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-acidic Orthic Granular Soils**
@@ -235,7 +235,7 @@ Other soils that have a layer that meets the requirements of [allophanic soil ma
 
 #### **NOA** {#sec-key-NOA}
 
-Other soils that have pH of less than 5.1 in the major part of the B horizon to 60 cm from the mineral soil surface.
+Other soils that have pH of less than 5.1 in the major part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Orthic Granular Soils**

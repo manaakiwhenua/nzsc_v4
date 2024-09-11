@@ -107,12 +107,12 @@ Other soils that have **BOTH**
 
 Other soils that have textures of loamy fine sand or finer in some part from the base of the A horizon to 60 cm from the mineral soil surface, and have **EITHER**
 
-1.  a [reductimorphic horizon](diagnostics.qmd#sec-diag-redmh) or E horizon, that overlies a [fragipan](diagnostics.qmd#sec-diag-fpan), [duripan](diagnostics.qmd#sec-diag-dpan) or [argillic horizon](diagnostics.qmd#sec-diag-argh); **OR**
+1.  a [reductimorphic horizon](diagnostics.qmd#sec-diag-redmh) or [eluvial horizon](#sec-diag-eluvh), that overlies a [fragipan](diagnostics.qmd#sec-diag-fpan), [duripan](diagnostics.qmd#sec-diag-dpan) or [argillic horizon](diagnostics.qmd#sec-diag-argh); **OR**
 2.  ***both***
     (a) between the base of the A horizon to 60 cm from the mineral soil surface the matrix throughout is ***either***
         (i) hue 10YR or yellower with chroma 3 or less and value 4 or more (all colours moist), ***or***
-        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B horizon, *and*
-    (b) a B horizon that is 10 cm or more thick, and has either
+        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B or BC horizon, *and*
+    (b) a B or BC horizon that is 10 cm or more thick, and has either
         (i) a [fragipan](diagnostics.qmd#sec-diag-fpan), [duripan](diagnostics.qmd#sec-diag-dpan) or [brittle-B horizon](diagnostics.qmd#sec-diag-britb), *or*
         (ii) a [weathered-B horizon](diagnostics.qmd#sec-diag-bw) that has in part a moderately or strongly pedal subhorizon with blocky, polyhedral or prismatic peds and slightly firm or greater soil or ped strength, *or*
         (iii) [argillic horizon](diagnostics.qmd#sec-diag-argh), [calcareous horizon](diagnostics.qmd#sec-diag-calch), or a [cutanic horizon](diagnostics.qmd#sec-diag-cuth) that has sodic features either within or immediately beneath it, *or*
