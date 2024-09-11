@@ -249,7 +249,7 @@ Other soils that have pH less than 5.5 in some part of the B horizon, to its bas
 Other soils that have either
 
 1.  an [argillic horizon](diagnostics.qmd#sec-diag-argh) composed of lamellae, *or*
-2.  eluvial features, including an E horizon, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ("two-tone").
+2.  an [eluvial horizon](#sec-diag-eluvh), or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ("two-tone").
 
 ::: {style="text-align: right"}
 **Pallic Sandy Brown Soils**

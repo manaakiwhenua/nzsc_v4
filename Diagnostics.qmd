@@ -73,7 +73,7 @@ An argillic horizon is a clay-enriched horizon. It is indicated by a "Bt" horizo
 1.  It is vertically continuous and is 10 cm or more thick. Clay coatings occur that have a waxy lustre when dry and sufficient thickness to envelop fine sand grains. Coatings occur either on peds (10% or more of the ped surfaces), or in pores (in more than one-third of the observed tubular pores) or as bridges between sand grains (in more than half of the horizon); **OR**
 2.  It is composed of clay-enriched lamellae (clay bands), that within 90 cm of the mineral soil surface have a combined thickness of 15 cm or more; **OR**
 3.  It contains sufficiently more clay than the overlying horizon, as detected by hand texturing (5% or more) , excluding any differences which result from a lithological discontinuity, and **either**
-    (a) it is overlain by an eluvial horizon (Ew or Eg) and the upper boundary of texture contrast is abrupt or sharp, **or**
+    (a) it is overlain by an [eluvial horizon](#sec-diag-eluvh) and the upper boundary of texture contrast is abrupt or sharp, **or**
     (b) clay coatings occur on ped or pore surfaces.
 
 Horizons having coatings which do not meet the requirements of an argillic horizon are likely to meet the requirements of a [cutanic horizon](#sec-diag-cuth).
@@ -118,7 +118,7 @@ The significance of this horizon lies in the combination of low ECEC, clay illuv
 
 ## Densipan {#sec-diag-dens}
 
-A densipan is a non-cemented E horizon, denoted with the suffix d (e.g. Ed), of very high soil strength and bulk density. It meets the requirements of an eluvial horizon and **BOTH** of the following:
+A densipan is a non-cemented E horizon, denoted with the suffix d (e.g. Ed), of very high soil strength and bulk density. It meets the requirements of an [eluvial horizon](#sec-diag-eluvh) and **BOTH** of the following:
 
 1.  Either
     (a) Unconfined strength is hard or very hard at soil water states from near wet to dry, *or*

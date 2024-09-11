@@ -429,7 +429,7 @@ Other soils.
 
 ### **PI** - IMMATURE PALLIC SOILS {#sec-PI}
 
-Immature Pallic Soils are insufficiently developed to have [fragipans](diagnostics.qmd#sec-diag-fpan), [duripans](diagnostics.qmd#sec-diag-dpan) or [argillic horizons](diagnostics.qmd#sec-diag-argh). They have either a [brittle-B horizon](diagnostics.qmd#sec-diag-britb), eluvial features, a [cutanic horizon](diagnostics.qmd#sec-diag-cuth), or slightly firm or stronger blocky, polyhedral or prismatic peds.
+Immature Pallic Soils are insufficiently developed to have [fragipans](diagnostics.qmd#sec-diag-fpan), [duripans](diagnostics.qmd#sec-diag-dpan) or [argillic horizons](diagnostics.qmd#sec-diag-argh). They have either a [brittle-B horizon](diagnostics.qmd#sec-diag-britb), an [eluvial horizon](#sec-diag-eluvh), a [cutanic horizon](diagnostics.qmd#sec-diag-cuth), or slightly firm or stronger blocky, polyhedral or prismatic peds.
 
 #### **PIMD** {#sec-key-PIMD}
 
