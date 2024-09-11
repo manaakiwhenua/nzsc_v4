@@ -37,7 +37,7 @@ book:
     - Appendix.qmd
     - references.qmd
 
-bibliography: NZSC_reference_list_3e.bib
+bibliography: NZSC_reference_list_4e.bib
 
 format:
   html:
