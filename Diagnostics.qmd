@@ -118,14 +118,14 @@ The significance of this horizon lies in the combination of low ECEC, clay illuv
 
 ## Densipan {#sec-diag-dens}
 
-A densipan is a non-cemented E horizon of very high soil strength and bulk density. It meets **BOTH** of the following:
+A densipan is a non-cemented E horizon, denoted with the suffix d (e.g. Ed), of very high soil strength and bulk density. It meets the requirements of an eluvial horizon and **BOTH** of the following:
 
 1.  Either
-    (a) Unconfined strength, as measured by a resistance-to-crushing test, is hard or very hard at soil water states from near wet to dry, *or*
-    (b) Soil penetration resistance measured by a 6.5 mm flat-tipped penetrometer exceeds 4000 kPa at soil water states from near wet to dry; **AND**
+    (a) Unconfined strength is hard or very hard at soil water states from near wet to dry, *or*
+    (b) Soil penetration resistance exceeds 4000 kPa at soil water states from near wet to dry; **AND**
 2.  Moist and dry samples slake in water.
 
-Densipans occur in soils with siliceous parent materials. The strength is due to a close-fit arrangement of sand and silt-sized quartz particles. It differs from a [duripan](#sec-diag-dpan) by lack of cementation.
+Densipans occur in soils with felsic parent materials. The strength is due to a close-fit arrangement of sand and silt-sized quartz particles. It differs from a [duripan](#sec-diag-dpan) by lack of cementation.
 
 ## Distinct Topsoil {#sec-diag-dts}
 
