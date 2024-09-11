@@ -90,9 +90,7 @@ The brittle-B horizon differs from the [fragipan](#sec-diag-fpan) by having eith
 
 ## Calcareous Horizon {#sec-diag-calch}
 
-A calcareous horizon is an horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. The calcium carbonate may be inherited from a calcareous parent material, or it may be formed in the soil and occur as coatings on stones, filamentous deposits in pores, or as nodules.
-
-The calcareous horizon includes horizons with the more stringent requirements of the calcic horizon of Soil Taxonomy [@soilsurveystaff1999]. The less stringent limits of the calcareous horizon are needed to distinguish the calcium-carbonate-accumulating horizons in the Semiarid Soils which have developed by weathering of calcium ions from silicate minerals in non-calcareous parent materials. Calcium carbonate dusts, which have contributed to calcium carbonate enriched horizons in other countries, have not been identified in New Zealand.
+A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on stones, threadlike deposits in pores, or as nodules ('secondary' carbonates). Such a horizon is given the notation suffix k (e.g. Btk, Bwk, etc).
 
 ## Crumb Structure {#sec-diag-crumb}
 
