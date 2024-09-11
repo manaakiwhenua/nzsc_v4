@@ -63,8 +63,8 @@ Anthropic Soils in which more than 30 cm of the natural *in-situ* materials hav
 
 Other Anthropic Soils that have either
 
-1.  a layer comprising natural organic waste, or manufactured organic material, that is at least 30 cm thick and has an upper boundary at the land surface or buried within 90 cm of the land surface, *or*
-2.  has a methane content sufficient to be detected by odour, or if trapped, by ignition.
+1.  a layer comprising natural organic waste, or manufactured organic material, including plastics, that is at least 30 cm thick and has an upper boundary at the land surface, or is buried within 90 cm of the land surface, *or*
+2.  has a methane content sufficient to be detected by odour.
 
 ::: {style="text-align: right"}
 [**REFUSE ANTHROPIC SOILS**](#sec-AR)
