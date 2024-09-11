@@ -56,13 +56,13 @@ Accessory chemical properties relate to variable-charge characteristics, P reten
 
 Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
 
-- excavated or constructed landforms,
-- mechanically detached, redistributed, and re-oriented soil material,
-- mechanically abraded and broken rock fragments that do not correspond with the fragments in the underlying soil material (e.g., fractures that cut through rather than between individual minerals),
-- manufactured materials, such as charcoal, and artefacts,
-- relocated soil material overlying bones, shells or manufactured materials,
-- eating and cooking waste and associated charred products,
-- waste products of manufacturing processes, including chemical contaminants.
+-   excavated or constructed landforms,
+-   mechanically detached, redistributed, and re-oriented soil material,
+-   mechanically abraded and broken rock fragments that do not correspond with the fragments in the underlying soil material (e.g., fractures that cut through rather than between individual minerals),
+-   manufactured materials, such as charcoal, and artefacts,
+-   relocated soil material overlying bones, shells or manufactured materials,
+-   eating and cooking waste and associated charred products,
+-   waste products of manufacturing processes, including chemical contaminants.
 
 The relationship between natural soil horizons or parent materials with Anthropic material or truncation is commonly in the form of a lithological discontinuity, indicated by distinct to sharp transitions between horizons. The majority of Anthropic material (including truncation) in NZ is the result of distinct and extensive modification from the mid-19th century coinciding with early European settlement, deforestation, and farming. From the mid-20th century, excavation and construction (e.g., infrastructure, roading, industrial and urban expansion) has further pronounced lithological discontinuity and alteration. The influence of ‘older’ Māori cultural practice (e.g., soil alteration/modification practices, Māori plaggen soils) is still recognised in many parts of NZ, and can predate European settlement. Distinct soil management alterations from historical (dating back to early Polynesian settlement) to modern can be distinguished at the group or family level. Anthropic material is indicated on a per-horizon basis by the Parent Material Class notation 'An'. This notation can be appended with 'm', 'e', or 'n' to distinguish pre-modern Māori modifications, pre-modern European modifications, and modern modifications, if desired (e.g 'An-m').
 
@@ -146,12 +146,12 @@ The duripan is recognised in [Pallic Soils](key-to-orders.qmd#sec-ord-P) where t
 
 ## Eluvial horizon {#sec-diag-eluvh}
 
-An eluvial horizon is a mineral horizon that contains less organic matter, pedogenic oxides, clay, or a combination of these than the horizon immediately below as a result of downward or lateral movement. The primary notation E is used for these horizons. Compared to an overlying H, O or A horizon, it contains less organic matter. The colour of the horizon can be that of uncoated sand and silt grains but E horizons are also recognised where coats of iron oxides or other minerals mask the colour of the primary particles. It has all the following characteristics: 
+An eluvial horizon is a mineral horizon that contains less organic matter, pedogenic oxides, clay, or a combination of these than the horizon immediately below as a result of downward or lateral movement. The primary notation E is used for these horizons. Compared to an overlying H, O or A horizon, it contains less organic matter. The colour of the horizon can be that of uncoated sand and silt grains but E horizons are also recognised where coats of iron oxides or other minerals mask the colour of the primary particles. It has all the following characteristics:
 
-1. A moist colour value of 4 or more, or a dry colour value of 5 or more, with or without skeletans; **AND**
-2. Both 
-  (a) A higher colour value or lower chroma combined with less well developed pedality or coarser texture than an underlying B horizon; **AND**
-  (b) A higher colour value than an overlying H, O or A horizon. 
+1.  A moist colour value of 4 or more, or a dry colour value of 5 or more, with or without skeletans; **AND**
+2.  Both
+    (a) A higher colour value or lower chroma combined with less well developed pedality or coarser texture than an underlying B horizon; **AND**
+    (b) A higher colour value than an overlying H, O or A horizon.
 
 ## Fluvial Features {#sec-diag-fluv}
 
@@ -173,7 +173,7 @@ The emphasis here on genetic landform criteria is not consistent with the princi
 
 ## Fragipan {#sec-diag-fpan}
 
-A fragipan is an apparently non-cemented horizon that has high bulk density (usually 1.5 Mg/m^3^) with high strength when dry. It has **ALL** of the following:
+A fragipan is an apparently non-cemented horizon that has high bulk density (usually ≥ 1.5 Mg/m^3^) with high strength when dry. It is given the horizon notation suffix x (e.g. Bwx, BCx). It has **ALL** of the following:
 
 1.  An air-dried clod must slake when fully immersed in water; **AND**
 2.  Brittle failure when moist (the horizon may be gravelly but the fine-earth material must be Sufficiently coherent to allow brittle failure); **AND**
@@ -181,9 +181,9 @@ A fragipan is an apparently non-cemented horizon that has high bulk density (usu
 4.  ***Either***
     (a) Extremely coarse or gross prismatic peds: the prisms have apedal-massive interiors, or break to secondary peds with horizontal dimensions of 100 mm or more, and the prism faces are defined by colours of chroma 3 or less, or
     (b) The horizon is apedal-massive throughout, or has extremely coarse or gross prismatic peds, and the moist soil strength is very firm; **AND**
-5.  If roots are present, they are confined predominantly to planar voids between prisms or to worm galleries; **AND**
-6.  Moist penetration resistance measured by a 6.5 mm flat-tipped penetrometer is 3100 kPa or more; **AND**
-7.  It does not occur within an E horizon.
+5.  If roots are present, they are confined predominantly to planar voids between prisms or to worm burrows; **AND**
+6.  Penetration resistance under moist conditions is 3100 kPa or more; **AND**
+7.  It does not occur within an [Eluvial horizon](#sec-diag-eluvh).
 
 ## Gley Profile Form {#sec-diag-gleypf}
 
