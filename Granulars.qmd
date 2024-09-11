@@ -6,7 +6,7 @@ Granular soils are clayey soils in which kaolin-group minerals are dominant, and
 
 ## Correlation {#sec-cor-N}
 
-The order comprises many soils previously classified as brown granular loams and moderately to strongly leached brown granular clays of the NZ Genetic Soil Classification. Most are correlated with the Ultisols but a few with the Alfisols of Soil Taxonomy.
+The order comprises many soils previously classified as brown granular loams and moderately to strongly leached brown granular clays of the NZ Genetic Soil Classification. Most are correlated with the Ultisols and Alfisols of Soil Taxonomy.
 
 ## Occurrence {#sec-occ-N}
 
