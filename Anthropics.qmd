@@ -53,7 +53,7 @@ ft_A
 
 #### **AT** {#sec-key-AT}
 
-Anthropic Soils in which natural *in-situ* materials occur at or within 30 cm of the soil surface, which result from truncation of the solum of the original soil by the action of people.
+Anthropic Soils in which more than 30 cm of the natural *in-situ* materials have been removed as the result of truncation of the solum by the action of people.
 
 ::: {style="text-align: right"}
 [**TRUNCATED ANTHROPIC SOILS**](#sec-AT)
