@@ -8,7 +8,7 @@ library(flextable)
 t2 <- data.frame(
   'col1' = c('Horizons, Pans and\n Layers:', 'Argillic horizon', 'Brittle-B horizon',
              'Calcareous horizon', 'Cutanic horizon', 'Cutanoxidic horizon', 'Densipan',
-             'Duripan', 'Distinct topsoil', 'Fragipan', 'Humus-pan', 'Ironstone-pan', 
+             'Duripan', 'Distinct topsoil', 'Eluvial horizon', 'Fragipan', 'Humus-pan', 'Ironstone-pan', 
              'Nodular horizon', 'Ortstein-pan', 'Oxidic horizon', 'Peaty topsoil',
              'Placic horizon', 'Podzolic-B horizon', 'Reductimorphic horizon',
              'Redox-mottled horizon', 'Slowly permeable layer', 'Weathered-B horizon'),
@@ -143,6 +143,15 @@ A duripan is a subsurface horizon that is cemented by silica or other opaque or 
 3.  The average lateral distance between any fractures is 100 mm or more.
 
 The duripan is recognised in [Pallic Soils](key-to-orders.qmd#sec-ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil. A duripan is given the horizon notation suffix q (e.g. Bq).
+
+## Eluvial horizon {#sec-diag-eluvh}
+
+An eluvial horizon is a mineral horizon that contains less organic matter, pedogenic oxides, clay, or a combination of these than the horizon immediately below as a result of downward or lateral movement. The primary notation E is used for these horizons. Compared to an overlying H, O or A horizon, it contains less organic matter. The colour of the horizon can be that of uncoated sand and silt grains but E horizons are also recognised where coats of iron oxides or other minerals mask the colour of the primary particles. It has all the following characteristics: 
+
+1. A moist colour value of 4 or more, or a dry colour value of 5 or more, with or without skeletans; **AND**
+2. Both 
+  (a) A higher colour value or lower chroma combined with less well developed pedality or coarser texture than an underlying B horizon; **AND**
+  (b) A higher colour value than an overlying H, O or A horizon. 
 
 ## Fluvial Features {#sec-diag-fluv}
 
