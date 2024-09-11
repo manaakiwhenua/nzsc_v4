@@ -243,7 +243,7 @@ Soils with a mottled profile form have usually been recognised as imperfectly dr
 
 ## Nodular Horizon {#sec-diag-nodh}
 
-A nodular horizon has more than 15% (by volume) nodules, as segregations of iron or aluminium oxyhydroxides, with some kaolinite, in a layer more than 10 cm thick.
+A nodular horizon has more than 15% (by volume) nodules, as segregations of iron or aluminium oxyhydroxides, with some kaolinite, in a layer more than 10 cm thick. Nodular horizons are given the horizon notation suffix i (e.g. Boi, BCi).
 
 The nodules are common features in [Oxidic Soils](key-to-orders.qmd#sec-ord-X) and some [Granular Soils](key-to-orders.qmd#sec-ord-N) [@wilson1987]. The frequency distribution of nodules is clustered in the \< 2% range and the \> 15% range. Few profiles are known to lie in between.
 
@@ -284,14 +284,14 @@ An ortstein-pan is a B horizon that is normally given the horizon notation Bsm. 
 
 ## Oxidic Horizon {#sec-diag-oxh}
 
-The oxidic horizon is a strongly weathered B horizon consisting of mixed crystalline iron and aluminium oxides and kaolin group minerals, with low activity clay properties. It has **ALL** the following requirements:
+The oxidic horizon is a strongly weathered B horizon consisting of mixed crystalline iron and aluminium oxides and kaolin group minerals, with low activity clay properties. An oxidic horizon is given the notation suffix o (e.g. Bo). It has **ALL** the following requirements:
 
 1.  Weak or very weak primary ped strength and soil strength as determined by the unconfined resistance-to-crushing test at moist to dry soil water states; **AND**
 2.  Unconfined failure is friable or very friable over very moist to dry soil water states. Materials fail to predominantly 3 mm or smaller peds comprising silt- and sand-sized polyhedra and spheroids; **AND**
 3.  Primary peds slake rapidly in water to stable microaggregates which show no dispersion or slight dispersion after 100 inversions using the method of @mcqueen1981; **AND**
 4.  Non-reactive or very weakly reactive to the reactive-aluminium test [@fieldes1966]. Oxidic horizons are clayey, with measured clay contents commonly exceeding 60%. The measured clay percentage is usually larger than in overlying A horizons, but clay increase is not a defining criterion because of the problem of quantifying clay contents in materials that are frequently difficult to disperse.
 
-Materials are only slightly sticky and plastic in relation to clay content. Clay coatings are either visually absent or only present at frequencies of about 1%. The oxidic horizon has low activity clay accessory properties with ECEC and CEC less than 12 and 16 cmol~c~/100g clay respectively.
+Materials are only slightly sticky and plastic in relation to clay content. Clay coatings are either visually absent or only present at frequencies of about 1%. The oxidic horizon has low activity clay accessory properties with ECEC and CEC less than 12 and 16 cmol~c~/kg clay respectively.
 
 ## Paralithic Contact {#sec-diag-plith}
 
@@ -380,7 +380,7 @@ ft
 
 ## Redox-Mottled Horizon {#sec-diag-roxh}
 
-A redox-mottled horizon is a horizon affected in parts by reducing conditions as indicated by the presence of [redox-segregations](#sec-diag-rsegs). These usually indicate intermittent saturation of the soil by water.
+A redox-mottled horizon is a horizon affected in parts by reducing conditions as indicated by the presence of [redox-segregations](#sec-diag-rsegs). These usually indicate intermittent saturation of the soil by water. A redox-mottled horizon is given the notation suffix (f) if no low-chroma colours are present, or (g) if they are (e.g. Bw(f), B(g), BC(g)).
 
 A redox-mottled horizon has 2% or more redox segregations. If low chroma colours (moist chroma 2 or less, or moist chroma 3 with value 6 or more) occur, they must occupy less than 50% of the matrix exposed in a cut face of the horizon and are not dominant on ped faces.
 
@@ -396,7 +396,7 @@ The nature of the water table is indicated by the association of low and high ch
 
 A reductimorphic horizon has a slightly peaty texture class, or low chroma colours (moist chroma 2 or less, or moist chroma 3 with value 6 or more) that occupy 50% or more of the matrix exposed in a cut face of the horizon or are dominant on ped faces. A reductimorphic horizon includes any subjacent layers or interlayers of peaty soil material.
 
-A reductimorphic horizon is a horizon strongly affected by reducing conditions as indicated by greyish colours consistent with long saturation by water. The prolonged wetness may be caused by a water-table perched on a slowly permeable layer within the soil profile or by a groundwater-table.
+A reductimorphic horizon is a horizon strongly affected by reducing conditions as indicated by greyish colours consistent with long saturation by water. The prolonged wetness may be caused by a water-table perched on a slowly permeable layer within the soil profile or by a groundwater-table. A reductimorphic horizon is given the horizon notification g (if more than 2% mottles are present, e.g. Bg, BCg, Cg) or r (if the horizon is almost or completely reduced, e.g. Br, BCr).
 
 ## Slowly Permeable Layer {#sec-diag-slowp}
 
@@ -421,7 +421,7 @@ A slowly permeable layer is significant for the land use, genetic and hydrologic
 
 ## Sodic Features {#sec-diag-sod}
 
-A horizon with sodic features has significant exchangeable sodium (not necessarily related to a high soluble salt content). It has **BOTH**
+A horizon with sodic features has significant exchangeable sodium. This is not necessarily related to a high soluble salt content. A sodic horizon is given the notation suffix n (e.g. Btn, BCn). It has **BOTH**
 
 1.  **Either**
     (a) Exchangeable sodium percentage of 6% or more (or exchangeable sodium is 0.7 cmol~c~/kg or more); *or*
