@@ -6,7 +6,7 @@ Allophanic Soils have properties that are strongly influenced by minerals with s
 
 ## Correlation {#sec-cor-L}
 
-The order comprises mainly yellow-brown loams but also includes weakly weathered red loams and brown loams and some upland and high country yellow-brown earths of the NZ Genetic Soil Classification. The soils correlate predominantly with the Aquands, Cryands and Udands of Soil Taxonomy.
+The order comprises mainly yellow-brown loams but also includes weakly weathered red loams and brown loams and some upland and high country yellow-brown earths of the NZ Genetic Soil Classification. The soils correlate predominantly with the Andisols of Soil Taxonomy.
 
 ## Occurrence {#sec-occ-L}
 
