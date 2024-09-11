@@ -435,7 +435,7 @@ A horizon with sodic features has significant exchangeable sodium. This is not n
 
 Tephric soil material occurs in or below the soil solum. It includes:
 
-1.  Tephra --- unconsolidated, primary pyroclastic products of volcanic eruptions [@froggatt1990] (including ash, cinders, lapilli, pumice, pumice-like vesicular pyroclastics, blocks, or volcanic bombs), and
+1.  Tephra --- unconsolidated, primary pyroclastic products of volcanic eruptions [@froggatt1990] such as ash, cinders, lapilli, pumice, scoria, blocks, or volcanic bombs, and
 2.  Tephra deposits --- material derived at least partly from tephra that has been reworked and mixed with material from other sources. They include tephric loess, tephric blown sand and volcanogenic alluvium. As a general guide, tephric deposits from andesitic sources have more than 10% volcanic glass in the sand fraction and those from rhyolitic sources have more than 40% volcanic glass in the sand fraction.
 
 Tephric soil material may include soil materials that meet the requirements of [allophanic soil material](#sec-diag-alloph) or [vitric soil material](#sec-diag-vitr). It is used to distinguish soil groups of the [Raw Soils](key-to-orders.qmd#sec-ord-W) and [Recent Soils](key-to-orders.qmd#sec-ord-R), and parent material classes at soil series level.
