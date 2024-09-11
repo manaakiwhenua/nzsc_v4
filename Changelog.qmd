@@ -2,6 +2,24 @@
 
 ### Major
 
+#### Diagnostics
+
+-   **ADD** [Anthropic Soil Material](diagnostics.qmd#sec-diag-anthro) as a diagnostic for the Anthropic order.\
+    **Rationale:** Anthropic materials were not previously defined, causing confusion during the classification process.
+-   **ADD** [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) as a diagnostic for Pallic and some Brown soils.\
+    **Rationale:** Concepts appearing in the key require a clear diagnostic definition within the classification, independant of the description manual, which was previously implicitly linked.
+-   **AMEND** [Calcareous horizon](Diagnostics.qmd#sec-diag-calch) for clarity and brevity, adding a clearer definition of primary vs secondary carbonates and including example horizon notation. Removed extraneous second paragraph.\
+    **Rationale:** Removal of the second paragraph is justified on the grounds that the content is better suited to the Rationale.
+-   **AMEND** [Densipan](Diagnostics.qmd#sec-diag-dens) to include expected horizon notation, and remove reference to specific types of field testing.\
+    **Rationale:** Strength and penetration resistance testing should be undertaken using current best practices, which do not need to be specified in this document.
+-   **AMEND** [Fragipan](Diagnostics.qmd#sec-diag-fpan) to include expected horizon notation, and remove reference to specific types of field testing. Additionally, clarify that bulk density is expected to be *greater than or equal to* 1.5 Mg/m^3^.
+
+#### Key
+
+-   **MOVE** Anthropic soils to the top of the key.\
+    **Rationale:** Removing Anthropic Soils from contention first can reduce confusion when applying the rest of the key, and keeps the overall classification structure relatively simple. The Australian Soil Classification with its Anthroposol order and the Japanese Soil Classification with its Developed/Reclaimed soils (造成土大群) make a similar choice. The World Reference base is effectively the same - it places its two equivalent orders (Anthrosols and Technosols, for agricultural and urban/industrial situations respectively) in second and third place after the Histosols. This reflects the rapidity with which organic soil materials can accumulate on the land surface. The Histosol definition itself allows for the presence of anthropic features like artefacts, so all human-modified profiles are effectively classified out early in the WRB key. \
+    By contrast, US Soil Taxonomy uses the Anthric and Plaggic Epipedon concepts to modify other orders. This has the advantage of keeping human-influenced soils conceptually close to their more natural neighbours, but adds a large number of subgroups to the classification, making it potentially more difficult to use. These subgroups will continue to proliferate as humans discover new and interesting ways to modify their environment. Other systems either ignore human-modified profiles or deliberately exclude them from consideration, neither of which practice is considered useful.
+
 #### Mafic Melanic/Brown subgroup revision
 
 -   **ADD** subgroups EML ([Allophanic Mafic Melanic](Melanics.qmd#sec-key-EML)), EMA ([Acidic Mafic Melanic](Melanics.qmd#sec-key-EMA)).
@@ -12,10 +30,28 @@
 
 ### Minor
 
-#### Word usage
+#### Correlations
+
+-   Discussions of correlations between the NZSC and other systems have been updated to reflect changes to both them and the NZSC.
+
+#### Terminology
 
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
+-   **AMEND** the definition of [Truncated Anthropic](Anthropics.qmd#sec-AT) soils for clarity.
+-   **AMEND** the definition of Refuse Anthropic soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
+-   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
+-   **REPLACE** use of the term 'clasts' with 'coarse rock fragments'.
+-   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
+-   **AMEND** the definition of [Duripan](Diagnostics.qmd#sec-diag-dpan) to include a horizon notation example.
+-   **AMEND** the definition of [Ironstone-pan](Diagnostics.qmd#sec-diag-ipan) to include a horizon notation example.
+-   **AMEND** the defnition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.
 
 #### Consistency
 
 -   **REMOVE** reference to 'stony brown' soil group in the Brown soils accessory properties list, point 8. This concept was retired between v2.0 and v3.0.
+-   **AMEND** all units to SI standards (e.g. CEC in cmol~c~/kg)
+-   Refer consistently to 'B or BC' horizons where appropriate.
+
+#### References
+
+-   References have been updated where new editions or versions of certain documents have become available. New contextual references have been added in a number of places.
