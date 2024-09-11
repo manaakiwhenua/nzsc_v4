@@ -53,7 +53,6 @@ Layers meeting the requirements of allophanic soil material may also meet the re
 Accessory chemical properties relate to variable-charge characteristics, P retention, and high organic-matter contents. Accessory physical properties include high total available water capacity and readily available water capacity, and low penetration resistance. In addition, allophanic soil material undergoes irreversible changes upon drying, for example, in plastic and liquid limits and in apparent particle-size distribution. It should be noted that minerals other than allophane (e.g. ferrihydrite) can give rise to allophanic soil material.
 
 ::: maj
-
 ## Anthropic soil material {#sec-diag-anthro}
 
 Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
@@ -67,7 +66,6 @@ Anthropic material constitutes human-altered or human-transported soil material 
 -   waste products of manufacturing processes, including chemical contaminants.
 
 The relationship between natural soil horizons or parent materials with Anthropic material or truncation is commonly in the form of a lithological discontinuity, indicated by distinct to sharp transitions between horizons. The majority of Anthropic material (including truncation) in NZ is the result of distinct and extensive modification from the mid-19th century coinciding with early European settlement, deforestation, and farming. From the mid-20th century, excavation and construction (e.g., infrastructure, roading, industrial and urban expansion) has further pronounced lithological discontinuity and alteration. The influence of ‘older’ Māori cultural practice (e.g., soil alteration/modification practices, Māori plaggen soils) is still recognised in many parts of NZ, and can predate European settlement. Distinct soil management alterations from historical (dating back to early Polynesian settlement) to modern can be distinguished at the group or family level. Anthropic material is indicated on a per-horizon basis by the Parent Material Class notation 'An'. This notation can be appended with 'm', 'e', or 'n' to distinguish pre-modern Māori modifications, pre-modern European modifications, and modern modifications, if desired (e.g 'An-m').
-
 :::
 
 ## Argillic Horizon {#sec-diag-argh}
@@ -149,7 +147,6 @@ A duripan is a subsurface horizon that is cemented by silica or other opaque or 
 The duripan is recognised in [Pallic Soils](Key-to-Orders.qmd#sec-ord-P) where the cementing materials are apparently related to the presence of siliceous tephra in the parent material or high exchangeable sodium in the soil. [A duripan is given the horizon notation suffix q (e.g. Bq).]{.min}
 
 ::: maj
-
 ## Eluvial horizon {#sec-diag-eluvh}
 
 An eluvial horizon is a mineral horizon that contains less organic matter, pedogenic oxides, clay, or a combination of these than the horizon immediately below as a result of downward or lateral movement. The primary notation E is used for these horizons. Compared to an overlying H, O or A horizon, it contains less organic matter. The colour of the horizon can be that of uncoated sand and silt grains but E horizons are also recognised where coats of iron oxides or other minerals mask the colour of the primary particles. It has all the following characteristics:
@@ -346,7 +343,7 @@ A podzolic-B horizon is a B horizon that meets one of the following:
 1.  It meets the requirement of a Bh horizon (because it has colour value and chroma of 3 or less, or value 4 and chroma 2, dominant in the matrix, and contains more than 1% organic carbon). The fabric has sand- or silt-size pellet-like aggregates, coats on mineral grains, or both; **OR**
 2.  
     (a) It is associated with an overlying (but not necessarily immediately overlying) E horizon (i.e. Ea horizon) in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; **AND**
-    (b) The B (or some subhorizon of the B) horizon is 5 cm or more thick and meets the requirements of a Bs (or Bs(g) or Bs(f)) horizon because it has a strong or very strong reactive-aluminium test, and at least one of the following:
+    (b) The B horizon is 5 cm or more thick and meets the requirements of a Bs (or Bs(g) or Bs(f)) horizon because it has a strong or very strong reactive-aluminium test, and at least one of the following:
         (i) Reddish hue and highest chroma at the top of the horizon; *or*
         (ii) Earthy apedal with fine spheroids, or weakly developed blocks or polyhedra; *or*
         (iii) Very weak or weak soil strength when moist or dry; *or*
