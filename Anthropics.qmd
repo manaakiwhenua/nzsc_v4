@@ -72,7 +72,7 @@ Other Anthropic Soils that have either
 
 #### **AM** {#sec-key-AM}
 
-Other Anthropic Soils in which the original soil horizons have been destroyed by deep ripping, deep subsoil lifting, or some similar practice.
+[Other Anthropic Soils in which the original soil horizonation has been destroyed by deep ripping, deep subsoil lifting, or similar practices.]{.min}
 
 ::: {style="text-align: right"}
 [**MIXED ANTHROPIC SOILS**](#sec-AM)

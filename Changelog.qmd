@@ -43,15 +43,16 @@
 
 #### Terminology
 
--   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
--   **AMEND** the definition of [Truncated Anthropic](Anthropics.qmd#sec-AT) soils for clarity.
--   **AMEND** the definition of Refuse Anthropic soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
--   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
--   **REPLACE** use of the term 'clasts' with 'coarse rock fragments'.
--   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
 -   **AMEND** the definition of [Duripan](Diagnostics.qmd#sec-diag-dpan) to include a horizon notation example.
 -   **AMEND** the definition of [Ironstone-pan](Diagnostics.qmd#sec-diag-ipan) to include a horizon notation example.
--   **AMEND** the defnition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.
+-   **AMEND** the definition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.
+-   **AMEND** the definition of [Truncated Anthropic](Anthropics.qmd#sec-AT) soils for clarity.
+-   **AMEND** the definition of [Mixed Anthropic](Anthropics.qmd#sec-AM) soils for clarity.
+-   **AMEND** the definition of Refuse Anthropic soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
+-   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
+-   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
+-   **REPLACE** use of the term 'clasts' with 'coarse rock fragments'.
+-   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
 -   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the Podzolic B (superfluous).
 -   **REMOVE** redundant reference to depth requirements in part 2 of the LOA [Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA) soil definition.
 
