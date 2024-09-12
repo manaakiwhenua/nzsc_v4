@@ -53,6 +53,7 @@
 -   **AMEND** the definition of [Ironstone-pan](Diagnostics.qmd#sec-diag-ipan) to include a horizon notation example.
 -   **AMEND** the defnition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.
 -   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the Podzolic B (superfluous).
+-   **REMOVE** redundant reference to depth requirements in part 2 of the LOA [Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA) soil definition.
 
 #### Consistency
 
