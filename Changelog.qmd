@@ -35,6 +35,11 @@
 -   **REMOVE** subgroup BLAM (Acidic-mafic Allophanic Brown)\
     **Rationale:** With the changes above, this subgroup has become superfluous. Linking allophanic subgroups directly to mafic groups (EM, BM) will better account for the mechanisms behind the allophanic characteristics in these soils that are likely different to that of soils with allophanic characteristics from tephra and more felsic lithology.
 
+#### Mottled Browns
+
+-   **AMEND** Mottled subgroups in the Brown Soils (BLM, BSMP, BSM, BMMG, BMM, BAMP, BAM, BFMA, BFMC, BFMW, BFMP, BFM, BOMA, BOM) to be defined by the presence of a mottled profile form *or perch-gley features*. This also applies to the new subgroup BOMP.\
+    **Rationale**: Perch-gley features can induce a profile form that is in part reduced, but not necessarily as strongly as is required for a gley soil. The reduction is often seasonal rather than year-round. These soils are usually considered imperfectly rather than poorly drained. For further discussion, see @hewitt2021, pp. 76-78.
+
 ### Minor
 
 #### Correlations

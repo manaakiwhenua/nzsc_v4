@@ -162,7 +162,7 @@ Allophanic Brown Soils occur in soils that have a horizon with properties domina
 
 #### **BLM** {#sec-key-BLM}
 
-Allophanic Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Allophanic Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}
 
 ::: {style="text-align: right"}
 **Mottled Allophanic Brown Soils**
@@ -222,7 +222,7 @@ Sandy Brown Soils occur in sand deposits which are usually of aeolian origin, bu
 
 #### **BSMP** {#sec-key-BSMP}
 
-Sandy Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) and a [placic horizon](Diagnostics.qmd#sec-diag-plac).
+Sandy Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj} and a [placic horizon](Diagnostics.qmd#sec-diag-plac).
 
 ::: {style="text-align: right"}
 **Mottled-placic Sandy Brown Soils**
@@ -230,7 +230,7 @@ Sandy Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mo
 
 #### **BSM** {#sec-key-BSM}
 
-Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
 
 ::: {style="text-align: right"}
 **Mottled Sandy Brown Soils**
@@ -291,7 +291,7 @@ Mafic Brown Soils occur in soil materials weathered from ultrabasic, basic or in
 
 Mafic Brown Soils that have *both*
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  *either*
     (a) 5% (by volume) or more gravel consisting mainly of ultramafic rocks, *or*
     (b) have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
@@ -313,7 +313,7 @@ Other soils that have *either*
 
 #### **BMM** {#sec-key-BMM}
 
-Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
 
 ::: {style="text-align: right"}
 **Mottled Mafic Brown Soils**
@@ -364,7 +364,7 @@ Acid Brown Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts).
 Acid Brown Soils that have *both*
 
 1.  a [placic horizon](Diagnostics.qmd#sec-diag-plac) at 60 cm or less from the mineral soil surface, *and*
-2.  a [mottled](Diagnostics.qmd#sec-diag-mottpf) or [gley profile form](Diagnostics.qmd#sec-diag-gleypf).
+2.  a [mottled](Diagnostics.qmd#sec-diag-mottpf) or [[perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
 
 ::: {style="text-align: right"}
 **Mottled-placic Acid Brown Soils**
@@ -372,7 +372,7 @@ Acid Brown Soils that have *both*
 
 #### **BAM** {#sec-key-BAM}
 
-Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
 
 ::: {style="text-align: right"}
 **Mottled Acid Brown Soils**
@@ -410,7 +410,7 @@ Firm Brown Soils have an apedal subsurface horizon with strong moist soil streng
 
 Firm Brown Soils that have *both*
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
@@ -421,7 +421,7 @@ Firm Brown Soils that have *both*
 
 Other soils that have *both*
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  a horizon that is cemented to the degree that it is at least weakly indurated, within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
@@ -432,7 +432,7 @@ Other soils that have *both*
 
 Other soils that have *both*
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  gravel that in the majority is weathered to the extent that [coarse rock fragment]{.min} may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
@@ -443,7 +443,7 @@ Other soils that have *both*
 
 Other soils that have *both*
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  that have in some part of the B [or BC]{.min} horizon to 90 cm in from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with either
     (a) non-reactive, very weak or weak [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), *or*
     (b) a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), *or*
@@ -455,7 +455,7 @@ Other soils that have *both*
 
 #### **BFM** {#sec-key-BFM}
 
-Other Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Other Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
 
 ::: {style="text-align: right"}
 **Mottled Firm Brown Soils**
@@ -548,7 +548,7 @@ Orthic Brown Soils have B horizon peds or have weak or very weak soil strength t
 
 Orthic Brown Soils that have **both**
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.min}, *and*
 2.  gravel that in the majority is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
@@ -559,7 +559,7 @@ Orthic Brown Soils that have **both**
 
 Other soils that have both
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.min}, *and*
 2.  pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
@@ -568,7 +568,7 @@ Other soils that have both
 
 #### **BOM** {#sec-key-BOM}
 
-Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.min}.
 
 ::: {style="text-align: right"}
 **Mottled Orthic Brown Soils**
