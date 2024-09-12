@@ -10,7 +10,7 @@ Other technical terms are defined in other books:
 -   *Soil colours* are defined by @pantone2017 (see also @soilcol1993).
 -   *Soil mineralogy classes* are defined by @whitton1989 or @childs1990. Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
 -   *Soil chemical terms* are explained and the analytical methods are described by @blakemore1987. Note that soil pH measurements are made in water with a ratio of 1 part of soil to 2.5 parts of water, by weight.
--   *Soil physical terms* are explained and the analytical methods are described by @gradwell1979.
+-   *Soil physical terms* are explained and the analytical methods are described by @gradwell1979 and @mcqueen1993.
 -   A comprehensive overview of the diversity of soils and landscapes in Aotearoa-New Zealand is given by @hewitt2021.
 -   Many other soil science concepts and technical terms are explained, in a New Zealand context, by @mclaren1990.
 
