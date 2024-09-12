@@ -24,6 +24,8 @@
     The definition of [Distinct Topsoil](Diagnostics.qmd#sec-diag-dts) itself is not proposed to be changed so that the definitions of other orders remain consistent.
 -   **ADD** an additional criteria that [Gley soils](Key-to-Orders.qmd#sec-G) do not contain a diagnostic amount of allophanic soil material (new criteria 1(e))\
     **Rationale** soils that fail out on this new criteria belong more correctly in the LG [Allophanic Gley](Allophanics.qmd#sec-key-LG) group, and new criteria directs them there. Gleys that contain [tephric soil material](Diagnostics.qmd#sec-diag-teph) that doesn't meet the requirements for [allophanic soil materials](Diagnostics.qmd#sec-diag-alloph) (for example, gley soils forming in poorly drained alluvia from mixed sources but including some reworked ash), may still key out as GT [Tephric Gleys](Gleys.qmd#sec-key-GT).
+-   **ADD** a statement to the [Allophanic Soils](Key-to-Orders.qmd#sec-L) definition covering situations where [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) is shallow over rock.\
+    **Rationale** Without this statement, shallow allophanic soils over rock are most likely to be pushed into the BL [Allophanic Brown](Browns.qmd#sec-key-BL) or RT [Recent Tephric](Recents.qmd#sec-key-RT) subgroups, neither of which may be the most appropriate destination.
 
 #### Mafic Melanic/Brown subgroup revision
 
