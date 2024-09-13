@@ -212,7 +212,7 @@ Yellow Ultic Soils are clayey and lack [densipans](Diagnostics.qmd#sec-diag-dens
 Soils that have either
 
 1.  5% (by volume) or more gravel that consists mainly of ultramafic rocks, *or*
-2.  have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  have an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Yellow Ultic Soils**

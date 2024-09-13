@@ -121,7 +121,7 @@ Other Brown Soils that, in a subhorizon of the B [or BC]{.min} at 60 cm from th
 
 1.  Matrix colour value 4 or less and moderately or strongly pedal polyhedral peds (20 mm or less in size), *or*
 2.  5% (by volume) or more gravel that consists mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
-3.  an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
+3.  an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
 [**MAFIC BROWN SOILS**](#sec-BM)
@@ -294,7 +294,7 @@ Mafic Brown Soils that have *both*
 1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  *either*
     (a) 5% (by volume) or more gravel consisting mainly of ultramafic rocks, *or*
-    (b) have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+    (b) have an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-magnesic Mafic Brown Soils**
@@ -305,7 +305,7 @@ Mafic Brown Soils that have *both*
 Other soils that have *either*
 
 1.  5% (by volume) or more gravel consisting mainly of ultramafic rocks, *or*
-2.  have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+2.  have an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Mafic Brown Soils**
