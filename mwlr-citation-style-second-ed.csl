@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>Taylor &amp; Francis - Council of Science Editors (author-date)</title>
-    <title-short>TF-CSE</title-short>
-    <id>http://www.zotero.org/styles/taylor-and-francis-council-of-science-editors-author-date</id>
-    <link href="http://www.zotero.org/styles/taylor-and-francis-council-of-science-editors-author-date" rel="self"/>
+    <title>MWLR Citation Style (2nd ed)</title>
+    <title-short>mwlr-second-ed</title-short>
+    <id>http://www.zotero.org/styles/mwlr-citation-style-second-ed</id>
+    <link href="http://www.zotero.org/styles/mwlr-citation-style-second-ed" rel="self"/>
     <link href="http://www.zotero.org/styles/council-of-science-editors-author-date" rel="template"/>
-    <link href="http://www.tandf.co.uk/journals/authors/style/reference/tf_CSE.pdf" rel="documentation"/>
+    <link href="https://landcareresearch.sharepoint.com/Sites/research/SitePages/editing/guide-to-style.aspx" rel="documentation"/>
     <author>
-      <name>Sebastian Karcher</name>
+      <name>Andrew Neverman</name>
     </author>
     <category citation-format="author-date"/>
     <category field="science"/>
-    <summary>The Council of Science Editors style for T&amp;F journals as per guidelines (version 2.0, 18 Jan 2018).</summary>
-    <updated>2021-05-06T03:27:57+00:00</updated>
-    <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
+    <summary>Based on the MWLR guide to style.</summary>
+    <updated>2023-02-08T21:26:14+00:00</updated>
   </info>
   <macro name="editor-translator">
     <names variable="editor translator" delimiter="; ">
@@ -23,7 +23,7 @@
     </names>
   </macro>
   <macro name="author">
-    <group suffix=".">
+    <group>
       <names variable="author">
         <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
         <label form="long" prefix=", "/>
@@ -57,17 +57,31 @@
   </macro>
   <macro name="title">
     <group delimiter=" ">
-      <text variable="title"/>
+      <text variable="title" suffix="."/>
       <choose>
         <if type="thesis" match="any">
           <text variable="genre" form="long" prefix="[" suffix="]"/>
+        </if>
+      </choose>
+      <choose>
+        <if type="report" match="any">
+          <text macro="report-detals"/>
+        </if>
+      </choose>
+      <choose>
+        <if variable="container-title" match="none">
+          <choose>
+            <if variable="URL">
+              <text term="internet" prefix=" [" suffix="]" text-case="capitalize-first"/>
+            </if>
+          </choose>
         </if>
       </choose>
     </group>
   </macro>
   <macro name="publisher-place">
     <choose>
-      <if variable="publisher-place" match="none">
+      <if variable="publisher-place" match="none" type="report">
         <text value="[place unknown]"/>
       </if>
       <else>
@@ -103,12 +117,17 @@
     <text variable="page"/>
   </macro>
   <macro name="year-date">
-    <date variable="issued">
+    <date delimiter="" variable="issued">
       <date-part name="year"/>
     </date>
   </macro>
   <macro name="container">
     <text variable="container-title" form="short" strip-periods="true"/>
+    <choose>
+      <if variable="URL">
+        <text term="internet" prefix=" [" suffix="]" text-case="capitalize-first"/>
+      </if>
+    </choose>
   </macro>
   <macro name="edition">
     <choose>
@@ -123,7 +142,14 @@
       </else>
     </choose>
   </macro>
-  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" givenname-disambiguation-rule="by-cite">
+  <macro name="report-detals">
+    <choose>
+      <if type="report" match="any">
+        <text variable="title-short"/>
+      </if>
+    </choose>
+  </macro>
+  <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="false" givenname-disambiguation-rule="by-cite">
     <sort>
       <key variable="issued"/>
       <key macro="author-short"/>
@@ -141,15 +167,15 @@
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="false" et-al-min="12" et-al-use-first="10">
+  <bibliography hanging-indent="true" et-al-min="12" et-al-use-first="10">
     <sort>
       <key macro="author"/>
       <key macro="year-date"/>
     </sort>
     <layout>
-      <group suffix="." delimiter=". ">
+      <group delimiter=" " suffix=".">
         <text macro="author"/>
-        <text macro="year-date"/>
+        <text macro="year-date" suffix="."/>
         <text macro="title"/>
       </group>
       <group suffix=".">
