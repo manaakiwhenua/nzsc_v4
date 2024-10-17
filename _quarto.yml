@@ -38,6 +38,7 @@ book:
     - references.qmd
 
 bibliography: NZSC_reference_list_4e.bib
+csl: taylor-and-francis-council-of-science-editors-author-date.csl
 
 format:
   html:
