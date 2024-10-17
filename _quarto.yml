@@ -36,6 +36,7 @@ book:
     - Acknowledgements.qmd
     - Appendix.qmd
     - references.qmd
+    - glossary.qmd
 
 bibliography: NZSC_reference_list_4e.bib
 csl: taylor-and-francis-council-of-science-editors-author-date_LC.csl

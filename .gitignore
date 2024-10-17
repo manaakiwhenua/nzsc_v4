@@ -4,6 +4,8 @@
 .Ruserdata
 sources/*.pdf
 sources/*.md
+data/Glossary.csv
+data/NZSC-Glossary.xlsx
 
 
 /.quarto/

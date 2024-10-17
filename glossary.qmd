@@ -1,0 +1,35 @@
+---
+title: "Glossary"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+library(dplyr)
+library(readxl)
+library(tibble)
+library(gt)
+library(gtExtras)
+```
+
+```{r}
+
+glossary <- read_xlsx(file.path('data', 'NZSC-Glossary.xlsx'), 
+                      sheet = 1, range = cell_cols('A:B')) %>% 
+  dplyr::arrange(term)
+
+tbl_glossary <- gt(glossary) |>
+   tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '85%'
+  ) |>
+  cols_width(term ~ pct(25)) |>
+  cols_label_with(fn = ~ stringr::str_to_title(.)) |>
+  cols_align('left')
+
+tbl_glossary
+
+```
