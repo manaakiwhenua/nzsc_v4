@@ -1,6 +1,6 @@
 # Foreword {#sec-foreword}
 
-Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics).
+Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics) and the [Glossary](glossary.qmd).
 
 Other technical terms are defined in other books:
 
