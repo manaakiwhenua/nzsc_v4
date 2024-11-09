@@ -1,6 +1,12 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
 # Introduction {#sec-intro}
 
-Version 3.0 of the Zealand Soil Classification is the culmination of a period of development from its initiation in 1983 to wide circulation of versions 1.0 and 2.0 [@hewitt1989] for comment and testing. It represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary. Accounts of the methods used in developing the soil classification and the rationale for the classes and differentia used are in preparation.
+Version [4.0]{.min} of the Zealand Soil Classification is the culmination of a period of development from its initiation in 1983 to wide circulation of versions [1.0 through to 3.0]{.min} [@hewitt1989; @hewitt2010] for comment and testing. It represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary.
 
 The New Zealand Soil Classification is a national soil classification intended to replace the New Zealand Genetic Soil Classification [@taylor1948; @taylor1957; @taylor1962]. The New Zealand Genetic Soil Classification grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played a vital role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s. The present work has grown out of the New Zealand Genetic Soil Classification and, where possible, preserves successful parts of that classification. It has also been influenced by experience in testing the US Soil Taxonomy [@leamy1983].
 
@@ -9,7 +15,7 @@ The New Zealand Soil Classification is a national soil classification intended t
 The objectives of the New Zealand Soil Classification are:
 
 1.  to provide a better means of communication about New Zealand soils and their utilisation;
-2.  to provide an efficient vehicle for soil identification, soil series/family recognition and correlation, and soil map legend establishment in soil surveys;
+2.  to provide an efficient vehicle for [soil type identification and correlation]{.min}, and soil map legend establishment in soil surveys;
 3.  to enable an efficient stratification of soil database information;
 4.  to draw together knowledge of the properties of New Zealand soils and important similarities and differences among them.
 
@@ -46,12 +52,11 @@ The soil horizons are examined and the assignment is then made by following the 
 
 The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](Oxidics.qmd#sec-key-XPN)). @fig-one illustrates the relationships between subgroups and groups in the [Oxidic Soils](Oxidics.qmd#sec-ord-X) order.
 
-```{r}
-#| label: fig-one
-#| fig.cap: "The hierarchy of the [Oxidic Soils](Oxidics.qmd#sec-ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position."
+::: {#fig-one}
+![](images/Figure-001_oxidic-soils-hierarchy.png)
 
-knitr::include_graphics('images/Figure-001_oxidic-soils-hierarchy.png')
-```
+The hierarchy of the [Oxidic Soils](Oxidics.qmd#sec-ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position.
+:::
 
 ## Misclassification {#sec-intro-misclass}
 
@@ -63,26 +68,41 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 ## Correlations with other soil classification systems {#sec-intro-correls}
 
-Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. @tbl-one summarises the correlations of classes of the Zealand Soil Classification with those of the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999]. [For further information on the Soil Taxonomy terms used in the correlation, the reader is referred to the Soil Taxonomy.]{.min}
+Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent.@tbl-one[ summarises the correlations of classes of the Zealand Soil Classification with those of the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999], where the reader can also find more information on the technical terms used in the correlation.]{.min}
 
 ```{r}
 #| label: tbl-one
 #| tbl-cap: "Correlation of soil groups with the Genetic New Zealand Soil Classification [@taylor1962] and the US Soil Taxonomy [@soilsurveystaff1999]. The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classification."
+#| classes: [plain, hover]
 
-library(flextable)
+library(gt)
+library(gtExtras)
 
-table_001 <- data.frame(
-  'NZSC_Suborder' = c('ALLOPHANIC SOILS',
+table_001_dat <- data.frame(
+  'NZSC_order' = c(rep('ALLOPHANIC SOILS', 4),
+                   rep('ANTHROPIC SOILS', 4),
+                   rep('BROWN SOILS', 7),
+                   rep('GLEY SOILS', 6),
+                   rep('GRANULAR SOILS', 4),
+                   rep('MELANIC SOILS', 5),
+                   rep('ORGANIC SOILS', 4),
+                   rep('OXIDIC SOILS', 3),
+                   rep('PALLIC SOILS', 6),
+                   rep('PODZOLS', 5),
+                   rep('PUMICE SOILS', 3),
+                   rep('RAW SOILS', 7),
+                   rep('RECENT SOILS', 6),
+                   rep('SEMIARID SOILS', 4),
+                   rep('ULTIC SOILS', 5)),
+  'NZSC_Suborder' = c(
                       'Perch-Gley Allophanic Soils',
                       'Gley Allophanic Soils',
                       'Impeded Allophanic Soils',
                       'Orthic Allophanic Soils',
-                      'ANTHROPIC SOILS',
                       'Truncated Anthropic Soils',
                       'Refuse Anthropic Soils',
                       'Mixed Anthropic Soils',
                       'Fill Anthropic Soils',
-                      'BROWN SOILS',
                       'Allophanic Brown Soils',
                       'Sandy Brown Soils',
                       'Oxidic Brown Soils',
@@ -90,51 +110,42 @@ table_001 <- data.frame(
                       'Acid Brown Soils',
                       'Firm Brown Soils',
                       'Orthic Brown Soils',
-                      'GLEY SOILS',
                       'Sulpuric Gley Soils',
                       'Sandy Gley Soils',
                       'Acid Gley Soils',
                       'Oxidic Gley Soils',
                       'Recent Gley Soils',
                       'Orthic Gley Soils',
-                      'GRANULAR SOILS',
                       'Perch-gley Granular Soils',
                       'Melanic Granular Soils',
                       'Oxidic Granular Soils',
                       'Orthic Granular Soils',
-                      'MELANIC SOILS',
                       'Vertic Melanic Soils',
                       'Perch-gley Melanic Soils',
                       'Rendzic Melanic Soils',
                       'Mafic Melanic Soils',
                       'Orthic Melanic Soils',
-                      'ORGANIC SOILS',
                       'Litter Organic Soils',
                       'Fibric Organic Soils',
                       'Mesic Organic Soils',
                       'Humic Organic Soils',
-                      'OXIDIC SOILS',
                       'Perch-gley Oxidic Soils',
                       'Nodular Oxidic Soils',
                       'Orthic Oxidic Soils',
-                      'PALLIC SOILS',
                       'Perch-gley Pallic Soils',
                       'Duric Pallic Soils',
                       'Fragic Pallic Soils',
                       'Laminar Pallic Soils',
                       'Argillic Pallic Soils',
                       'Immature Pallic Soils',
-                      'PODZOLS',
                       'Densipan Podzols',
                       'Perch-gley Podzols',
                       'Groundwater-gley Podzols',
                       'Pan Podzols',
                       'Orthic Podzols',
-                      'PUMICE SOILS',
                       'Perch-gley Pumice Soils',
                       'Impeded Pumice Soils',
                       'Orthic Pumice Soils',
-                      'RAW SOILS',
                       'Gley Raw Soils',
                       'Hydrothermal Raw Soils',
                       'Rocky Raw Soils',
@@ -142,163 +153,137 @@ table_001 <- data.frame(
                       'Fluvial Raw Soils',
                       'Tephric Raw Soils',
                       'Orthic Raw Soils',
-                      'RECENT SOILS',
                       'Hydrothermal Recent Soils',
                       'Rocky Recent Soils',
                       'Sandy Recent Soils',
                       'Fluvial Recent Soils',
                       'Tephric Recent Soils',
                       'Orthic Recent Soils',
-                      'SEMIARID SOILS',
                       'Aged-argillic Semiarid Soils',
                       'Solonetzic Semiarid Soils',
                       'Argillic Semiarid Soils',
                       'Immature Semiarid Soils',
-                      'ULTIC SOILS',
                       'Densipan Ultic Soils',
                       'Albic Ultic Soils',
                       'Perch-gley Ultic Soils',
                       'Sandy Ultic Soils',
                       'Yellow Ultic Soils'),
-  'NZ_Genetic_SC' = c('ALLOPHANIC SOILS',
-                      rep('gley soils', 2),
+  'NZ_Genetic_SC' = c(rep('gley soils', 2),
                       rep('YB loams', 2),
-                      'ANTHROPIC SOILS',
                       rep('anthropic soils', 4),
-                      'BROWN SOILS',
                       'YB earths (upland & high country)',
                       'YB sands',
                       'YB earths (northern',
                       'BG loams and clays',
                       'podzolized YB earthsor YB earths',
                       rep('YB earths, YB shallow and stony soils', 2),
-                      'GLEY SOILS',
                       rep('gley soils', 4),
                       rep('gleyed recent soils', 2),
-                      'GRANULAR SOILS',
                       rep('BG loams or BG clays', 4),
-                      'MELANIC SOILS',
                       'BG loams and clays',
                       'gley soils',
                       'rendzinas',
                       'BG loams and clays',
                       'rendzinas and rendzinic intergrades',
-                      'ORGANIC SOILS',
                       'unclassified',
                       rep('organic soils', 3),
-                      'OXIDIC SOILS',
                       'gley soils',
                       rep('strongly weathered red loams, brown loams, or BG loams or BG clays', 2),
-                      'PALLIC SOILS',
                       rep('yellow-grey earths', 5),
                       'yellow-grey earths or recent soils',
-                      'PODZOLS',
                       'podzols',
                       rep('gley podzols', 2),
                       rep('podzols', 2),
-                      'PUMICE SOILS',
                       'gley soils',
                       rep('YB pumice soils', 2),
-                      'RAW SOILS',
                       'unclassified',
                       'hydrothermal soils',
                       rep('unclassified', 5),
-                      'RECENT SOILS',
                       'recent soils',
                       'lithosols',
                       rep('recent soils', 4),
-                      'SEMIARID SOILS',
                       'brown-grey earths',
                       'solonetz',
                       rep('brown-grey earths', 2),
-                      'ULTIC SOILS',
                       'YB earths or podzols',
                       rep('YB earths',2),
                       'YB earths or YB sands',
                       'YB earths'),
-  'US_Soil_Taxonomy' = c('ALLOPHANIC SOILS',
-                         rep('Aquands', 2), 
+  'US_Soil_Taxonomy' = c(rep('Aquands', 2), 
                          rep('Cryands and Udands', 2),
-                         'ANTHROPIC SOILS',
                          'Arents',
                          'Arents or Unclassified',
                          'Arents',
                          'Arents',
-                         'BROWN SOILS',
                          'Dystrochrepts',
                          'Ustochrepts, Dystrochrepts and Psamments',
                          rep('Dsytrochrepts', 3),
                          rep('Dystrochrepts and Ustochrepts', 2),
-                         'GLEY SOILS',
                          'Sulphaquepts',
                          'Aquepts or Aquents',
                          'Aquepts',
                          'Aquox',
                          'Aquents',
                          'Aquepts or Aquents',
-                         'GRANULAR SOILS',
                          'Aquults',
                          'Humults and Udalfs',
                          rep('Humults', 2),
-                         'MELANIC SOILS',
                          'Ustolls or Vertisols',
                          'Aquolls',
                          'Rendolls',
                          'Ustochrepts, Eutrochrepts, Ustolls or Udolls',
                          'Ustolls, Udolls or Eutrochrepts',
-                         'ORGANIC SOILS',
                          'Folists or unrecognised',
                          'Fibrists',
                          'Hemists',
                          'Saprists',
-                         'OXIDIC SOILS',
                          'Aquox',
                          rep('Udox', 2),
-                         'PALLIC SOILS',
                          'Aquepts, Aqualfs',
                          'Duraqualfs',
                          'Fragiudalfs, Fragiochrepts',
                          rep('Haplustalfs, Hapludalfs', 2),
                          'Eutrochrepts, Ustochrepts',
-                         'PODZOLS',
                          'Aquods, Orthods',
                          rep('Aquods', 2),
                          rep('Orthods', 2),
-                         'PUMICE SOILS',
                          'Vitraquands',
                          rep('Vitrands, Vitricryands', 2),
-                         'RAW SOILS',
                          rep('Entisols, or not-soil', 7),
-                         'RECENT SOILS',
                          'Aquents, Orthents',
                          'Orthents',
                          'Psamments',
                          'Fluvents, Ochrepts',
                          'Orthents, Cryands, Udands',
                          'Orthents, Ochrepts',
-                         'SEMIARID SOILS',
                          'Haplargids',
                          'Natragids',
                          'Haplargids,',
                          'Camborthids',
-                         'ULTIC SOILS',
                          'Aquults',
                          'Aquults, Humults or Udults',
                          'Aquults',
                          rep('Hapludults', 2)
                          ))
 
-ft <- flextable(table_001)
-ft <- set_table_properties(ft, layout = "autofit", width = 1)
-ft <- set_header_labels(ft, 
-                        'NZSC_Suborder' = 'NZ Soil Classification (v. 3)',
-                        'NZ_Genetic_SC' = 'NZ Genetic Soil Classification',
-                        'US_Soil_Taxonomy' = 'US Soil Taxonomy')
-ft <- bold(ft, part = 'head')
-ft <- bold(ft, c(1,6, 11, 19, 26, 31, 37, 42, 46, 53, 59, 63, 71, 78, 83), part = 'body')
-ft <- merge_h(ft, c(1,6, 11, 19, 26, 31, 37, 42, 46, 53, 59, 63, 71, 78, 83))
-ft <- merge_at(ft, c(44, 45), 2)
-ft
+table_001 <- gt(table_001_dat,
+                rowname_col = 'NZSC_suborder',
+                groupname_col = 'NZSC_order') |>
+   tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(NZSC_Suborder = 'NZ Soil Classification (v. 3)',
+             NZ_Genetic_SC = 'NZ Genetic Soil Classification',
+             US_Soil_Taxonomy = 'US Soil Taxonomy') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_row_groups()) |>
+  cols_width(NZSC_Suborder ~pct(33),  NZ_Genetic_SC ~pct(33))
+
+table_001
 ```
 
 {{< pagebreak >}}
