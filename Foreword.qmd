@@ -2,7 +2,7 @@
 
 Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics) and the [Glossary](glossary.qmd).
 
-Other technical terms are defined in other books:
+Further details and technical terms are defined in other resources:
 
 -   *Horizon notations* are defined by @clayden1989.
 -   *Soil morphology* terms are defined by @milne1995.
