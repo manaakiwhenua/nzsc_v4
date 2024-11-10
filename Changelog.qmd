@@ -33,6 +33,18 @@
 -   **CHANGE** criteria 3b of Melanic soils to include some additional possibilities for soils below pH 5.9\
     **Rationale** newly available data
 
+#### Anthropic soils
+
+-   **ADD** group AO ([Māori Anthropic](Anthropics.qmd#sec-key-AO)), containing subgroups AOA ([Artefact Māori Anthropic](Anthropics.qmd#sec-key-AOA)), AOB ([Organic Māori Anthropic](Anthropics.qmd#sec-key-AOB)), and AOF ([Fill Māori Anthropic](Anthropics.qmd#sec-key-AOF)). \
+    **REMOVE** subgroup AFA (Artifact Fill Anthropic Soils).\
+    **Rationale** Māori soils have been previously recognised in the classification at a lower level and with less detail. Adding these groups and subgroups enables clear identification (particularly in mapping) and more effectively distinguishes them from other Anthropic soils.
+
+-   **ADD** subgroup ARW ([Wet Refuse Anthropic Soils](Anthropics.qmd#sec-key-ARW))\
+    **Rationale** These soils will break down in a different manner to other Refuse Anthropic Soils.
+
+-   **ADD** subgroups AMI ([Inverted-tephric Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMI)), AMZ ([Inverted-impeded Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMZ)) and AMT ([Typic Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMT)).\
+    **Rationale** the previous lack of subgroups prevented the classification from being able to represent particular and very distinctive modern land modification practices.
+
 #### Mafic Melanic/Brown subgroup revision
 
 -   **ADD** subgroups EML ([Allophanic Mafic Melanic](Melanics.qmd#sec-key-EML)), EMA ([Acidic Mafic Melanic](Melanics.qmd#sec-key-EMA)).
@@ -61,14 +73,15 @@
 -   **AMEND** the definition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.
 -   **AMEND** the definition of [Truncated Anthropic](Anthropics.qmd#sec-AT) soils for clarity.
 -   **AMEND** the definition of [Mixed Anthropic](Anthropics.qmd#sec-AM) soils for clarity.
--   **AMEND** the definition of Refuse Anthropic soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
+-   **AMEND** the definition of [Refuse Anthropic](Anthropics.qmd#sec-key-AR) soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
 -   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
+-   **RENAME** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
 -   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
 -   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
 -   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
--   **REPLACE** references to E horizons with cross-references to the [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) diagnostic.
--   **REPLACE** references to salinity cutoffs with cross-references to the [Saline soil materials](Diagnostics.qmd#sec-diag-salt) diagnostic.
+-   **REPLACE** references to E horizons with cross-references to the new [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) diagnostic.
+-   **REPLACE** references to salinity cutoffs with cross-references to the new [Saline soil materials](Diagnostics.qmd#sec-diag-salt) diagnostic.
 -   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the Podzolic B (superfluous).
 -   **REMOVE** redundant reference to depth requirements in part 2 of the LOA [Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA) soil definition.
 
