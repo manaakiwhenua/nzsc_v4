@@ -92,7 +92,6 @@
 -   **AMEND** the definition of [Mixed Anthropic](Anthropics.qmd#sec-AM) soils for clarity.
 -   **AMEND** the definition of [Refuse Anthropic](Anthropics.qmd#sec-key-AR) soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
 -   **AMEND** the definition of [Firm Brown Soils](Browns.qmd#sec-BF) to be more specific about the strength requirements.
--   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
 -   **RECODE** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
 -   **RECODE** BFAC (Acidic-cemented Firm Brown Soils) to BFCA.
