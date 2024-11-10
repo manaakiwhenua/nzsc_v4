@@ -6,7 +6,7 @@ Pallic Soils are soils with moderate to high base status and low contents of sec
 
 ## Correlation {#sec-cor-P}
 
-The order comprises most yellow-grey earths, associated steepland soils, intergrades between yellow-grey earths and yellow-brown earths, and intergrades between yellow-grey earths and brown-grey earths of the NZ Genetic Soil Classification. Most Pallic Soils are either Aqualfs, Aquepts, Ustalfs, Udalfs or Ochrepts.
+The order comprises most yellow-grey earths, associated steepland soils, intergrades between yellow-grey earths and yellow-brown earths, and intergrades between yellow-grey earths and brown-grey earths of the NZ Genetic Soil Classification. [Most Pallic Soils are correlated with Alfisols and Inceptisols in Soil Taxonomy, particularly those under ustic or udic moisture regimes, with aquic conditions, or ochric epipedons.]{.min}
 
 ## Occurrence {#sec-occ-P}
 
@@ -30,21 +30,25 @@ Pallic Soils occur predominantly in the seasonally dry eastern part of North and
 ## Summary of Pallic Soils Hierarchy {#sec-sum-P}
 
 ```{r}
-library(flextable)
+#| label: tbl-P
+#| tbl-cap: "Pallic Soils"
+#| classes: [plain, hover]
 
-table_P <- data.frame(
-  'Code' = c(rep('PP', 7),
-             rep('PU', 4),
-             rep('PX', 9),
-             rep('PL', 3),
-             rep('PJ', 9),
-             rep('PI', 5)),
-  'Group' = c(rep('Perch-gley', 7),
-              rep('Duric', 4),
-              rep('Fragic', 9),
-              rep('Laminar', 3),
-              rep('Argillic', 9),
-              rep('Immature', 5)),
+library(gt)
+
+table_P_dat <- data.frame(
+  'Code' = c('PP', rep('', 6),
+             'PU', rep('', 3),
+             'PX', rep('', 8),
+             'PL', rep('', 2),
+             'PJ', rep('', 8),
+             'PI', rep('', 4)),
+  'Group' = c('Perch-gley', rep('', 6),
+              'Duric', rep('', 3),
+              'Fragic', rep('', 8),
+              'Laminar', rep('', 2),
+              'Argillic', rep('', 8),
+              'Immature', rep('', 4)),
   'Subgroup' = c('Duric', 'Argillic-fragic', 'Fragic', 'Weathered-argillic',
                    'Argillic', 'Cemented', 'Typic',
                  'Mottled', 'Argillic-sodic', 'Argillic', 'Typic',
@@ -66,16 +70,20 @@ table_P <- data.frame(
                        '-', 'Wakanui', '-', 'Kiwi', 'Templeton')
 ) 
 
-ft_P <- flextable(table_P)
-ft_P <- bold(ft_P, part = 'head')
-ft_P <- merge_v(ft_P, 1)
-ft_P <- merge_v(ft_P, 2)
-ft_P <- valign(ft_P, j = c(1,2), valign = 'top')
-ft_P <- bold(ft_P, j = 1)
-ft_P <- set_table_properties(ft_P, layout = "autofit", width = 1)
-ft_P <- set_header_labels(ft_P, 
-                          'Example_Series' = 'Example Series')
-ft_P
+table_P <- gt(table_P_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_P
 ```
 
 ## Key to Groups of Pallic Soils {#sec-grp-p}
@@ -160,7 +168,7 @@ Other soils that have a [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 #### **PPWJ** {#sec-key-PPWJ}
 
-Other soils in which the majority of the gravel is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade, and have an [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+Other soils in which the majority of [rock fragments are]{.min} weathered to the extent that they may easily be broken by hammer or spade, and have an [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
 ::: {style="text-align: right"}
 **Weathered-argillic Perch-gley Pallic Soils**
@@ -241,7 +249,7 @@ Fragic Pallic Soils that have both
 **Argillic-sodic Fragic Pallic Soils**
 :::
 
-#### **PXJM** {#sec-key-PXJM}
+#### **PXMJ** {#sec-key-PXMJ}
 
 Other soils that have both
 
@@ -351,13 +359,24 @@ Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duri
 
 #### **PJMW** {#sec-key-PJMW}
 
-Mottled-weathered Argillic Pallic Soils that have both
+Argillic Pallic Soils that have both
 
 1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
-2.  gravel in which the majority is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade.
+2.  [rock fragments]{.min} in which the majority is weathered to the extent that they may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Mottled-weathered Argillic Pallic Soils**
+:::
+
+#### **PJMU** {#sec-key-PJMU}
+
+other soils that have *both*
+
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} and pH less than 5.5 in some part of the argillic horizon, *and*
+2.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+
+::: {style="text-align: right"}
+**Mottled-ultic Argillic Pallic Soils**
 :::
 
 #### **PJM** {#sec-key-PJM}
@@ -376,20 +395,9 @@ Other soils that have hue 7.5YR or redder or hue 10YR and chroma 6 or more in so
 **Aged Argillic Pallic Soils**
 :::
 
-#### **PJMU** {#sec-key-PJMU}
-
-Other soils that have both
-
-1.  an E horizon and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh), *and*
-2.  a [mottled soil profile form](Diagnostics.qmd#sec-diag-mottpf).
-
-::: {style="text-align: right"}
-**Mottled-ultic Argillic Pallic Soils**
-:::
-
 #### **PJU** {#sec-key-PJU}
 
-Other soils that have an E horizon and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+Other soils that have an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
 ::: {style="text-align: right"}
 **Ultic Argillic Pallic Soils**
@@ -405,7 +413,7 @@ Other soils that have [sodic features](Diagnostics.qmd#sec-diag-sod) within or i
 
 #### **PJW** {#sec-key-PJW}
 
-Other soils that have gravel in which the majority is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade.
+Other soils that have [rock fragments]{.min} in which the majority are weathered to the extent that they may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Argillic Pallic Soils**
@@ -429,11 +437,11 @@ Other soils.
 
 ### **PI** - IMMATURE PALLIC SOILS {#sec-PI}
 
-Immature Pallic Soils are insufficiently developed to have [fragipans](Diagnostics.qmd#sec-diag-fpan), [duripans](Diagnostics.qmd#sec-diag-dpan) or [argillic horizons](Diagnostics.qmd#sec-diag-argh). They have either a [brittle-B horizon](Diagnostics.qmd#sec-diag-britb), an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), or slightly firm or stronger blocky, polyhedral or prismatic peds.
+Immature Pallic Soils are insufficiently developed to have [fragipans](Diagnostics.qmd#sec-diag-fpan), [duripans](Diagnostics.qmd#sec-diag-dpan) or [argillic horizons](Diagnostics.qmd#sec-diag-argh). They have either a [brittle-B horizon](Diagnostics.qmd#sec-diag-britb), an [[eluvial horizon](Diagnostics.qmd#sec-diag-eluvh)]{.maj}, a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), or slightly firm or stronger blocky, polyhedral or prismatic peds.
 
 #### **PIMD** {#sec-key-PIMD}
 
-Immature Pallic Soils that have both
+Immature Pallic Soils that have *both*
 
 1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
 2.  are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.

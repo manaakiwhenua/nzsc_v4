@@ -37,7 +37,7 @@
 
 #### Anthropic soils
 
--   **ADD** group AO ([Māori Anthropic](Anthropics.qmd#sec-key-AO)), containing subgroups AOA ([Artefact Māori Anthropic](Anthropics.qmd#sec-key-AOA)), AOB ([Organic Māori Anthropic](Anthropics.qmd#sec-key-AOB)), and AOF ([Fill Māori Anthropic](Anthropics.qmd#sec-key-AOF)). \
+-   **ADD** group AO ([Māori Anthropic](Anthropics.qmd#sec-key-AO)), containing subgroups AOA ([Artefact Māori Anthropic](Anthropics.qmd#sec-key-AOA)), AOB ([Organic Māori Anthropic](Anthropics.qmd#sec-key-AOB)), and AOF ([Fill Māori Anthropic](Anthropics.qmd#sec-key-AOF)).\
     **REMOVE** subgroup AFA (Artifact Fill Anthropic Soils).\
     **Rationale** Māori soils have been previously recognised in the classification at a lower level and with less detail. Adding these groups and subgroups enables clear identification (particularly in mapping) and more effectively distinguishes them from other Anthropic soils.
 
@@ -96,6 +96,7 @@
 -   **RECODE** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
 -   **RECODE** BFAC (Acidic-cemented Firm Brown Soils) to BFCA.
 -   **RECODE** BFAL (Acidic-allophanic Firm Brown Soils) to BFLA.
+-   **RECODE** PXJM (Argillic-mottled Fragic Pallic Soils) to PXMJ.
 -   **RENAME** BAMP (Mottled-placic Acid Brown Soils) to BAMP (Mottled-*impeded* Acid Brown Soils).
 -   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
 -   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
