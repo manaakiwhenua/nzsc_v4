@@ -28,11 +28,11 @@ Anthropic Soils are most extensive in urban [and peri-urban areas and areas that
 ## Summary of Anthropic Soils Hierarchy {#sec-sum-A}
 
 ```{r}
-#| label: tbl-a
+#| label: tbl-A
+#| tbl-cap: "Anthropic Soils"
 #| classes: [plain, hover]
 
 library(gt)
-library(gtExtras)
 
 table_A_dat <- data.frame(
   'Code' = c('AT', '',

@@ -32,10 +32,11 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 ## Summary of Brown Soils Hierarchy {#sec-sum-B}
 
 ```{r}
+#| label: tbl-B
+#| tbl-cap: "Brown Soils"
 #| classes: [plain, hover]
 
 library(gt)
-library(gtExtras)
 
 table_B_dat <- data.frame(
   'Code' = c('BL', rep('', 6),
@@ -394,8 +395,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) 
 **Mottled Acid Brown Soils**
 :::
 
-::: .maj
-
+:::: maj
 #### **BAX** {#sec-key-BAX}
 
 Other soils that in the B have a subhorizon, that meets the strength requirements of an [ortstein pan](Diagnostics.qmd#sec-diag-opan), within 90 cm of the mineral soil surface.
@@ -403,8 +403,7 @@ Other soils that in the B have a subhorizon, that meets the strength requirement
 ::: {style="text-align: right"}
 **Pan Acid Brown Soils**
 :::
-
-:::
+::::
 
 #### **BAP** {#sec-key-BAP}
 
@@ -529,10 +528,10 @@ Other soils that have a [placic horizon](Diagnostics.qmd#sec-diag-plac).
 
 #### **BFWA** {#sec-key-BFWA}
 
-Other soils that have both: 
+Other soils that have both:
 
-1.	in the B or BC horizon to 90 cm or less from the mineral soil surface the majority of the coarse rock fragments is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade, and
-2.	a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
+1.  in the B or BC horizon to 90 cm or less from the mineral soil surface the majority of the coarse rock fragments is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade, and
+2.  a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
 
 ::: {style="text-align: right"}
 **Acidic-weathered Firm Brown Soils**
@@ -614,11 +613,11 @@ Orthic Brown Soils that have **both**
 
 Other soils that have both
 
-1.	a mottled profile form or perch-gley features, and
-2.	that have in some part of the B or BC horizon to 90cm in from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with either
-  (a)	non-reactive, very weak or weak reactive-aluminium test, or
-  (b)	a cutanic horizon, or  
-  (c)	P retention less than 30%.
+1.  a mottled profile form or perch-gley features, and
+2.  that have in some part of the B or BC horizon to 90cm in from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with either
+    (a) non-reactive, very weak or weak reactive-aluminium test, or
+    (b) a cutanic horizon, or
+    (c) P retention less than 30%.
 
 ::: {style="text-align: right"}
 **Mottled-pallic Orthic Brown Soils**
@@ -685,8 +684,8 @@ Other soils that have in some part of the solum within 90 cm from the mineral s
 
 Other soils that have both
 
-1. gravel that in the majority is weathered to the extent that [rock fragments]{.min} may easily be broken by hammer or spade.
-2. a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
+1.  gravel that in the majority is weathered to the extent that [rock fragments]{.min} may easily be broken by hammer or spade.
+2.  a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
 
 ::: {style="text-align: right"}
 **Acidic Weathered Orthic Brown Soils**

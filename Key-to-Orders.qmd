@@ -15,7 +15,7 @@ Soils that either
 
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O}
 
-Other soils that have horizons that consist of [organic soil material](Diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are **EITHER**
+[Other]{.min} soils that have horizons that consist of [organic soil material](Diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are **EITHER**
 
 1.  30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), **OR**
 2.  40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).
