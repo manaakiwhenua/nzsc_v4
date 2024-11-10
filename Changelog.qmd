@@ -23,11 +23,15 @@
     By contrast, US Soil Taxonomy uses the Anthric and Plaggic Epipedon concepts to modify other orders. This has the advantage of keeping human-influenced soils conceptually close to their more natural neighbours, but adds a large number of subgroups to the classification, making it potentially more difficult to use. These subgroups will continue to proliferate as humans discover new and interesting ways to modify their environment. Other systems either ignore human-modified profiles or deliberately exclude them from consideration, neither of which practice is considered useful.
 -   **CHANGE** the criteria for [Recent Soils](Key-to-Orders.qmd#sec-R) to allow soils that do not fully meet the criteria for a [Distinct Topsoil](Diagnostics.qmd#sec-diag-dts) by only having a 'structural A' horizon.\
     **Rationale:** This change helps to account for soils that have only a slight colour difference (e.g. visually perceptible darkening but still within the same Munsell chip, or only a Hue shift) in the A horizon due to tillage, low natural organic carbon content, or similar, but are still clearly too developed and in the wrong landscapes for the Raw order to make sense.\
-    The definition of [Distinct Topsoil](Diagnostics.qmd#sec-diag-dts) itself is not proposed to be changed so that the definitions of other orders remain consistent.
+    The definition of [Distinct topsoil](Diagnostics.qmd#sec-diag-dts) itself is not proposed to be changed so that the definitions of other orders remain consistent.
 -   **ADD** an additional criteria that [Gley soils](Key-to-Orders.qmd#sec-G) do not contain a diagnostic amount of allophanic soil material (new criteria 1(e))\
     **Rationale** soils that fail out on this new criteria belong more correctly in the LG [Allophanic Gley](Allophanics.qmd#sec-key-LG) group, and new criteria directs them there. Gleys that contain [tephric soil material](Diagnostics.qmd#sec-diag-teph) that doesn't meet the requirements for [allophanic soil materials](Diagnostics.qmd#sec-diag-alloph) (for example, gley soils forming in poorly drained alluvia from mixed sources but including some reworked ash), may still key out as GT [Tephric Gleys](Gleys.qmd#sec-key-GT).
 -   **ADD** a statement to the [Allophanic Soils](Key-to-Orders.qmd#sec-L) definition covering situations where [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) is shallow over rock.\
     **Rationale** Without this statement, shallow allophanic soils over rock are most likely to be pushed into the BL [Allophanic Brown](Browns.qmd#sec-key-BL) or RT [Recent Tephric](Recents.qmd#sec-key-RT) subgroups, neither of which may be the most appropriate destination.
+-   **ADD** an additional criteria to [Melanic soils](Key-to-Orders.qmd#sec-E) specifying the expected dominant soil parent materials.\
+    **Rationale** The Melanic order has been occasionally misinterpreted to apply to a wider variety of profiles with dark topsoils than was originally intended.
+-   **CHANGE** criteria 3b of Melanic soils to include some additional possibilities for soils below pH 5.9\
+    **Rationale** newly available data
 
 #### Mafic Melanic/Brown subgroup revision
 
@@ -61,8 +65,10 @@
 -   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
 -   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
--   **REPLACE** use of the term 'clasts' with 'coarse rock fragments'.
+-   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
 -   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
+-   **REPLACE** references to E horizons with cross-references to the [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) diagnostic.
+-   **REPLACE** references to salinity cutoffs with cross-references to the [Saline soil materials](Diagnostics.qmd#sec-diag-salt) diagnostic.
 -   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the Podzolic B (superfluous).
 -   **REMOVE** redundant reference to depth requirements in part 2 of the LOA [Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA) soil definition.
 
