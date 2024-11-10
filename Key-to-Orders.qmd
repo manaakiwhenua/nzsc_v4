@@ -114,7 +114,7 @@ Other soils that have textures of loamy fine sand or finer in some part from the
 2.  ***both***
     (a) between the base of the A horizon to 60 cm from the mineral soil surface the matrix throughout is ***either***
         (i) hue 10YR or yellower with chroma 3 or less and value 4 or more (all colours moist), ***or***
-        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B [or BC]{.min} horizon, *and*
+        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-two); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B [or BC]{.min} horizon, *and*
     (b) a B [or BC]{.min} horizon that is 10 cm or more thick, and has either
         (i) a [fragipan](Diagnostics.qmd#sec-diag-fpan), [duripan](Diagnostics.qmd#sec-diag-dpan) or [brittle-B horizon](Diagnostics.qmd#sec-diag-britb), *or*
         (ii) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) that has in part a moderately or strongly pedal subhorizon with blocky, polyhedral or prismatic peds and slightly firm or greater soil or ped strength, *or*
@@ -128,7 +128,7 @@ Other soils that have **BOTH**
 1.  a [weathered-B](Diagnostics.qmd#sec-diag-bw), [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) 10 cm or more thick with a lower boundary at 30 cm or more from the mineral soil surface, **AND**
 2.  in the B horizon, a subhorizon that has in the matrix ***either***
     (a) hue 7.5YR or redder, or hue 10YR and chroma 6 or more; ***or***
-    (b) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-2); and P retention is 30% or more, or the reactive-aluminium test is at least moderate, in the uppermost subhorizon (10 cm or more thick) of the B horizon, ***or***
+    (b) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (all colours moist, see @fig-two); and P retention is 30% or more, or the reactive-aluminium test is at least moderate, in the uppermost subhorizon (10 cm or more thick) of the B horizon, ***or***
     (c) the texture is sand or loamy sand in the B horizon to its base, or to 60 cm from the mineral soil surface, whichever is less.
 
 ## [**R** - Recent Soils](Recents.qmd#sec-ord-R) {#sec-R}
@@ -143,11 +143,9 @@ Other soils that **BOTH**
 Other soils.
 
 ::: {#fig-two}
-
 ![](images/Figure-002_pallic-vs-brown-colours_alternate-version.png)
 
 Colour criteria, and colours where P retention and the reactive-aluminium test is used to differentiate [Brown Soils](Browns.qmd#sec-ord-B) from [Pallic Soils](Pallics.qmd#sec-ord-P) and [Recent Soils](Recents.qmd#sec-ord-R). See [part 2(a) of the Pallic Soils](#sec-P), and [part 2(a) and 2(b) of the Brown Soils](#sec-B) in the [Key to Orders](#sec-key).
-
 :::
 
 {{< pagebreak >}}

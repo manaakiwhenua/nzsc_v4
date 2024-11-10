@@ -8,6 +8,8 @@
     **Rationale:** Anthropic materials were not previously defined, causing confusion during the classification process.
 -   **ADD** [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) as a diagnostic for Pallic and some Brown soils.\
     **Rationale:** Concepts appearing in the key require a clear diagnostic definition within the classification, independant of the description manual, which was previously implicitly linked.
+-   **ADD** [Saline Soil Material](Diagnostics.qmd#sec-diag-salt) as a diagnostic.\
+    **Rationale:** Elevated soil salinity defines subgroups in the Gley, Semi-Arid, Recent and Raw orders but the concept has not been fully explained.
 -   **AMEND** [Calcareous horizon](Diagnostics.qmd#sec-diag-calch) for clarity and brevity, adding a clearer definition of primary vs secondary carbonates and including example horizon notation. Removed extraneous second paragraph.\
     **Rationale:** Removal of the second paragraph is justified on the grounds that the content is better suited to the Methods and Rationale of the NZSC [@hewitt1993].
 -   **AMEND** [Densipan](Diagnostics.qmd#sec-diag-dens) to include expected horizon notation, and remove reference to specific types of field testing.\

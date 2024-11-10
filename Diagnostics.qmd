@@ -1,35 +1,43 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
 # Diagnostic horizons and other differentiae {#sec-diagnostics}
 
-Diagnostic horizons and other differentiating criteria are defined to facilitate the assignment of soils to classes. The definitions are not intended to represent a comprehensive classification of horizons. A summary of these is given below.
+Diagnostic horizons and other differentiating criteria are defined to facilitate the assignment of soils to classes. The definitions are not intended to represent a comprehensive classification of horizons. A summary of these is given in @tbl-two. Transitional horizons are not included when considering horizon notations for NZSC criteria unless explicitly stated. Note that:
 
-```{r}
-library(flextable)
+-   "in some part" means that the requirement must be met in some subhorizon or some subsample that is 10 cm or more thick within the specified thickness.
+-   "in the major part" means that the requirement must be met over more than half the specified thickness (e.g. from the base of the A horizon to 60 cm from the mineral soil surface). Analyses or estimates should be used from subhorizons that subdivide the thickness, or if the subhorizons are not recognised, then from subsamples of the relevant horizons.
 
-t2 <- data.frame(
-  'col1' = c('Horizons, Pans and\n Layers:', 'Argillic horizon', 'Brittle-B horizon',
-             'Calcareous horizon', 'Cutanic horizon', 'Cutanoxidic horizon', 'Densipan',
-             'Duripan', 'Distinct topsoil', 'Eluvial horizon', 'Fragipan', 'Humus-pan', 'Ironstone-pan', 
-             'Nodular horizon', 'Ortstein-pan', 'Oxidic horizon', 'Peaty topsoil',
-             'Placic horizon', 'Podzolic-B horizon', 'Reductimorphic horizon',
-             'Redox-mottled horizon', 'Slowly permeable layer', 'Weathered-B horizon'),
-  'col2' = c('Soil materials and\n Contacts:', 'Allophanic soil material', 
-             'Anthropic soil material', 'Lithic contact', 'Organic soil material',
-             'Paralithic contact', 'Tephric soil material', 'Vitric soil material', 
-             '', 'Profile Forms:', 'Gley profile form', 'Mottled profile form',
-             '', 'Features:', 'Fluvial features', 'Perch-gley features', 'Sodic features', '',
-             'Other Differentiae:', 'Crumb structure', 'Reactive-aluminium test',
-             'Redox segregations', ''))
+|  |  |
+|:-----------------------------------|:-----------------------------------|
+| **Horizons, Pans and Layers:** | **Soil materials and Contacts:** |
+| [Argillic horizon](#sec-diag-argh) | [Allophanic soil material](#sec-diag-alloph) |
+| [Brittle-B horizon](#sec-diag-britb) | [Anthropic Soil Material](#sec-diag-anthro) |
+| [Calcareous horizon](#sec-diag-calch) | [Lithic contact](#sec-diag-lithc) |
+| [Cutanic horizon](#sec-diag-cuth) | [Organic soil material](#sec-diag-org) |
+| [Cutanoxidic horizon](#sec-diag-cutoxh) | [Paralithic contact](#sec-diag-plith) |
+| [Densipan](#sec-diag-dens) | [Saline soil material](#sec-diag-salt) |
+| [Distinct topsoil](#sec-diag-dts) | [Tephric soil material](#sec-diag-teph) |
+| [Duripan](#sec-diag-dpan) | [Vitric soil material](#sec-diag-vitr) |
+| [Eluvial horizon](#sec-diag-eluvh) |  |
+| [Fragipan](#sec-diag-fpan) | **Profile Forms:** |
+| [Humus-pan](#sec-diag-hpan) | [Gley profile form](#sec-diag-gleypf) |
+| [Ironstone-pan](#sec-diag-ipan) | [Mottled profile form](#sec-diag-mottpf) |
+| [Nodular horizon](#sec-diag-nodh) |  |
+| [Ortstein-pan](#sec-diag-opan) | **Features:** |
+| [Oxidic horizon](#sec-diag-oxh) | [Fluvial features](#sec-diag-fluv) |
+| [Peaty topsoil](#sec-diag-pts) | [Perch-gley features](#sec-diag-pgley) |
+| [Placic horizon](#sec-diag-plac) | [Sodic features](#sec-diag-sod) |
+| [Podzolic-B horizon](#sec-diag-podzb) |  |
+| [Redox-mottled horizon](#sec-diag-roxh) | **Other Differentiae:** |
+| [Reductimorphic horizon](#sec-diag-redmh) | [Crumb structure](#sec-diag-crumb) |
+| [Slowly permeable layer](#sec-diag-slowp) | [Reactive-aluminium test](#sec-diag-naf) |
+| [Weathered-B horizon](#sec-diag-bw) | [Redox segregations](#sec-diag-rsegs) |
 
-ft <- flextable(t2)
-ft <- delete_part(x = ft, part = "header")
-ft <- bold(ft,  1, 1)
-ft <- bold(ft,  1, 2)
-ft <- bold(ft,  9, 2)
-ft <- bold(ft, 13, 2)
-ft <- bold(ft, 18, 2)
-ft <- set_table_properties(ft, layout = "autofit", width = 1) 
-ft
-```
+: Summary of diagnostic horizons and other differentiae {#tbl-two .hover .sm .borderless}
 
 The following diagnostic horizons and soil characteristics have been modified from Soil Taxonomy @soilsurveystaff1999: [argillic horizon](#sec-diag-argh), [duripan](#sec-diag-dpan), [fragipan](#sec-diag-fpan), [lithic contact](#sec-diag-lithc), [paralithic contact](#sec-diag-plith) and [placic horizon](#sec-diag-plac).
 
@@ -53,7 +61,7 @@ Layers meeting the requirements of allophanic soil material may also meet the re
 Accessory chemical properties relate to variable-charge characteristics, P retention, and high organic-matter contents. Accessory physical properties include high total available water capacity and readily available water capacity, and low penetration resistance. In addition, allophanic soil material undergoes irreversible changes upon drying, for example, in plastic and liquid limits and in apparent particle-size distribution. It should be noted that minerals other than allophane (e.g. ferrihydrite) can give rise to allophanic soil material.
 
 ::: maj
-## Anthropic soil material {#sec-diag-anthro}
+## Anthropic Soil Material {#sec-diag-anthro}
 
 Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
 
@@ -359,6 +367,8 @@ This test indicates the presence of reactive hydroxy-aluminium groups, as occur 
 Using the procedure of @fieldes1966, 1 drop of saturated sodium fluoride (NaF) solution is placed on a small test sample of soil, which has been smeared on to a filter paper treated with phenolphthalein indicator. The soil sample must be field moist. For classification, the reactivity of the soil sample is placed into one of the following classes.
 
 ```{r}
+library(flextable)
+
 table_003 <- data.frame(
   'Code' = seq(0,5,1),
   'Name' = c('Non-reactive',
@@ -401,6 +411,18 @@ The nature of the water table is indicated by the association of low and high ch
 A reductimorphic horizon has a slightly peaty texture class, or low chroma colours (moist chroma 2 or less, or moist chroma 3 with value 6 or more) that occupy 50% or more of the matrix exposed in a cut face of the horizon or are dominant on ped faces. A reductimorphic horizon includes any subjacent layers or interlayers of peaty soil material.
 
 A reductimorphic horizon is a horizon strongly affected by reducing conditions as indicated by greyish colours consistent with long saturation by water. The prolonged wetness may be caused by a water-table perched on a slowly permeable layer within the soil profile or by a groundwater-table. [A reductimorphic horizon is given the horizon notification g (if more than 2% mottles are present, e.g. Bg, BCg, Cg) or r (if the horizon is almost or completely reduced, e.g. Br, BCr).]{.min}
+
+## Saline soil material {#sec-diag-salt}
+
+Soil salinity refers to the accumulation of water-soluble salts, mainly of sodium, calcium and magnesium. These can severely affect plant growth and land use, and increase soil erosion (Hazelton and Murphy 2017, p. 95).
+
+Most soils generate some salt as a product of chemical weathering, with composition and concentration determined by the parent material lithology. Soils may also receive additional salt at their surface, transported by wind and/or rain. Some soils are affected by saline groundwater from marine or hydrothermal sources.
+
+Under higher rainfall regimes and under good drainage conditions, these salts are leached from the soil (Hewitt et al, 2021). Where rainfall is too low to remove salt (or a profile is in a low-lying, water-receiving location), salts can accumulate and may ultimately precipitate as crystals in the profile and/or on the soil surface.
+
+Soil salinity is somewhat difficult to measure in the field in ways that can be strongly related to plant growth (DERM, 2011). As a compromise, the electrical conductivity (EC) of a 1:5 solution of soil to deionised water is measured. Results exceeding 0.8 mS/cm within in the top 60 cm of the soil profile are considered significant enough to be considered in the classification of Gley, Recent and Semi-Arid soil orders. Exceedences within 30 cm of the surface are recognised in the classification of Raw soils.
+
+Note that salinity at any given location (including within the profile) is expected to be highly variable across seasons, and will generally be at its maximum towards the end of a dry summer.
 
 ## Slowly Permeable Layer {#sec-diag-slowp}
 

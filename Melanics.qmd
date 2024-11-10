@@ -251,7 +251,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Mafic Melanic Soils**
 :::
 
-::: maj
+::::: maj
 #### **EML** {#sec-key-EML}
 
 Other soils that have P-retention 85% or more, or strong or very strong [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B horizon to 90 cm or less from the mineral soil surface.
@@ -267,7 +267,7 @@ Other soils that have pH less than 5.5 in some part of the B horizon to 60 cm or
 ::: {style="text-align: right"}
 **Acidic Mafic Melanic Soils**
 :::
-:::
+:::::
 
 #### **EMT** {#sec-key-EMT}
 
