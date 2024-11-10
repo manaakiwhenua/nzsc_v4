@@ -1,3 +1,8 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Raw Soils {#sec-ord-W}
 
 ## Concept of the Order {#sec-con-W}
@@ -15,7 +20,7 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 ## Accessory Properties of the Order {#sec-acc-W}
 
 1.  *No B horizons.* Pedogenetic horizons are lacking apart from a rudimentary topsoil.
-2.  *Fresh or weakly weathered.* Coarse [rock]{.min} fragments and sand particles are generally without coatings, although [such material]{.min} in some screes may have weathering rinds.
+2.  *Fresh or weakly weathered.* [Rock fragments]{.min} and sand particles are generally without coatings, although [rock fragments]{.min} in some screes may have weathering rinds.
 3.  *Inherited mineralogy.* The soil mineralogy is very similar to that of the parent material and a range of mineralogy classes is possible.
 4.  *In soils with a fluid subsurface layer, a continuously high water-table is present.* The deposition of fresh sediment may occur.
 5.  *Non-fluid soils occur in environments with active erosion or deposition.*
@@ -26,17 +31,21 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 ## Summary of Raw Soils Hierarchy {#sec-sum-W}
 
 ```{r}
-library(flextable)
+#| label: tbl-W
+#| tbl-cap: "Raw Soils"
+#| classes: [plain, hover]
 
-table_W <- data.frame(
-  'Code' = c(rep('WG', 7), 'WH', 'WX', 'WS', 'WF', 'WT', 'WO'),
-  'Group' = c(rep('Gley', 7), 'Hydrothermal', 'Rocky', 'Sandy', 'Fluvial',
-                'Tephric', 'Orthic'),
-  'Subgroup' = c('Fluid­sulphidic', 'Sulphidic', 'Fluid­saline', 'Saline',
+library(gt)
+
+table_W_dat <- data.frame(
+  'Code' = c('WW', 'WG', rep('', 6), 'WH', 'WX', 'WS', 'WF', 'WT', 'WO'),
+  'Group' = c('Hydric', 'Gley', rep('', 6), 'Hydrothermal', 'Rocky', 'Sandy',
+              'Fluvial','Tephric', 'Orthic'),
+  'Subgroup' = c('-', 'Fluid-sulphidic', 'Sulphidic', 'Fluid-saline', 'Saline',
                    'Fluid', 'Sandy', 'Typic',
                  'Active',
                  '-', '-', '-', '-', '-'),
-  'Example_Series' = c('pt. Takahiwai', '­', '­', 'pt. Takahiwai', 'pt. Paratai', '­',
+  'Example_Series' = c('-', 'pt. Takahiwai', '­', '­', 'pt. Takahiwai', 'pt. Paratai', '­',
                          '­',
                        '-',
                        'pt. Alpine', 'pt. Riverton', 'pt. Selwyn', 'pt. Ngaruhoe',
@@ -44,23 +53,38 @@ table_W <- data.frame(
 ) 
 
 
-ft_W <- flextable(table_W)
-ft_W <- bold(ft_W, part = 'head')
-ft_W <- merge_v(ft_W, 1)
-ft_W <- merge_v(ft_W, 2)
-ft_W <- valign(ft_W, j = c(1,2), valign = 'top')
-ft_W <- bold(ft_W, j = 1)
-ft_W <- set_table_properties(ft_W, layout = "autofit", width = 1)
-ft_W <- set_header_labels(ft_W, 
-                          'Example_Series' = 'Example Series')
-ft_W
+table_W <- gt(table_W_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_W
 ```
 
 ## Key to Groups of Raw Soils {#sec-grp-W}
 
+::: .maj
+#### **WW** {#sec-key-WW}
+
+Raw Soils with surface water present for a majority of the time.
+
+::: {style="text-align: right"}
+[**HYDROTHERMAL RAW SOILS**](#sec-WH)
+:::
+
+:::
+
 #### **WG** {#sec-key-WG}
 
-Raw Soils that at 30 cm or less from the mineral soil surface have either
+[Other]{.min} Raw Soils that at 30 cm or less from the mineral soil surface have either
 
 1.  the upper boundary of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), *or*
 2.  sufficient active ferrous iron to give a positive reaction to α,α'-dipyridyl at some time in the year, *or*
@@ -119,6 +143,14 @@ Other Raw Soils.
 :::
 
 ## Key to Subgroups of Raw Soils {#sec-sub-W}
+
+::: .maj
+### **WW** - HYDRIC RAW SOILS {#sec-WW}
+
+Hydric Raw Soils have surface water present for a majority of the time. They are commonly parts of active riverbeds or other shore environments (coastal, lakes).
+
+No subgroups have been defined.
+:::
 
 ### **WG** - GLEY RAW SOILS {#sec-WG}
 
@@ -188,7 +220,7 @@ Other soils.
 
 ### **WH** - HYDROTHERMAL RAW SOILS {#sec-WH}
 
-Hydrothermal Raw Soils occur in active hydrothermal areas affected by hot water.
+Hydrothermal Raw Soils occur in active hydrothermal areas affected by hot [liquids or steam]{.min}.
 
 #### **WHA** {#sec-key-WHA}
 
@@ -208,7 +240,24 @@ No subgroups have been defined.
 
 Sandy Raw Soils occur in areas of active sand erosion, transportation and deposition, most commonly as dune sands.
 
-No subgroups have been defined.
+::: .maj
+#### **WST** {#sec-key-WST}
+
+Soils in tephric soil material from the soil surface to 30 cm depth or more.
+
+::: {style="text-align: right"}
+**Tephric Sandy Raw Soils**
+:::
+
+#### **WSS** {#sec-key-WSS}
+
+Other soils.
+
+::: {style="text-align: right"}
+**Typic Sandy Raw Soils**
+:::
+
+:::
 
 ### **WF** - FLUVIAL RAW SOILS {#sec-WF}
 
