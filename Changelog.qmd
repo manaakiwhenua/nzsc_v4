@@ -117,10 +117,10 @@
 -   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
 -   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
 -   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
--   **REPLACE** references to E horizons with cross-references to the new [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) diagnostic.
+-   **REPLACE** references to E horizons with cross-references to the new [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) diagnostic.
 -   **REPLACE** references to salinity cutoffs with cross-references to the new [Saline soil materials](Diagnostics.qmd#sec-diag-salt) diagnostic.
--   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the Podzolic B (superfluous).
--   **REMOVE** redundant reference to depth requirements in part 2 of the LOA [Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA) soil definition.
+-   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the [Podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) (superfluous).
+-   **REMOVE** redundant reference to depth requirements in part 2 of the LOA ([Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA)) soil definition.
 
 #### Consistency
 

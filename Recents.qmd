@@ -254,7 +254,7 @@ Fluvial Recent Soils that have both
 Other soils that have both
 
 1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
-2.  have [saline soil materials](Diagnostics.qmd#sec-diag-salt) within 60 cm of the mineral soil surface at some time of the year.
+2.  have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.min} within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Mottled-saline Fluvial Recent Soils**
@@ -262,7 +262,7 @@ Other soils that have both
 
 #### **RFQ** {#sec-key-RFQ}
 
-Other soils that have [saline soil materials](Diagnostics.qmd#sec-diag-salt) within 60 cm of the mineral soil surface at some time of the year.
+Other soils that have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.min} within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Saline Fluvial Recent Soils**

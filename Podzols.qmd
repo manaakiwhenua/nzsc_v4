@@ -2,7 +2,7 @@
 
 ## Concept of the Order {#sec-con-Z}
 
-Podzols are [acidic]{.min} soils with low base saturation. Podzols have an horizon of accumulation of aluminium occurring as complexes with organic matter and/or as short-range-order minerals (typically with silicon as allophane/ imogolite). Iron (typically as ferrihydrite) may or may not be accumulated with aluminium. This horizon is usually associated with an overlying E horizon indicating translocation. The E horizon may be missing as a result of erosion, ploughing or bioturbation or it may be masked by organic matter.
+Podzols are [acidic]{.min} soils with low base saturation. Podzols have an horizon of accumulation of aluminium occurring as complexes with organic matter and/or as short-range-order minerals (typically with silicon as allophane/ imogolite). Iron (typically as ferrihydrite) may or may not be accumulated with aluminium. This horizon is usually associated with an overlying [eluvial horizon](#sec-diag-eluvh) indicating translocation. The [eluvial horizon](#sec-diag-eluvh) may be missing as a result of erosion, ploughing or bioturbation or it may be masked by organic matter.
 
 ## Correlation {#sec-cor-Z}
 
@@ -91,7 +91,7 @@ Podzols that have a [densipan](Diagnostics.qmd#sec-diag-dens) (Ed horizon).
 
 Other Podzols that have both
 
-1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} with either the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#diag-plac) together with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj}, *and*
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} with either the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#diag-plac) together with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min}, *and*
 2.  a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp) or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
@@ -102,7 +102,7 @@ Other Podzols that have both
 
 Other Podzols that have both
 
-1.  either an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} with the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), *and*
+1.  either an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} with the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), *and*
 2.  a BC or C horizon that has the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), that either
     (a) extends to more than 90 cm from the mineral soil surface, *or*
     (b) has [redox segregations](Diagnostics.qmd#sec-diag-rsegs) that occur mainly as coatings on voids and/or skeletan grains.
@@ -134,7 +134,7 @@ Other Podzols.
 
 ### **ZD** - DENSIPAN PODZOLS {#sec-ZD}
 
-Densipan Podzols have a high density but uncemented pan within the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} at shallow depths which severely limits root penetration and water movement.
+Densipan Podzols have a high density but uncemented pan within the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} at shallow depths which severely limits root penetration and water movement.
 
 #### **ZDU** {#sec-key-ZDU}
 
@@ -192,7 +192,7 @@ Perch-gley Podzols that have a moderately fluid or very fluid failure in some pa
 
 Other soils that have both
 
-1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} that
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} that
     (a) has slightly firm or greater moist soil strength, *and*
     (b) is apedal-massive or has very coarse to extremely coarse prismatic [structure]{.min}, *and*
     (c) occurs within a layer that is silty through a thickness of at least 15 cm, *and*
@@ -204,7 +204,7 @@ Other soils that have both
 
 #### **ZPZ** {#sec-key-ZPZ}
 
-Other soils that have an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} that has slightly firm or greater moist soil strength, is apedal massive or has very coarse to extremely coarse prismatic pedality, and occurs within a layer that is silty through a thickness of at least 15 cm.
+Other soils that have an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} that has slightly firm or greater moist soil strength, is apedal massive or has very coarse to extremely coarse prismatic pedality, and occurs within a layer that is silty through a thickness of at least 15 cm.
 
 ::: {style="text-align: right"}
 **Silt-mantled Perch-gley Podzols**

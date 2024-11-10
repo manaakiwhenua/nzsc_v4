@@ -174,7 +174,7 @@ Sulphuric Gley Soils occur in marine estuarine sites in which sufficient oxidati
 Sulphuric Gley Soils that within 60 cm of the mineral soil surface have *both*
 
 1.  moderately fluid or very fluid fluidity class, and
-2.  [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.maj}
+2.  [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.min}
 
 ::: {style="text-align: right"}
 **Fluid-saline Sulphuric Gley Soils**
@@ -198,7 +198,7 @@ Other soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at 
 
 #### **GUSQ** {#sec-key-GUSQ}
 
-Other soils that are sandy by weighted average to 90 cm from the mineral soil surface and have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.maj} within 60 cm of the mineral soil surface.
+Other soils that are sandy by weighted average to 90 cm from the mineral soil surface and have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.min} within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Sandy-saline Sulphuric Gley Soils**
@@ -254,7 +254,7 @@ Sandy Gley Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) eithe
 
 #### **GSQ** {#sec-key-GSQ}
 
-Other soils that within 60 cm of the mineral soil surface have [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.maj}
+Other soils that within 60 cm of the mineral soil surface have [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.min}
 
 ::: {style="text-align: right"}
 **Saline Sandy Gley Soils**
@@ -326,7 +326,7 @@ Other soils that within 60 cm of the mineral soil surface have moderately fluid
 
 #### **GRQ** {#sec-key-GRQ}
 
-Other soils that within 60 cm of the mineral soil surface have [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.maj}
+Other soils that within 60 cm of the mineral soil surface have [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.min}
 
 ::: {style="text-align: right"}
 **Saline Recent Gley Soils**
@@ -425,7 +425,7 @@ Orthic Gley Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) eith
 
 #### **GOQ** {#sec-key-GOQ}
 
-Other soils that within 60 cm of the mineral soil surface have [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.maj}
+Other soils that within 60 cm of the mineral soil surface have [[saline soil materials](Diagnostics.qmd#sec-diag-salt).]{.min}
 
 ::: {style="text-align: right"}
 **Saline Orthic Gley Soils**

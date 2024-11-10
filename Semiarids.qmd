@@ -160,7 +160,7 @@ Solonetzic Semiarid Soils have a higher proportion of exchangeable sodium than o
 
 #### **SZQ** {#sec-key-SZQ}
 
-Solonetzic Semiarid Soils that have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.maj} within 60 cm of the mineral soil surface at some time of the year.
+Solonetzic Semiarid Soils that have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.min} within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Saline Solonetzic Semiarid Soils**
@@ -188,7 +188,7 @@ Argillic Semiarid Soils that have a [mottled profile form](Diagnostics.qmd#sec-d
 
 #### **SJQ** {#sec-key-SJQ}
 
-Other soils that have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.maj} within 60 cm of the mineral soil surface at some time of the year.
+Other soils that have [[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.min} within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Saline Argillic Semiarid Soils**
@@ -232,7 +232,7 @@ Immature Semiarid Soils that have a [mottled profile form](Diagnostics.qmd#sec-d
 
 #### **SIQ** {#sec-key-SIQ}
 
-Soils that have a horizon with[[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.maj} within 60 cm of the mineral soil surface at some time of the year.
+Soils that have a horizon with[[saline soil materials](Diagnostics.qmd#sec-diag-salt)]{.min} within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Saline Immature Semiarid Soils**

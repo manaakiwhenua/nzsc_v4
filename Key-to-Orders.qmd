@@ -47,7 +47,7 @@ Other soils that meet **ALL** of the following:
     (a) an [oxidic](Diagnostics.qmd#sec-diag-oxh) or [cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh), ***nor***
     (b) a layer or layers of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that totals 35 cm or more thick within 60 cm of the mineral soil surface, ***nor***
     (c) [rock fragments]{.min}, other than quartz stones, that are strongly or very strongly indurated, **AND**
-4.  have either an [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), or the uppermost subhorizon of the B has colour value of 5 or more.
+4.  have either an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh)]{.min}, or the uppermost subhorizon of the B has colour value of 5 or more.
 
 ## [**Z** - Podzols](Podzols.qmd#sec-ord-Z) {#sec-Z}
 

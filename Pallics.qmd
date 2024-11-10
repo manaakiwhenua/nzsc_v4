@@ -372,7 +372,7 @@ Argillic Pallic Soils that have both
 
 other soils that have *both*
 
-1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} and pH less than 5.5 in some part of the argillic horizon, *and*
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} and pH less than 5.5 in some part of the argillic horizon, *and*
 2.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
@@ -397,7 +397,7 @@ Other soils that have hue 7.5YR or redder or hue 10YR and chroma 6 or more in so
 
 #### **PJU** {#sec-key-PJU}
 
-Other soils that have an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+Other soils that have an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
 ::: {style="text-align: right"}
 **Ultic Argillic Pallic Soils**

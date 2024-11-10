@@ -14,7 +14,7 @@ Diagnostic horizons and other differentiating criteria are defined to facilitate
 :::
 
 |  |  |
-|:---|:---|
+|:-----------------------------------|:-----------------------------------|
 | **Horizons, Pans and Layers:** | **Soil materials and Contacts:** |
 | [Argillic horizon](#sec-diag-argh) | [Allophanic soil material](#sec-diag-alloph) |
 | [Brittle-B horizon](#sec-diag-britb) | [Anthropic Soil Material](#sec-diag-anthro) |
@@ -131,7 +131,7 @@ The significance of this horizon lies in the combination of low ECEC, clay illuv
 
 ## Densipan {#sec-diag-dens}
 
-A densipan is a non-cemented E horizon, [denoted with the suffix d (e.g. Ed)]{.min}, of very high soil strength and bulk density. It meets **ALL** the following requirements:
+A densipan is a non-cemented [eluvial horizon](#sec-diag-eluvh), [denoted with the suffix d (e.g. Ed)]{.min}, of very high soil strength and bulk density. It meets **ALL** the following requirements:
 
 1.  It is an [eluvial horizon](#sec-diag-eluvh); **AND**
 2.  Either
@@ -199,7 +199,7 @@ A fragipan is an apparently non-cemented [subsoil]{.min} horizon that has high b
     (b) The horizon is apedal-massive throughout, or has extremely coarse or gross prismatic peds, and the moist soil strength is very firm; **AND**
 5.  If roots are present, they are confined predominantly to planar voids between prisms or to worm [burrows]{.min}; **AND**
 6.  Penetration resistance under moist conditions is 3100 kPa or more; **AND**
-7.  It does not occur within an [Eluvial horizon](#sec-diag-eluvh).
+7.  It does not occur within an [[Eluvial horizon](#sec-diag-eluvh)]{.min}.
 
 ## Gley Profile Form {#sec-diag-gleypf}
 
@@ -354,7 +354,7 @@ A podzolic-B horizon is a B horizon that meets one of the following:
 
 1.  It meets the requirement of a Bh horizon (because it has colour value and chroma of 3 or less, or value 4 and chroma 2, dominant in the matrix, and contains more than 1% organic carbon). The fabric has sand- or silt-size pellet-like aggregates, coats on mineral grains, or both; **OR**
 2.  
-    (a) It is associated with an overlying (but not necessarily immediately overlying) [Eluvial horizon](#sec-diag-eluvh) in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value of the [Eluvial horizon](#sec-diag-eluvh) is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; **AND**
+    (a) It is associated with an overlying (but not necessarily immediately overlying) [[Eluvial horizon](#sec-diag-eluvh)]{.min} in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value of the [Eluvial horizon](#sec-diag-eluvh) is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; **AND**
     (b) The B horizon (or some part of it) is 5 cm or more thick and meets the requirements of a Bs (or Bs(g) or Bs(f)) horizon because it has a strong or very strong reactive-aluminium test, and at least *one* of the following:
         (i) Reddish hue and highest chroma at the top of the horizon; *or*
         (ii) Earthy apedal with fine spheroids, or weakly developed blocks or polyhedra; *or*
