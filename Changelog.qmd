@@ -93,11 +93,14 @@
 -   **AMEND** the definition of [Refuse Anthropic](Anthropics.qmd#sec-key-AR) soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
 -   **AMEND** the definition of [Firm Brown Soils](Browns.qmd#sec-BF) to be more specific about the strength requirements.
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
+-   **AMEND** group ZX ([Pan Podzols](Podzols.qmd#sec-ZX)) to be more specific about the strength requirements.
+-   **AMEND** group ZO ([Orthic Podzols](Diagnostics.qmd#sec-ZO)) to be more specific about excluded horizons.
+-   **AMEND** the definition of MOI ([Immature Orthic Pumice Soils](Pumice.qmd#sec-key-MOI)) to correct colour requirements.
 -   **RECODE** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
--   **RECODE** BFAC (Acidic-cemented Firm Brown Soils) to BFCA.
--   **RECODE** BFAL (Acidic-allophanic Firm Brown Soils) to BFLA.
--   **RECODE** PXJM (Argillic-mottled Fragic Pallic Soils) to PXMJ.
--   **RENAME** BAMP (Mottled-placic Acid Brown Soils) to BAMP (Mottled-*impeded* Acid Brown Soils).
+-   **RECODE** BFAC ([Acidic-cemented Firm Brown Soils](Browns.qmd#sec-key-BFCA)) to BFCA.
+-   **RECODE** BFAL ([Acidic-allophanic Firm Brown Soils](Browns.qmd#sec-key-BFLA)) to BFLA.
+-   **RECODE** PXJM ([Argillic-mottled Fragic Pallic Soils](Pallics.qmd#sec-key-PXMJ)) to PXMJ.
+-   **RENAME** BAMP (Mottled-placic Acid Brown Soils) to BAMP ([Mottled-*impeded* Acid Brown Soils](Browns.qmd#sec-key-BAMP)).
 -   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
 -   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
 -   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
