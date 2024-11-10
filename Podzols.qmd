@@ -10,13 +10,13 @@ Podzols correspond to the podzols and some podzolised yellow-brown earths of the
 
 ## Occurrence {#sec-occ-Z}
 
-Podzols occur in areas of high precipitation and are usually associated with forest species which produce an acid litter. They are most common in Northland, North Island high country and the West Coast and high country of the South Island.
+Podzols occur in areas of high precipitation and are usually associated with forest species which produce an acid litter. [They are most common in Northland, the West Coast of the South Island, and the high country of the North and South Islands.]{.min}
 
 ## Accessory Properties of the Order {#sec-acc-Z}
 
 1.  *Secondary oxides strongly differentiated between horizons.* In A and E horizons, sand and silt grains are uncoated. In B horizons they are coated, and in some soils cemented, by short-range-order minerals and/or organic matter.
 2.  *Low base saturation.* Base saturations are very low and the soils are extremely acid in A and E horizons. KCl-extractable-aluminium levels are high, and aluminium in soil solution may be toxic to some plants.
-3.  *Parent materials.* The soils occur mainly in materials from silica-rich rocks such as granite, greywacke, schist or rhyolite.
+3.  *Parent materials.* The soils [are derived predominantly from felsic]{.min} rocks such as granite, greywacke, schist or rhyolite.
 4.  *Mineralogically differentiated.* Mica-smectite or smectite often occur in A and E horizons, and hydroxy-coated or interlayered minerals or allophane often occur in the B horizon. In some Northland soils, silica is dominant in B horizons. Podzols cover a wide range of mineralogy classes.
 5.  *Limited rooting depth.* The rooting depth is limited for many introduced plants by low pH or aluminium toxicity, or by pans which often cause problems of wetness.
 6.  *Low biological activity.* Low levels of faunal activity occur with a low rate of mineralisation. Carbon/nitrogen ratios are very high. The accumulation of weakly decomposed humus and minimal incorporation of humus into the upper mineral soil results in a mor-like humus form.
@@ -27,19 +27,23 @@ Podzols occur in areas of high precipitation and are usually associated with for
 ## Summary of Podzols Hierarchy {#sec-sum-Z}
 
 ```{r}
-library(flextable)
+#| label: tbl-Z
+#| tbl-cap: "Podzols"
+#| classes: [plain, hover]
 
-table_Z <- data.frame(
-  'Code' = c(rep('ZD', 5),
-             rep('ZP', 10),
-             rep('ZG', 2),
-             rep('ZX', 6),
-             rep('ZO', 2)),
-  'Group' = c(rep('Densipan', 5),
-              rep('Perch-gley', 10),
-              rep('Groundwater-gley', 2),
-              rep('Pan', 6),
-              rep('Orthic', 2)),
+library(gt)
+
+table_Z_dat <- data.frame(
+  'Code' = c('ZD', rep('', 4),
+             'ZP', rep('', 9),
+             'ZG', '',
+             'ZX', rep('', 5),
+             'ZO', ''),
+  'Group' = c('Densipan', rep('', 4),
+              'Perch-gley', rep('', 9),
+              'Groundwater-gley', '',
+              'Pan', rep('', 5),
+              'Orthic', ''),
   'Subgroup' = c('Humus-pan', 'Ultic-humose', 'Humose', 'Ortstein', 'Typic',
                  'Fluid', 'Peaty-silt-mantled', 'Silt-mantled', 'Humus-pan', 
                    'Humose-ortstein', 'Humose-placic', 'Humose', 'Ortstein',
@@ -57,16 +61,20 @@ table_Z <- data.frame(
                        'Borland', 'Shewell')
 ) 
 
-ft_Z <- flextable(table_Z)
-ft_Z <- bold(ft_Z, part = 'head')
-ft_Z <- merge_v(ft_Z, 1)
-ft_Z <- merge_v(ft_Z, 2)
-ft_Z <- valign(ft_Z, j = c(1,2), valign = 'top')
-ft_Z <- bold(ft_Z, j = 1)
-ft_Z <- set_table_properties(ft_Z, layout = "autofit", width = 1)
-ft_Z <- set_header_labels(ft_Z, 
-                          'Example_Series' = 'Example Series')
-ft_Z
+table_Z <- gt(table_Z_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_Z
 ```
 
 ## Key to Groups of Podzols {#sec-grp-Z}
@@ -83,7 +91,7 @@ Podzols that have a [densipan](Diagnostics.qmd#sec-diag-dens) (Ed horizon).
 
 Other Podzols that have both
 
-1.  an E horizon with either the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#diag-plac) together with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the E horizon, *and*
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} with either the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#diag-plac) together with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj}, *and*
 2.  a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp) or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
@@ -94,7 +102,7 @@ Other Podzols that have both
 
 Other Podzols that have both
 
-1.  either an E horizon with the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), *and*
+1.  either an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} with the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), *and*
 2.  a BC or C horizon that has the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), that either
     (a) extends to more than 90 cm from the mineral soil surface, *or*
     (b) has [redox segregations](Diagnostics.qmd#sec-diag-rsegs) that occur mainly as coatings on voids and/or skeletan grains.
@@ -108,7 +116,7 @@ Other Podzols that have both
 Other Podzols that have a subhorizon in the B horizon that is both
 
 1.  massive, *and*
-2.  as slightly firm or greater moist soil strength or has moist or wet penetration resistance of 3100 kPa or more.
+2.  has firm or greater moist soil strength or has moist or wet penetration resistance of 3100 kPa or more.
 
 ::: {style="text-align: right"}
 [**PAN PODZOLS**](#sec-ZX)
@@ -126,7 +134,7 @@ Other Podzols.
 
 ### **ZD** - DENSIPAN PODZOLS {#sec-ZD}
 
-Densipan Podzols have a high density but uncemented pan within the E horizon at shallow depths which severely limits root penetration and water movement.
+Densipan Podzols have a high density but uncemented pan within the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} at shallow depths which severely limits root penetration and water movement.
 
 #### **ZDU** {#sec-key-ZDU}
 
@@ -184,7 +192,7 @@ Perch-gley Podzols that have a moderately fluid or very fluid failure in some pa
 
 Other soils that have both
 
-1.  an E horizon that
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} that
     (a) has slightly firm or greater moist soil strength, *and*
     (b) is apedal-massive or has very coarse to extremely coarse prismatic [structure]{.min}, *and*
     (c) occurs within a layer that is silty through a thickness of at least 15 cm, *and*
@@ -196,7 +204,7 @@ Other soils that have both
 
 #### **ZPZ** {#sec-key-ZPZ}
 
-Other soils that have an E horizon that has slightly firm or greater moist soil strength, is apedal massive or has very coarse to extremely coarse prismatic pedality, and occurs within a layer that is silty through a thickness of at least 15 cm.
+Other soils that have an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.maj} that has slightly firm or greater moist soil strength, is apedal massive or has very coarse to extremely coarse prismatic pedality, and occurs within a layer that is silty through a thickness of at least 15 cm.
 
 ::: {style="text-align: right"}
 **Silt-mantled Perch-gley Podzols**
@@ -212,7 +220,7 @@ Other soils that have a [humus-pan](Diagnostics.qmd#sec-diag-hpan).
 
 #### **ZPHQ** {#sec-key-ZPHQ}
 
-Other soils that have a Bh horizon thicker than 5 cm, and an [ortstein horizon](Diagnostics.qmd#sec-diag-opan).
+Other soils that have a Bh horizon thicker than 5 cm, and an [ortstein-pan](Diagnostics.qmd#sec-diag-opan).
 
 ::: {style="text-align: right"}
 **Humose-ortstein Perch-gley Podzols**
@@ -332,7 +340,7 @@ Other soils.
 
 ### **ZO** - ORTHIC PODZOLS {#sec-ZO}
 
-Orthic Podzols are moderately well or well drained and do not have a cemented or high density pan.
+Orthic Podzols are moderately well or well drained and do not have a cemented or high density pan[, or a firm horizon with massive structure.]{.min}
 
 #### **ZOH** {#sec-key-ZOH}
 
