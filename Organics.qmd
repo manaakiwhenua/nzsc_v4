@@ -14,30 +14,34 @@ Organic Soils occur in wetlands in most parts of New Zealand or under forest-pro
 
 ## Accessory Properties of the Order {#sec-acc-O}
 
-1.  *Low bulk density.* Bulk densities are very low, usually in the range of 0.03 to 0.4 Mg/m^3^. Organic Soils may contain up to 70% organic matter. Too few data are yet available to allow mineralogy classes to be stated.
+1.  *Low bulk density.* [Due to the high organic matter content, bulk densities are very low, usually in the range of 0.03 to 0.4 Mg/m^3^. Too few data are yet available to allow mineralogy classes to be stated.]{.min}
 2.  *High cation exchange capacity.* The organic components of Organic Soils have high surface area, and high negative charge that varies markedly with pH. CEC values are very high, mostly ranging from 40 to 170 cmol~c~/kg.
 3.  *High carbon/nitrogen ratios.* C/N ratios range from 18 to as high as 70 in unfertilised and uncultivated Organic Soils.
 4.  *Low bearing strength.* Construction of buildings or roads requires special foundation design.
 5.  *Very low thermal conductivity.* Soils warm and cool slowly. Bare soil surfaces, however, have high radiance.
 6.  *High shrinkage potential.* The soils shrink markedly upon drying, and lose organic matter due to oxidation. Consequently, following drainage, the classification may change.
-7.  *High total available water capacity.* While total available water capacity is high, plant-available water capacity may only be moderate.
+7.  *High total available water capacity.* While total available water capacity is high, plant-available water capacity may only be moderate [due to limits in rooting depth (anoxic conditions, species-specific limitations).]{.min}
 8.  *Common nutrient deficiencies.* The major nutrients nitrogen, phosphorus, potassium and sulphur, and the trace elements copper, selenium and molybdenum, are frequently deficient for crops and pasture.
 9.  *Peats are very poorly drained, litters are variable.* Organic Soils formed in peats are very poorly drained and those formed from litters may range from well drained to very poorly drained.
 
 ## Summary of Organic Soils Hierarchy {#sec-sum-O}
 
 ```{r}
-library(flextable)
+#| label: tbl-O
+#| tbl-cap: "Organic Soils"
+#| classes: [plain, hover]
 
-table_O <- data.frame(
-  'Code' = c(rep('OL', 3),
-             rep('OF', 3),
-             rep('OM', 2),
-             rep('OH', 2)),
-  'Group' = c(rep('Litter', 3),
-              rep('Fibric', 3),
-              rep('Mesic', 2),
-              rep('Humic', 2)),
+library(gt)
+
+table_O_dat <- data.frame(
+  'Code' = c('OL', '', '',
+             'OF', '', '',
+             'OM', '',
+             'OH', ''),
+  'Group' = c('Litter', '', '',
+              'Fibric', '', '',
+              'Mesic', '',
+              'Humic', ''),
   'Subgroup' = c('Buried-podzol', 'Buried-gleyed', 'Orthic', 
                  'Sphagnic', 'Acid', 'Mellow',
                  'Acid', 'Mellow',
@@ -48,16 +52,20 @@ table_O <- data.frame(
                        'Ardmore', 'Pukehina')
 )
 
-ft_O <- flextable(table_O)
-ft_O <- bold(ft_O, part = 'head')
-ft_O <- merge_v(ft_O, 1)
-ft_O <- merge_v(ft_O, 2)
-ft_O <- valign(ft_O, j = c(1,2), valign = 'top')
-ft_O <- bold(ft_O, j = 1)
-ft_O <- set_table_properties(ft_O, layout = "autofit", width = 1)
-ft_O <- set_header_labels(ft_O, 
-                          'Example_Series' = 'Example Series')
-ft_O
+table_O <- gt(table_O_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_O
 ```
 
 ## Key to Groups of Organic Soils {#sec-grp-O}
@@ -98,7 +106,7 @@ Other soils that, from the upper surface of the [organic soil material](Diagnost
 
 ### **OL** - LITTER ORGANIC SOILS {#sec-OL}
 
-Litter Organic Soils occur under forest beneath a canopy of acid litter or mor-forming species. The organic material is derived predominantly from leaves and twigs and is normally not saturated except for a few days following heavy rain.
+Litter Organic Soils occur under forest beneath a canopy of [acidic]{.min} litter or mor-forming species. The organic material is derived predominantly from leaves and twigs and is normally not saturated except for a few days following heavy rain.
 
 #### **OLBZ** {#sec-key-OLBZ}
 
