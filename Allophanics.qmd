@@ -1,3 +1,9 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
 # Allophanic Soils {#sec-ord-L}
 
 ## Concept of the Order {#sec-con-L}
@@ -17,7 +23,7 @@ Allophanic Soils occur predominantly in North Island volcanic ash, and in the we
 1.  *Short-range-order minerals.* The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, imogolite and ferrihydrite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurement is difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
 2.  *Low bases.* Sum of bases are low to very low and range from less than 1 to 10 cmol~c~/100 g in subsoils and unfertilised topsoils.
 3.  *Volcanic or greywacke parent materials.* Predominantly in andesitic, rhyolitic or mixed tephra, they also occur in soil materials from sandstone (greywacke) of humid uplands and high country and basalt scoria or pumice.
-4.  *Rapidly weatherable minerals.* Volcanic glass and feldspar dominate the sand fractions of soils in igneous parent materials, and are the primary source of the short-range-order minerals. Feldspars are most likely the primary source in non-igneous parent materials. Typically they have an Amorphic mineralogy class.
+4.  [*Rapid mineral weathering.*]{.min} Volcanic glass and feldspar dominate the sand fractions of soils in igneous parent materials, and are the primary source of the short-range-order minerals. Feldspars are most likely the primary source in non-igneous parent materials. Typically they have an Amorphic mineralogy class.
 5.  *Rapid permeability and high water retention.* The macroporosity is very high and rapid drainage occurs at low soil moisture tensions. Water contents at 1500 kPa soil moisture tension are very high.
 6.  *Well drained.* Although poorly, imperfectly and moderately well drained soils occur, well drained soils are predominant.
 7.  *Good rooting medium.* Bulk density is very low and there is little resistance to root extension. In many soils the potential rooting depth is very deep.
@@ -32,18 +38,21 @@ Allophanic Soils occur predominantly in North Island volcanic ash, and in the we
 ## Summary of Allophanic Soils Hierarchy {#sec-sum-L}
 
 ```{r}
+#| label: tbl-l
+#| classes: [plain, hover]
 
-library(flextable)
+library(gt)
+library(gtExtras)
 
-table_L <- data.frame(
-  'Code' = c(rep('LP', 2),
-             rep('LG', 2),
-             rep('LI', 3),
-             rep('LO', 5)),
-  'Group' = c(rep('Perch-gley', 2), 
-              rep('Gley', 2),
-              rep('Impeded', 3),
-              rep('Orthic', 5)),
+table_L_dat <- data.frame(
+  'Code' = c('LP', '', # :/
+             'LG', '',
+             'LI', '', '',
+             'LO', '', '', '', ''),
+  'Group' = c('Perch-gley', '', 
+              'Gley', '',
+              'Impeded', '', '',
+              'Orthic', '', '', '', ''),
   'Subgroup' = c('Ironstone', 'Typic',
                  'Peaty', 'Typic',
                  'Mottled-Ironstone', 'Mottled', 'Typic',
@@ -51,36 +60,23 @@ table_L <- data.frame(
   'Example_Series' = c('-', 'Awatuna',
                        'Rahotu var.', 'Glenn',
                        'pt. Okato var.', 'Tipoka', 'Bruntwood',
-                       'Oeo', 'Rowan', 'Lepperton', 'Patua', 'Tirau'),
-  'Series_URL' = c(NA,
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1854?view=sitereport', # awatuna
-                   NA,
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2766?view=sitereport', # glenn
-                   NA, 
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1597?view=sitereport', # tipoka (NB link is LOT, not LIM)
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2763?view=sitereport', # bruntwood (NB link is LOM not LIT)
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2786?view=sitereport', # oeo 
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1742?view=sitereport', # rowan
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1937?view=sitereport', # lepperton  (NB link is LOT not LOV)
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/1940?view=sitereport', # patua
-                   'https://viewer-nsdr.landcareresearch.co.nz/soil/id/nsdr/sa_site/2964?view=sitereport'  # tirau
-                   )
+                       'Oeo', 'Rowan', 'Lepperton', 'Patua', 'Tirau')
 ) 
 
-ft_L <- flextable(table_L, 
-                  col_keys = c('Code', 'Group', 'Subgroup', 'Example_Series'))
-ft_L <- bold(ft_L, part = 'head')
-ft_L <- merge_v(ft_L, 1)
-ft_L <- merge_v(ft_L, 2)
-ft_L <- valign(ft_L, j = c(1,2), valign = 'top')
-ft_L <- bold(ft_L, j = 1)
-ft_L <- set_table_properties(ft_L, layout = "autofit", width = 1)
-ft_L <- set_header_labels(ft_L, 
-                          'Example_Series' = 'Example Series')
-ft_L <- compose(x = ft_L, j = 'Example_Series', 
-                value = as_paragraph(hyperlink_text(x = Example_Series, 
-                                                    url = Series_URL)))
-ft_L
+table_L <- gt(table_L_dat[, c(1:4)]) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_L
 ```
 
 ------------------------------------------------------------------------
@@ -201,7 +197,7 @@ Other soils.
 
 ### **LO** - ORTHIC ALLOPHANIC SOILS {#sec-LO}
 
-Orthic Allophanic Soils are permeable soils without barriers to deep penetration of roots. They are moderately well, well or imperfectly drained.
+Orthic Allophanic Soils are permeable soils without barriers to deep penetration of roots. They are [well, moderately well,]{.min} or imperfectly drained.
 
 #### **LOM** {#sec-key-LOM}
 
