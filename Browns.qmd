@@ -1,3 +1,9 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
 # Brown Soils {#sec-ord-B}
 
 ## Concept of the Order {#sec-con-B}
@@ -10,13 +16,13 @@ The order comprises moderately and weakly weathered yellow-brown earths, yellow-
 
 ## Occurrence {#sec-occ-B}
 
-Brown Soils occur in places in which summer dryness is uncommon and that are not waterlogged in winter. They are the most extensive New Zealand soils.
+Brown Soils occur in places in which summer dryness is uncommon and that are not waterlogged in winter. They are the most extensive [soil order in]{.min} New Zealand.
 
 ## Accessory Properties of the Order {#sec-acc-B}
 
 1.  *Dispersed secondary oxides.* Secondary iron and aluminium oxides are dispersed throughout the soil mass. The soil is brunified (i.e. iron and aluminium oxides form coatings around phyllosilicate clay particles and form bridges between these particles and humus). P retention is moderate to very high.
 2.  *Low to moderate base saturation.* Base saturation values in subsoils are usually less than 50%, and KCl-extractable aluminium levels are usually more than 1.5 cmol~c~/kg except where clay contents are relatively low.
-3.  *Parent materials are mostly weakly weathered.* [Mafic Brown Soils](#sec-BM) are derived from weakly weathered intermediate or basic igneous rocks (e.g. phonolite and basalt). Other groups are derived dominantly from acid quartzo-feldspathic sedimentary rocks (schist and greywacke) or acid igneous rocks (e.g. rhyolites and granites). The alteration status of gravel or hard rock substrates is usually fresh to moderately weathered and occasionally highly weathered.
+3.  *Parent materials are mostly weakly weathered.* [Mafic Brown Soils](#sec-BM) are derived from weakly weathered intermediate or [mafic]{.min} igneous rocks (e.g. phonolite and basalt). Other groups are derived dominantly from [felsic]{.min} quartzo-feldspathic sedimentary rocks (schist and greywacke) or [felsic]{.min} igneous rocks (e.g. rhyolites and granites). The alteration status of gravel or hard rock substrates is usually fresh to moderately weathered and occasionally highly weathered.
 4.  *Mica/illite and vermiculite are common clay minerals.* Profiles tend to be mineralogically uniform with depth. Brown soils cover a wide range of mineralogy classes. Mixed, Illitic, Vermiculitic and Clay-mineralic (involving vermiculite and mica-vermiculite) are common. Some [Allophanic Brown Soils](#sec-BA) have an Amorphic mineralogy class.
 5.  *Good Drainage.* No poorly drained or very poorly drained soils are included. Macroporosity is generally moderate (10--14%) except in subsurface horizons of [Firm Brown Soils](#sec-BF).
 6.  *Biologically active.* Except in soils that are limited by coldness or acidity, [spheroidal peds (e.g. worm casts)]{.min} are common in topsoils and C/N ratios are moderate to low. The roots of native plants penetrate deeply.
@@ -26,60 +32,65 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 ## Summary of Brown Soils Hierarchy {#sec-sum-B}
 
 ```{r}
-library(flextable)
+#| classes: [plain, hover]
 
-table_B <- data.frame(
-  'Code' = c(rep('BL', 7),
-             rep('BS', 6),
+library(gt)
+library(gtExtras)
+
+table_B_dat <- data.frame(
+  'Code' = c('BL', rep('', 6),
+             'BS', rep('', 5),
              'BX', 
-             rep('BM', 5),
-             rep('BA', 6),
-             rep('BF', 13),
-             rep('BO', 10)),
-  'Group' = c(rep('Allophanic', 7),
-              rep('Sandy', 6),
+             'BM', rep('', 5),
+             'BA', rep('', 5),
+             'BF', rep('', 15),
+             'BO', rep('', 11)),
+  'Group' = c('Allophanic', rep('', 6),
+              'Sandy', rep('', 5),
               'Oxidic',
-              rep('Mafic', 5),
-              rep('Acid', 6),
-              rep('Firm', 13),
-              rep('Orthic', 10)),
-  'Subgroup' = c('Mottled', 'Acidic', 'Firm', 'Acidic-mafic', 'Typic',
-                   'Acidic-pedal', 'Pedal',
+              'Mafic', rep('', 5),
+              'Acid',  rep('', 5),
+              'Firm',  rep('', 15),
+              'Orthic', rep('', 11)),
+  'Subgroup' = c('Mottled', 'Acidic', 'Firm', 'Typic', 'Placic', 'Acidic-pedal', 'Pedal',
                  'Mottled-placic', 'Mottled', 'Acidic', 'Pallic', 'Pan', 'Typic',
                  'Typic',
-                 'Mottled-magnesic', 'Magnesic', 'Mottled', 'Acidic', 'Typic',
-                 'Peaty', 'Mottled-placic', 'Mottled', 'Placic', 'Pan', 'Typic',
+                 'Mottled-magnesic', 'Magnesic', 'Mottled', 'Allophanic', 'Acidic', 'Typic',
+                 'Peaty', 'Mottled-impeded', 'Mottled', 'Pan', 'Placic', 'Typic',
                  'Mottled-acidic', 'Mottled-cemented', 'Mottled-weathered',
-                   'Mottled-pallic', 'Mottled', 'Acidic-cemented', 'Cemented',
-                   'Acidic-allophanic', 'Allophanic', 'Weathered', 'Pallic',
-                   'Acidic', 'Typic',
-                 'Mottled-weathered', 'Mottled-acidic', 'Mottled', 'Humose',
-                   'Immature', 'Pallic', 'Acidic', 'Weathered', 'Calcareous',
+                  'Mottled-pallic', 'Mottled', 'Acidic-cemented', 'Cemented',
+                  'Acidic-allophanic', 'Allophanic', 'Placic', 'Acidic Weathered',
+                  'Weathered', 'Acidic-pallic', 'Pallic', 'Acidic', 'Typic',
+                 'Mottled-weathered', 'Mottled-pallic', 'Mottled-acidic', 'Mottled', 'Humose',
+                   'Immature', 'Pallic','Acidic-weathered', 'Weathered', 'Acidic', 'Calcareous',
                    'Typic'),
-  'Example_Series' = c('-', 'Tekoa', 'Te Anau', 'Stewart', 'Craigieburn', 
-                         'Kaiuma', 'Levin',
+  'Example_Series' = c('-', 'Tekoa', 'Te Anau', 'Craigieburn', '-', 'Kaiuma', 'Levin',
                        '-', 'Awahou', 'Koputaroa', 'pt. Halkett', 'ToeToes', 'Foxton',
                        '-',
-                       'Croisilles var.', 'pt. Dun', '-', 'Cargill', 'Pipikaretu',
-                         'pt. Spenser', 'Lammerlaw', 'Mackley', 'pt. Tautuku', 
-                       'Whiterig', 'Carrick',
+                       'Croisilles var.', 'pt. Dun', '-', '-', 'Cargill', 'Pipikaretu',
+                       'pt. Spenser', 'Lammerlaw', 'Mackley', 'Whiterig', 'pt. Tautuku',
+                       'Carrick',
                        '-' , 'Harwarden', '-', '-', 'Mahinerangi', 'Whiterig',
-                         'Steward', 'Judgeford', 'Belmont', '-', 'Pinelheugh',
-                         'Porteous', 'Waikiwi', 
-                       '-', '-', '-', 'Pukaki', 'Grassmere', '-', 'Pelorus', '-',
+                         'Steward', 'Judgeford', 'Belmont', '-', '-', '-', '-', 'Pinelheugh',
+                         'Porteous', 'Waikiwi',
+                       '-', '-', '-', '-', 'Pukaki', 'Grassmere', '-', '-', '-', 'Pelorus', 
                        '-', 'Ruahine')
   )
 
-ft_B <- flextable(table_B)
-ft_B <- bold(ft_B, part = 'head')
-ft_B <- merge_v(ft_B, 1)
-ft_B <- merge_v(ft_B, 2)
-ft_B <- valign(ft_B, j = c(1,2), valign = 'top')
-ft_B <- bold(ft_B, j = 1)
-ft_B <- set_table_properties(ft_B, layout = "autofit", width = 1)
-ft_B <- set_header_labels(ft_B, 
-                          'Example_Series' = 'Example Series')
-ft_B
+table_B <- gt(table_B_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_B
 ```
 
 ## Key to Groups of Brown Soils {#sec-grp-B}
@@ -94,10 +105,9 @@ Brown soils that have within the B [or BC]{.min} horizon a subhorizon that meets
 
 #### **BS** {#sec-key-BS}
 
-Other Brown Soils that from the base of the A horizon to 60 cm from the mineral soil surface, have
-
-1.  Sand or loamy sand texture and less than 35% gravel (by volume), in all horizons (except for sandy loam laminations that do not meet the requirements of an [argillic horizon](Diagnostics.qmd#sec-diag-argh)), *and*
-2.  do not have a placic horizon.
+::: min
+Other Brown Soils that from the base of the A horizon to 60 cm from the mineral soil surface, have sand or loamy sand texture and less than 35% gravel (by volume), in all horizons (except for sandy loam laminations that do not meet the requirements of an [argillic horizon](Diagnostics.qmd#sec-diag-argh)).
+:::
 
 ::: {style="text-align: right"}
 [**SANDY BROWN SOILS**](#sec-BS)
@@ -170,9 +180,7 @@ Allophanic Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-di
 
 #### **BLA** {#sec-key-BLA}
 
-Other soils that have, in some part[^browns-1] of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface, **both**
-
-[^browns-1]: "in some part" means that the requirement must be met in some subhorizon or some subsample that is 10 cm or more thick within the specified thickness.
+Other soils that have, in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface, **both**
 
 1.  crumb (or earthy) structure, or bulk density of the fine-earth fraction less than 1.1 Mg/m^3^ with weakly pedal or apedal fabric, *and*
 2.  pH less than 5.5.
@@ -198,6 +206,14 @@ Other soils that have, in some part of the B [or BC]{.min} horizon to 60 cm dep
 
 ::: {style="text-align: right"}
 **Typic Allophanic Brown Soils**
+:::
+
+#### **BLP** {#sec-key-BLP}
+
+Other soils that have a [placic horizon](Diagnostics.qmd#sec-diag-plac).
+
+::: {style="text-align: right"}
+**Placic Allophanic Brown Soils**
 :::
 
 #### **BLAD** {#sec-key-BLAD}
@@ -230,7 +246,7 @@ Sandy Brown Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mo
 
 #### **BSM** {#sec-key-BSM}
 
-Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}
 
 ::: {style="text-align: right"}
 **Mottled Sandy Brown Soils**
@@ -273,7 +289,9 @@ Other soils.
 
 ### **BX** - OXIDIC BROWN SOILS {#sec-BX}
 
-Oxidic Brown Soils occur in strongly weathered soil materials similar to those of [Oxidic Soils](Key-to-Orders.qmd#sec-X) except that [Oxidic Brown Soils](#sec-BX) have more weatherable minerals and higher values of reserve magnesium. They usually occur in association with [Oxidic Soils](Key-to-Orders.qmd#sec-X), [Ultic Soils](Key-to-Orders.qmd#sec-U) or [Granular Soils](Key-to-Orders.qmd#sec-N) but on younger land surfaces.
+::: min
+Oxidic Brown Soils occur in soil materials similar to those of [Oxidic Soils](Key-to-Orders.qmd#sec-X) except that [Oxidic Brown Soils](#sec-BX) are less weathered and thus have more reserve magnesium. They usually occur in association with [Oxidic Soils](Key-to-Orders.qmd#sec-X), [Ultic Soils](Key-to-Orders.qmd#sec-U) or [Granular Soils](Key-to-Orders.qmd#sec-N) but on younger land surfaces.
+:::
 
 #### **BXT** {#sec-key-BXT}
 
@@ -285,7 +303,7 @@ Oxidic Brown Soils (only one subgroup).
 
 ### **BM** - MAFIC BROWN SOILS {#sec-BM}
 
-Mafic Brown Soils occur in soil materials weathered from ultrabasic, basic or intermediate igneous rocks or tuffs. They have relatively high proportions of dark magnesium and iron-rich (mafic) silicate minerals, and have relatively large contents of iron oxides.
+Mafic Brown Soils occur in soil materials weathered from ultra[mafic, mafic]{.min} or intermediate igneous rocks or tuffs. They have relatively high proportions of dark magnesium and iron-rich (mafic) silicate minerals, and have relatively large contents of iron oxides.
 
 #### **BMMG** {#sec-key-BMMG}
 
@@ -319,8 +337,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) 
 **Mottled Mafic Brown Soils**
 :::
 
-::: maj 
-
+:::: maj
 #### **BML** {#sec-key-BML}
 
 Other soils that have P-retention 85% or more, or strong or very strong [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B [or BC]{.min} horizon to 90 cm or less from the mineral soil surface.
@@ -328,8 +345,7 @@ Other soils that have P-retention 85% or more, or strong or very strong [reactiv
 ::: {style="text-align: right"}
 **Allophanic Mafic Brown Soils**
 :::
-
-:::
+::::
 
 #### **BMA** {#sec-key-BMA}
 
@@ -349,7 +365,7 @@ Other soils.
 
 ### **BA** - ACID BROWN SOILS {#sec-BA}
 
-Acid Brown Soils are strongly or extremely acid soils, many of which occur in very moist or cold mountain environments. Many have a [placic horizon](Diagnostics.qmd#sec-diag-plac).
+Acid Brown Soils are strongly or extremely [acidic]{.min} soils, many of which occur in very moist or cold mountain environments. Many have a [placic horizon](Diagnostics.qmd#sec-diag-plac).
 
 #### **BAO** {#sec-key-BAO}
 
@@ -363,11 +379,11 @@ Acid Brown Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts).
 
 Acid Brown Soils that have *both*
 
-1.  a [placic horizon](Diagnostics.qmd#sec-diag-plac) at 60 cm or less from the mineral soil surface, *and*
-2.  a [mottled](Diagnostics.qmd#sec-diag-mottpf) or [[perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
+1.  a [placic horizon](Diagnostics.qmd#sec-diag-plac) or [ortstein-pan](Diagnostics.qmd#sec-diag-opan) at 60 cm or less from the mineral soil surface, *and*
+2.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) or [[perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}.
 
 ::: {style="text-align: right"}
-**Mottled-placic Acid Brown Soils**
+**Mottled-[impeded]{.min} Acid Brown Soils**
 :::
 
 #### **BAM** {#sec-key-BAM}
@@ -378,13 +394,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) 
 **Mottled Acid Brown Soils**
 :::
 
-#### **BAP** {#sec-key-BAP}
-
-Other soils with a [placic horizon](Diagnostics.qmd#sec-diag-plac).
-
-::: {style="text-align: right"}
-**Placic Acid Brown Soils**
-:::
+::: .maj
 
 #### **BAX** {#sec-key-BAX}
 
@@ -392,6 +402,16 @@ Other soils that in the B have a subhorizon, that meets the strength requirement
 
 ::: {style="text-align: right"}
 **Pan Acid Brown Soils**
+:::
+
+:::
+
+#### **BAP** {#sec-key-BAP}
+
+Other soils with a [placic horizon](Diagnostics.qmd#sec-diag-plac).
+
+::: {style="text-align: right"}
+**Placic Acid Brown Soils**
 :::
 
 #### **BAT** {#sec-key-BAT}
@@ -404,7 +424,7 @@ Other soils.
 
 ### **BF** - FIRM BROWN SOILS {#sec-BF}
 
-Firm Brown Soils have an apedal subsurface horizon with strong moist soil strength which shares some of the characteristics of a [fragipan](Diagnostics.qmd#sec-diag-fpan) or an [ortstein-pan](Diagnostics.qmd#sec-diag-opan). The soils occur on relatively stable sites and are most commonly on flat, rolling or moderately hilly slopes.
+Firm Brown Soils have an apedal subsurface horizon with a [slightly firm or stronger]{.min} moist soil strength which shares some of the characteristics of a [fragipan](Diagnostics.qmd#sec-diag-fpan) or an [ortstein-pan](Diagnostics.qmd#sec-diag-opan). The soils occur on relatively stable sites and are most commonly on flat, rolling or moderately hilly slopes.
 
 #### **BFMA** {#sec-key-BFMA}
 
@@ -461,7 +481,7 @@ Other Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) 
 **Mottled Firm Brown Soils**
 :::
 
-#### **BFAC** {#sec-key-BFAC}
+#### **BFCA** {#sec-key-BFCA}
 
 Other soils have *both*
 
@@ -480,7 +500,7 @@ Other soils that have a horizon that is cemented to the degree that it is at lea
 **Cemented Firm Brown Soils**
 :::
 
-#### **BFAL** {#sec-key-BFAL}
+#### **BFLA** {#sec-key-BFLA}
 
 Other soils that have in some part of the B [or BC]{.min} horizon to 90 cm or less from the mineral soil surface both
 
@@ -499,12 +519,47 @@ Other soils that have P retention 85% or more, or strong or very strong [reactiv
 **Allophanic Firm Brown Soils**
 :::
 
+#### **BFF** {#sec-key-BFF}
+
+Other soils that have a [placic horizon](Diagnostics.qmd#sec-diag-plac).
+
+::: {style="text-align: right"}
+**Placic Firm Brown Soils**
+:::
+
+#### **BFWA** {#sec-key-BFWA}
+
+Other soils that have both: 
+
+1.	in the B or BC horizon to 90 cm or less from the mineral soil surface the majority of the coarse rock fragments is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade, and
+2.	a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
+
+::: {style="text-align: right"}
+**Acidic-weathered Firm Brown Soils**
+:::
+
 #### **BFW** {#sec-key-BFW}
 
-Other soils in which the majority of the gravel is weathered to the extent that [coarse rock fragments]{.min} may easily be broken by hammer or spade.
+Other soils in which the majority of the gravel is weathered to the extent that [rock fragments]{.min} may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Firm Brown Soils**
+:::
+
+#### **BFPA** {#sec-key-BFPA}
+
+Other soils that have in some part of the B or BC horizon to 90 cm from the mineral soil surface, either
+
+1.  matrix hue of 2.5Y or yellower, or
+2.  matrix hue of 10YR and chroma 4 or less with either
+    (a) non-reactive, very weak or weak [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), *or*
+    (b) a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), *or*
+    (c) P-retention less than 30%, **AND**
+
+a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
+
+::: {style="text-align: right"}
+**Acidic-pallic Firm Brown Soils**
 :::
 
 #### **BFP** {#sec-key-BFP}
@@ -548,18 +603,32 @@ Orthic Brown Soils have B horizon peds or have weak or very weak soil strength t
 
 Orthic Brown Soils that have **both**
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.min}, *and*
-2.  gravel that in the majority is weathered to the extent that coarse rock fragments may easily be broken by hammer or spade.
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
+2.  gravel that in the majority is weathered to the extent that [rock fragments]{.min} may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Mottled-weathered Orthic Brown Soils**
+:::
+
+#### **BOMP** {#sec-key-BOMP}
+
+Other soils that have both
+
+1.	a mottled profile form or perch-gley features, and
+2.	that have in some part of the B or BC horizon to 90cm in from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with either
+  (a)	non-reactive, very weak or weak reactive-aluminium test, or
+  (b)	a cutanic horizon, or  
+  (c)	P retention less than 30%.
+
+::: {style="text-align: right"}
+**Mottled-pallic Orthic Brown Soils**
 :::
 
 #### **BOMA** {#sec-key-BOMA}
 
 Other soils that have both
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.min}, *and*
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) [or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).]{.maj}, *and*
 2.  pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
@@ -612,12 +681,15 @@ Other soils that have in some part of the solum within 90 cm from the mineral s
 **Pallic Orthic Brown Soils**
 :::
 
-#### **BOA** {#sec-key-BOA}
+#### **BOWA** {#sec-key-BOWA}
 
-Other soils that have pH less than 5.5 in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+Other soils that have both
+
+1. gravel that in the majority is weathered to the extent that [rock fragments]{.min} may easily be broken by hammer or spade.
+2. a pH of less than 5.5 within 60 cm of the mineral soil surface in some part of the B or BC horizon.
 
 ::: {style="text-align: right"}
-**Acidic Orthic Brown Soils**
+**Acidic Weathered Orthic Brown Soils**
 :::
 
 #### **BOW** {#sec-key-BOW}
@@ -626,6 +698,14 @@ Other soils with gravel that in the majority is weathered to the extent that [co
 
 ::: {style="text-align: right"}
 **Weathered Orthic Brown Soils**
+:::
+
+#### **BOA** {#sec-key-BOA}
+
+Other soils that have pH less than 5.5 in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+
+::: {style="text-align: right"}
+**Acidic Orthic Brown Soils**
 :::
 
 #### **BOC** {#sec-key-BOC}

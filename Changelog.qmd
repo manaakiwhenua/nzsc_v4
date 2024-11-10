@@ -4,6 +4,8 @@
 
 #### Diagnostics
 
+-   **ADD** clear definitions of the phrases 'in some part' and 'in the major part' to the top of the chapter.\
+    **Rationale** these were previously sitting in footnotes within the Allophanic and Brown chapters, making them hard to find.
 -   **ADD** [Anthropic Soil Material](Diagnostics.qmd#sec-diag-anthro) as a diagnostic for the Anthropic order.\
     **Rationale:** Anthropic materials were not previously defined, causing confusion during the classification process.
 -   **ADD** [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) as a diagnostic for Pallic and some Brown soils.\
@@ -45,18 +47,33 @@
 -   **ADD** subgroups AMI ([Inverted-tephric Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMI)), AMZ ([Inverted-impeded Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMZ)) and AMT ([Typic Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMT)).\
     **Rationale** the previous lack of subgroups prevented the classification from being able to represent particular and very distinctive modern land modification practices.
 
-#### Mafic Melanic/Brown subgroup revision
+#### Brown soils
 
--   **ADD** subgroups EML ([Allophanic Mafic Melanic](Melanics.qmd#sec-key-EML)), EMA ([Acidic Mafic Melanic](Melanics.qmd#sec-key-EMA)).
--   **ADD** subgroup BML ([Allophanic Mafic Brown](Browns.qmd#sec-key-BML))\
-    **Rationale:** Acidification, high P retention and presence of allophanic material in Melanic soils from mafic rock types (e.g., basalt) as observed under higher precipitation (\>800-1000 mm) does not necessarily lead to the loss of the typical characteristics of Melanic soils, such as the dominance of mafic parent material, dark-coloured Fe/Mg/Ti-rich minerals, smectitic clays, a well-developed pedality and higher organic carbon contents. Despite their lower soil pH and exchangeable bases, they are more closely related to soils in the existing EM group than they are to their former groups (BL, BM) in the Brown Soil order.
+-   **ADD** subgroup BML ([Allophanic Mafic Brown Soils](Browns.qmd#sec-diag-BML))\
+    **Rationale** see comments on Melanic soils below
+-   **ADD** Subgroup BFF ([Placic Firm Brown Soils](Browns.qmd#sec-diag-BFF))\
+    **Rationale** new soil observations
+-   **ADD** Subgroup BFWA ([Acidic-weathered Firm Brown Soils](Browns.qmd#sec-diag-BFWA))\
+    **Rationale** new soil observations
+-   **ADD** Subgroup BFPA ([Acidic-pallic Firm Brown Soils](Browns.qmd#sec-diag-BFWA))\
+    **Rationale** new soil observations
+-   **ADD** Subgroup BOMP ([Mottled-pallic Orthic Brown Soils](Browns.qmd#sec-diag-BOMP))\
+    **Rationale** new soil observations
+-   **ADD** Subgroup BOWA ([Acidic Weathered Orthic Brown Soils](Browns.qmd#sec-diag-BOMP))\
+    **Rationale** new soil observations
+-   **REMOVE** requirement for no placic horizon in group BS ([Sandy Brown Soils](Browns.qmd#sec-key-BS))\
+    **Rationale** requirement was inconsistent with the existence of BSMP ([Mottled-placic Sandy Brown Soils](Browns.qmd#sec-key-BSMP)) within the group.
 -   **REMOVE** subgroup BLAM (Acidic-mafic Allophanic Brown)\
-    **Rationale:** With the changes above, this subgroup has become superfluous. Linking allophanic subgroups directly to mafic groups (EM, BM) will better account for the mechanisms behind the allophanic characteristics in these soils that are likely different to that of soils with allophanic characteristics from tephra and more felsic lithology.
-
-#### Mottled Browns
-
+    **Rationale:** With the additions made to the Mafic Melanic and Mafic Brown groups, this subgroup has become superfluous. Linking allophanic subgroups directly to mafic groups (EM, BM) will better account for the mechanisms behind the allophanic characteristics in these soils that are likely different to that of soils with allophanic characteristics from tephra and more felsic lithology.
 -   **AMEND** Mottled subgroups in the Brown Soils (BLM, BSMP, BSM, BMMG, BMM, BAMP, BAM, BFMA, BFMC, BFMW, BFMP, BFM, BOMA, BOM) to be defined by the presence of a mottled profile form *or perch-gley features*. This also applies to the new subgroup BOMP.\
     **Rationale**: Perch-gley features can induce a profile form that is in part reduced, but not necessarily as strongly as is required for a gley soil. The reduction is often seasonal rather than year-round. These soils are usually considered imperfectly rather than poorly drained. For further discussion, see @hewitt2021, pp. 76-78.
+-   **MOVE** BAX ([Pan Acid Brown Soils](Browns.qmd#sec-key-BAX)) up one position in the key.\
+    **Rationale** this matches the order seen in the Pan Podzols.
+
+#### Melanic soils
+
+-   **ADD** subgroups EML ([Allophanic Mafic Melanic](Melanics.qmd#sec-key-EML)), EMA ([Acidic Mafic Melanic](Melanics.qmd#sec-key-EMA)).\
+    **Rationale** Acidification, high P retention and presence of allophanic material in Melanic soils from mafic rock types (e.g., basalt) as observed under higher precipitation (\>800-1000 mm) does not necessarily lead to the loss of the typical characteristics of Melanic soils, such as the dominance of mafic parent material, dark-coloured Fe/Mg/Ti-rich minerals, smectitic clays, a well-developed pedality and higher organic carbon contents. Despite their lower soil pH and exchangeable bases, they are more closely related to soils in the existing EM group than they are to their former groups (BL, BM) in the Brown Soil order.
 
 ### Minor
 
@@ -74,9 +91,13 @@
 -   **AMEND** the definition of [Truncated Anthropic](Anthropics.qmd#sec-AT) soils for clarity.
 -   **AMEND** the definition of [Mixed Anthropic](Anthropics.qmd#sec-AM) soils for clarity.
 -   **AMEND** the definition of [Refuse Anthropic](Anthropics.qmd#sec-key-AR) soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
+-   **AMEND** the definition of [Firm Brown Soils](Browns.qmd#sec-BF) to be more specific about the strength requirements.
 -   **AMEND** the [concept statement for Gley Soils](Gleys.qmd#sec-con-G) to use the more precise term 'mobilising' rather than 'affecting' when talking about the impact of reducing conditions on soil chemistry.
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
--   **RENAME** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
+-   **RECODE** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
+-   **RECODE** BFAC (Acidic-cemented Firm Brown Soils) to BFCA.
+-   **RECODE** BFAL (Acidic-allophanic Firm Brown Soils) to BFLA.
+-   **RENAME** BAMP (Mottled-placic Acid Brown Soils) to BAMP (Mottled-*impeded* Acid Brown Soils).
 -   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
 -   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
 -   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
