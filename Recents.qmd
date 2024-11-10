@@ -1,8 +1,14 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
 # Recent Soils {#sec-ord-R}
 
 ## Concept of the Order {#sec-con-R}
 
-Recent Soils show only incipient marks of soil-forming processes because of youthfulness, truncation of an older solum or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a distinct topsoil, or as in the case of fine-textured wetland soils, to have ripened sufficiently that fluid layers are not close to the surface. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.
+Recent Soils show only incipient marks of soil-forming processes because of youthfulness, truncation of an older solum or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a distinct topsoil, or as in the case of fine-textured wetland soils, to have ripened sufficiently that [moderately fluid or very fluid layers]{.min} are not close to the surface, [indicating the onset of pedogenesis]{.min}. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.
 
 ## Correlation {#sec-cor-R}
 
@@ -10,7 +16,7 @@ The order correlates with the recent soils, but not the gleyed-recent soils, of 
 
 ## Occurrence {#sec-occ-R}
 
-Recent soils occur throughout New Zealand in young landscapes, including alluvial floodplains, unstable steep slopes and slopes mantled by young volcanic ash.
+Recent soils occur throughout New Zealand in young landscapes, including alluvial floodplains, unstable steep slopes and slopes [covered]{.min} by young volcanic ash.
 
 ## Accessory Properties of the Order {#sec-acc-R}
 
@@ -27,23 +33,27 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 ## Summary of Recent Soils Hierarchy {#sec-sum-R}
 
 ```{r}
-library(flextable)
+#| label: tbl-R
+#| tbl-cap: "Recent Soils"
+#| classes: [plain, hover]
 
-table_R <- data.frame(
+library(gt)
+
+table_R_dat <- data.frame(
   'Code' = c('RH',
-             rep('RX', 3),
-             rep('RS', 4),
-             rep('RF', 9),
-             rep('RT', 4),
-             rep('RO', 6)),
+             'RX', rep('', 4),
+             'RS', rep('', 3),
+             'RF', rep('', 8),
+             'RT', rep('', 3),
+             'RO', rep('', 5)),
   'Group' = c('Hydrothermal',
-              rep('Rocky', 3),
-              rep('Sandy', 4),
-              rep('Fluvial', 9),
-              rep('Tephric', 4),
-              rep('Orthic', 6)),
+              'Rocky', rep('', 4),
+              'Sandy', rep('', 3),
+              'Fluvial', rep('', 8),
+              'Tephric', rep('', 3),
+              'Orthic', rep('', 5)),
   'Subgroup' = c('Inactive',
-                 'Peaty-acidic', 'Acidic', 'Typic',
+                 'Peaty-acidic', 'Mottled-acidic', 'Mottled', 'Acidic', 'Typic',
                  'Mottled', 'Acidic', 'Tephric', 'Typic', 
                  'Mottled-acidic', 'Mottled-saline', 'Saline', 'Mottled-weathered',
                    'Mottled', 'Acidic-weathered', 'Weathered', 'Acidic', 'Typic',
@@ -51,7 +61,7 @@ table_R <- data.frame(
                  'Mottled-pallic', 'Mottled', 'Acidic-weathered', 'Weathered',
                    'Acidic', 'Typic'),
   'Example_Series' = c('-',
-                       'pt. Titiraurangi', '-', 'pt. Cadzow',
+                       'pt. Titiraurangi', '-', '-', '-', 'pt. Cadzow',
                        'Waiowhiro', 'Poison Bay', 'Hangatahua', 'pt. Selwyn',
                        'Waiwhetu', 'pt. Motukarara', '-', 'Eweburn', 'Hari Hari',
                          'pt. Manawatu', 'Waimakariri', 'pt. Seaforth', 'pt. Selwyn',
@@ -59,16 +69,20 @@ table_R <- data.frame(
                        '-', '-', '-', '-', '-', 'Barhill')
   )
 
-ft_R <- flextable(table_R)
-ft_R <- bold(ft_R, part = 'head')
-ft_R <- merge_v(ft_R, 1)
-ft_R <- merge_v(ft_R, 2)
-ft_R <- valign(ft_R, j = c(1,2), valign = 'top')
-ft_R <- bold(ft_R, j = 1)
-ft_R <- set_table_properties(ft_R, layout = "autofit", width = 1)
-ft_R <- set_header_labels(ft_R, 
-                          'Example_Series' = 'Example Series')
-ft_R
+table_R <- gt(table_R_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_R
 ```
 
 ## Key to Groups of Recent Soils {#sec-grp-R}
@@ -150,6 +164,24 @@ Rocky Recent Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) and
 **Peaty-acidic Rocky Recent Soils**
 :::
 
+::::: maj
+#### **RXMA** {#sec-key-RXMa}
+
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf) and a pH less than 5.5 in some part below 20 cm from the mineral soil surface.
+
+::: {style="text-align: right"}
+**Mottled-acidic Rocky Recent Soils**
+:::
+
+#### **RXM** {#sec-key-RXM}
+
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+
+::: {style="text-align: right"}
+**Mottled Rocky Recent Soils**
+:::
+:::::
+
 #### **RXA** {#sec-key-RXA}
 
 Other soils that have pH less than 5.5 in some part below 20 cm from the mineral soil surface.
@@ -222,7 +254,7 @@ Fluvial Recent Soils that have both
 Other soils that have both
 
 1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
-2.  have electrical conductivity of 0.8 mS/cm or more within 60 cm of the mineral soil surface at some time of the year.
+2.  have [saline soil materials](Diagnostics.qmd#sec-diag-salt) within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Mottled-saline Fluvial Recent Soils**
@@ -230,7 +262,7 @@ Other soils that have both
 
 #### **RFQ** {#sec-key-RFQ}
 
-Other soils that have electrical conductivity of 0.8 mS/cm or more within 60 cm of the mineral soil surface at some time of the year.
+Other soils that have [saline soil materials](Diagnostics.qmd#sec-diag-salt) within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
 **Saline Fluvial Recent Soils**
@@ -354,7 +386,7 @@ Orthic Recent Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-
 Other soils that have *both*
 
 1.  a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface, *and*
-2.  pH less than 5.5 in some part of the subsurface horizons within 60 cm of the mineral soil surface.
+2.  pH less than 5.5 in some part [between the base of the A horizon and]{.min} within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic-weathered Orthic Recent Soils**

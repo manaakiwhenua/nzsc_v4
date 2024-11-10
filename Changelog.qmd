@@ -83,6 +83,11 @@
 -   **ADD** subgroups WST ([Tephric Sandy Raw Soils](Raws.qmd#sec-key-WST)) and WSS ([Typic Sandy Raw Soils](Raws.qmd#sec-key-WSS)).\
     **Rationale** new soil observations
 
+#### Recent soils
+
+-   **ADD** subgroups RXMA ([Mottled-acidic Rocky Recent Soils](Recents.qmd#sec-key-RXMA)) and RXM ([Mottled Rocky Recent Soils](Recents.qmd#sec-key-RXM)).\
+    **Rationale** new soil observations
+
 ### Minor
 
 #### Correlations
