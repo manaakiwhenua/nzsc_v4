@@ -1,8 +1,15 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Melanic Soils {#sec-ord-E}
 
 ## Concept of the Order {#sec-con-E}
 
-Melanic Soils are soils with high base saturations, well structured, very dark A horizons, and with weakly alkaline or weakly acid subsurface horizons. Their parent materials are rich in calcium and/or magnesium.
+::: min
+Melanic Soils are well structured soils with very dark A horizons. They commonly have high base saturation combined with weakly alkaline or weakly acidic subsurface horizons. However, more acidified and allophanic variants exist under higher soil moisture regimes. Their parent materials are rich in calcium and/or magnesium.
+:::
 
 ## Correlation {#sec-cor-E}
 
@@ -10,35 +17,39 @@ The Melanic Soils include the rendzinas and rendzic intergrades to yellow-grey e
 
 ## Occurrence {#sec-occ-E}
 
-Melanic Soils are scattered throughout New Zealand in association with calcareous or basaltic rocks.
+Melanic Soils are scattered throughout New Zealand in association with [calcareous, mafic, and ultramafic rocks.]{.min}
 
 ## Accessory Properties of the Order {#sec-acc-E}
 
 1.  *Swelling clays.* Most soils have smectite, or minerals with interstratifications of smectite, in the clay mineral assemblage. Melanic Soils usually have a Smectitic, Illitic or Kandic mineralogy class.
-2.  *High base saturations.* Base saturations are usually more than 50%, and KCl-extractable aluminium values are usually very low.
+2.  *High base saturations.* [Except for acidified variants, b]{.min}ase saturations are usually more than 50%, and KCl-extractable aluminium values are usually very low.
 3.  *Stable structure.* Structural stability of topsoils is high with relatively large amounts of organic carbon intimately associated with clay minerals. The soils are likely to have relatively high resistance to structural damage under heavy cropping unless organic matter is reduced significantly. The porosity is stabilised by divalent ion/organic matter/ clay complexes.
-4.  *High shrink/swell.* The soil materials are sticky and plastic. They are expected to have significant shrink/swell potential, expressed in high coefficient of linear expandibility values. This is reflected in strong polyhedral, blocky or prismatic pedality. Pretentions are moderate to high.
-5.  *Fertile.* Exchangeable calcium and magnesium values are high, particularly at the base of profile.
-6.  *Parent materials.* The soils are derived from calcareous rocks or from mafic or ultramafic rocks (e.g. basalt or peridotite).
+4.  *High shrink/swell.* The soil materials are sticky and plastic. They are expected to have significant shrink/swell potential, expressed in high coefficient of linear expandibility values. This is reflected in strong polyhedral, blocky or prismatic pedality. P retention values are moderate to high.
+5.  *Fertile.* [Except for acidified variants, e]{.min}xchangeable calcium and magnesium values are high, particularly at the base of profile.
+6.  *Parent materials.* The soils are derived from [calcareous, mafic or ultramafic rock classes.]{.min}
 7.  *Deep rooting.* Except for shallow soils on rock or soils affected by high water-tables, potential rooting depths are relatively large.
 8.  *Biologically active.* Carbon/nitrogen ratios are low (except in areas with very high precipitation).
 
 ## Summary of Melanic Soils Hierarchy {#sec-sum-E}
 
 ```{r}
-library(flextable)
+#| label: tbl-E
+#| tbl-cap: "Melanic Soils"
+#| classes: [plain, hover]
 
-table_E <- data.frame(
-  'Code' = c(rep('EV', 4),
-             rep('EP', 3),
-             rep('ER', 4),
-             rep('EM', 3),
-             rep('EO', 8)),
-  'Group' = c(rep('Vertic', 4),
-              rep('Perch-gley', 3),
-              rep('Rendzic', 4),
-              rep('Mafic', 3),
-              rep('Orthic', 8)),
+library(gt)
+
+table_E_dat <- data.frame(
+  'Code' = c('EV', rep('', 3),
+             'EP', '', '',
+             'ER', rep('', 3),
+             'EM', '', '',
+             'EO', rep('', 7)),
+  'Group' = c('Vertic', rep('', 3),
+              'Perch-gley', '', '',
+              'Rendzic', rep('', 3),
+              'Mafic', '', '',
+              'Orthic', rep('', 7)),
   'Subgroup' = c('Mottled-calcareous', 'Mottled', 'Calcareous', 'Typic',
                  'Vertic', 'Argillic', 'Typic',
                  'Peaty', 'Mottled', 'Weathered', 'Typic',
@@ -54,16 +65,20 @@ table_E <- data.frame(
                          '-', '-', 'Kaihiku', 'Bishopdale')
 ) 
 
-ft_E <- flextable(table_E)
-ft_E <- bold(ft_E, part = 'head')
-ft_E <- merge_v(ft_E, 1)
-ft_E <- merge_v(ft_E, 2)
-ft_E <- valign(ft_E, j = c(1,2), valign = 'top')
-ft_E <- bold(ft_E, j = 1)
-ft_E <- set_table_properties(ft_E, layout = "autofit", width = 1)
-ft_E <- set_header_labels(ft_E, 
-                          'Example_Series' = 'Example Series')
-ft_E
+table_E <- gt(table_E_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20), Subgroup ~pct(35))
+
+table_E
 ```
 
 ## Key to Groups of Melanic Soils {#sec-grp-E}
@@ -83,7 +98,7 @@ Melanic Soils that have both
 
 #### **EP** {#sec-key-EP}
 
-Other soils that have *either*
+Other soils that have [*both*]{.min}
 
 1.  a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) or a [gley profile form](Diagnostics.qmd#sec-diag-gleypf), *and*
 2.  [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
@@ -102,7 +117,7 @@ Other soils that have limestone or other calcareous material either in the form 
 
 #### **EM** {#sec-key-EM}
 
-Other soils that, in a subhorizon of the B [or BC]{.min} horizon at 60 cm from the mineral soil surface, or at the base of the B or BC if shallower, have
+Other soils that, in a subhorizon of the B [or BC]{.min} horizon at 60 cm from the mineral soil surface, or at the base of the B [or BC]{.min} if shallower, have
 
 1.  matrix colour value 4 or less and chroma 3 or more, *or*
 2.  5% (by volume) or more gravel that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
@@ -128,7 +143,7 @@ Vertic Melanic Soils occur in clayey soil materials dominated by clay minerals w
 
 #### **EVMC** {#sec-key-EVMC}
 
-Vertic melanic soils that have both
+Vertic melanic soils that have *both*
 
 1.  [redox segregations](Diagnostics.qmd#sec-diag-rsegs) within 60 cm of the mineral soil surface, *and*
 2.  a [calcareous horizon](Diagnostics.qmd#sec-diag_calch) within 90 cm of the mineral soil surface.
@@ -230,7 +245,9 @@ Other soils.
 
 ### **EM** - MAFIC MELANIC SOILS {#sec-EM}
 
-Mafic Melanic Soils occur in soil materials weathered from ultrabasic, basic or intermediate igneous rocks or tuffs. They have relatively high proportions of dark-coloured magnesium- and iron-rich (mafic) silicate minerals.
+::: .min
+Mafic Melanic Soils occur in soil materials weathered from mafic and ultramafic rocks or tuffs (but not tuffaceous greywacke). They have relatively high proportions of dark-coloured magnesium- and iron-rich silicate minerals.
+:::
 
 #### **EMG** {#sec-key-EMG}
 
@@ -254,7 +271,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 ::::: maj
 #### **EML** {#sec-key-EML}
 
-Other soils that have P-retention 85% or more, or strong or very strong [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B horizon to 90 cm or less from the mineral soil surface.
+Other soils that have P-retention 85% or more, or strong or very strong [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B horizon to 90 cm or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Allophanic Mafic Melanic Soils**
@@ -262,7 +279,7 @@ Other soils that have P-retention 85% or more, or strong or very strong [reactiv
 
 #### **EMA** {#sec-key-EMA}
 
-Other soils that have pH less than 5.5 in some part of the B horizon to 60 cm or less from the mineral soil surface.
+Other soils that have pH less than 5.5 in some part of the B horizon to 60 cm or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Mafic Melanic Soils**
