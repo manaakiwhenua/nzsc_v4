@@ -50,6 +50,8 @@
 
 #### Terminology
 
+-   **AMEND** the definition of [Cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh) to put all requirements in the numbered criteria list.
+-   **AMEND** the definition of [Densipan](Diagnostics.qmd#sec-diag-dens) to put all requirements in the numbered criteria list.
 -   **AMEND** the definition of [Duripan](Diagnostics.qmd#sec-diag-dpan) to include a horizon notation example.
 -   **AMEND** the definition of [Ironstone-pan](Diagnostics.qmd#sec-diag-ipan) to include a horizon notation example.
 -   **AMEND** the definition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.

@@ -6,13 +6,15 @@ editor_options:
 
 # Diagnostic horizons and other differentiae {#sec-diagnostics}
 
-Diagnostic horizons and other differentiating criteria are defined to facilitate the assignment of soils to classes. The definitions are not intended to represent a comprehensive classification of horizons. A summary of these is given in @tbl-two. Transitional horizons are not included when considering horizon notations for NZSC criteria unless explicitly stated. Note that:
+Diagnostic horizons and other differentiating criteria are defined to facilitate the assignment of soils to classes. The definitions are not intended to represent a comprehensive classification of horizons. A summary of these is given in @tbl-two. [Transitional horizons are not included when considering horizon notations for NZSC criteria unless explicitly stated. Note that:]{.min}
 
+::: min
 -   "in some part" means that the requirement must be met in some subhorizon or some subsample that is 10 cm or more thick within the specified thickness.
 -   "in the major part" means that the requirement must be met over more than half the specified thickness (e.g. from the base of the A horizon to 60 cm from the mineral soil surface). Analyses or estimates should be used from subhorizons that subdivide the thickness, or if the subhorizons are not recognised, then from subsamples of the relevant horizons.
+:::
 
 |  |  |
-|:-----------------------------------|:-----------------------------------|
+|:---|:---|
 | **Horizons, Pans and Layers:** | **Soil materials and Contacts:** |
 | [Argillic horizon](#sec-diag-argh) | [Allophanic soil material](#sec-diag-alloph) |
 | [Brittle-B horizon](#sec-diag-britb) | [Anthropic Soil Material](#sec-diag-anthro) |
@@ -63,7 +65,7 @@ Accessory chemical properties relate to variable-charge characteristics, P reten
 ::: maj
 ## Anthropic Soil Material {#sec-diag-anthro}
 
-Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
+Anthropic material constitutes human-altered or human-transported soil material that shows evidence of the purposeful modification of soil properties or of earth-surface features by human activity. The field evidence of alteration excludes low impact agricultural practices such as shallow cultivation, digging, ploughing, or the addition of amendments. Artifically drained wetlands are also not included here because it is difficult to unambiguously link artificial drainage to specific, field-identifieable soil indicators. The nature of alteration can comprise profile truncation, mixing, deposition of transported material, and addition of artefacts. Due to the high variability of the morphological or chemical soil properties that can result from human soil modifications, the criteria of Anthropic material are mainly linked to their anthropic genesis, and thus deviate from the [principles of the NZSC](Introduction.qmd#sec-intro-principles). Common indicators of Anthropic material in New Zealand are:
 
 -   excavated or constructed landforms,
 -   mechanically detached, redistributed, and re-oriented soil material,
@@ -73,7 +75,7 @@ Anthropic material constitutes human-altered or human-transported soil material 
 -   eating and cooking waste and associated charred products,
 -   waste products of manufacturing processes, including chemical contaminants.
 
-The relationship between natural soil horizons or parent materials with Anthropic material or truncation is commonly in the form of a lithological discontinuity, indicated by distinct to sharp transitions between horizons. The majority of Anthropic material (including truncation) in NZ is the result of distinct and extensive modification from the mid-19th century coinciding with early European settlement, deforestation, and farming. From the mid-20th century, excavation and construction (e.g., infrastructure, roading, industrial and urban expansion) has further pronounced lithological discontinuity and alteration. The influence of ‘older’ Māori cultural practice (e.g., soil alteration/modification practices, Māori plaggen soils) is still recognised in many parts of NZ, and can predate European settlement. Distinct soil management alterations from historical (dating back to early Polynesian settlement) to modern can be distinguished at the group or family level. Anthropic material is indicated on a per-horizon basis by the Parent Material Class notation 'An'. This notation can be appended with 'm', 'e', or 'n' to distinguish pre-modern Māori modifications, pre-modern European modifications, and modern modifications, if desired (e.g 'An-m').
+The relationship between natural soil horizons or parent materials with Anthropic material or truncation is commonly in the form of a lithological discontinuity, indicated by distinct to sharp transitions between horizons. The majority of Anthropic material (including truncation) in NZ is the result of distinct and extensive modification from the mid-19th century coinciding with early European settlement, deforestation, and farming. From the mid-20th century, excavation and construction (e.g., infrastructure, roading, industrial and urban expansion) has increasingly intensified these impacts on our soils. The influence of ‘older’ Māori cultural practice (e.g., soil alteration/modification practices, Māori plaggen soils) is still recognised in many parts of NZ, and can predate European settlement. Distinct soil management alterations from historical (dating back to early Polynesian settlement) to modern can be distinguished at the group or family level. Anthropic material is indicated on a per-horizon basis by the Parent Material Class notation 'An'. This notation can be appended with 'm', 'e', or 'n' to distinguish pre-modern Māori modifications, pre-modern European modifications, and modern modifications, if desired (e.g 'An-m').
 :::
 
 ## Argillic Horizon {#sec-diag-argh}
@@ -100,7 +102,7 @@ The brittle-B horizon differs from the [fragipan](#sec-diag-fpan) by having eith
 
 ## Calcareous Horizon {#sec-diag-calch}
 
-A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on stones, threadlike deposits in pores, or as nodules ('secondary' carbonates). Such a horizon is given the notation suffix k (e.g. Btk, Bwk, etc).]{.min}
+A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on stones, threadlike deposits in pores, or as nodules ('secondary' carbonates). A calcareous horizon is given the notation suffix k (e.g. Btk, Bwk, etc).]{.min}
 
 ## Crumb Structure {#sec-diag-crumb}
 
@@ -117,23 +119,25 @@ It meets **BOTH** of the following:
 
 ## Cutanoxidic Horizon {#sec-diag-cutoxh}
 
-A cutanoxidic horizon [@wilson1987] is a strongly weathered, clayey, low-activity-clay horizon. The dominant clays are kaolin group minerals, and clay coatings occur on less than 10% of ped faces. Exchangeable aluminium, as a percentage of CEC, is usually greater than 25% (and is frequently more than 50% in some part of the horizon). It meets the requirements of a [cutanic horizon](#sec-diag-cuth), and has **ALL** the following characteristics:
+A cutanoxidic horizon [@wilson1987] is a strongly weathered, clayey, low-activity-clay horizon. The dominant clays are kaolin group minerals, and clay coatings occur on less than 10% of ped faces. Exchangeable aluminium, as a percentage of CEC, is usually greater than 25% (and is frequently more than 50% in some part of the horizon). It has **ALL** the following characteristics:
 
-1.  It is a B horizon that is clayey and has fine polyhedral peds; **AND**
-2.  It has a failure class of friable only at water contents close to field capacity. Small changes in water content from field capacity result in large changes in soil strength and failure. Semi-deformable failure occurs at water contents wetter than field capacity. Very firm or stronger ped strength with brittle failure occurs at soil water matric potentials drier than about 30 kPa. Soil materials lack the characteristic friable failure over a wide range in moisture contents that is exhibited by [oxidic horizons](#sec-diag-oxh); **AND**
-3.  Soil materials are sticky and very plastic, in comparison to oxidic materials which are only slightly sticky in relation to their clay content; **AND**
-4.  Peds are larger than 2 mm and have smooth faces with silt-sized aggregates of iron oxide crystallites which give the ped faces a dusty appearance when dry. The latter property in particular distinguishes this horizon from horizons developed in well-drained Brown Soils.
+1.  It meets the requirements of a [cutanic horizon](#sec-diag-cuth), **AND**
+2.  It is a B horizon that is clayey and has fine polyhedral peds; **AND**
+3.  Soil materials lack the characteristic friable failure over a wide range in moisture contents that is exhibited by [oxidic horizons](#sec-diag-oxh). The horizon has a failure class of friable only at water contents close to field capacity. Small changes in water content from field capacity result in large changes in soil strength and failure. Semi-deformable failure occurs at water contents wetter than field capacity. Very firm or stronger ped strength with brittle failure occurs at soil water matric potentials drier than about 30 kPa; **AND**
+4.  Soil materials are sticky and very plastic, in comparison to oxidic materials which are only slightly sticky in relation to their clay content; **AND**
+5.  Peds are larger than 2 mm and have smooth faces with silt-sized aggregates of iron oxide crystallites which give the ped faces a dusty appearance when dry. The latter property in particular distinguishes this horizon from horizons developed in well-drained Brown Soils.
 
 The significance of this horizon lies in the combination of low ECEC, clay illuviation, acidity and "non-oxidic" physical properties.
 
 ## Densipan {#sec-diag-dens}
 
-A densipan is a non-cemented E horizon, [denoted with the suffix d (e.g. Ed)]{.min}, of very high soil strength and bulk density. It meets the requirements of an [eluvial horizon](#sec-diag-eluvh) and **BOTH** of the following:
+A densipan is a non-cemented E horizon, [denoted with the suffix d (e.g. Ed)]{.min}, of very high soil strength and bulk density. It meets **ALL** the following requirements:
 
-1.  Either
+1.  It is an [eluvial horizon](#sec-diag-eluvh); **AND**
+2.  Either
     (a) Unconfined strength is hard or very hard at soil water states from near wet to dry, *or*
     (b) Soil penetration resistance exceeds 4000 kPa at soil water states from near wet to dry; **AND**
-2.  Moist and dry samples slake in water.
+3.  Moist and dry samples slake in water.
 
 Densipans occur in soils with [felsic]{.min} parent materials. The strength is due to a close-fit arrangement of sand and silt-sized quartz particles. It differs from a [duripan](#sec-diag-dpan) by lack of cementation.
 
@@ -157,7 +161,7 @@ The duripan is recognised in [Pallic Soils](Key-to-Orders.qmd#sec-ord-P) where t
 ::: maj
 ## Eluvial horizon {#sec-diag-eluvh}
 
-An eluvial horizon is a mineral horizon that contains less organic matter, pedogenic oxides, clay, or a combination of these than the horizon immediately below as a result of downward or lateral movement. The primary notation E is used for these horizons. Compared to an overlying H, O or A horizon, it contains less organic matter. The colour of the horizon can be that of uncoated sand and silt grains but E horizons are also recognised where coats of iron oxides or other minerals mask the colour of the primary particles. It has all the following characteristics:
+An eluvial horizon is a mineral horizon that, as a result of downward or lateral movement, contains less organic matter, pedogenic oxides, clay, or a combination of these than the horizon immediately below. The primary notation E is used for these horizons. Relative to an overlying H, O or A horizon, it contains less organic matter. The colour of the horizon can be that of uncoated sand and silt grains but E horizons are also recognised where coats of iron oxides or other minerals mask the colour of the primary particles. It has all the following characteristics:
 
 1.  A moist colour value of 4 or more, or a dry colour value of 5 or more, with or without skeletans; **AND**
 2.  Both
@@ -174,7 +178,7 @@ Relevant landforms include floodplains, estuarine surfaces, lacustrine surfaces,
 Confirming soil characteristics include:
 
 1.  A buried A horizon or some other field indication of an irregular change in carbon with depth (such as sedimentary plant-leaf material).
-2.  Sedimentary bedding in C horizons, indicating deposition in water (such as scoured surfaces, cross-stratification, sedimentary laminations, current ripples or foreset beds).
+2.  Sedimentary bedding in C (or transitional C) horizons, indicating deposition in water (such as scoured surfaces, cross-stratification, sedimentary laminations, current ripples or foreset beds).
 3.  An unripened horizon with fluid, or very fluid, fluidity class in some layer with an upper surface within 120 cm of the soil surface.
 4.  In [tephric soil materials](#sec-diag-teph)
     a.  disturbance or overthickening of the regional sequence of tephras;
@@ -193,13 +197,13 @@ A fragipan is an apparently non-cemented [subsoil]{.min} horizon that has high b
 4.  ***Either***
     (a) Extremely coarse or gross prismatic peds: the prisms have apedal-massive interiors, or break to secondary peds with horizontal dimensions of 100 mm or more, and the prism faces are defined by colours of chroma 3 or less, or
     (b) The horizon is apedal-massive throughout, or has extremely coarse or gross prismatic peds, and the moist soil strength is very firm; **AND**
-5.  If roots are present, they are confined predominantly to planar voids between prisms or to worm burrows; **AND**
+5.  If roots are present, they are confined predominantly to planar voids between prisms or to worm [burrows]{.min}; **AND**
 6.  Penetration resistance under moist conditions is 3100 kPa or more; **AND**
 7.  It does not occur within an [Eluvial horizon](#sec-diag-eluvh).
 
 ## Gley Profile Form {#sec-diag-gleypf}
 
-A gley profile form is defined by the presence of a [reductimorphic horizon](#sec-diag-redmh) with an upper boundary within either 15 cm of the base of the A horizon (excluding an AB or A/B horizon) or 30 cm of the mineral soil surface.
+A gley profile form is defined by the presence of a [reductimorphic horizon](#sec-diag-redmh) with an upper boundary within either 15 cm of the base of the A horizon or 30 cm of the mineral soil surface.
 
 Soils with a gley profile form have usually been recognised as poorly or very poorly drained soils in the soil drainage classification of @taylor1962.
 
@@ -240,7 +244,7 @@ At a lithic contact, rock fragments accommodate one another with non-random orie
 
 The lithic contact may be subdivided into coherent-lithic or shattered-lithic materials.
 
-*Coherent-lithic* materials are equivalent to materials beneath the lithic contact of Soil Taxonomy. Cracks or joints occur at horizontal intervals of more than 100 mm. These materials occur on the ignimbrites, Otago schists, basalt flows of the Dunedin complex, and Fiordland granites. They often cause drainage impedance.
+*Coherent-lithic* materials are equivalent to materials beneath the lithic contact of Soil Taxonomy. Cracks or joints occur at horizontal intervals of more than 100 mm. They often cause drainage impedance.
 
 *Shattered-lithic* materials are similar except that joints or cracks may occur at intervals of less than 100 mm. Shattered-lithic materials differ from fragmental or skeletal materials in which there is no continuity of geological structure between adjacent rock fragments, and rock fragment faces do not accommodate one another. Shattered-lithic materials are more permeable than coherent-lithic materials, and offer a significant rooting volume.
 
@@ -275,11 +279,11 @@ Organic soil material has **EITHER**
 3.  More than 35% (by weight) loss on ignition except in materials dominated by allophanic soil material or by limestone; **OR**
 4.  18% or more total carbon.
 
+Unrubbed fibres are pieces of plant tissue large enough to be retained on a 100-mesh (0.15 mm) sieve, except for wood fragments that cannot be crushed or shredded in the hand and are larger than 2 cm in the smallest dimension. Rubbed fibre is the fibre that remains after rubbing a wet sample 10 times between the thumb and forefinger, or kneading a ball in the palm 10 times using firm pressure.
+
 Organic soil materials that have been accumulated under wet conditions are subdivided into three classes, based on evidence of decomposition [@clayden1989]. These classes are used to distinguish soil groups of [Organic Soils](Key-to-Orders.qmd#sec-ord-O).
 
 *Fibric soil material* (Of horizon) consists mainly of well preserved plant remains that are readily identifiable in terms of botanical origin. The fibre content after rubbing is at least 75% by volume.
-
-Fibres are pieces of plant tissue large enough to be retained on a 100-mesh (0.15 mm) sieve, except for wood fragments that cannot be crushed or shredded in the hand and are larger than 2 cm in the smallest dimension. Rubbed fibre is the fibre that remains after rubbing a wet sample 10 times between the thumb and forefinger, or kneading a ball in the palm 10 times using firm pressure.
 
 *Mesic soil material* (Om horizon) consists mainly of partially decomposed plant remains (semi-fibrous peat or hemic soil material) and does not meet the requirements of either fibric soil material or humified soil material.
 
@@ -332,7 +336,7 @@ Perch-gley features are the morphologic indicators of saturation and reducing co
 A horizon with perch-gley features **EITHER**
 
 1.  Has [redox-segregations](#sec-diag-rsegs) that occur mainly within peds, or in the case of an apedal soil, mainly within the soil matrix. Macro-void surfaces, either partings or pores, are dominated by greyish colours (moist chroma 2 or less, or moist chroma 3 and value 6 or more). Iron and manganese precipitates occur either adjacent to the greyish void surfaces as a selvedge or as discrete mottles within the soil mass; **OR**
-2.  Overlies a horizon that is less gleyed (e.g. less redox-segregations) with a matrix that is not dominated by greyish colours.
+2.  Overlies a horizon that is less gleyed (e.g. less [redox-segregations](#sec-diag-rsegs)) and that has a matrix not dominated by greyish colours.
 
 ## Placic Horizon {#sec-diag-plac}
 
@@ -350,8 +354,8 @@ A podzolic-B horizon is a B horizon that meets one of the following:
 
 1.  It meets the requirement of a Bh horizon (because it has colour value and chroma of 3 or less, or value 4 and chroma 2, dominant in the matrix, and contains more than 1% organic carbon). The fabric has sand- or silt-size pellet-like aggregates, coats on mineral grains, or both; **OR**
 2.  
-    (a) It is associated with an overlying (but not necessarily immediately overlying) E horizon (i.e. Ea horizon) in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; **AND**
-    (b) The B horizon is 5 cm or more thick and meets the requirements of a Bs (or Bs(g) or Bs(f)) horizon because it has a strong or very strong reactive-aluminium test, and at least one of the following:
+    (a) It is associated with an overlying (but not necessarily immediately overlying) [Eluvial horizon](#sec-diag-eluvh) in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value of the [Eluvial horizon](#sec-diag-eluvh) is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; **AND**
+    (b) The B horizon (or some part of it) is 5 cm or more thick and meets the requirements of a Bs (or Bs(g) or Bs(f)) horizon because it has a strong or very strong reactive-aluminium test, and at least *one* of the following:
         (i) Reddish hue and highest chroma at the top of the horizon; *or*
         (ii) Earthy apedal with fine spheroids, or weakly developed blocks or polyhedra; *or*
         (iii) Very weak or weak soil strength when moist or dry; *or*
@@ -412,17 +416,19 @@ A reductimorphic horizon has a slightly peaty texture class, or low chroma colou
 
 A reductimorphic horizon is a horizon strongly affected by reducing conditions as indicated by greyish colours consistent with long saturation by water. The prolonged wetness may be caused by a water-table perched on a slowly permeable layer within the soil profile or by a groundwater-table. [A reductimorphic horizon is given the horizon notification g (if more than 2% mottles are present, e.g. Bg, BCg, Cg) or r (if the horizon is almost or completely reduced, e.g. Br, BCr).]{.min}
 
+::: maj
 ## Saline soil material {#sec-diag-salt}
 
-Soil salinity refers to the accumulation of water-soluble salts, mainly of sodium, calcium and magnesium. These can severely affect plant growth and land use, and increase soil erosion (Hazelton and Murphy 2017, p. 95).
+Soil salinity refers to the accumulation of water-soluble salts, mainly of sodium, calcium and magnesium. These can severely affect plant growth and land use, and increase soil erosion [@hazelton2016, pp. 95].
 
 Most soils generate some salt as a product of chemical weathering, with composition and concentration determined by the parent material lithology. Soils may also receive additional salt at their surface, transported by wind and/or rain. Some soils are affected by saline groundwater from marine or hydrothermal sources.
 
-Under higher rainfall regimes and under good drainage conditions, these salts are leached from the soil (Hewitt et al, 2021). Where rainfall is too low to remove salt (or a profile is in a low-lying, water-receiving location), salts can accumulate and may ultimately precipitate as crystals in the profile and/or on the soil surface.
+Under higher rainfall regimes and under good drainage conditions, these salts are leached from the soil [@hewitt2021]. Where rainfall is too low to remove salt (or a profile is in a low-lying, water-receiving location), salts can accumulate and may ultimately precipitate as crystals in the profile and/or on the soil surface.
 
-Soil salinity is somewhat difficult to measure in the field in ways that can be strongly related to plant growth (DERM, 2011). As a compromise, the electrical conductivity (EC) of a 1:5 solution of soil to deionised water is measured. Results exceeding 0.8 mS/cm within in the top 60 cm of the soil profile are considered significant enough to be considered in the classification of Gley, Recent and Semi-Arid soil orders. Exceedences within 30 cm of the surface are recognised in the classification of Raw soils.
+Soil salinity is somewhat difficult to measure in the field in ways that can be strongly related to plant growth [@derm2011]. As a compromise, the electrical conductivity (EC) of a 1:5 solution of soil to deionised water is measured. Results exceeding 0.8 mS/cm within in the top 60 cm of the soil profile are considered significant enough to be considered in the classification of Gley, Recent and Semi-Arid soil orders. Exceedences within 30 cm of the surface are recognised in the classification of Raw soils.
 
 Note that salinity at any given location (including within the profile) is expected to be highly variable across seasons, and will generally be at its maximum towards the end of a dry summer.
+:::
 
 ## Slowly Permeable Layer {#sec-diag-slowp}
 
@@ -472,7 +478,7 @@ Vitric soil material [@parfitt1984] has more than 35% coarse-fraction (2 mm or 
 
 ## Weathered-B Horizon {#sec-diag-bw}
 
-A weathered-B horizon shows evidence of alteration and is normally designated Bw, Bw(g), Bw(f), etc. It has at least **ONE** of the following:
+A weathered-B horizon shows evidence of chemical alteration of the original parent material and is given the notation suffix w (e.g. Bw). It has at least **ONE** of the following:
 
 1.  Redder hue or higher chroma than an underlying horizon in similar materials; **OR**
 2.  Have spheroidal, blocky, polyhedral, tabular, prismatic, columnar or platy pedality which distinguish the horizon from a BC or C horizon below; **OR**
