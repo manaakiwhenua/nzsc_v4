@@ -15,7 +15,7 @@ Soils that either
 
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O}
 
-[Other]{.min} soils that have horizons that consist of [organic soil material](Diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the gravel consists of organic soil material) that within 60 cm of the soil surface are **EITHER**
+[Other]{.min} soils that have horizons that consist of [organic soil material](Diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the [rock fragments]{.min} consists of organic soil material) that within 60 cm of the soil surface are **EITHER**
 
 1.  30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), **OR**
 2.  40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).
@@ -76,7 +76,7 @@ Other soils that have **ALL** the following
     (a) a visible reaction to 10% HCl in the soil matrix at 60 cm or less from the mineral soil surface, *or*
     (b) has a [weathered-B](Diagnostics.qmd#sec-diag-bw), [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) (more than 10 cm thick) in which the major part (to 60 cm from the mineral soil surface or to its base, whichever is less) has pH of 5.9 or more, moderate or strong pedality, and is sticky or very sticky, [or if pH is below 5.9, has a matrix colour of 4 or less, a moderate to strong polyhedral pedality, and is moderately or very sticky]{.min}; **AND**
 4.  has in some part of the B horizon to its base, or to 90 cm from the mineral soil surface, whichever is less, **either**
-    (a) gravel that is not very highly weathered or completely weathered, *or*
+    (a) [rock fragments that are]{.min} not very highly weathered or completely weathered, *or*
     (b) a subhorizon that is not clayey, *or*
     (c) the uppermost subhorizon of the B has colour value of 5 or more.
 

@@ -112,7 +112,7 @@ Other Raw Soils with a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic c
 
 #### **WS** {#sec-key-WS}
 
-Other Raw Soils that have sand or loamy sand texture and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60 cm depth or more.
+Other Raw Soils that have sand or loamy sand texture and that have less than 35% [rock fragments]{.min} (by volume) in all horizons, from the soil surface to 60 cm depth or more.
 
 ::: {style="text-align: right"}
 [**SANDY RAW SOILS**](#sec-WS)
@@ -204,7 +204,7 @@ Other soils that within 30 cm of the mineral soil surface have moderately fluid
 
 #### **WGS** {#sec-key-WGS}
 
-Other soils that have sand or loamy sand texture and that have less than 35% gravel (by volume) in all horizons, from the soil surface to 60 cm depth or more.
+Other soils that have sand or loamy sand texture and that have less than 35% [rock fragments]{.min} (by volume) in all horizons, from the soil surface to 60 cm depth or more.
 
 ::: {style="text-align: right"}
 **Sandy Gley Raw Soils**

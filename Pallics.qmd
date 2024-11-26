@@ -20,7 +20,7 @@ Pallic Soils occur predominantly in the seasonally dry eastern part of North and
 4.  *Mica/illite clay minerals.* Pallic Soils usually belong either to the Illitic or to a Clay-mineralic mineralogy class.
 5.  *Slow permeability.* Subsurface horizons have restricted permeability, particularly in soils with fragipans or duripans in which the permeability is very slow.
 6.  *Perched water-tables.* Soils that are poorly or moderately well drained have water-tables perched on [slowly permeable layers](Diagnostics.qmd#sec-diag-slowp).
-7.  *Limited root depth.* Potential rooting depth in most soils is limited by a subsurface horizon of high bulk density at shallow depths or by brittle silty cappings on stones.
+7.  *Limited root depth.* Potential rooting depth in most soils is limited by a subsurface horizon of high bulk density at shallow depths or by brittle silty cappings on [rock fragments]{.min}.
 8.  *Strongly worm-mixed.* Topsoils generally have a significant proportion of worm casts and a distinct worm-mixed horizon occurs in the transition from A to B horizons. Topsoil worm activity is greatly reduced during summer periods of soil moisture deficit.
 9.  *High slaking and dispersion potential.* Soil material, particularly in B horizons, is strongly dispersive and will readily slake. Topsoil structures may break down under prolonged impact by heavy machinery or by continuous tillage.
 10. *Droughty summers, moist winters.* Precipitation ranges from about 500 to 1000 mm per year. A spring surplus of soil water is common but the annual surplus is less than about 200 mm. The average annual deficit is approximately 90--200 mm/year.
@@ -355,7 +355,7 @@ Other soils.
 
 ### **PJ** - ARGILLIC PALLIC SOILS {#sec-PJ}
 
-Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duric horizon](Diagnostics.qmd#sec-diag-dpan) but have a clay-enriched B horizon in which clay coatings occur predominantly on polyhedral, blocky or prismatic ped surfaces, on gravel surfaces, or within tubular pores.
+Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duric horizon](Diagnostics.qmd#sec-diag-dpan) but have a clay-enriched B horizon in which clay coatings occur predominantly on polyhedral, blocky or prismatic ped surfaces, on [rock fragment]{.min} surfaces, or within tubular pores.
 
 #### **PJMW** {#sec-key-PJMW}
 

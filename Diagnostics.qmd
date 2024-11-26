@@ -17,14 +17,14 @@ Diagnostic horizons and other differentiating criteria are defined to facilitate
 |:-----------------------------------|:-----------------------------------|
 | **Horizons, Pans and Layers:** | **Soil materials and Contacts:** |
 | [Argillic horizon](#sec-diag-argh) | [Allophanic soil material](#sec-diag-alloph) |
-| [Brittle-B horizon](#sec-diag-britb) | [Anthropic Soil Material](#sec-diag-anthro) |
+| [Brittle-B horizon](#sec-diag-britb) | [[Anthropic Soil Material](#sec-diag-anthro)]{.maj} |
 | [Calcareous horizon](#sec-diag-calch) | [Lithic contact](#sec-diag-lithc) |
 | [Cutanic horizon](#sec-diag-cuth) | [Organic soil material](#sec-diag-org) |
 | [Cutanoxidic horizon](#sec-diag-cutoxh) | [Paralithic contact](#sec-diag-plith) |
-| [Densipan](#sec-diag-dens) | [Saline soil material](#sec-diag-salt) |
+| [Densipan](#sec-diag-dens) | [[Saline soil material](#sec-diag-salt)]{.maj} |
 | [Distinct topsoil](#sec-diag-dts) | [Tephric soil material](#sec-diag-teph) |
 | [Duripan](#sec-diag-dpan) | [Vitric soil material](#sec-diag-vitr) |
-| [Eluvial horizon](#sec-diag-eluvh) |  |
+| [[Eluvial horizon](#sec-diag-eluvh)]{.maj} |  |
 | [Fragipan](#sec-diag-fpan) | **Profile Forms:** |
 | [Humus-pan](#sec-diag-hpan) | [Gley profile form](#sec-diag-gleypf) |
 | [Ironstone-pan](#sec-diag-ipan) | [Mottled profile form](#sec-diag-mottpf) |
@@ -94,7 +94,7 @@ Horizons having coatings which do not meet the requirements of an argillic horiz
 
 A brittle-B horizon is a B or BC horizon that has **ALL** of the following:
 
-1.  Brittle failure (the horizon may be gravelly, but the fine-earth fraction must be sufficiently coherent to allow brittle failure); **AND**
+1.  Brittle failure (the horizon may be [dominated by rock fragments]{.min}, but the fine-earth fraction must be sufficiently coherent to allow brittle failure); **AND**
 2.  It is apedal-massive. Extremely coarse or gross prisms may be present, if the interior of the prisms is apedal-massive; **AND**
 3.  Few or less fine roots occur throughout the horizon.
 
@@ -102,7 +102,7 @@ The brittle-B horizon differs from the [fragipan](#sec-diag-fpan) by having eith
 
 ## Calcareous Horizon {#sec-diag-calch}
 
-A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on stones, threadlike deposits in pores, or as nodules ('secondary' carbonates). A calcareous horizon is given the notation suffix k (e.g. Btk, Bwk, etc).]{.min}
+A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on [rock fragments]{.min}, threadlike deposits in pores, or as nodules ('secondary' carbonates). A calcareous horizon is given the notation suffix k (e.g. Btk, Bwk, etc).]{.min}
 
 ## Crumb Structure {#sec-diag-crumb}
 
@@ -182,7 +182,7 @@ Confirming soil characteristics include:
 3.  An unripened horizon with fluid, or very fluid, fluidity class in some layer with an upper surface within 120 cm of the soil surface.
 4.  In [tephric soil materials](#sec-diag-teph)
     a.  disturbance or overthickening of the regional sequence of tephras;
-    b.  rounded or subrounded gravel;
+    b.  rounded or subrounded [rock fragments]{.min};
     c.  presence of non-volcanic rock fragments.
 
 The emphasis here on genetic landform criteria is not consistent with the principle that soils should be classified on the basis of similarity of measurable soil properties rather than presumed genesis (see Introduction). Measurable soil properties that will group together the required soils have not been recognised. The confirmatory soil properties, however, will aid class assignment decisions in many cases.
@@ -192,7 +192,7 @@ The emphasis here on genetic landform criteria is not consistent with the princi
 A fragipan is an apparently non-cemented [subsoil]{.min} horizon that has high bulk density (usually [≥]{.min} 1.5 Mg/m^3^) with high strength when dry. [It is given the horizon notation suffix x (e.g. Bwx, BCx).]{.min} It has **ALL** of the following:
 
 1.  An air-dried clod must slake when fully immersed in water; **AND**
-2.  Brittle failure when moist (the horizon may be gravelly but the fine-earth material must be Sufficiently coherent to allow brittle failure); **AND**
+2.  Brittle failure when moist (the horizon may be [dominated by rock fragments]{.min} but the fine-earth material must be Sufficiently coherent to allow brittle failure); **AND**
 3.  It has at least slightly firm moist soil strength; **AND**
 4.  ***Either***
     (a) Extremely coarse or gross prismatic peds: the prisms have apedal-massive interiors, or break to secondary peds with horizontal dimensions of 100 mm or more, and the prism faces are defined by colours of chroma 3 or less, or

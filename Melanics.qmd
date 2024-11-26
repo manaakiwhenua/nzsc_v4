@@ -109,7 +109,7 @@ Other soils that have [*both*]{.min}
 
 #### **ER** {#sec-key-ER}
 
-Other soils that have limestone or other calcareous material either in the form of a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith), or as an extremely gravelly layer (70% or more by volume) in the form of rock rubble, with an upper boundary at 60 cm or less and which continues to more than 90 cm from the mineral soil surface.
+Other soils that have limestone or other calcareous material either in the form of a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith), or as a layer dominated by [rock fragments]{.min} (70% or more by volume), with an upper boundary at 60 cm or less and which continues to more than 90 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 [**RENDZIC MELANIC SOILS**](#sec-ER)
@@ -120,7 +120,7 @@ Other soils that have limestone or other calcareous material either in the form 
 Other soils that, in a subhorizon of the B [or BC]{.min} horizon at 60 cm from the mineral soil surface, or at the base of the B [or BC]{.min} if shallower, have
 
 1.  matrix colour value 4 or less and chroma 3 or more, *or*
-2.  5% (by volume) or more gravel that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
+2.  5% (by volume) or more [rock fragments]{.min} that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), *or*
 3.  an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
@@ -253,7 +253,7 @@ Mafic Melanic Soils occur in soil materials weathered from mafic and ultramafic 
 
 Mafic Melanic Soils that have, in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface, either
 
-1.  5% (by volume) or more gravel that consist mainly of ultramafic rocks, *or*
+1.  5% (by volume) or more [rock fragments]{.min} that consist mainly of ultramafic rocks, *or*
 2.  have an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}

@@ -116,7 +116,7 @@ Other Gley Soils in [tephric soil material](Diagnostics.qmd#sec-diag-teph) from 
 
 #### **GS** {#sec-key-GS}
 
-Other Gley Soils that have a sand or loamy sand texture, and less than 35% (by volume) gravel, in all horizons from the base of the A horizon to 60 cm from the mineral soil surface.
+Other Gley Soils that have a sand or loamy sand texture, and less than 35% (by volume) [rock fragments]{.min}, in all horizons from the base of the A horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 [**SANDY GLEY SOILS**](#sec-GS)
@@ -389,7 +389,7 @@ Other soils that have a B horizon which has in the major part, *both*
 
 #### **GAPH** {#sec-key-GAPH}
 
-Other soils that have both a [placic horizon](Diagnostics.qmd#sec-diag-plac) and a B horizon with 10% or more dark-coloured coats on ped faces, in pores or on gravel, with moist colour value 4 or less or colour value 5 and chroma 3.
+Other soils that have both a [placic horizon](Diagnostics.qmd#sec-diag-plac) and a B horizon with 10% or more dark-coloured coats on ped faces, in pores or on [rock fragments]{.min}, with moist colour value 4 or less or colour value 5 and chroma 3.
 
 ::: {style="text-align: right"}
 **Placic-humose Acid Gley Soils**
@@ -397,7 +397,7 @@ Other soils that have both a [placic horizon](Diagnostics.qmd#sec-diag-plac) and
 
 #### **GAH** {#sec-key-GAH}
 
-Other soils that have a B horizon with 10% or more dark-coloured coats on ped faces, in pores or on gravel, with moist colour value 4 or less or colour value 5 and chroma 3.
+Other soils that have a B horizon with 10% or more dark-coloured coats on ped faces, in pores or on [rock fragments]{.min}, with moist colour value 4 or less or colour value 5 and chroma 3.
 
 ::: {style="text-align: right"}
 **Humose Acid Gley Soils**

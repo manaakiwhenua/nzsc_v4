@@ -141,7 +141,7 @@ Orthic Oxidic Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-
 Other soils that have within 90 cm of the mineral soil surface, *either*
 
 1.  a clay decrease with depth of more than one-fifth of the clay percentage of the horizon with maximum clay, or
-2.  more than 5% weathered gravel, within 90 cm of the mineral soil surface.
+2.  more than 5% weathered [rock fragments]{.min}, within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Brown Orthic Oxidic Soils**
