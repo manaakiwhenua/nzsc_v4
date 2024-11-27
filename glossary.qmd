@@ -29,6 +29,7 @@ tbl_glossary <- gt(glossary) |>
   ) |>
   cols_width(term ~ pct(25)) |>
   cols_label_with(fn = ~ stringr::str_to_title(.)) |>
+  fmt_markdown(columns = 2) |>
   cols_align('left')
 
 tbl_glossary
