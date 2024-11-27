@@ -10,7 +10,6 @@ book:
   date: last-modified
   search: false
   repo-url: https://github.com/manaakiwhenua/nzsc_quarto
-  sharing: [twitter]
   chapters:
     - index.qmd
     - Foreword.qmd
