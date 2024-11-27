@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Melanic Soils {#sec-ord-E}
 
 ## Concept of the Order {#sec-con-E}
@@ -245,7 +246,7 @@ Other soils.
 
 ### **EM** - MAFIC MELANIC SOILS {#sec-EM}
 
-::: .min
+::: min
 Mafic Melanic Soils occur in soil materials weathered from mafic and ultramafic rocks or tuffs (but not tuffaceous greywacke). They have relatively high proportions of dark-coloured magnesium- and iron-rich silicate minerals.
 :::
 

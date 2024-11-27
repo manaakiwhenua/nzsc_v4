@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Raw Soils {#sec-ord-W}
 
 ## Concept of the Order {#sec-con-W}
@@ -71,7 +72,7 @@ table_W
 
 ## Key to Groups of Raw Soils {#sec-grp-W}
 
-::: .maj
+:::: maj
 #### **WW** {#sec-key-WW}
 
 Raw Soils with surface water present for a majority of the time.
@@ -79,8 +80,7 @@ Raw Soils with surface water present for a majority of the time.
 ::: {style="text-align: right"}
 [**HYDROTHERMAL RAW SOILS**](#sec-WH)
 :::
-
-:::
+::::
 
 #### **WG** {#sec-key-WG}
 
@@ -144,7 +144,7 @@ Other Raw Soils.
 
 ## Key to Subgroups of Raw Soils {#sec-sub-W}
 
-::: .maj
+::: maj
 ### **WW** - HYDRIC RAW SOILS {#sec-WW}
 
 Hydric Raw Soils have surface water present for a majority of the time. They are commonly parts of active riverbeds or other shore environments (coastal, lakes).
@@ -240,7 +240,7 @@ No subgroups have been defined.
 
 Sandy Raw Soils occur in areas of active sand erosion, transportation and deposition, most commonly as dune sands.
 
-::: .maj
+::::: maj
 #### **WST** {#sec-key-WST}
 
 Soils in tephric soil material from the soil surface to 30 cm depth or more.
@@ -256,8 +256,7 @@ Other soils.
 ::: {style="text-align: right"}
 **Typic Sandy Raw Soils**
 :::
-
-:::
+:::::
 
 ### **WF** - FLUVIAL RAW SOILS {#sec-WF}
 
