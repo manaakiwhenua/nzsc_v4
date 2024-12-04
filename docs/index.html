@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.33">
+<meta name="generator" content="quarto-1.6.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Alan. E. Hewitt">
-<meta name="dcterms.date" content="2024-11-10">
+<meta name="dcterms.date" content="2024-12-04">
 
 <title>New Zealand Soil Classification v4.0 (draft)</title>
 <style>
@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -34,12 +53,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-07ba0ad10f5680c660e360ac31d2f3b6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-8b864f0777c60eecff11d75b6b2e1175.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-29e2c20b02301cfff04dc8050bf30c7e.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-43df0d6f53b733b42d37fa7808e17715.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-98f67bc07761c90b1382d524a234aef8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-9137934244593eb888cba04d69b0d93e.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-273e46d7b3848a679358d7b360117b95.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-151fe591500da9297191637ff7c0b9c6.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -82,9 +101,8 @@ ul.task-list li input[type="checkbox"] {
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
       <a href="./">New Zealand Soil Classification v4.0 (draft)</a> 
-        <div class="sidebar-tools-main tools-wide">
+        <div class="sidebar-tools-main">
     <a href="https://github.com/manaakiwhenua/nzsc_quarto" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
-    <a href="https://twitter.com/intent/tweet?url=|url|" title="Twitter" class="quarto-navigation-tool px-1" aria-label="Twitter"><i class="bi bi-twitter"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
@@ -253,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">November 10, 2024</p>
+      <p class="date">December 4, 2024</p>
     </div>
   </div>
   
@@ -276,15 +294,17 @@ ul.task-list li input[type="checkbox"] {
 <p><em>© Landcare Research New Zealand Ltd 2024</em></p>
 <hr>
 <p>Welcome!</p>
-<p>This is the draft 4th edition of the New Zealand Soil Classification (NZSC).</p>
+<p>This is the draft 4th edition of the New Zealand Soil Classification (NZSC). 🚧 The draft is under review from 5<sup>th</sup> December 2024 to 30<sup>th</sup> April 2025 🚧. Feedback can be provided via the <a href="https://github.com/manaakiwhenua/nzsc_v4">Github Repository</a>, or email at <a href="mailto:SoilStandards@landcareresearch.co.nz">SoilStandards@landcareresearch.co.nz</a>. A Word-format version of the draft is also <a href="https://soils.landcareresearch.co.nz/assets/Soil-classification/NZSC-4th-edition-MASTER_web.docx">available here</a> (DOCX, 1.6 MB), for those more comfortable reviewing in that environment.</p>
 <p>Introductory information about the NZSC is available at <a href="https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/">The New Zealand Soils Portal</a>.</p>
-<p>The third edition of the NZSC (Hewitt, 2010) should be treated as current, and can be downloaded from the <a href="http://doi.org/10.7931/DL1-LRSS-1-2010">Manaaki Whenua Digital Library</a>.</p>
-<hr>
-<p>To raise an issue about the book’s content (e.g.&nbsp;code not running) or make a feature request, please use the <a href="https://github.com/manaakiwhenua/nzsc_quarto/issues">issue tracker</a>.</p>
-<hr>
+<p>The third edition of the NZSC <span class="citation" data-cites="hewitt2010">(<a href="references.html#ref-hewitt2010" role="doc-biblioref">Hewitt 2010</a>)</span> should be treated as current until this review is finalised, and can be downloaded from the <a href="http://doi.org/10.7931/DL1-LRSS-1-2010">Manaaki Whenua Digital Library</a>.</p>
 <div style="page-break-after: always;"></div>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list" style="display: none">
+<div id="ref-hewitt2010" class="csl-entry" role="listitem">
+Hewitt AE 2010. New zealand soil classification (v. 3.0). [Internet]. 3rd ed. Wellington, New Zealand: Manaaki Whenua Press. <a href="https://doi.org/10.7931/DL1-LRSS-1-2010">https://doi.org/10.7931/DL1-LRSS-1-2010</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -514,8 +534,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -626,7 +644,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
