@@ -25,9 +25,13 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <link href="./Pallics.html" rel="next">
 <link href="./Organics.html" rel="prev">
-<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,6 +44,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-273e46d7b3848a679358d7b360117b95.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-151fe591500da9297191637ff7c0b9c6.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -71,6 +87,9 @@ ul.task-list li input[type="checkbox"] {
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Oxidics.html"><span class="chapter-title">Oxidic Soils</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
   </nav>
 </header>
@@ -82,11 +101,16 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">New Zealand Soil Classification v4.0 (draft)</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/manaakiwhenua/nzsc_quarto" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/manaakiwhenua/nzsc_v4" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -299,23 +323,23 @@ Table&nbsp;13.1: Oxidic Soils
 </figcaption>
 <div aria-describedby="tbl-O-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output-display">
-<div id="epvemixucc" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#epvemixucc table {
+<div id="iklcndedwz" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#iklcndedwz table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#epvemixucc thead, #epvemixucc tbody, #epvemixucc tfoot, #epvemixucc tr, #epvemixucc td, #epvemixucc th {
+#iklcndedwz thead, #iklcndedwz tbody, #iklcndedwz tfoot, #iklcndedwz tr, #iklcndedwz td, #iklcndedwz th {
   border-style: none;
 }
 
-#epvemixucc p {
+#iklcndedwz p {
   margin: 0;
   padding: 0;
 }
 
-#epvemixucc .gt_table {
+#iklcndedwz .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -341,12 +365,12 @@ Table&nbsp;13.1: Oxidic Soils
   border-left-color: #D3D3D3;
 }
 
-#epvemixucc .gt_caption {
+#iklcndedwz .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#epvemixucc .gt_title {
+#iklcndedwz .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: bold;
@@ -358,7 +382,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-bottom-width: 0;
 }
 
-#epvemixucc .gt_subtitle {
+#iklcndedwz .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -370,7 +394,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-top-width: 0;
 }
 
-#epvemixucc .gt_heading {
+#iklcndedwz .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -382,13 +406,13 @@ Table&nbsp;13.1: Oxidic Soils
   border-right-color: #D3D3D3;
 }
 
-#epvemixucc .gt_bottom_border {
+#iklcndedwz .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#epvemixucc .gt_col_headings {
+#iklcndedwz .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -403,7 +427,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-right-color: #D3D3D3;
 }
 
-#epvemixucc .gt_col_heading {
+#iklcndedwz .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -423,7 +447,7 @@ Table&nbsp;13.1: Oxidic Soils
   overflow-x: hidden;
 }
 
-#epvemixucc .gt_column_spanner_outer {
+#iklcndedwz .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -435,15 +459,15 @@ Table&nbsp;13.1: Oxidic Soils
   padding-right: 4px;
 }
 
-#epvemixucc .gt_column_spanner_outer:first-child {
+#iklcndedwz .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#epvemixucc .gt_column_spanner_outer:last-child {
+#iklcndedwz .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#epvemixucc .gt_column_spanner {
+#iklcndedwz .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -455,11 +479,11 @@ Table&nbsp;13.1: Oxidic Soils
   width: 100%;
 }
 
-#epvemixucc .gt_spanner_row {
+#iklcndedwz .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#epvemixucc .gt_group_heading {
+#iklcndedwz .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -485,7 +509,7 @@ Table&nbsp;13.1: Oxidic Soils
   text-align: left;
 }
 
-#epvemixucc .gt_empty_group_heading {
+#iklcndedwz .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -500,15 +524,15 @@ Table&nbsp;13.1: Oxidic Soils
   vertical-align: middle;
 }
 
-#epvemixucc .gt_from_md > :first-child {
+#iklcndedwz .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#epvemixucc .gt_from_md > :last-child {
+#iklcndedwz .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#epvemixucc .gt_row {
+#iklcndedwz .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -527,7 +551,7 @@ Table&nbsp;13.1: Oxidic Soils
   overflow-x: hidden;
 }
 
-#epvemixucc .gt_stub {
+#iklcndedwz .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -540,7 +564,7 @@ Table&nbsp;13.1: Oxidic Soils
   padding-right: 5px;
 }
 
-#epvemixucc .gt_stub_row_group {
+#iklcndedwz .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -554,15 +578,15 @@ Table&nbsp;13.1: Oxidic Soils
   vertical-align: top;
 }
 
-#epvemixucc .gt_row_group_first td {
+#iklcndedwz .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#epvemixucc .gt_row_group_first th {
+#iklcndedwz .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#epvemixucc .gt_summary_row {
+#iklcndedwz .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -572,16 +596,16 @@ Table&nbsp;13.1: Oxidic Soils
   padding-right: 5px;
 }
 
-#epvemixucc .gt_first_summary_row {
+#iklcndedwz .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#epvemixucc .gt_first_summary_row.thick {
+#iklcndedwz .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#epvemixucc .gt_last_summary_row {
+#iklcndedwz .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -591,7 +615,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-bottom-color: #D3D3D3;
 }
 
-#epvemixucc .gt_grand_summary_row {
+#iklcndedwz .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -601,7 +625,7 @@ Table&nbsp;13.1: Oxidic Soils
   padding-right: 5px;
 }
 
-#epvemixucc .gt_first_grand_summary_row {
+#iklcndedwz .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -611,7 +635,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-top-color: #D3D3D3;
 }
 
-#epvemixucc .gt_last_grand_summary_row_top {
+#iklcndedwz .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -621,11 +645,11 @@ Table&nbsp;13.1: Oxidic Soils
   border-bottom-color: #D3D3D3;
 }
 
-#epvemixucc .gt_striped {
+#iklcndedwz .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#epvemixucc .gt_table_body {
+#iklcndedwz .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -634,7 +658,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-bottom-color: #D3D3D3;
 }
 
-#epvemixucc .gt_footnotes {
+#iklcndedwz .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -648,7 +672,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-right-color: #D3D3D3;
 }
 
-#epvemixucc .gt_footnote {
+#iklcndedwz .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -657,7 +681,7 @@ Table&nbsp;13.1: Oxidic Soils
   padding-right: 5px;
 }
 
-#epvemixucc .gt_sourcenotes {
+#iklcndedwz .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -671,7 +695,7 @@ Table&nbsp;13.1: Oxidic Soils
   border-right-color: #D3D3D3;
 }
 
-#epvemixucc .gt_sourcenote {
+#iklcndedwz .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -679,72 +703,72 @@ Table&nbsp;13.1: Oxidic Soils
   padding-right: 5px;
 }
 
-#epvemixucc .gt_left {
+#iklcndedwz .gt_left {
   text-align: left;
 }
 
-#epvemixucc .gt_center {
+#iklcndedwz .gt_center {
   text-align: center;
 }
 
-#epvemixucc .gt_right {
+#iklcndedwz .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#epvemixucc .gt_font_normal {
+#iklcndedwz .gt_font_normal {
   font-weight: normal;
 }
 
-#epvemixucc .gt_font_bold {
+#iklcndedwz .gt_font_bold {
   font-weight: bold;
 }
 
-#epvemixucc .gt_font_italic {
+#iklcndedwz .gt_font_italic {
   font-style: italic;
 }
 
-#epvemixucc .gt_super {
+#iklcndedwz .gt_super {
   font-size: 65%;
 }
 
-#epvemixucc .gt_footnote_marks {
+#iklcndedwz .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#epvemixucc .gt_asterisk {
+#iklcndedwz .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#epvemixucc .gt_indent_1 {
+#iklcndedwz .gt_indent_1 {
   text-indent: 5px;
 }
 
-#epvemixucc .gt_indent_2 {
+#iklcndedwz .gt_indent_2 {
   text-indent: 10px;
 }
 
-#epvemixucc .gt_indent_3 {
+#iklcndedwz .gt_indent_3 {
   text-indent: 15px;
 }
 
-#epvemixucc .gt_indent_4 {
+#iklcndedwz .gt_indent_4 {
   text-indent: 20px;
 }
 
-#epvemixucc .gt_indent_5 {
+#iklcndedwz .gt_indent_5 {
   text-indent: 25px;
 }
 
-#epvemixucc .katex-display {
+#iklcndedwz .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#epvemixucc div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#iklcndedwz div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>

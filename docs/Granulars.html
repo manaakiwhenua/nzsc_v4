@@ -25,9 +25,13 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <link href="./Melanics.html" rel="next">
 <link href="./Gleys.html" rel="prev">
-<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,6 +44,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-273e46d7b3848a679358d7b360117b95.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-151fe591500da9297191637ff7c0b9c6.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -71,6 +87,9 @@ ul.task-list li input[type="checkbox"] {
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Granulars.html"><span class="chapter-title">Granular Soils</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
   </nav>
 </header>
@@ -82,11 +101,16 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">New Zealand Soil Classification v4.0 (draft)</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/manaakiwhenua/nzsc_quarto" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/manaakiwhenua/nzsc_v4" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -299,23 +323,23 @@ Table&nbsp;10.1: Granular Soils
 </figcaption>
 <div aria-describedby="tbl-N-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output-display">
-<div id="yhctuiwzgn" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#yhctuiwzgn table {
+<div id="bvwpsztjyo" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#bvwpsztjyo table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#yhctuiwzgn thead, #yhctuiwzgn tbody, #yhctuiwzgn tfoot, #yhctuiwzgn tr, #yhctuiwzgn td, #yhctuiwzgn th {
+#bvwpsztjyo thead, #bvwpsztjyo tbody, #bvwpsztjyo tfoot, #bvwpsztjyo tr, #bvwpsztjyo td, #bvwpsztjyo th {
   border-style: none;
 }
 
-#yhctuiwzgn p {
+#bvwpsztjyo p {
   margin: 0;
   padding: 0;
 }
 
-#yhctuiwzgn .gt_table {
+#bvwpsztjyo .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -341,12 +365,12 @@ Table&nbsp;10.1: Granular Soils
   border-left-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_caption {
+#bvwpsztjyo .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#yhctuiwzgn .gt_title {
+#bvwpsztjyo .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: bold;
@@ -358,7 +382,7 @@ Table&nbsp;10.1: Granular Soils
   border-bottom-width: 0;
 }
 
-#yhctuiwzgn .gt_subtitle {
+#bvwpsztjyo .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -370,7 +394,7 @@ Table&nbsp;10.1: Granular Soils
   border-top-width: 0;
 }
 
-#yhctuiwzgn .gt_heading {
+#bvwpsztjyo .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -382,13 +406,13 @@ Table&nbsp;10.1: Granular Soils
   border-right-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_bottom_border {
+#bvwpsztjyo .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_col_headings {
+#bvwpsztjyo .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -403,7 +427,7 @@ Table&nbsp;10.1: Granular Soils
   border-right-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_col_heading {
+#bvwpsztjyo .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -423,7 +447,7 @@ Table&nbsp;10.1: Granular Soils
   overflow-x: hidden;
 }
 
-#yhctuiwzgn .gt_column_spanner_outer {
+#bvwpsztjyo .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -435,15 +459,15 @@ Table&nbsp;10.1: Granular Soils
   padding-right: 4px;
 }
 
-#yhctuiwzgn .gt_column_spanner_outer:first-child {
+#bvwpsztjyo .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#yhctuiwzgn .gt_column_spanner_outer:last-child {
+#bvwpsztjyo .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#yhctuiwzgn .gt_column_spanner {
+#bvwpsztjyo .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -455,11 +479,11 @@ Table&nbsp;10.1: Granular Soils
   width: 100%;
 }
 
-#yhctuiwzgn .gt_spanner_row {
+#bvwpsztjyo .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#yhctuiwzgn .gt_group_heading {
+#bvwpsztjyo .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -485,7 +509,7 @@ Table&nbsp;10.1: Granular Soils
   text-align: left;
 }
 
-#yhctuiwzgn .gt_empty_group_heading {
+#bvwpsztjyo .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -500,15 +524,15 @@ Table&nbsp;10.1: Granular Soils
   vertical-align: middle;
 }
 
-#yhctuiwzgn .gt_from_md > :first-child {
+#bvwpsztjyo .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#yhctuiwzgn .gt_from_md > :last-child {
+#bvwpsztjyo .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#yhctuiwzgn .gt_row {
+#bvwpsztjyo .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -527,7 +551,7 @@ Table&nbsp;10.1: Granular Soils
   overflow-x: hidden;
 }
 
-#yhctuiwzgn .gt_stub {
+#bvwpsztjyo .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -540,7 +564,7 @@ Table&nbsp;10.1: Granular Soils
   padding-right: 5px;
 }
 
-#yhctuiwzgn .gt_stub_row_group {
+#bvwpsztjyo .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -554,15 +578,15 @@ Table&nbsp;10.1: Granular Soils
   vertical-align: top;
 }
 
-#yhctuiwzgn .gt_row_group_first td {
+#bvwpsztjyo .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#yhctuiwzgn .gt_row_group_first th {
+#bvwpsztjyo .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#yhctuiwzgn .gt_summary_row {
+#bvwpsztjyo .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -572,16 +596,16 @@ Table&nbsp;10.1: Granular Soils
   padding-right: 5px;
 }
 
-#yhctuiwzgn .gt_first_summary_row {
+#bvwpsztjyo .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_first_summary_row.thick {
+#bvwpsztjyo .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#yhctuiwzgn .gt_last_summary_row {
+#bvwpsztjyo .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -591,7 +615,7 @@ Table&nbsp;10.1: Granular Soils
   border-bottom-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_grand_summary_row {
+#bvwpsztjyo .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -601,7 +625,7 @@ Table&nbsp;10.1: Granular Soils
   padding-right: 5px;
 }
 
-#yhctuiwzgn .gt_first_grand_summary_row {
+#bvwpsztjyo .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -611,7 +635,7 @@ Table&nbsp;10.1: Granular Soils
   border-top-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_last_grand_summary_row_top {
+#bvwpsztjyo .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -621,11 +645,11 @@ Table&nbsp;10.1: Granular Soils
   border-bottom-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_striped {
+#bvwpsztjyo .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#yhctuiwzgn .gt_table_body {
+#bvwpsztjyo .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -634,7 +658,7 @@ Table&nbsp;10.1: Granular Soils
   border-bottom-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_footnotes {
+#bvwpsztjyo .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -648,7 +672,7 @@ Table&nbsp;10.1: Granular Soils
   border-right-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_footnote {
+#bvwpsztjyo .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -657,7 +681,7 @@ Table&nbsp;10.1: Granular Soils
   padding-right: 5px;
 }
 
-#yhctuiwzgn .gt_sourcenotes {
+#bvwpsztjyo .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -671,7 +695,7 @@ Table&nbsp;10.1: Granular Soils
   border-right-color: #D3D3D3;
 }
 
-#yhctuiwzgn .gt_sourcenote {
+#bvwpsztjyo .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -679,72 +703,72 @@ Table&nbsp;10.1: Granular Soils
   padding-right: 5px;
 }
 
-#yhctuiwzgn .gt_left {
+#bvwpsztjyo .gt_left {
   text-align: left;
 }
 
-#yhctuiwzgn .gt_center {
+#bvwpsztjyo .gt_center {
   text-align: center;
 }
 
-#yhctuiwzgn .gt_right {
+#bvwpsztjyo .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#yhctuiwzgn .gt_font_normal {
+#bvwpsztjyo .gt_font_normal {
   font-weight: normal;
 }
 
-#yhctuiwzgn .gt_font_bold {
+#bvwpsztjyo .gt_font_bold {
   font-weight: bold;
 }
 
-#yhctuiwzgn .gt_font_italic {
+#bvwpsztjyo .gt_font_italic {
   font-style: italic;
 }
 
-#yhctuiwzgn .gt_super {
+#bvwpsztjyo .gt_super {
   font-size: 65%;
 }
 
-#yhctuiwzgn .gt_footnote_marks {
+#bvwpsztjyo .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#yhctuiwzgn .gt_asterisk {
+#bvwpsztjyo .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#yhctuiwzgn .gt_indent_1 {
+#bvwpsztjyo .gt_indent_1 {
   text-indent: 5px;
 }
 
-#yhctuiwzgn .gt_indent_2 {
+#bvwpsztjyo .gt_indent_2 {
   text-indent: 10px;
 }
 
-#yhctuiwzgn .gt_indent_3 {
+#bvwpsztjyo .gt_indent_3 {
   text-indent: 15px;
 }
 
-#yhctuiwzgn .gt_indent_4 {
+#bvwpsztjyo .gt_indent_4 {
   text-indent: 20px;
 }
 
-#yhctuiwzgn .gt_indent_5 {
+#bvwpsztjyo .gt_indent_5 {
   text-indent: 25px;
 }
 
-#yhctuiwzgn .katex-display {
+#bvwpsztjyo .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#yhctuiwzgn div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#bvwpsztjyo div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>

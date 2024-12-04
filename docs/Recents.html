@@ -25,9 +25,13 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <link href="./Semiarids.html" rel="next">
 <link href="./Raws.html" rel="prev">
-<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,6 +44,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-273e46d7b3848a679358d7b360117b95.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-151fe591500da9297191637ff7c0b9c6.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -71,6 +87,9 @@ ul.task-list li input[type="checkbox"] {
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Recents.html"><span class="chapter-title">Recent Soils</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
   </nav>
 </header>
@@ -82,11 +101,16 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">New Zealand Soil Classification v4.0 (draft)</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/manaakiwhenua/nzsc_quarto" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/manaakiwhenua/nzsc_v4" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -301,23 +325,23 @@ Table&nbsp;18.1: Recent Soils
 </figcaption>
 <div aria-describedby="tbl-R-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output-display">
-<div id="kxdlopqkej" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#kxdlopqkej table {
+<div id="dokkdeqhuk" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#dokkdeqhuk table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#kxdlopqkej thead, #kxdlopqkej tbody, #kxdlopqkej tfoot, #kxdlopqkej tr, #kxdlopqkej td, #kxdlopqkej th {
+#dokkdeqhuk thead, #dokkdeqhuk tbody, #dokkdeqhuk tfoot, #dokkdeqhuk tr, #dokkdeqhuk td, #dokkdeqhuk th {
   border-style: none;
 }
 
-#kxdlopqkej p {
+#dokkdeqhuk p {
   margin: 0;
   padding: 0;
 }
 
-#kxdlopqkej .gt_table {
+#dokkdeqhuk .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -343,12 +367,12 @@ Table&nbsp;18.1: Recent Soils
   border-left-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_caption {
+#dokkdeqhuk .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#kxdlopqkej .gt_title {
+#dokkdeqhuk .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: bold;
@@ -360,7 +384,7 @@ Table&nbsp;18.1: Recent Soils
   border-bottom-width: 0;
 }
 
-#kxdlopqkej .gt_subtitle {
+#dokkdeqhuk .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -372,7 +396,7 @@ Table&nbsp;18.1: Recent Soils
   border-top-width: 0;
 }
 
-#kxdlopqkej .gt_heading {
+#dokkdeqhuk .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -384,13 +408,13 @@ Table&nbsp;18.1: Recent Soils
   border-right-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_bottom_border {
+#dokkdeqhuk .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_col_headings {
+#dokkdeqhuk .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -405,7 +429,7 @@ Table&nbsp;18.1: Recent Soils
   border-right-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_col_heading {
+#dokkdeqhuk .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -425,7 +449,7 @@ Table&nbsp;18.1: Recent Soils
   overflow-x: hidden;
 }
 
-#kxdlopqkej .gt_column_spanner_outer {
+#dokkdeqhuk .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -437,15 +461,15 @@ Table&nbsp;18.1: Recent Soils
   padding-right: 4px;
 }
 
-#kxdlopqkej .gt_column_spanner_outer:first-child {
+#dokkdeqhuk .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#kxdlopqkej .gt_column_spanner_outer:last-child {
+#dokkdeqhuk .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#kxdlopqkej .gt_column_spanner {
+#dokkdeqhuk .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -457,11 +481,11 @@ Table&nbsp;18.1: Recent Soils
   width: 100%;
 }
 
-#kxdlopqkej .gt_spanner_row {
+#dokkdeqhuk .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#kxdlopqkej .gt_group_heading {
+#dokkdeqhuk .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -487,7 +511,7 @@ Table&nbsp;18.1: Recent Soils
   text-align: left;
 }
 
-#kxdlopqkej .gt_empty_group_heading {
+#dokkdeqhuk .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -502,15 +526,15 @@ Table&nbsp;18.1: Recent Soils
   vertical-align: middle;
 }
 
-#kxdlopqkej .gt_from_md > :first-child {
+#dokkdeqhuk .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#kxdlopqkej .gt_from_md > :last-child {
+#dokkdeqhuk .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#kxdlopqkej .gt_row {
+#dokkdeqhuk .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -529,7 +553,7 @@ Table&nbsp;18.1: Recent Soils
   overflow-x: hidden;
 }
 
-#kxdlopqkej .gt_stub {
+#dokkdeqhuk .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -542,7 +566,7 @@ Table&nbsp;18.1: Recent Soils
   padding-right: 5px;
 }
 
-#kxdlopqkej .gt_stub_row_group {
+#dokkdeqhuk .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -556,15 +580,15 @@ Table&nbsp;18.1: Recent Soils
   vertical-align: top;
 }
 
-#kxdlopqkej .gt_row_group_first td {
+#dokkdeqhuk .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#kxdlopqkej .gt_row_group_first th {
+#dokkdeqhuk .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#kxdlopqkej .gt_summary_row {
+#dokkdeqhuk .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -574,16 +598,16 @@ Table&nbsp;18.1: Recent Soils
   padding-right: 5px;
 }
 
-#kxdlopqkej .gt_first_summary_row {
+#dokkdeqhuk .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_first_summary_row.thick {
+#dokkdeqhuk .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#kxdlopqkej .gt_last_summary_row {
+#dokkdeqhuk .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -593,7 +617,7 @@ Table&nbsp;18.1: Recent Soils
   border-bottom-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_grand_summary_row {
+#dokkdeqhuk .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -603,7 +627,7 @@ Table&nbsp;18.1: Recent Soils
   padding-right: 5px;
 }
 
-#kxdlopqkej .gt_first_grand_summary_row {
+#dokkdeqhuk .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -613,7 +637,7 @@ Table&nbsp;18.1: Recent Soils
   border-top-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_last_grand_summary_row_top {
+#dokkdeqhuk .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -623,11 +647,11 @@ Table&nbsp;18.1: Recent Soils
   border-bottom-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_striped {
+#dokkdeqhuk .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#kxdlopqkej .gt_table_body {
+#dokkdeqhuk .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -636,7 +660,7 @@ Table&nbsp;18.1: Recent Soils
   border-bottom-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_footnotes {
+#dokkdeqhuk .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -650,7 +674,7 @@ Table&nbsp;18.1: Recent Soils
   border-right-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_footnote {
+#dokkdeqhuk .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -659,7 +683,7 @@ Table&nbsp;18.1: Recent Soils
   padding-right: 5px;
 }
 
-#kxdlopqkej .gt_sourcenotes {
+#dokkdeqhuk .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -673,7 +697,7 @@ Table&nbsp;18.1: Recent Soils
   border-right-color: #D3D3D3;
 }
 
-#kxdlopqkej .gt_sourcenote {
+#dokkdeqhuk .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -681,72 +705,72 @@ Table&nbsp;18.1: Recent Soils
   padding-right: 5px;
 }
 
-#kxdlopqkej .gt_left {
+#dokkdeqhuk .gt_left {
   text-align: left;
 }
 
-#kxdlopqkej .gt_center {
+#dokkdeqhuk .gt_center {
   text-align: center;
 }
 
-#kxdlopqkej .gt_right {
+#dokkdeqhuk .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#kxdlopqkej .gt_font_normal {
+#dokkdeqhuk .gt_font_normal {
   font-weight: normal;
 }
 
-#kxdlopqkej .gt_font_bold {
+#dokkdeqhuk .gt_font_bold {
   font-weight: bold;
 }
 
-#kxdlopqkej .gt_font_italic {
+#dokkdeqhuk .gt_font_italic {
   font-style: italic;
 }
 
-#kxdlopqkej .gt_super {
+#dokkdeqhuk .gt_super {
   font-size: 65%;
 }
 
-#kxdlopqkej .gt_footnote_marks {
+#dokkdeqhuk .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#kxdlopqkej .gt_asterisk {
+#dokkdeqhuk .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#kxdlopqkej .gt_indent_1 {
+#dokkdeqhuk .gt_indent_1 {
   text-indent: 5px;
 }
 
-#kxdlopqkej .gt_indent_2 {
+#dokkdeqhuk .gt_indent_2 {
   text-indent: 10px;
 }
 
-#kxdlopqkej .gt_indent_3 {
+#dokkdeqhuk .gt_indent_3 {
   text-indent: 15px;
 }
 
-#kxdlopqkej .gt_indent_4 {
+#dokkdeqhuk .gt_indent_4 {
   text-indent: 20px;
 }
 
-#kxdlopqkej .gt_indent_5 {
+#dokkdeqhuk .gt_indent_5 {
   text-indent: 25px;
 }
 
-#kxdlopqkej .katex-display {
+#dokkdeqhuk .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#kxdlopqkej div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#dokkdeqhuk div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>

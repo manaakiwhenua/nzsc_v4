@@ -8,8 +8,8 @@ book:
   title: "New Zealand Soil Classification v4.0 (draft)"
   author: "Alan. E. Hewitt"
   date: last-modified
-  search: false
-  repo-url: https://github.com/manaakiwhenua/nzsc_quarto
+  search: true
+  repo-url: https://github.com/manaakiwhenua/nzsc_v4
   chapters:
     - index.qmd
     - Foreword.qmd

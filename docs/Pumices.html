@@ -25,9 +25,13 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
 <link href="./Raws.html" rel="next">
 <link href="./Podzols.html" rel="prev">
-<script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,6 +44,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-273e46d7b3848a679358d7b360117b95.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/bootstrap/bootstrap-dark-151fe591500da9297191637ff7c0b9c6.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -71,6 +87,9 @@ ul.task-list li input[type="checkbox"] {
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Pumices.html"><span class="chapter-title">Pumice Soils</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
   </nav>
 </header>
@@ -82,11 +101,16 @@ ul.task-list li input[type="checkbox"] {
     <div class="sidebar-title mb-0 py-0">
       <a href="./">New Zealand Soil Classification v4.0 (draft)</a> 
         <div class="sidebar-tools-main">
-    <a href="https://github.com/manaakiwhenua/nzsc_quarto" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://github.com/manaakiwhenua/nzsc_v4" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
     </div>
       </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
     <div class="sidebar-menu-container"> 
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
@@ -301,23 +325,23 @@ Table&nbsp;16.1: Pumice Soils
 </figcaption>
 <div aria-describedby="tbl-M-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <div class="cell-output-display">
-<div id="xojqntcwft" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#xojqntcwft table {
+<div id="cynfedejtx" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#cynfedejtx table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#xojqntcwft thead, #xojqntcwft tbody, #xojqntcwft tfoot, #xojqntcwft tr, #xojqntcwft td, #xojqntcwft th {
+#cynfedejtx thead, #cynfedejtx tbody, #cynfedejtx tfoot, #cynfedejtx tr, #cynfedejtx td, #cynfedejtx th {
   border-style: none;
 }
 
-#xojqntcwft p {
+#cynfedejtx p {
   margin: 0;
   padding: 0;
 }
 
-#xojqntcwft .gt_table {
+#cynfedejtx .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -343,12 +367,12 @@ Table&nbsp;16.1: Pumice Soils
   border-left-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_caption {
+#cynfedejtx .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#xojqntcwft .gt_title {
+#cynfedejtx .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: bold;
@@ -360,7 +384,7 @@ Table&nbsp;16.1: Pumice Soils
   border-bottom-width: 0;
 }
 
-#xojqntcwft .gt_subtitle {
+#cynfedejtx .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -372,7 +396,7 @@ Table&nbsp;16.1: Pumice Soils
   border-top-width: 0;
 }
 
-#xojqntcwft .gt_heading {
+#cynfedejtx .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -384,13 +408,13 @@ Table&nbsp;16.1: Pumice Soils
   border-right-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_bottom_border {
+#cynfedejtx .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_col_headings {
+#cynfedejtx .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -405,7 +429,7 @@ Table&nbsp;16.1: Pumice Soils
   border-right-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_col_heading {
+#cynfedejtx .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -425,7 +449,7 @@ Table&nbsp;16.1: Pumice Soils
   overflow-x: hidden;
 }
 
-#xojqntcwft .gt_column_spanner_outer {
+#cynfedejtx .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -437,15 +461,15 @@ Table&nbsp;16.1: Pumice Soils
   padding-right: 4px;
 }
 
-#xojqntcwft .gt_column_spanner_outer:first-child {
+#cynfedejtx .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xojqntcwft .gt_column_spanner_outer:last-child {
+#cynfedejtx .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xojqntcwft .gt_column_spanner {
+#cynfedejtx .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -457,11 +481,11 @@ Table&nbsp;16.1: Pumice Soils
   width: 100%;
 }
 
-#xojqntcwft .gt_spanner_row {
+#cynfedejtx .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#xojqntcwft .gt_group_heading {
+#cynfedejtx .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -487,7 +511,7 @@ Table&nbsp;16.1: Pumice Soils
   text-align: left;
 }
 
-#xojqntcwft .gt_empty_group_heading {
+#cynfedejtx .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -502,15 +526,15 @@ Table&nbsp;16.1: Pumice Soils
   vertical-align: middle;
 }
 
-#xojqntcwft .gt_from_md > :first-child {
+#cynfedejtx .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xojqntcwft .gt_from_md > :last-child {
+#cynfedejtx .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xojqntcwft .gt_row {
+#cynfedejtx .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -529,7 +553,7 @@ Table&nbsp;16.1: Pumice Soils
   overflow-x: hidden;
 }
 
-#xojqntcwft .gt_stub {
+#cynfedejtx .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -542,7 +566,7 @@ Table&nbsp;16.1: Pumice Soils
   padding-right: 5px;
 }
 
-#xojqntcwft .gt_stub_row_group {
+#cynfedejtx .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -556,15 +580,15 @@ Table&nbsp;16.1: Pumice Soils
   vertical-align: top;
 }
 
-#xojqntcwft .gt_row_group_first td {
+#cynfedejtx .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#xojqntcwft .gt_row_group_first th {
+#cynfedejtx .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#xojqntcwft .gt_summary_row {
+#cynfedejtx .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -574,16 +598,16 @@ Table&nbsp;16.1: Pumice Soils
   padding-right: 5px;
 }
 
-#xojqntcwft .gt_first_summary_row {
+#cynfedejtx .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_first_summary_row.thick {
+#cynfedejtx .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#xojqntcwft .gt_last_summary_row {
+#cynfedejtx .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -593,7 +617,7 @@ Table&nbsp;16.1: Pumice Soils
   border-bottom-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_grand_summary_row {
+#cynfedejtx .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -603,7 +627,7 @@ Table&nbsp;16.1: Pumice Soils
   padding-right: 5px;
 }
 
-#xojqntcwft .gt_first_grand_summary_row {
+#cynfedejtx .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -613,7 +637,7 @@ Table&nbsp;16.1: Pumice Soils
   border-top-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_last_grand_summary_row_top {
+#cynfedejtx .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -623,11 +647,11 @@ Table&nbsp;16.1: Pumice Soils
   border-bottom-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_striped {
+#cynfedejtx .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xojqntcwft .gt_table_body {
+#cynfedejtx .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -636,7 +660,7 @@ Table&nbsp;16.1: Pumice Soils
   border-bottom-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_footnotes {
+#cynfedejtx .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -650,7 +674,7 @@ Table&nbsp;16.1: Pumice Soils
   border-right-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_footnote {
+#cynfedejtx .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -659,7 +683,7 @@ Table&nbsp;16.1: Pumice Soils
   padding-right: 5px;
 }
 
-#xojqntcwft .gt_sourcenotes {
+#cynfedejtx .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -673,7 +697,7 @@ Table&nbsp;16.1: Pumice Soils
   border-right-color: #D3D3D3;
 }
 
-#xojqntcwft .gt_sourcenote {
+#cynfedejtx .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -681,72 +705,72 @@ Table&nbsp;16.1: Pumice Soils
   padding-right: 5px;
 }
 
-#xojqntcwft .gt_left {
+#cynfedejtx .gt_left {
   text-align: left;
 }
 
-#xojqntcwft .gt_center {
+#cynfedejtx .gt_center {
   text-align: center;
 }
 
-#xojqntcwft .gt_right {
+#cynfedejtx .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xojqntcwft .gt_font_normal {
+#cynfedejtx .gt_font_normal {
   font-weight: normal;
 }
 
-#xojqntcwft .gt_font_bold {
+#cynfedejtx .gt_font_bold {
   font-weight: bold;
 }
 
-#xojqntcwft .gt_font_italic {
+#cynfedejtx .gt_font_italic {
   font-style: italic;
 }
 
-#xojqntcwft .gt_super {
+#cynfedejtx .gt_super {
   font-size: 65%;
 }
 
-#xojqntcwft .gt_footnote_marks {
+#cynfedejtx .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#xojqntcwft .gt_asterisk {
+#cynfedejtx .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#xojqntcwft .gt_indent_1 {
+#cynfedejtx .gt_indent_1 {
   text-indent: 5px;
 }
 
-#xojqntcwft .gt_indent_2 {
+#cynfedejtx .gt_indent_2 {
   text-indent: 10px;
 }
 
-#xojqntcwft .gt_indent_3 {
+#cynfedejtx .gt_indent_3 {
   text-indent: 15px;
 }
 
-#xojqntcwft .gt_indent_4 {
+#cynfedejtx .gt_indent_4 {
   text-indent: 20px;
 }
 
-#xojqntcwft .gt_indent_5 {
+#cynfedejtx .gt_indent_5 {
   text-indent: 25px;
 }
 
-#xojqntcwft .katex-display {
+#cynfedejtx .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#xojqntcwft div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#cynfedejtx div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
