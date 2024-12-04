@@ -5,6 +5,8 @@ editor_options:
   chunk_output_type: console
 ---
 
+A unified New Zealand soil terminology glossary is currently under construction and will also be made available for review.
+
 ```{r}
 library(dplyr)
 library(readxl)
@@ -14,6 +16,7 @@ library(gtExtras)
 ```
 
 ```{r}
+#| eval: false
 #| classes: [plain, hover]
 
 glossary <- read_xlsx(file.path('data', 'NZSC-Glossary.xlsx'), 
