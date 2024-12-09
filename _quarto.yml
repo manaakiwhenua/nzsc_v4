@@ -8,7 +8,15 @@ book:
   title: "New Zealand Soil Classification v4.0 (draft)"
   author: "Alan. E. Hewitt"
   date: last-modified
+  language: en
+  page-navigation: true
+  back-to-top-navigation: true
+  publisher: "Manaaki Whenua Landcare Research"
+  publisher-place: "Palmerston North, New Zealand"
+  reader-mode: true
   search: true
+  downloads: [docx, epub]
+  output-file: MWLR_2024_DRAFT_NZSC_v4
   repo-url: https://github.com/manaakiwhenua/nzsc_v4
   chapters:
     - index.qmd
@@ -44,16 +52,27 @@ format:
   html:
     theme:
       light: cosmo
-      dark: slate
     number-sections: false
     citations-hover: true
     footnotes-hover: true
     css: styles.css
+# Word doc was prepped directly and has comments etc so this will be replaced:
   docx:
+    reference-doc: custom-reference-doc.docx
+    toc: true
+    toc-depth: 3
+    toc-title: "Contents"
+    number-sections: true
+    number-depth: 4
+    df-print: paged
+    link-citations: true
+  epub:
+    split-level: 2
+    toc: true
+    css: styles.css
     number-sections: false
-    toc-depth: 1
-
-editor: visual
+    tbl-colwidths: true
+    df-print: paged
 
 # global knitr options
 knitr:

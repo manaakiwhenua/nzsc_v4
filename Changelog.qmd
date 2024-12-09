@@ -17,6 +17,7 @@
 -   **AMEND** [Densipan](Diagnostics.qmd#sec-diag-dens) to include expected horizon notation, and remove reference to specific types of field testing.\
     **Rationale:** Strength and penetration resistance testing should be undertaken using current best practices, which do not need to be specified in this document.
 -   **AMEND** [Fragipan](Diagnostics.qmd#sec-diag-fpan) to include expected horizon notation, and remove reference to specific types of field testing. Additionally, clarify that bulk density is expected to be *greater than or equal to* 1.5 Mg/m^3^.
+-   **AMEND** the table in [Reactive Aluminium](Diagnostics.qmd#sec-diag-naf) test to match the new Soil Description Manual draft and demonstrate more realistic reaction colours.
 
 #### Key
 
@@ -108,7 +109,7 @@
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
 -   **AMEND** group ZX ([Pan Podzols](Podzols.qmd#sec-ZX)) to be more specific about the strength requirements.
 -   **AMEND** group ZO ([Orthic Podzols](Diagnostics.qmd#sec-ZO)) to be more specific about excluded horizons.
--   **AMEND** the definition of MOI ([Immature Orthic Pumice Soils](Pumice.qmd#sec-key-MOI)) to correct colour requirements.
+-   **AMEND** the definition of MOI ([Immature OrthicPumiceSoils](Pumices.qmd#sec-key-MOI)) to correct colour requirements.
 -   **RECODE** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
 -   **RECODE** BFAC ([Acidic-cemented Firm Brown Soils](Browns.qmd#sec-key-BFCA)) to BFCA.
 -   **RECODE** BFAL ([Acidic-allophanic Firm Brown Soils](Browns.qmd#sec-key-BFLA)) to BFLA.
