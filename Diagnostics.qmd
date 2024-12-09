@@ -6,6 +6,13 @@ editor_options:
 
 # Diagnostic horizons and other differentiae {#sec-diagnostics}
 
+```{r}
+library(dplyr)
+library(tibble)
+library(gt)
+library(gtExtras)
+```
+
 Diagnostic horizons and other differentiating criteria are defined to facilitate the assignment of soils to classes. The definitions are not intended to represent a comprehensive classification of horizons. A summary of these is given in @tbl-two. [Transitional horizons are not included when considering horizon notations for NZSC criteria unless explicitly stated. Note that:]{.min}
 
 ::: min
@@ -102,7 +109,7 @@ The brittle-B horizon differs from the [fragipan](#sec-diag-fpan) by having eith
 
 ## Calcareous Horizon {#sec-diag-calch}
 
-A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on [rock fragments]{.min}, threadlike deposits in pores, or as nodules ('secondary' carbonates). A calcareous horizon is given the notation suffix k (e.g. Btk, Bwk, etc).]{.min}
+A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. The concentration may be as low as 1%, but its presence can be detected by effervescent reaction with 10% HCl on samples from a freshly exposed profile. [The calcium carbonate may be inherited from a calcareous parent material ('primary' carbonates), or it may be formed in the soil and occur as coatings on rock fragments]{.min}, threadlike deposits in pores, or as nodules ('secondary' carbonates). A calcareous horizon is given the notation suffix k (e.g. Btk, Bwk, etc).
 
 ## Crumb Structure {#sec-diag-crumb}
 
@@ -370,31 +377,87 @@ This test indicates the presence of reactive hydroxy-aluminium groups, as occur 
 
 Using the procedure of @fieldes1966, 1 drop of saturated sodium fluoride (NaF) solution is placed on a small test sample of soil, which has been smeared on to a filter paper treated with phenolphthalein indicator. The soil sample must be field moist. For classification, the reactivity of the soil sample is placed into one of the following classes.
 
-```{r}
-library(flextable)
+::: {.content-visible unless-format="epub"}
 
-table_003 <- data.frame(
-  'Code' = seq(0,5,1),
-  'Name' = c('Non-reactive',
-              'Very Weak',
-              'Weak',
-              'Moderate',
-              'Strong',
-              'Very Strong'),
-  'Definition' = c('No colour within 2 minutes',
-                   'Pale red or light red (5R 6/1) just discernible within 2 minutes.',
-                   'Pale red or light red (5R 6/1) within 1 minute.',
-                   'Red or weak red (5R 4 or 5/-) within 1 minute.',
-                   'Dusky red or dark red (5R 3/-) after 10 seconds.',
-                   'Dusky red or dark red (5R 3/-) within 10 seconds')
+```{r}
+#| label: tbl-ft-naf
+#| tbl-cap: "Sodium fluoride reaction ratings"
+
+dat_ft_naf <-
+  tribble(~Code, ~Name, ~Description, ~Colour, 
+          'N', 'No reaction',  'No colour change', '#FFFFFF',
+          'L', 'Slight reaction', 'Paper turns faint pink within two minutes',  '#FFBADE',
+          'M', 'Moderate reaction', 'Paper turns moderate pink, usually within 30 seconds', '#CF3A69',
+          'H', 'Strong reaction', 'Paper turns dark pink, usually instantly', '#A11844'
+  ) |>
+  dplyr::mutate(fa_icon = 'fas fa-circle')
+
+tbl_ft_naf <- gt(dat_ft_naf) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '85%'
+  ) |>
+  tab_style(style = list(cell_text(color  = 'red', 
+                                   weight = 'bold',
+                                   align  = 'center')),
+            locations = cells_body(columns = 1)) |>
+  fmt_icon(columns    = fa_icon, 
+           fill_color = from_column("Colour"), 
+           height     = '1.5em',
+           fill_alpha = 0.9) |>
+  cols_hide(Colour) |>
+  cols_label(fa_icon = 'Colour') |>
+  cols_width(Code ~pct(10), Name ~ pct(20), fa_icon ~ pct(10))
+  
+tbl_ft_naf
+```
+
+:::
+
+::: {.content-visible when-format="epub"}
+
+```{r}
+#| label: tbl-ft-naf2
+#| tbl-cap: "Sodium fluoride reaction ratings"
+
+dat_ft_naf <-
+  tribble(~Code, ~Name, ~Description, ~Colour, 
+          'N', 'No reaction',  'No colour change', '',
+          'L', 'Slight reaction', 'Paper turns faint pink within two minutes',  '',
+          'M', 'Moderate reaction', 'Paper turns moderate pink, usually within 30 seconds', '',
+          'H', 'Strong reaction', 'Paper turns dark pink, usually instantly', ''
   )
 
-ft <- flextable(table_003)
-ft <- bold(ft, part = 'head')
-ft <- set_caption(ft, 'Reactive-aluminium test interpretation.')
-ft <- set_table_properties(ft, layout = "autofit", width = 1)
-ft
+tbl_ft_naf <- gt(dat_ft_naf) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '85%'
+  ) |>
+  tab_style(style = list(cell_text(color  = 'red', 
+                                   weight = 'bold',
+                                   align  = 'center')),
+            locations = cells_body(columns = 1)) |>
+  ## colour in Col 4
+  tab_style(style = list(cell_fill(color = '#FFFFFF')),
+                         locations = cells_body(columns = 4, rows = 1)) |>
+  tab_style(style = list(cell_fill(color = '#FFBADE')),
+                         locations = cells_body(columns = 4, rows = 2)) |>
+  tab_style(style = list(cell_fill(color = '#CF3A69')),
+                         locations = cells_body(columns = 4, rows = 3)) |>
+  tab_style(style = list(cell_fill(color = '#A11844')),
+                         locations = cells_body(columns = 4, rows = 4)) |>
+  cols_width(Code ~pct(10), Name ~ pct(20), Colour ~ pct(10))
+  
+tbl_ft_naf
 ```
+
+:::
+
+
 
 ## Redox-Mottled Horizon {#sec-diag-roxh}
 
@@ -437,7 +500,6 @@ A slowly permeable layer is one in which the vertical saturated hydraulic conduc
 A slowly permeable layer meets **EITHER**
 
 1.  
-
     (a) The soil material is pedal; **AND**
     (b) More than half of the peds are coarser than 10 mm (mean of the x and y axes in a horizontal plane) and meet one of the following:
         (i) Peds 20 to 50 mm, with degree of packing at least extremely high; *or*
@@ -445,7 +507,6 @@ A slowly permeable layer meets **EITHER**
         (iii) Peds 100+ mm with degree of packing at least high; **OR**
 
 2.  ***Either***
-
     (a) The soil material is sand or loamy sand and has an extremely high degree of packing; *or*
     (b) The soil material has a particle-size group other than sandy and has at least a high degree of packing.
 
