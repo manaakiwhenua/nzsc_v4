@@ -113,7 +113,7 @@ A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-
 
 ## Crumb Structure {#sec-diag-crumb}
 
-Crumb structure is defined as an earthy apedal material [@milne1995] with very friable failure class. Soil with crumb structure in situ has the gross appearance of massive soil material, but when disaggregated or disturbed, microfragments are produced with a superficial resemblance to breadcrumbs. When examined with a ×10 power hand-lens, these prove to be loosely packed aggregates of spheroidal micropeds (\<0.5 mm) with packing voids forming a prominent part of the aggregate.
+Crumb structure is defined as an earthy apedal material [@milne1995] with very friable failure class. Soil with crumb structure *in situ* has the gross appearance of massive soil material, but when disaggregated or disturbed, microfragments are produced with a superficial resemblance to breadcrumbs. When examined with a ×10 power hand-lens, these prove to be loosely packed aggregates of spheroidal micropeds (\<0.5 mm) with packing voids forming a prominent part of the aggregate.
 
 ## Cutanic Horizon {#sec-diag-cuth}
 

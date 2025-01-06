@@ -10,7 +10,7 @@ In the keys to orders, groups or subgroups, any surface mantle of new material, 
 Soils that either
 
 1.  consist of [Anthropic soil material](Diagnostics.qmd#sec-diag-anthro) with a combined thickness of \>30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith), **OR**
-2.  are interpreted to have been affected by truncation (i.e. excavation of solum material) by the action of people. This truncation reached at least as dee\[ at the natural in-situ A or AB horizons (i.e. to the upper boundary of the B horizon or deeper.
+2.  are interpreted to have been affected by truncation (i.e. excavation of solum material) by the action of people. This truncation reached at least as deep at the natural *in situ* A or AB horizons (i.e. to the upper boundary of the B horizon or deeper.
 :::
 
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O}
@@ -20,7 +20,7 @@ Soils that either
 1.  30 cm or more thick (cumulative) and are entirely formed from peat or other organic soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), **OR**
 2.  40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).
 
-## [**G** - Gley Soils](gleys.qmd#sec-ord-G) {#sec-G}
+## [**G** - Gley Soils](Gleys.qmd#sec-ord-G) {#sec-G}
 
 Other soils that have **EITHER**
 
@@ -141,6 +141,8 @@ Other soils that **BOTH**
 ## [**W** - Raw Soils](Raws.qmd#sec-ord-W) {#sec-W}
 
 Other soils.
+
+------------------------------------------------------------------------
 
 ::: {#fig-two}
 ![](images/Figure-002_pallic-vs-brown-colours_alternate-version.png)
