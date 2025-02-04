@@ -218,7 +218,7 @@ Tephric Gley Soils occur in unconsolidated sediment of volcanic origin including
 
 #### **GTO** {#sec-key-GTO}
 
-Tephric Gley Soils that have a [peaty topsoil](Diagnostics.qmd#diag-pts) either at the surface or buried with its upper surface within 60 cm of the soil surface.
+Tephric Gley Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the soil surface.
 
 ::: {style="text-align: right"}
 **Peaty Tephric Gley Soils**

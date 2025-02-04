@@ -91,7 +91,7 @@ Podzols that have a [densipan](Diagnostics.qmd#sec-diag-dens) (Ed horizon).
 
 Other Podzols that have both
 
-1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} with either the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#diag-plac) together with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min}, *and*
+1.  an [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min} with either the greyish colours of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#sec-diag-plac) together with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [[Eluvial horizon](Diagnostics.qmd#sec-diag-eluv)]{.min}, *and*
 2.  a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp) or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
