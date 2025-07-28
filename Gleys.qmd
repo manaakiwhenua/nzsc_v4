@@ -441,7 +441,7 @@ Other soils that have a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) at 
 
 #### **GOI** {#sec-key-GOI}
 
-Other soils that have an ironstone[-pan]{.min} at 90 cm depth or less from the mineral soil surface.
+Other soils that have an [[ironstone-pan](Diagnostics.html#sec-diag-ipan)]{.min} at 90 cm depth or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Ironstone Orthic Gley Soils**
