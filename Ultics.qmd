@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Ultic Soils {#sec-ord-U}
 
 ## Concept of the Order {#sec-con-U}
@@ -32,7 +33,7 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 ```{r}
 #| label: tbl-U
 #| tbl-cap: "Ultic Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

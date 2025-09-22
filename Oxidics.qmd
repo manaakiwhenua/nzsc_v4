@@ -30,7 +30,7 @@ Oxidic Soils are only known to occur in the Auckland and Northland regions.
 ```{r}
 #| label: tbl-O
 #| tbl-cap: "Oxidic Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

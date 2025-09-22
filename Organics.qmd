@@ -29,7 +29,7 @@ Organic Soils occur in wetlands in most parts of New Zealand or under forest-pro
 ```{r}
 #| label: tbl-O
 #| tbl-cap: "Organic Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

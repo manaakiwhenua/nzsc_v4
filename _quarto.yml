@@ -52,7 +52,6 @@ format:
   html:
     theme:
       light: cosmo
-    number-sections: false
     citations-hover: true
     footnotes-hover: true
     css: styles.css

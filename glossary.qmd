@@ -17,7 +17,7 @@ library(gtExtras)
 
 ```{r}
 #| eval: false
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 glossary <- read_xlsx(file.path('data', 'NZSC-Glossary.xlsx'), 
                       sheet = 1, range = cell_cols('A:B')) %>% 

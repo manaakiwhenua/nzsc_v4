@@ -29,7 +29,7 @@ Granular Soils are only known to occur in the northern North Island, particularl
 ```{r}
 #| label: tbl-N
 #| tbl-cap: "Granular Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

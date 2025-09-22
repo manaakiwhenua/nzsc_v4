@@ -34,7 +34,7 @@ Semiarid Soils occur in the inland basins of Otago and southern Canterbury, wher
 ```{r}
 #| label: tbl-S
 #| tbl-cap: "Semiarid Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

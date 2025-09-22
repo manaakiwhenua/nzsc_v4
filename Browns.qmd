@@ -34,7 +34,7 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 ```{r}
 #| label: tbl-B
 #| tbl-cap: "Brown Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

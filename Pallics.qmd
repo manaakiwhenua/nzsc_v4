@@ -32,7 +32,7 @@ Pallic Soils occur predominantly in the seasonally dry eastern part of North and
 ```{r}
 #| label: tbl-P
 #| tbl-cap: "Pallic Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

@@ -36,7 +36,7 @@ Melanic Soils are scattered throughout New Zealand in association with [calcareo
 ```{r}
 #| label: tbl-E
 #| tbl-cap: "Melanic Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

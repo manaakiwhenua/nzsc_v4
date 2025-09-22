@@ -22,7 +22,7 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 
 1.  *Weak soil development.* Soil development is mostly confined to topsoils, with B horizon colours and/or pedality occurring in some soils.
 2.  *Base saturations are generally high.* Base saturations are usually high except in very humid areas.
-3.  *[Rock fragments]{.min} or rock is not strongly altered.* The alteration status of [rock fragments]{.min} or rock usually ranges from fresh to moderately weathered.
+3.  [*Rock fragments*]{.min} *or rock is not strongly altered.* The alteration status of [rock fragments]{.min} or rock usually ranges from fresh to moderately weathered.
 4.  *Illitic mineralogy.* The soil mineralogy reflects the mineralogy of the parent material. Most Recent Soils have an Illitic mineralogy class except for those formed in tephra which are usually Glassy.
 5.  *Deep rooting.* Although textures vary, potential rooting depths are mostly large. Subsurface horizons are usually apedal or weakly pedal and penetration may be limited in some soils.
 6.  *Good drainage.* Poorly drained or very poorly drained soils are not included.
@@ -35,7 +35,7 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 ```{r}
 #| label: tbl-R
 #| tbl-cap: "Recent Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

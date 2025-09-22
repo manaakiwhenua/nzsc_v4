@@ -29,7 +29,7 @@ Podzols occur in areas of high precipitation and are usually associated with for
 ```{r}
 #| label: tbl-Z
 #| tbl-cap: "Podzols"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

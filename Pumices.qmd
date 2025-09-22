@@ -32,7 +32,7 @@ Pumice Soils occur in sandy or pumiceous volcanic ashes which are relatively you
 ```{r}
 #| label: tbl-M
 #| tbl-cap: "Pumice Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

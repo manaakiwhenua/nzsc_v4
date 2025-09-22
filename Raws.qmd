@@ -34,7 +34,7 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 ```{r}
 #| label: tbl-W
 #| tbl-cap: "Raw Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 

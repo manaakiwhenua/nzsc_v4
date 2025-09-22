@@ -30,7 +30,7 @@ Anthropic Soils are most extensive in urban [and peri-urban areas and areas that
 ```{r}
 #| label: tbl-A
 #| tbl-cap: "Anthropic Soils"
-#| classes: [plain, hover]
+#| classes: '.plain, .hover'
 
 library(gt)
 
