@@ -1,27 +1,18 @@
 # Foreword {#sec-foreword}
 
-Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in italics, are defined in this book in the section [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics) and the [Glossary](glossary.qmd).
+Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in *italics*, are defined in this book in the section [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics).
 
-Further details and technical terms are defined in other resources:
+Further details and other technical terms are defined or can be found in the resources noted below:
 
--   *Horizon notations* are defined by @clayden1989.
--   *Soil morphology* terms are defined by @milne1995.
--   *Classes of the US Soil Taxonomy* are defined by @soilsurveystaff1999 and @soilsurveystaff2022.
--   *Soil colours* are defined by @pantone2017 (see also @soilcol1993).
--   *Soil mineralogy classes* are defined by @whitton1989 or @childs1990a. Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
--   *Soil chemical terms* are explained and the analytical methods are described by @blakemore1987. Note that soil pH measurements are made in water with a ratio of 1 part of soil to 2.5 parts of water, by weight.
--   *Soil physical terms* are explained and the analytical methods are described by @gradwell1979 and @mcqueen1993
--   A comprehensive overview of the diversity of soils and landscapes in Aotearoa-New Zealand is given by @hewitt2021.
+-   Horizon notations are based on @clayden1989, @clayden2015, recently updated in @obrien2025.
+-   Soil morphology terms are defined by @obrien2025.
+-   Classes of Soil Taxonomy are defined by @soilsurveystaff1999 and @soilsurveystaff2022.
+-   Soil colours are defined by @pantone2017; see also @soilcol1993 for application of colour in soil science.
+-   Control sections are designated parts of the soil profile/pedon, denoted as a depth, depth range, or thickness, in which specified diagnostic features occur to enable a soil to be categorised at each level in the classification. For example, a certain feature must occur "within 30 cm of the mineral surface" or a specific soil will have "a layer or layers of allophanic soil material that total 35 cm or more thick … within 60 cm of the mineral soil surface."
+-   A lithological discontinuity is a stratigraphic break in a soil profile/pedon that is the result of a geological (not pedological) process or event. The deposition of new geological material, such as a tephra layer or an alluvial or colluvial deposit, forms a new parent material/lithology at the land surface, burying the antecedent soil. The stratigraphic break is normally marked by textural, mineralogical, and other compositional differences between the earlier and later lithologies [@palmer2025].
+-   Soil mineralogy terms are explained, and the methods of clay mineral analysis, are described by are defined by @churchman1986 and @whitton1987 with updated overviews of soil mineralogy by @churchman2012 and @churchman2019.
+-    Soil mineraology classes originally proposed bby @whitton1989 and @childs1990a are now also defined in @soilsurveystaff2022. Note that the soil mineralogy class names given here are based on the following control section: 25 cm to 100 cm or to a lithic or paralithic contact if shallower.
+-   Soil chemical terms are explained, and the analytical methods are described by @blakemore1987. Note that soil pH measurements are made in water with a ratio of 1 part of soil to 2.5 parts of water, by weight.
+-   Soil physical terms are explained and the analytical methods are described by @gradwell1979, @mcqueen1993, and @allbrook1983; @allbrook1985
+-   A comprehensive overview of the diversity of soils and their properties, origins and associated landscapes in Aotearoa New Zealand, on an order-by-order basis, is given by @hewitt2021.
 -   Many other soil science concepts and technical terms are explained, in a New Zealand context, by @mclaren1990.
-
-------------------------------------------------------------------------
-
-The following abbreviations are used for soil chemical terms.
-
-CEC -- Cation exchange capacity.
-
-ECEC -- Effective cation exchange capacity, which is the CEC at natural field pH, estimated by the sum of basic cations + KCl-extractable aluminium.
-
-P retention -- Phosphate retention.
-
-{{< pagebreak >}}

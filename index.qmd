@@ -1,27 +1,21 @@
 # New Zealand Soil Classification {.unnumbered}
 
-**v 4.0 \[DRAFT\]**
+*4th edition*
 
 Manaaki Whenua - Landcare Research New Zealand Ltd
 
 Landcare Research Science Series No. 1
 
-*First published as DSIR Land Resources Scientific Report No.19*
+*First published as DSIR Land Resources Scientific Report No.19, 1992. Reprinted with corrections as Landcare Research Science Series No. 1, 1998 (2^nd^ edition) and Landcare Research Science Series No. 1, 2010 (3^rd^ edition). This is the 4th edition with further updates and corrections.*
 
-*Reprinted with corrections as Landcare Research Science Series No. 1, 1998.*
-
-*Reprinted with updates and corrections as Landcare Research Science Series No. 1, 2010.*
-
-*© Landcare Research New Zealand Ltd 2024*
+*© Landcare Research New Zealand Ltd 2025*
 
 ------------------------------------------------------------------------
 
 Welcome!
 
-This is the draft 4th edition of the New Zealand Soil Classification (NZSC). 🚧 The draft is under review from 5^th^ December 2024 to 30^th^ April 2025 🚧. Feedback can be provided via the [Github Repository](https://github.com/manaakiwhenua/nzsc_v4), or email at [SoilStandards\@landcareresearch.co.nz](mailto:SoilStandards@landcareresearch.co.nz). A Word-format version of the draft is also [available here](https://soils.landcareresearch.co.nz/assets/Soil-classification/NZSC-4th-edition-MASTER_web.docx) (DOCX, 1.6 MB), for those more comfortable reviewing in that environment.
+This is the 4th edition of the New Zealand Soil Classification (NZSC). 
 
 Introductory information about the NZSC is available at [The New Zealand Soils Portal](https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/).
-
-The third edition of the NZSC [@hewitt2010] should be treated as current until this review is finalised, and can be downloaded from the [Manaaki Whenua Digital Library](http://doi.org/10.7931/DL1-LRSS-1-2010).
 
 {{< pagebreak >}}
