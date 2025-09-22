@@ -6,20 +6,34 @@ editor_options:
 
 # Introduction {#sec-intro}
 
-Version [4.0]{.min} of the Zealand Soil Classification is the culmination of a period of development from its initiation in 1983 to wide circulation of versions [1.0 through to 3.0]{.min} [@hewitt1989; @hewitt2010] for comment and testing. It represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary.
+## Evolution of New Zealand soils {#sec-intro-evo}
 
-The New Zealand Soil Classification is a national soil classification intended to replace the New Zealand Genetic Soil Classification [@taylor1948; @taylor1957; @taylor1962]. The New Zealand Genetic Soil Classification grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played a vital role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s. The present work has grown out of the New Zealand Genetic Soil Classification and, where possible, preserves successful parts of that classification. It has also been influenced by experience in testing the US Soil Taxonomy [@leamy1983].
+The *New Zealand Soil Classification* broadly traces the evolution, or genesis, of New Zealand soils through time [@hewitt1998]. @fig-paths shows major pathways in the evolution of New Zealand soils. The pathways represent only those likely to have occurred over extensive areas, with many minor pathways or interlinkages omitted for clarity. In mineral parent materials, Raw Soils develop mostly into Recent Soils. The nature of the parent material then strongly determines the subsequent soil genesis pathway. Later, parent material becomes less important, and climate and vegetation, along with time, become more important controls over the character of the soil that evolves [@hewitt1998; @hewitt2021].
+
+![Major genetic pathways in the evolution of New Zealand soils, based mainly around orders of the New Zealand Soil Classification, and some approximate age ranges for their formation. The pathways represent only those likely to have occurred over extensive areas. Other pathways, and broad mechanisms of soil evolution including topdown versus upbuilding pedogenesis, are omitted. From @hewitt2021, modified after @hewitt1998.](images/figure_001_nzscdev.png){#fig-paths fig-align="center" .lightbox}
+
+In terms of soil order frequency in New Zealand, Brown Soils are most common (43%), followed by Podzol (13%), Pallic (12%), Pumice (7%), Recent (6%) and Allophanic (5%). The other nine orders account for the remaining 14% with Oxidic and Anthropic the least common with \<1% each.
+
+Soil formation, in its traditionally recognised form, proceeds by modifying a pre-existing parent material according to soil forming factors that dictate a range of processes and their impacts [@simonson1959]. In this situation, the soil profile originates via two steps: step 1, accumulation (or exhumation) of a fresh parent material at the land surface, followed by step 2, the modification of the parent material by soil-forming processes and weathering to form soil horizons leading to a deepening of the soil profile. However, the outcomes of this classical model of ‘topdown pedogenesis’ are modified when geological deposits (e.g., alluvium, tephra, loess, colluvium) are simultaneously added to the surface as it is commonly the case in New Zealand landscapes. Here, step 1 and step 2 occur together (not sequentially) so that the soil profile deepens as the land surface rises over time. This situation, when topdown pedogenesis occurs concomitantly with surface deposition, is called ‘upbuilding pedogenesis’ [@johnson1990]. The concept of upbuilding pedogenesis was recognised in New Zealand more than 90 years ago [@taylor1933], but it is only in comparatively recent times that it has become more fully appreciated. The deposition at the surface may be incremental (developmental upbuilding pedogenesis) or may comprise the sudden deposition of a relatively thick deposit that buries and isolates the antecedent soil (retardant upbuilding pedogenesis) [@hartemink2020; @palmer2025]. Upbuilding pedogenesis is captured in the New Zealand Soil Classification mainly through the recognition of lithologic discontinuities and buried horizons (paleosols) in soil profiles, which demand specific notations [@clayden2015] often indicated in the text by the term ‘buried’ (e.g., Buried-allophanic Orthic Pumice Soil). Upbuilding pedogenesis is predominant to common in Allophanic, Pumice, Pallic, Raw, Recent, Gley, Podzol and Brown soils, and various other soils also exhibit upbuilding pedogenesis to some degree [@hewitt2021].
+
+## The history of the New Zealand Soil Classification {#sec-intro-history}
+
+The 4^th^ edition of the *Zealand Soil Classification* is the culmination of a period of development from its initiation in 1983 to wide circulation of preliminary draft versions 1.0 and 2.0 [@hewitt1987a; @hewitt1989] for comment and testing before the revised version 3.0 [@hewitt2010] was formally published in 1992 [@hewitt1992a], reviewed by [@lowe1992]. The latest edition represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary.
+
+The *New Zealand Soil Classification* is a national three-tier soil classification that replaced the *New Zealand Genetic Soil Classification* [@soilbureaustaff1948; @taylor1957a; @taylor1962a; @taylor1968][^introduction-1]. The *New Zealand Genetic Soil Classification* grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played a vital role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s [@hewitt1992]. The first edition developed from the *New Zealand Genetic Soil Classification* and preserved various parts of it. Since then, the *New Zealand Soil Classification* has further evolved through experience in using the earlier editions and new knowledge. It has also been influenced by experience in testing the first edition of *Soil Taxonomy* [@leamy1983a; @leamy1990; @hewitt1992b], and the development of subsequent versions of Soil Taxonomy including the most recent edition and keys [@soilsurveystaff1999; @soilsurveystaff2022]. With the 4^th^ edition we also introduce an extended appendix that now includes an additional soil order (i.e., the Cryic Soil Order) and associated diagnostic criteria. This is to accommodate the soils of the Ross Sea Region of Antarctica, a focal point of Antarctic soil research with leading contributions of New Zealand soil scientists. It addresses the anomaly of New Zealand workers having to use international classifications when working in Antarctica. If, in the future, more empirical evidence emerges that taxa of the Cryic Soil Order might also be applicable to New Zealand soil environments (e.g., alpine environments of the Southern Alps), it can be shifted to the top of the main soil order key.
+
+[^introduction-1]: Note that Soil Bureau Bulletin 3, entitled "A genetic classification of New Zealand soils", was never published, except for the map "Soil map of New Zealand" in 1948.
 
 ## Objectives {#sec-intro-objectives}
 
-The objectives of the New Zealand Soil Classification are:
+The objectives of the *New Zealand Soil Classification* are:
 
 1.  to provide a better means of communication about New Zealand soils and their utilisation;
-2.  to provide an efficient vehicle for [soil type identification and correlation]{.min}, and soil map legend establishment in soil surveys;
+2.  to provide an efficient vehicle for soil identification, recognition of soil families and series (4^th^ and 5^th^ level of the soil classification), correlation of previously defined soil series, and soil map legend establishment in soil surveys;
 3.  to enable an efficient stratification of soil database information;
 4.  to draw together knowledge of the properties of New Zealand soils and important similarities and differences among them.
 
-A discussion of these objectives is given by @hewitt1984.
+A discussion of these objectives is given by @hewitt1984; @hewitt1987 and the methods and rationale of the classification are provided by [@hewitt1993].
 
 ## Principles {#sec-intro-principles}
 
@@ -31,51 +45,82 @@ To accomplish the objectives, the following principles have guided the developme
 4.  Differentia should be based on soil properties that can be reproducibly and precisely measured or observed.
 5.  Differentia should where possible allow field assignment of soils to classes, either directly, or by tested inferences.
 6.  The nomenclature of higher categories should be based where possible on connotative English words chosen for their acceptability to nonspecialists.
-7.  Where possible, continuity with successful parts of the New Zealand Genetic Classification should be maintained.
-8.  The soil classification must be valid for the main islands of New Zealand. Classes must be correlated with Soil Taxonomy [@soilsurveystaff1999] to support international extension.
+7.  Where possible, continuity with successful parts of the *New Zealand Genetic Classification* should be maintained.
+8.  The soil classification must be valid for the main islands of New Zealand. Classes must be correlated with *Soil Taxonomy* [@soilsurveystaff1999; @soilsurveystaff2022] to support international extension.
 
-## The Soil Individual {#sec-intro-soil-indiv}
+## The soil individual {#sec-intro-soil-indiv}
 
 The soil individual is the fundamental unit of soil which is assigned to classes. @cline1949 defined an individual as "the smallest natural body that can be defined as a thing complete in itself".
 
-Soil Taxonomy [@soilsurveystaff1999] regards the polypedon as the soil individual. This is rejected here because, as discussed by @hewitt1982, it does not fulfil Cline's [-@cline1949] or Johnson's [-@johnson1963] requirements for a soil individual.
+*Soil Taxonomy* [@soilsurveystaff1999] regards the polypedon as the soil individual. This is rejected here because, as discussed by @hewitt1982, it does not fulfil the requirements for a soil individual by Cline [-@cline1949] or Johnson [-@johnson1963]. In New Zealand, the soil individual has traditionally been the soil profile. Usually conceived as a two-dimensional section exposed by a soil pit, it is in fact a three-dimensional slice sufficiently thick to sample and examine hand specimens. It should therefore be termed a "soil profile slice". With the realisation that soils should be examined in successive horizontal sections as well as the vertical profile, there is increasing acceptance that a volume of soil the size of the pedon @soilsurveystaff1999 represents a better soil individual than the soil profile slice.
 
-In New Zealand, the soil individual has traditionally been the soil profile. Usually conceived as a two-dimensional section exposed by a soil pit, it is in fact a three-dimensional slice sufficiently thick to sample and examine hand specimens. It should therefore be termed a "soil profile slice". With the realisation that soils should be examined in successive horizontal sections as well as the vertical profile, there is increasing acceptance that a volume of soil the size of the pedon @soilsurveystaff1999 represents a better soil individual than the soil profile slice.
-
-Accordingly, the pedon as defined in Soil Taxonomy [@soilsurveystaff1999] is recommended as the soil individual for the New Zealand Soil Classification. It is understood that assignments are often made from the examination of volumes of soil smaller than a complete pedon, where they are assumed representative of the pedon.
+Accordingly, the pedon as defined in *Soil Taxonomy* [@soilsurveystaff1975] and referred to as "a unit of sampling" by [@soilsurveystaff1999] is recommended as the soil individual for the *New Zealand Soil Classification*. It is understood that assignments are often made from the examination of volumes of soil smaller than a complete pedon, where they are assumed representative of the pedon. Notwithstanding this definition, it is noted that an alternative concept of the pedon was proposed by @holmgren1988, this concept now forming in part the basis for digital soil mapping and thus also applying to parts of New Zealand’s soil survey online database, S-map: "A pedon is the possibility for soil observation in respect to a geographic point location. It can be realized by a set of observational propositions, each spatially and temporally specified in relation to that location".
 
 ## How to assign a soil to Subgroup level {#sec-intro-assign-subgroup}
 
 Normally, a soil pit must be dug of sufficient size to expose the soil horizons to about 1 m depth, or to rock if shallower.
 
-The soil horizons are examined and the assignment is then made by following the key, starting with the [Key to Orders](Key-to-Orders.qmd#sec-key). The ["Diagnostic Horizons and Other Differentiae"](Diagnostics.qmd#sec-diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia. For some classes, pH or other chemical measurements must be made. These should be performed on samples taken between the specified depths, and bulked from at least four places in the pit. The characteristics of the soil are compared with the key statements of each soil order, starting with [Anthropic Soils](Key-to-Orders#sec-A) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup.
+The soil horizons are examined and the assignment is then made by following the key, starting with the [Key to Orders](Key-to-Orders.qmd#sec-key). The ["Diagnostic Horizons and Other Differentiae"](Diagnostics.qmd#sec-diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia, which will be applied according to a specified control section. For some classes, pH or other chemical measurements must be made. The characteristics of the soil are compared with the key statements of each soil order, starting with [Organic Soils](Key-to-Orders#sec-O) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup. Note that in the keys to the groups and subgroups, the soils, following usage in *Soil Taxonomy*, are generally listed from more to least problematic in terms of most agricultural or horticultural land uses. For example, in Allophanic Soils, Perch-gley Allophanic Soils are listed first in the group keys, and Ironstone Perch-gley Allophanic Soils head the list in the subgroup keys, with subsequent taxa in each section having decreasing limitations for agriculture. Further, the word 'typic' does not necessarily mean the most extensive or typical; rather, it is a taxon representing soils without any of the characteristics defined for other taxa in the same class, (i.e., with no aberrant properties). Being placed last in the keys, it is in effect a default class. Similarly, the word 'orthic', meaning normal, conventional, represents a soil with no special qualities worthy of separate taxon status. It is not necessarily the most common taxon.
 
-The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](Oxidics.qmd#sec-key-XPN)). @fig-one illustrates the relationships between subgroups and groups in the [Oxidic Soils](Oxidics.qmd#sec-ord-X) order.
+The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](Oxidics.qmd#sec-key-XPN)). Note that “Perch-gley”, being hyphenated, is one word, thereby conforming to these nomenclatural rules. @fig-oxfc illustrates the relationships between subgroups and groups in the [Oxidic Soils](Oxidics.qmd#sec-ord-X) order.
 
-::: {#fig-one}
-![](images/Figure-001_oxidic-soils-hierarchy.png)
+![The hierarchy of the [Oxidic Soils](Oxidics.qmd#sec-ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position.](images/oxidics_mermaid.png){#fig-oxfc fig-align="center" .lightbox}
 
-The hierarchy of the [Oxidic Soils](Oxidics.qmd#sec-ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position.
-:::
+## Soil series, families and siblings {#sec-intro-serfamsib}
+
+It is possible to classify soils to a more detailed level than the subgroup. Historically, these were called soil series and originally constituted a grouping of soils with similar modal profiles, similar temperature and moisture regimes and the same or very similar parent materials and associated landforms [@taylor1979]. Consequently, soils in a series would usually behave in a similar way for land management. Identified by a geographical name, various subdivisions of a series including soil type (used commonly as a map unit) would carry the same name. Later this definition changed slightly, and soil series were defined according to three main criteria: the nature of the parent material or substrate, particle-size characteristics and the permeability profile [@hewitt1992b]. Because series were primarily used to describe natural soil-landscape units, the within-series variability could be significant and encompass soil properties including texture, stoniness, and depth to bedrock [@taylor1979]. As a result, pedons that traditionally belonged to the same soil series may today be classified into different subgroups. The formal definition and correlation of new soil series ceased in the early 1990s, but the existing series are still widely known and used by scientists, administrators and land users. Since then, soil series have been superseded by soil families. These are primarily used within the context of New Zealand’s soil survey database, S-map, and follow stricter classification rules based on the soil pedon characteristics than it was the case for soil series. A 5^th^ level, the soil sibling (roughly equivalent to soil type), was introduced to further refine the description of the physical attributes within a family. Together, soil family and sibling are the soil entity (i.e., map unit) depicted in S-map. The definition and criteria of the 4^th^ and 5^th^ levels of soil classification are described in detail by @webb2011.
 
 ## Misclassification {#sec-intro-misclass}
 
 The classes are the most important part of the soil classification. The key is merely a means of allocating soils to these classes, and by its nature is imperfect because only a sample of all the possible soils that might potentially be allocated were used in developing the key. Consequently, soils will be found that are not allocated to the appropriate class by the key. This will be apparent when a soil, allocated to a class, does not conform to the concept and accessory statements that can normally be made about that class. Because the key is the servant of the classes, the allocator is justified in placing the soil misfit into a more appropriate class. If this is done, however, it must be registered with the person with responsibility for the national soil classification system, so that appropriate adjustments may be made to the key when the soil classification is next revised. An allocation contrary to the key must also be noted in any records or publication of the allocation.
 
-## Justification of new Subgroups {#sec-intro-new-sgs}
+## Justification of new subgroups {#sec-intro-new-sgs}
 
 Justification for new subgroups may be made in two ways. First, if a soil is judged to be misclassified, and a more appropriate class is not available, then a new subgroup may be justifiable. Second, an existing subgroup may encompass a set of soils with properties that are too wide in range. The old subgroup could be split into two new ones. Splitting may be justified if it will significantly increase the number and precision of accessory statements that can be made about both of the new classes.
 
 ## Correlations with other soil classification systems {#sec-intro-correls}
 
-Classes of the New Zealand Soil Classification do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. @tbl-one summarises the correlations of classes of the Zealand Soil Classification with those of the New Zealand Genetic Soil Classification [@taylor1962] and Soil Taxonomy [@soilsurveystaff1999], where the reader can also find more information on the technical terms used in the correlation.
+Classes of the *New Zealand Soil Classification* do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. It is likely that all orders of *Soil Taxonomy* are represented in New Zealand, albeit some uncommonly or rarely, although Gelisols have not yet been formally identified [@tbl-nzscstareas].
+
+@tbl-nzsccorr summarises the correlations of classes of the *New Zealand Soil Classification* with those of the *New Zealand Genetic Soil Classification* [@taylor1968] and Soil Taxonomy [@soilsurveystaff1999; @soilsurveystaff2022]. Further correlation with *World Reference Base* [@iussworkinggroupwrb2022] are presented in @hewitt2021.
 
 ```{r}
-#| label: tbl-one
-#| tbl-cap: "Correlation of soil groups with the Genetic New Zealand Soil Classification [@taylor1962] and the US Soil Taxonomy [@soilsurveystaff1999]. The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classification."
-#| classes: [plain, hover]
+#| label: tbl-nzscstareas
+#| tbl-cap: "Areal representation (%) of soil orders in New Zealand based on Soil Taxonomy (from @hewitt2021)" 
 
 library(gt)
+
+# no time to normalise this unfortunately. Don't look at me like that!!
+corr_pc_dat <- tibble::tribble(
+  ~vc, ~Common, ~lc, ~Rare,
+  "Inceptisols (47.4)", "Alfisols (9.9)", "Mollisols (1.2)", "Oxisols (0.2)",
+  "Spodosols (13.1)", "Entosols (7.4)", "Histosols (0.9)", "Vertisols (0.1)",
+  "Andisols (12.9)", "Ultisols (4.2)", "Aridisols (0.9)", "Gelisols (<0.1)"
+)
+
+corr_pc_tab <- gt(corr_pc_dat) %>% 
+ tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.width = '85%'
+    
+  ) |>
+  tab_footnote(
+    footnote = md("Small areas of Gelisols, underlain by contemporary permafrost in debris-mantled slopes, may occur in proximity to glaciers and rock glaciers above ~2000 m elevation in alpine areas of the South Island. Support for such occurrences is provided by the topoclimate modelling [@sattler2016] and abundant geomorphological evidence (e.g., @soons1990), but actual ‘cryic’ soil profiles are yet to be observed. The Gelisols, provisionally represented as 'Cryic Raw Soils' in the *New Zealand Soil Classification*, therefore require further evaluation."),
+    locations = cells_body(columns = 4, rows = 3)
+  ) %>% 
+  cols_label(vc = "Very common", lc = "Less common") 
+  
+corr_pc_tab
+
+```
+
+```{r}
+#| label: tbl-nzsccorr
+#| tbl-cap: "Correlation of soil groups with the Genetic New Zealand Soil Classification [@taylor1962] and the US Soil Taxonomy [@soilsurveystaff1999]. The correlations with Soil Taxonomy provide only the nearest equivalents, as criteria differ between the two systems. The lowest category of Soil Taxonomy is given (order, suborder or great group) that can be best related to soil groups of the NZ Soil Classification."
+#| classes: '.plain .hover'
+
+
 
 table_001_dat <- data.frame(
   'NZSC_order' = c(rep('ALLOPHANIC SOILS', 4),
