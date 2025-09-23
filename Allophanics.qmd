@@ -8,39 +8,39 @@ editor_options:
 
 ## Concept of the Order {#sec-con-L}
 
-Allophanic Soils have properties that are strongly influenced by minerals with short-range order, especially allophane, imogolite and ferrihydrite. They are characteristically weak in strength and sensitive, with very low bulk density. They occur mostly in volcanic parent materials, especially ash and basaltic scoria, but occur also in quartzo-feldspathic and tuffaceous (greywacke) sandstone.
+Allophanic Soils have properties that are strongly influenced by the nanocrystalline minerals allophane and ferrihydrite, together with imogolite and potentially aluminium-humus complexes. They are characteristically weak in strength and sensitive, with very low bulk density. They occur mostly in well drained tephra-dominated parent materials, including basaltic tephra (such as ash or scoriae). Allophanic Soils, in many places, comprise multilayered profiles with one or more lithological discontinuities and buried soil horizons or paleosols that reflect their origins via upbuilding pedogenesis. They occur also in well-drained quartzo-feldspathic and tuffaceous (greywacke) sandstone and derivatives.
 
 ## Correlation {#sec-cor-L}
 
-The order comprises mainly yellow-brown loams but also includes weakly weathered red loams and brown loams and some upland and high country yellow-brown earths of the NZ Genetic Soil Classification. The soils correlate predominantly with the [Andisols]{.min} of Soil Taxonomy.
+The order comprises mainly yellow-brown loams but also includes weakly weathered red loams and brown loams and some upland and high country yellow-brown earths of the *New Zealand Genetic Soil Classification*. The soils correlate predominantly with the Andisols of *Soil Taxonomy*.
 
 ## Occurrence {#sec-occ-L}
 
-Allophanic Soils occur predominantly in North Island volcanic ash, and in the weathering products of other volcanic rocks. They also occur in the weathering products of greywacke and schist in the South Island high country.
+Allophanic Soils occur predominantly in central North Island rhyolitic and andesitic tephras, and reworked derivatives, and also in the weathering products of some other pyroclastic or volcanic deposits including basaltic tephra in northern North Island. The distribution, composition, and ages of North Island’s predominant soil-forming tephra deposits are reviewed by @lowe2008; @lowe2013 and @hopkins2021. Allophanic Soils also occur in the weathering products of non-tephric material under well-drained conditions, such as basaltic lavas and dune sands in Northland, and greywacke and schist (and reworked derivatives including loess) in the South Island high country.
 
 ## Accessory Properties of the Order {#sec-acc-L}
 
-1.  *Short-range-order minerals.* The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, imogolite and ferrihydrite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurement is difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
+1.  *Nanocrystalline minerals.* The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, ferrihydrite, imogolite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurements can be difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
 2.  *Low bases.* Sum of bases are low to very low and range from less than 1 to 10 cmol~c~/100 g in subsoils and unfertilised topsoils.
-3.  *Volcanic or greywacke parent materials.* Predominantly in andesitic, rhyolitic or mixed tephra, they also occur in soil materials from sandstone (greywacke) of humid uplands and high country and basalt scoria or pumice.
-4.  [*Rapid mineral weathering.*]{.min} Volcanic glass and feldspar dominate the sand fractions of soils in igneous parent materials, and are the primary source of the short-range-order minerals. Feldspars are most likely the primary source in non-igneous parent materials. Typically they have an Amorphic mineralogy class.
+3.  *Mainly pyroclastic (tephra) parent materials.* Predominantly in andesitic, rhyolitic or mixed tephra (and reworked derivatives), and in basaltic scoriae, they also occur in soil materials from sandstone (greywacke), or derivatives, of humid uplands and high country. According to proximity to volcanic sources, they often comprise multilayered profiles reflecting deposition of different tephra layers through time.
+4.  *Rapid, hydrolytic mineral weathering.* Volcanic glass, feldspars, and mafic minerals dominate the sand fractions of soils in pyroclastic parent materials, and are the primary source of the nanocrystalline minerals. Feldspars are most likely the primary source in non-pyroclastic parent materials. Typically they have Amorphic, Ferrihydritic, or Glassy mineralogy classes.
 5.  *Rapid permeability and high water retention.* The macroporosity is very high and rapid drainage occurs at low soil moisture tensions. Water contents at 1500 kPa soil moisture tension are very high.
-6.  *Well drained.* Although poorly, imperfectly and moderately well drained soils occur, well drained soils are predominant.
+6.  *Well drained.* Although poorly, imperfectly and moderately well drained soils occur, well drained soils are predominant. Good drainage allows the key mechanism of desilication to occur that favours the formation of allophane and ferrihydrite.
 7.  *Good rooting medium.* Bulk density is very low and there is little resistance to root extension. In many soils the potential rooting depth is very deep.
 8.  *Active soil fauna.* Microbial biomass is generally high.
-9.  *Stable topsoils.* Soils resist puddling under the impact of machinery or grazing animals in wet weather. The water content at field capacity is less than the plastic limit. Topsoil and subsoil horizons are friable, and organic/mineral complexes are stable. Carbon contents are medium to high. Exposed topsoil may be subject to wind erosion.
+9.  *Stable topsoils.* Soils resist pugging under the impact of machinery or grazing animals in wet weather. The water content at field capacity is less than the plastic limit. Topsoil and subsoil horizons are friable, and organic/mineral complexes are stable. For mineral soils, carbon contents are medium to very high. Exposed topsoil may be subject to wind erosion.
 10. *High shrinkage potential.* Soil materials have high potential to shrink on drying. Rewetting may not achieve the original volume.
 11. *Slight to insignificant erosion under pasture.* Generally the erosion potential is low, except on steep slopes or exposed sites and under cultivation on rolling slopes.
 12. *Sensitive.* A pronounced loss of strength occurs on disturbance.
-13. *Limited fertility.* There are usually requirements for phosphorus, potassium and magnesium on dairy farms. There are no significant trace element deficiencies although cobalt is marginal in more strongly leached Allophanic Soils. Pasture may respond to lime where pH is less than 5.3. Sulphate reserves are held in B horizons. P retention and phosphate fixation are high in topsoils.
+13. *Limited fertility.* There are usually requirements for phosphorus, potassium and magnesium on dairy farms. There are no significant trace element deficiencies although cobalt is marginal in more strongly leached Allophanic Soils. Pasture may respond to lime where pH is less than 5.3. Sulfate reserves are held in B horizons. P retention and phosphate fixation are high in topsoils.
 14. *Moist climate.* Precipitation exceeds 1000 mm and soil moisture deficits are either absent or occur for only short periods.
 
-## Summary of Allophanic Soils Hierarchy {#sec-sum-L}
+## Summary of Allophanic Soils {#sec-sum-L}
 
 ```{r}
 #| label: tbl-L
 #| tbl-cap: "Allophanic Soils"
-#| classes: '.plain, .hover'
+#| classes: ".plain .hover"
 
 library(gt)
 
@@ -79,16 +79,14 @@ table_L <- gt(table_L_dat) |>
 table_L
 ```
 
-------------------------------------------------------------------------
-
 ## Key to Groups of Allophanic Soils {#sec-grp-L}
 
-#### **LP** {#sec-key-LP}
+#### **LP** {#sec-key-LP .unnumbered}
 
-Allophanic Soils that have both
+Allophanic Soils that have BOTH
 
 1.  [Perch-gley features](Diagnostics.qmd#sec-diag-pgley), *and*
-2.  Either a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or within 15 cm of the base of the A horizon or 30 cm of the mineral soil surface, have
+2.  Either a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or within 30 cm of the mineral soil surface, have
     (a) a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), *or*
     (b) a [redox-mottled horizon](Diagnostics.qmd#sec-diag-roxh) if the parent material is predominantly andesitic or basaltic.
 
@@ -96,18 +94,18 @@ Allophanic Soils that have both
 [**PERCH-GLEY ALLOPHANIC SOILS**](#sec-LP)
 :::
 
-#### **LG** {#sec-key-LG}
+#### **LG** {#sec-key-LG .unnumbered}
 
-Other Allophanic Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or within 15 cm of the base of the A horizon or 30 cm of the mineral soil surface, have either
+Other Allophanic Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or within 30 cm of the mineral soil surface, have EITHER
 
-1.  a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), ***or***
+1.  a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), *or*
 2.  a [redox-mottled horizon](Diagnostics.qmd#sec-diag-roxh) if the parent material is predominantly andesitic or basaltic.
 
 ::: {style="text-align: right"}
 [**GLEY ALLOPHANIC SOILS**](#sec-LG)
 :::
 
-#### **LI** {#sec-key-LI}
+#### **LI** {#sec-key-LI .unnumbered}
 
 Other Allophanic Soils that have a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), or horizon that is at least weakly indurated, within 90 cm of the mineral soil surface.
 
@@ -115,7 +113,7 @@ Other Allophanic Soils that have a [slowly permeable layer](Diagnostics.qmd#sec-
 [**IMPEDED ALLOPHANIC SOILS**](#sec-LI)
 :::
 
-#### **LO** {#sec-key-LO}
+#### **LO** {#sec-key-LO .unnumbered}
 
 Other Allophanic Soils.
 
@@ -127,11 +125,11 @@ Other Allophanic Soils.
 
 ## Key to Subgroups of Allophanic Soils {#sec-sub-L}
 
-### **LP** - PERCH-GLEY ALLOPHANIC SOILS {#sec-LP}
+### **LP** - PERCH-GLEY ALLOPHANIC SOILS {#sec-LP .unnumbered}
 
-Perch-gley Allophanic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by brownish or reddish mottles. The wetness is caused by the perching of water on a slowly permeable subsurface layer, although a groundwater-table may also be present.
+Perch-gley Allophanic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by brownish or reddish mottles. The wetness is caused by the perching of water on a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), although a groundwater-table may also be present.
 
-#### **LPI** {#sec-key-LPI}
+#### **LPI** {#sec-key-LPI .unnumbered}
 
 Perch-gley Allophanic Soils that have an [ironstone-pan](Diagnostics.qmd#sec-diag-ipan) within 90 cm of the mineral soil surface.
 
@@ -139,7 +137,7 @@ Perch-gley Allophanic Soils that have an [ironstone-pan](Diagnostics.qmd#sec-dia
 **Ironstone Perch-gley Allophanic Soils**
 :::
 
-#### **LPT** {#sec-key-LPT}
+#### **LPT** {#sec-key-LPT .unnumbered}
 
 Other soils.
 
@@ -147,11 +145,11 @@ Other soils.
 **Typic Perch-gley Allophanic Soils**
 :::
 
-### **LG** - GLEY ALLOPHANIC SOILS {#sec-LG}
+### **LG** - GLEY ALLOPHANIC SOILS {#sec-LG .unnumbered}
 
 Gley Allophanic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by brownish or reddish mottles. The wetness is caused by a groundwater-table.
 
-#### **LGO** {#sec-key-LGO}
+#### **LGO** {#sec-key-LGO .unnumbered}
 
 Gley Allophanic Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts).
 
@@ -159,7 +157,7 @@ Gley Allophanic Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts).
 **Peaty Gley Allophanic Soils**
 :::
 
-#### **LGT** {#sec-key-LGT}
+#### **LGT** {#sec-key-LGT .unnumbered}
 
 Other soils.
 
@@ -167,19 +165,19 @@ Other soils.
 **Typic Gley Allophanic Soils**
 :::
 
-### **LI** - IMPEDED ALLOPHANIC SOILS {#sec-LI}
+### **LI** - IMPEDED ALLOPHANIC SOILS {#sec-LI .unnumbered}
 
 Impeded Allophanic Soils have a subsurface horizon that acts as a barrier to the movement of water or penetration of roots.
 
-#### **LIMI** {#sec-key-LIMI}
+#### **LIMI** {#sec-key-LIMI .unnumbered}
 
-Impeded Allophanic Soils that have an ironstone-pan within 90 cm of the mineral soil surface and that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Impeded Allophanic Soils that have an [ironstone-pan](Diagnostics.qmd#sec-diag-ipan) within 90 cm of the mineral soil surface and that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
 **Mottled-ironstone Impeded Allophanic Soils**
 :::
 
-#### **LIM** {#sec-key-LIM}
+#### **LIM** {#sec-key-LIM .unnumbered}
 
 Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -187,7 +185,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Impeded Allophanic Soils**
 :::
 
-#### **LIT** {#sec-key-LIT}
+#### **LIT** {#sec-key-LIT .unnumbered}
 
 Other soils.
 
@@ -195,11 +193,11 @@ Other soils.
 **Typic Impeded Allophanic Soils**
 :::
 
-### **LO** - ORTHIC ALLOPHANIC SOILS {#sec-LO}
+### **LO** - ORTHIC ALLOPHANIC SOILS {#sec-LO .unnumbered}
 
-Orthic Allophanic Soils are permeable soils without barriers to deep penetration of roots. They are [well, moderately well,]{.min} or imperfectly drained.
+Orthic Allophanic Soils are permeable soils without barriers to deep penetration of roots. They are well, moderately well, or imperfectly drained.
 
-#### **LOM** {#sec-key-LOM}
+#### **LOM** {#sec-key-LOM .unnumbered}
 
 Orthic Allophanic Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -207,15 +205,20 @@ Orthic Allophanic Soils that have a [mottled profile form](Diagnostics.qmd#sec-d
 **Mottled Orthic Allophanic Soils**
 :::
 
-#### **LOVA** {#sec-key-LOVA}
+#### **LOVA** {#sec-key-LOVA .unnumbered}
 
-Other soils that have both 1. ***either*** (a) coatings on pores (excluding root linings), or gel-like masses bridging sand grains or coating coarse-fragments, that have hue 7.5YR or redder, value 5 or less and chroma 3 or more, *or* (b) pH less than 5.5 in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface, *and* 2. [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that is formed predominantly from [tephric soil material](Diagnostics.qmd#sec-diag-teph) and has 50% or more sand (by weighted average).
+Other soils that have BOTH
+
+1.  *either*
+    (a) coatings on pores (excluding root linings), or gel-like masses bridging sand grains or coating coarse-fragments, that have hue 7.5YR or redder, value 5 or less and chroma 3 or more, *or*
+    (b) pH less than 5.5 in some part of the B or BC horizon to 60 cm from the mineral soil surface, AND
+2.  [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that is formed predominantly from [tephric soil material](Diagnostics.qmd#sec-diag-teph) and has 50% or more sand (by weighted average).
 
 ::: {style="text-align: right"}
 **Vitric-acidic Orthic Allophanic Soils**
 :::
 
-#### **LOV** {#sec-key-LOV}
+#### **LOV** {#sec-key-LOV .unnumbered}
 
 Other soils in which [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) layers are formed predominantly from [tephric soil material](Diagnostics.qmd#sec-diag-teph) and have 50% or more sand (by weighted average).
 
@@ -223,9 +226,9 @@ Other soils in which [allophanic soil material](Diagnostics.qmd#sec-diag-alloph)
 **Vitric Orthic Allophanic Soils**
 :::
 
-#### **LOA** {#sec-key-LOA}
+#### **LOA** {#sec-key-LOA .unnumbered}
 
-Other soils that have, in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface, *either*
+Other soils that have, in some part of the B or BC horizon to 60 cm from the mineral soil surface, EITHER
 
 1.  coatings on pores (excluding root linings), or gel-like masses bridging sand grains or coating coarse-fragments, that have hue 7.5YR or redder, value 5 or less and chroma 3 or more, *or*
 2.  pH less than 5.5.
@@ -234,7 +237,7 @@ Other soils that have, in some part of the B [or BC]{.min} horizon to 60 cm fro
 **Acidic Orthic Allophanic Soils**
 :::
 
-#### **LOT** {#sec-key-LOT}
+#### **LOT** {#sec-key-LOT .unnumbered}
 
 Other soils.
 
