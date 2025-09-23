@@ -406,8 +406,7 @@ tbl_ft_naf <- gt(dat_ft_naf) |>
     table.align = 'center',
     table.width = '85%'
   ) |>
-  tab_style(style = list(cell_text(color  = 'red', 
-                                   weight = 'bold',
+  tab_style(style = list(cell_text(weight = 'bold',
                                    align  = 'center')),
             locations = cells_body(columns = 1)) |>
   fmt_icon(columns    = fa_icon, 
@@ -442,8 +441,7 @@ tbl_ft_naf <- gt(dat_ft_naf) |>
     table.align = 'center',
     table.width = '85%'
   ) |>
-  tab_style(style = list(cell_text(color  = 'red', 
-                                   weight = 'bold',
+  tab_style(style = list(cell_text(weight = 'bold',
                                    align  = 'center')),
             locations = cells_body(columns = 1)) |>
   ## colour in Col 4
