@@ -2,11 +2,11 @@
 
 ## Concept of the Order {#sec-con-N}
 
-Granular soils are clayey soils in which kaolin-group minerals are dominant, and are usually associated with vermiculite and hydrous-interlayered vermiculite. The soil fabric comprises polyhedral peds with strength characteristics which change rapidly with water content. Consistence is sticky and plastic. The presence of vermiculite gives these soils a moderate buffering capacity. The soils lack the weak strength, friable failure, low plasticity, and low-activity-clay properties which either define or are accessory to Oxidic Soils. Clay coatings where they occur are thin.
+Granular soils are clayey soils in which kaolin-group minerals (especially halloysite) are dominant, and are usually associated with vermiculite and hydrous-interlayered vermiculite, together with iron oxides that generate the common brownish to reddish brown colours for these soils. The soil material comprises polyhedral peds with strength characteristics which change rapidly with water content. Consistence is sticky and plastic. The presence of vermiculite gives these soils a moderate buffering capacity. The soils lack the weak strength, friable failure, low plasticity, and low-activity-clay properties which either define or are accessory to Oxidic Soils. Clay coatings where they occur are thin.
 
 ## Correlation {#sec-cor-N}
 
-The order comprises many soils previously classified as brown granular loams and moderately to strongly leached brown granular clays of the NZ Genetic Soil Classification. Most are correlated with the Ultisols and Alfisols of Soil Taxonomy.
+The order comprises many soils previously classified as brown granular loams and moderately to strongly leached brown granular clays of the *New Zealand Genetic Soil Classification*. Most are correlated with the Ultisols of *Soil Taxonomy*.
 
 ## Occurrence {#sec-occ-N}
 
@@ -15,41 +15,41 @@ Granular Soils are only known to occur in the northern North Island, particularl
 ## Accessory Properties of the Order {#sec-acc-N}
 
 1.  *Moderate activity clay.* CEC is greater than 16 cmol~c~/kg (clay) and ECEC ranges from about 8 to 16 cmol~c~/kg (clay).
-2.  *Parent materials.* The soils are derived predominantly from strongly weathered tephras mostly older than 50 000 years, but also from basaltic and andesitic rocks with possible additions from aeolian material.
-3.  *Kandic mineralogy.* Granular Soils usually belong to the Kandic mineralogy class.
+2.  *Parent materials.* The soils are derived predominantly from strongly weathered tephras mostly older than 45 000 years, including the widespread Hamilton ash, and also from basaltic and andesitic rocks with possible additions from aeolian material.
+3.  *Kandic/Halloysitic mineralogy.* Granular Soils usually belong to the Kandic/Halloysitic mineralogy class.
 4.  *Slowly permeable.* Saturated hydraulic conductivity is slow or marginally slow somewhere in the profile, resulting in periods of perching of water.
-5.  *Limited root depth.* The extension of plant roots in subsoils is commonly limited by either high penetration resistance, wetness or aluminium toxicity.
-6.  *Limited workability when wet.* Workability and trafficability is constrained by stickiness and plasticity after heavy rainfall, particularly in contrast to [Oxidic Soils](Key-to-Orders.qmd#sec-X).
+5.  *Limited rooting depth.* The extension of plant roots in subsoils is commonly limited by either high penetration resistance, wetness or aluminium toxicity.
+6.  *Limited workability when wet.* Workability and trafficability is constrained by stickiness and plasticity after heavy rainfall, particularly in contrast to [Oxidic Soils](Key-to-Orders.qmd#sec-X). Granular Soils in the Pukekohe area are generally somewhat less constrained than equivalent soils in the Waikato area.
 7.  *Low phosphorus status.* Phosphorus fixation may be high, as indicated by high P retention levels.
 8.  *Strongly weathered with low nutrient reserves.* Reserves of phosphorus, potassium and magnesium are low, particularly in the [Oxidic group](#sec-NX).
-9.  *Sulphate in B horizons.* Sulphate tends to be strongly adsorbed in B horizons.
+9.  *Sulfate in B horizons.* Sulfate tends to be strongly adsorbed in B horizons.
 
 ## Summary of Granular Soils Hierarchy {#sec-sum-N}
 
 ```{r}
 #| label: tbl-N
 #| tbl-cap: "Granular Soils"
-#| classes: '.plain, .hover'
+#| classes: '.plain .hover'
 
 library(gt)
 
 table_N_dat <- data.frame(
-  'Code' = c('NP', '', '',
-             'NE', '', '',
+  'Code' = c('NP', rep('', 2),
+             'NE', rep('', 2),
              'NX', rep('', 4),
              'NO', rep('', 4)),
-  'Group' = c('Perch-gley', '', '',
-              'Melanic', '', '',
+  'Group' = c('Perch-gley',  rep('', 2),
+              'Melanic',  rep('', 2),
               'Oxidic', rep('', 4),
               'Orthic', rep('', 4)),
   'Subgroup' = c('Oxidic', 'Acidic', 'Typic',
                  'Mottled' , 'Allophanic', 'Typic',
                  'Mottled-acidic', 'Mottled', 'Allophanic', 'Acidic', 'Typic',
                  'Mottled-acidic', 'Mottled', 'Allophanic', 'Acidic', 'Typic'),
-  'Example_Series' = c('Rangiuru var.', 'Tutamoe', 'Kohumaru',
-                       '-', 'pt. Morrinsville', 'Morrinsville',
-                       'Awarua var.', 'pt. Waimatenui', 'pt. Naike', 'Awarua', 'Naike',
-                       'Waipoua var.', 'pt. Hamilton', '-', 'Waipoua', 'Hamilton')
+  'Example_Series' = c('Rangiuru', 'Tutamoe', 'Kohumaru',
+                       '-', 'Morrinsville', 'Morrinsville',
+                       'Awarua', 'Waimatenui', 'Naike', 'Awarua', 'Naike',
+                       'Waipoua', 'Hamilton', '-', 'Waipoua', 'Hamilton')
 ) 
 
 table_N <- gt(table_N_dat) |>
@@ -70,18 +70,18 @@ table_N
 
 ## Key to Groups of Granular Soils {#sec-grp-N}
 
-#### **NP** {#sec-key-NP}
+#### **NP** {#sec-key-NP .unnumbered}
 
-Granular soils that have *both*
+Granular soils that have BOTH
 
-1.  a [gley profile form](Diagnostics.qmd#sec-diag-gleypf), *and*
-2.  [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
+1.  A [gley profile form](Diagnostics.qmd#sec-diag-gleypf), AND
+2.  [Perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
 [**PERCH-GLEY GRANULAR SOILS**](#sec-NP)
 :::
 
-#### **NE** {#sec-key-NE}
+#### **NE** {#sec-key-NE .unnumbered}
 
 Other Granular soils that have pH of 5.9 or more in the major part of the B horizon to 60 cm from the mineral soil surface.
 
@@ -89,7 +89,7 @@ Other Granular soils that have pH of 5.9 or more in the major part of the B hori
 [**MELANIC GRANULAR SOILS**](#sec-NE)
 :::
 
-#### **NX** {#sec-key-NX}
+#### **NX** {#sec-key-NX .unnumbered}
 
 Other Granular soils that have a [cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh) more than 30 cm thick with an upper boundary at 25 cm or more from the mineral soil surface.
 
@@ -97,7 +97,7 @@ Other Granular soils that have a [cutanoxidic horizon](Diagnostics.qmd#sec-diag-
 [**OXIDIC GRANULAR SOILS**](#sec-NX)
 :::
 
-#### **NO** {#sec-key-NO}
+#### **NO** {#sec-key-NO .unnumbered}
 
 Other Granular soils.
 
@@ -107,11 +107,11 @@ Other Granular soils.
 
 ## Key to Subgroups of Granular Soils {#sec-sub-N}
 
-### **NP** - PERCH-GLEY GRANULAR SOILS {#sec-NP}
+### **NP** - PERCH-GLEY GRANULAR SOILS {#sec-NP .unnumbered}
 
-Perch-gley Granular Soils occur in sites that are periodically saturated (if undrained). Wetness and associated reducing conditions are indicated by grey colours and reddish mottles. The wetness is caused by perching of water on a clay-enriched slowly permeable layer, although a groundwater-table may also be present.
+Perch-gley Granular Soils occur in sites that are periodically saturated (if undrained). Wetness and associated reducing conditions are indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) colours and reddish mottles. The wetness is caused by perching of water on a clay-enriched [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), although a groundwater-table may also be present.
 
-#### **NPX** {#sec-key-NPX}
+#### **NPX** {#sec-key-NPX .unnumbered}
 
 Perch-gley Granular Soils that have a [cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh) more than 30 cm thick with an upper boundary below 25 cm from the mineral soil surface.
 
@@ -119,15 +119,15 @@ Perch-gley Granular Soils that have a [cutanoxidic horizon](Diagnostics.qmd#sec-
 **Oxidic Perch-gley Granular Soils**
 :::
 
-#### **NPA** {#sec-key-NPA}
+#### **NPA** {#sec-key-NPA .unnumbered}
 
-Other soils that have pH 5.1 or less in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+Other soils that have pH 5.1 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Perch-gley Granular Soils**
 :::
 
-#### **NPT** {#sec-key-NPT}
+#### **NPT** {#sec-key-NPT .unnumbered}
 
 Other soils.
 
@@ -135,11 +135,11 @@ Other soils.
 **Typic Perch-gley Granular Soils**
 :::
 
-### **NE** - MELANIC GRANULAR SOILS {#sec-NE}
+### **NE** - MELANIC GRANULAR SOILS {#sec-NE .unnumbered}
 
-Melanic Granular Soils are less acid and more fertile than other Granular Soils. Base saturation exceeds 50% in part of the root zone.
+Melanic Granular Soils are less acidic and more fertile than other Granular Soils. Base saturation exceeds 50% in part of the root zone.
 
-#### **NEM** {#sec-key-NEM}
+#### **NEM** {#sec-key-NEM .unnumbered}
 
 Melanic Granular Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -147,15 +147,15 @@ Melanic Granular Soils that have a [mottled profile form](Diagnostics.qmd#sec-di
 **Mottled Melanic Granular Soils**
 :::
 
-#### **NEL** {#sec-key-NEL}
+#### **NEL** {#sec-key-NEL .unnumbered}
 
-Soils that have a horizon that is 10 cm or more thick within 60 cm of the mineral soil surface that meets all the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), but not necessarily the requirement for bulk density.
+Other Soils that have a horizon that is 10 cm or more thick within 60 cm of the mineral soil surface that meets all the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), but not necessarily the requirement for bulk density.
 
 ::: {style="text-align: right"}
 **Allophanic Melanic Granular Soils**
 :::
 
-#### **NET** {#sec-key-NET}
+#### **NET** {#sec-key-NET .unnumbered}
 
 Other soils.
 
@@ -163,22 +163,22 @@ Other soils.
 **Typic Melanic Granular Soils**
 :::
 
-### **NX** - OXIDIC GRANULAR SOILS {#sec-NX}
+### **NX** - OXIDIC GRANULAR SOILS {#sec-NX .unnumbered}
 
-Oxidic Granular Soils have low ECEC (marginal to [Oxidic Soils](Key-to-Orders.qmd#sec-X)), have low fertility and are acid. Some plants may be susceptible to aluminium toxicity.
+Oxidic Granular Soils have low ECEC (marginal to [Oxidic Soils](Key-to-Orders.qmd#sec-X)), have low fertility and are acidic. Some plants may be susceptible to aluminium toxicity.
 
-#### **NXMA** {#sec-key-NXMA}
+#### **NXMA** {#sec-key-NXMA .unnumbered}
 
-Oxidic Granular Soils that have *both*
+Oxidic Granular Soils that have BOTH
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
-2.  pH of less than 5.1 in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
+2.  pH of less than 5.1 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-acidic Oxidic Granular Soils**
 :::
 
-#### **NXM** {#sec-key-NXM}
+#### **NXM** {#sec-key-NXM .unnumbered}
 
 Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -186,7 +186,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Oxidic Granular Soils**
 :::
 
-#### **NXL** {#sec-key-NXL}
+#### **NXL** {#sec-key-NXL .unnumbered}
 
 Other soils that have a layer that meets the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) except for bulk density, and is 10 cm or more thick, within 60 cm of the mineral soil surface.
 
@@ -194,7 +194,7 @@ Other soils that have a layer that meets the requirements of [allophanic soil ma
 **Allophanic Oxidic Granular Soils**
 :::
 
-#### **NXA** {#sec-key-NXA}
+#### **NXA** {#sec-key-NXA .unnumbered}
 
 Other soils that have pH of less than 5.1 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
@@ -202,7 +202,7 @@ Other soils that have pH of less than 5.1 in some part of the B or BC horizon to
 **Acidic Oxidic Granular Soils**
 :::
 
-#### **NXT** {#sec-key-NXT}
+#### **NXT** {#sec-key-NXT .unnumbered}
 
 Other soils.
 
@@ -210,22 +210,22 @@ Other soils.
 **Typic Oxidic Granular Soils**
 :::
 
-### **NO** - ORTHIC GRANULAR SOILS {#sec-NO}
+### **NO** - ORTHIC GRANULAR SOILS {#sec-NO .unnumbered}
 
 Orthic Granular Soils are well, moderately well or imperfectly drained soils that are sticky or very plastic with clay-enriched B horizons. Their fertility is intermediate between [Oxidic](#sec-NX) and [Melanic groups](#sec-NE).
 
-#### **NOMA** {#sec-key-NOMA}
+#### **NOMA** {#sec-key-NOMA .unnumbered}
 
-Orthic Granular Soils that have *both*
+Orthic Granular Soils that have BOTH
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), *and*
-2.  pH of less than 5.1 in some part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
+2.  pH of less than 5.1 in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-acidic Orthic Granular Soils**
 :::
 
-#### **NOM** {#sec-key-NOM}
+#### **NOM** {#sec-key-NOM .unnumbered}
 
 Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -233,7 +233,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Orthic Granular Soils**
 :::
 
-#### **NOL** {#sec-key-NOL}
+#### **NOL** {#sec-key-NOL .unnumbered}
 
 Other soils that have a layer that meets the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) except for bulk density, and is 10 cm or more thick within 60 cm of the mineral soil surface.
 
@@ -241,15 +241,15 @@ Other soils that have a layer that meets the requirements of [allophanic soil ma
 **Allophanic Orthic Granular Soils**
 :::
 
-#### **NOA** {#sec-key-NOA}
+#### **NOA** {#sec-key-NOA .unnumbered}
 
-Other soils that have pH of less than 5.1 in the major part of the B [or BC]{.min} horizon to 60 cm from the mineral soil surface.
+Other soils that have pH of less than 5.1 in the major part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Orthic Granular Soils**
 :::
 
-#### **NOT** {#sec-key-NOT}
+#### **NOT** {#sec-key-NOT .unnumbered}
 
 Other soils.
 
