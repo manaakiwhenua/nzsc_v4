@@ -10,7 +10,7 @@ editor_options:
 
 The *New Zealand Soil Classification* broadly traces the evolution, or genesis, of New Zealand soils through time [@hewitt1998]. @fig-paths shows major pathways in the evolution of New Zealand soils. The pathways represent only those likely to have occurred over extensive areas, with many minor pathways or interlinkages omitted for clarity. In mineral parent materials, Raw Soils develop mostly into Recent Soils. The nature of the parent material then strongly determines the subsequent soil genesis pathway. Later, parent material becomes less important, and climate and vegetation, along with time, become more important controls over the character of the soil that evolves [@hewitt1998; @hewitt2021].
 
-![Major genetic pathways in the evolution of New Zealand soils, based mainly around orders of the New Zealand Soil Classification, and some approximate age ranges for their formation. The pathways represent only those likely to have occurred over extensive areas. Other pathways, and broad mechanisms of soil evolution including topdown versus upbuilding pedogenesis, are omitted. From @hewitt2021, modified after @hewitt1998.](images/figure_001_nzscdev.png){#fig-paths fig-align="center" .lightbox}
+![Major genetic pathways in the evolution of New Zealand soils, based mainly around orders of the New Zealand Soil Classification, and some approximate age ranges for their formation. The pathways represent only those likely to have occurred over extensive areas. Other pathways, and broad mechanisms of soil evolution including topdown versus upbuilding pedogenesis, are omitted. From @hewitt2021, modified after @hewitt1998.](images/figure_001_nzscdev.png){#fig-paths .lightbox fig-align="center"}
 
 In terms of soil order frequency in New Zealand, Brown Soils are most common (43%), followed by Podzol (13%), Pallic (12%), Pumice (7%), Recent (6%) and Allophanic (5%). The other nine orders account for the remaining 14% with Oxidic and Anthropic the least common with \<1% each.
 
@@ -64,7 +64,7 @@ The soil horizons are examined and the assignment is then made by following the 
 
 The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](Oxidics.qmd#sec-key-XPN)). Note that “Perch-gley”, being hyphenated, is one word, thereby conforming to these nomenclatural rules. @fig-oxfc illustrates the relationships between subgroups and groups in the [Oxidic Soils](Oxidics.qmd#sec-ord-X) order.
 
-![The hierarchy of the [Oxidic Soils](Oxidics.qmd#sec-ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position.](images/oxidics_mermaid.png){#fig-oxfc fig-align="center" .lightbox}
+![The hierarchy of the [Oxidic Soils](Oxidics.qmd#sec-ord-X) as an example of the hierarchical relationships between orders, groups and subgroups. As the diagram suggests, the range of soil properties for each class is related to hierarchical position.](images/oxidics_mermaid.png){#fig-oxfc .lightbox fig-align="center"}
 
 ## Soil series, families and siblings {#sec-intro-serfamsib}
 

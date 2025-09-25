@@ -359,7 +359,7 @@ Other soils that are formed predominantly in gravel-sized clasts of basaltic sco
 
 #### **RTSP** {#sec-key-RTSP .unnumbered}
 
-Other soils that are formed predominantly in gravel-sized clasts of basaltic scoriae over a buried soil, where the upper surface of the buried soil occurs within 60 cm or less from the mineral soil surface and has a B or BC horizon that meets the requirements of [vitric soil material](Diagostics.qmd#sec-diag-vitr).
+Other soils that are formed predominantly in gravel-sized clasts of basaltic scoriae over a buried soil, where the upper surface of the buried soil occurs within 60 cm or less from the mineral soil surface and has a B or BC horizon that meets the requirements of [vitric soil material](Diagnostics.qmd#sec-diag-vitr).
 
 ::: {style="text-align: right"}
 **Scoriaceous-pumiceous Tephric Recent Soils**
