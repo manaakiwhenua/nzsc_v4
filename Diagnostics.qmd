@@ -140,7 +140,7 @@ The significance of this horizon lies in the combination of low ECEC, clay illuv
 A densipan is a non-cemented [eluvial horizon](#sec-diag-eluvh), denoted with the suffix **d**, of very high soil strength and bulk density. It meets ALL the following requirements:
 
 1.  It is an [eluvial horizon](#sec-diag-eluvh); AND
-2.  \*Either()
+2.  *Either*
     (a) Unconfined strength is hard or very hard at soil water states from near wet to dry, *or*
     (b) Soil penetration resistance exceeds 4000 kPa at soil water states from near wet to dry; AND
 3.  Moist and dry samples slake in water.
@@ -369,7 +369,7 @@ A podzolic-B horizon is a B horizon that meets ONE of the following:
 
 1.  It meets the requirement of a Bh horizon (because it has colour value and chroma of 3 or less, or value 4 and chroma 2, dominant in the matrix, and contains more than 1% organic carbon). The fabric has sand- or silt-size pellet-like aggregates, coats on mineral grains, or both; OR
 2.  *Both*
-    (a) It is associated with an overlying (but not necessarily immediately overlying) [Eluvial horizon](#sec-diag-eluvh) in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value of the [Eluvial horizon](#sec-diag-eluvh) is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; *and*
+    (a) It is associated with an overlying (but not necessarily immediately overlying) [eluvial horizon](#sec-diag-eluvh) in which weathered films on sand and silt particles are either absent, very thin or discontinuous, so that the colour of the horizon is mainly determined by the colours of the uncoated grains. The moist colour value of the [eluvial horizon](#sec-diag-eluvh) is 4 or more (or a dry colour value is 5 or more). It has higher colour value or lower chroma and less well developed pedality than an underlying B horizon; *and*
     (b) The B horizon (or some part of it) is 5 cm or more thick and meets the requirements of a Bs (or Bs(g) or Bs(f)) horizon because it has a strong [reactive-aluminium test](#sec-diag-naf), and at least *one* of the following:
         (i) Reddish hue and highest chroma at the top of the horizon; *or*
         (ii) Earthy structure, or weakly developed blocks or polyhedra; *or*

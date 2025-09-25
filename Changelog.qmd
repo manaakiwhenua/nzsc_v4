@@ -2,28 +2,44 @@
 
 ### Major
 
+#### Introduction
+
+-   **ADD** subsection 'Evolution of New Zealand Soils', about the pathways soil development follows in the country
+-   **ADD** subsection 'The History of the New Zealand Soil Classification' recounting how the classification has developed from older classifications.\
+    These two sections replace the previous introductory paragraphs.
+-   **ADD** subsection 'Soil series, families and siblings' to explain the history and use of these concepts
+
 #### Diagnostics
 
 -   **ADD** clear definitions of the phrases 'in some part' and 'in the major part' to the top of the chapter.\
     **Rationale** these were previously sitting in footnotes within the Allophanic and Brown chapters, making them hard to find.
+-   **ADD** clear direction about how to handle transitional horizons when classifying a profile
 -   **ADD** [Anthropic Soil Material](Diagnostics.qmd#sec-diag-anthro) as a diagnostic for the Anthropic order.\
     **Rationale:** Anthropic materials were not previously defined, causing confusion during the classification process.
+-   **ADD** [Child's test](Diagnostics.qmd#sec-diag-fe2) as a diagnostic for reduction in soils.\
+    **Rationale:** The test was previously mentioned at the subgroup level but not defined in detail. The test is also now described in the 'field tests' chapter of the *Soil Description Handbook* [@obrien2025].
 -   **ADD** [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) as a diagnostic for Pallic and some Brown soils.\
-    **Rationale:** Concepts appearing in the key require a clear diagnostic definition within the classification, independant of the description manual, which was previously implicitly linked.
+    **Rationale:** Concepts appearing in the key require a clear diagnostic definition within the classification, independent of the description manual, which was previously implicitly linked.
+-   **ADD** [Low-chroma colours](Diagnostics.qmd#sec-diag-lch) as a diagnostic for many soils affected by poor drainage or strong leaching.\
+    **Rationale:** The definition of low-chroma colour was previously only available in the definition of a Bg horizon and was therefore hard to find. It is now clearly defined both in this document and in the 'horizon colour' chapter of the *Soil Description Handbook*.
 -   **ADD** [Saline Soil Material](Diagnostics.qmd#sec-diag-salt) as a diagnostic.\
-    **Rationale:** Elevated soil salinity defines subgroups in the Gley, Semi-Arid, Recent and Raw orders but the concept has not been fully explained.
+    **Rationale:** Elevated soil salinity defines subgroups in the Gley, Semi-Arid, Recent and Raw orders but the concept has not previously been fully explained.
+-   **ADD** [Sulfidic Soil Material](Diagnostics.qmd#sec-diag-sulfd) as a diagnostic.\
+    **Rationale:** Sulfidic soils were previously lumped in with less hazardous wet soils and their diagnostic criteria were outdated and only mentioned at subgroup level.
+-   **ADD** [Sulfuric Soil Material](Diagnostics.qmd#sec-diag-sulfr) as a diagnostic.\
+    **Rationale:** Sulfuric soils were previously lumped in with less hazardous low-pH soils and their diagnostic criteria were outdated and only mentioned at subgroup level.
 -   **AMEND** [Calcareous horizon](Diagnostics.qmd#sec-diag-calch) for clarity and brevity, adding a clearer definition of primary vs secondary carbonates and including example horizon notation. Removed extraneous second paragraph.\
     **Rationale:** Removal of the second paragraph is justified on the grounds that the content is better suited to the Methods and Rationale of the NZSC [@hewitt1993].
 -   **AMEND** [Densipan](Diagnostics.qmd#sec-diag-dens) to include expected horizon notation, and remove reference to specific types of field testing.\
     **Rationale:** Strength and penetration resistance testing should be undertaken using current best practices, which do not need to be specified in this document.
 -   **AMEND** [Fragipan](Diagnostics.qmd#sec-diag-fpan) to include expected horizon notation, and remove reference to specific types of field testing. Additionally, clarify that bulk density is expected to be *greater than or equal to* 1.5 Mg/m^3^.
--   **AMEND** the table in [Reactive Aluminium](Diagnostics.qmd#sec-diag-naf) test to match the new Soil Description Manual draft and demonstrate more realistic reaction colours.
+-   **AMEND** the table in [Reactive Aluminium](Diagnostics.qmd#sec-diag-naf) test to match the new *Soil Description Manual* and demonstrate more realistic reaction colours.
+-   **REMOVE** *Crumb structure* as a diagnostic.\
+    **Rationale:** Updated terms for describing this kind of structure have become available in the new *Soil Description Manual*.
 
 #### Key
 
--   **MOVE** [Anthropic soils](Key-to-Orders.qmd#sec-A) to the top of the key.\
-    **Rationale:** Removing Anthropic Soils from contention first can reduce confusion when applying the rest of the key, and keeps the overall classification structure relatively simple. The Australian Soil Classification with its Anthroposol order and the Japanese Soil Classification with its Developed/Reclaimed soils (造成土大群) make a similar choice. The World Reference base is effectively the same - it places its two equivalent orders (Anthrosols and Technosols, for agricultural and urban/industrial situations respectively) in second and third place after the Histosols. This reflects the rapidity with which organic soil materials can accumulate on the land surface. The Histosol definition itself allows for the presence of anthropic features like artefacts, so all human-modified profiles are effectively classified out early in the WRB key.\
-    By contrast, US Soil Taxonomy uses the Anthric and Plaggic Epipedon concepts to modify other orders. This has the advantage of keeping human-influenced soils conceptually close to their more natural neighbours, but adds a large number of subgroups to the classification, making it potentially more difficult to use. These subgroups will continue to proliferate as humans discover new and interesting ways to modify their environment. Other systems either ignore human-modified profiles or deliberately exclude them from consideration, neither of which practice is considered useful.
+-   **ADD** A note about how to classify restored Anthropic soils to the top of the key.
 -   **CHANGE** the criteria for [Recent Soils](Key-to-Orders.qmd#sec-R) to allow soils that do not fully meet the criteria for a [Distinct Topsoil](Diagnostics.qmd#sec-diag-dts) by only having a 'structural A' horizon.\
     **Rationale:** This change helps to account for soils that have only a slight colour difference (e.g. visually perceptible darkening but still within the same Munsell chip, or only a Hue shift) in the A horizon due to tillage, low natural organic carbon content, or similar, but are still clearly too developed and in the wrong landscapes for the Raw order to make sense.\
     The definition of [Distinct topsoil](Diagnostics.qmd#sec-diag-dts) itself is not proposed to be changed so that the definitions of other orders remain consistent.
@@ -36,15 +52,17 @@
 -   **CHANGE** criteria 3b of Melanic soils to include some additional possibilities for soils below pH 5.9\
     **Rationale** newly available data
 
+#### Allophanic soils
+
+-   Update the concept, correlation, occurrence and accessory properties sections to reflect contemporary knowledge.
+
 #### Anthropic soils
 
 -   **ADD** group AO ([Māori Anthropic](Anthropics.qmd#sec-key-AO)), containing subgroups AOA ([Artefact Māori Anthropic](Anthropics.qmd#sec-key-AOA)), AOB ([Organic Māori Anthropic](Anthropics.qmd#sec-key-AOB)), and AOF ([Fill Māori Anthropic](Anthropics.qmd#sec-key-AOF)).\
     **REMOVE** subgroup AFA (Artifact Fill Anthropic Soils).\
     **Rationale** Māori soils have been previously recognised in the classification at a lower level and with less detail. Adding these groups and subgroups enables clear identification (particularly in mapping) and more effectively distinguishes them from other Anthropic soils.
-
 -   **ADD** subgroup ARW ([Wet Refuse Anthropic Soils](Anthropics.qmd#sec-key-ARW))\
     **Rationale** These soils will break down in a different manner to other Refuse Anthropic Soils.
-
 -   **ADD** subgroups AMI ([Inverted-tephric Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMI)), AMZ ([Inverted-impeded Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMZ)) and AMT ([Typic Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMT)).\
     **Rationale** the previous lack of subgroups prevented the classification from being able to represent particular and very distinctive modern land modification practices.
 
@@ -91,6 +109,12 @@
 
 ### Minor
 
+#### Introduction
+
+-   **UPDATE** subsection 'Objectives' to include a reference to the *Methods and Rationale*
+-   **UPDATE** Figure 1.2 (new nodular subgroup)
+-   **ADD** Table 1.1 summarising estimated occurrence of *Soil Taxonomy* orders in New Zealand
+
 #### Correlations
 
 -   Discussions of correlations between the NZSC and other systems have been updated to reflect changes to both them and the NZSC.
@@ -128,8 +152,9 @@
 -   **REMOVE** reference to 'stony brown' soil group in the Brown soils accessory properties list, point 8. This concept was retired between v2.0 and v3.0.
 -   **AMEND** all units to SI standards (e.g. CEC in cmol~c~/kg)
 -   Refer consistently to 'B or BC' horizons where appropriate.
+-   Numbered major headings
+-   Consistent formatting for criteria lists
 
 #### References
 
 -   References have been updated where new editions or versions of certain documents have become available. New contextual references have been added in a number of places.
--   A [Glossary](glossary.qmd) has been added.

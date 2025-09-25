@@ -1,4 +1,4 @@
-# Foreword {#sec-foreword}
+# Foreword {#sec-foreword .unnumbered}
 
 Many technical terms are used throughout this report in the keys and definitions. These technical terms, printed here in *italics*, are defined in this book in the section [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics).
 

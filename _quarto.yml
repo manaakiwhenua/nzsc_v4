@@ -22,7 +22,6 @@ book:
     - index.qmd
     - Foreword.qmd
     - Introduction.qmd
-    - Changelog.qmd
     - Diagnostics.qmd
     - Key-to-Orders.qmd
     - Allophanics.qmd
@@ -45,7 +44,7 @@ book:
   appendices:
     - Appendix_cryic.qmd
     - Appendix_letters.qmd
-
+    - Changelog.qmd
 
 bibliography: NZSC_reference_list_4e.bib
 csl: mwlr-citation-style-second-ed.csl
