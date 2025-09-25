@@ -1,0 +1,285 @@
+---
+title: "Cryic Soils"
+author: "Megan Balks"
+editor: visual
+bibliography: references.bib
+editor_options: 
+  chunk_output_type: console
+---
+
+## Diagnostic Horizons and other Differentiae to classify Cryic Soils
+
+### Active layer {#sec-cdiag-actl .unnumbered}
+
+This is the surface layer of a soil that thaws in summer but is frozen in winter. The depth of the active layer, which can be determined only at time of maximum thaw (and thus is best determined by temperature monitoring), is the maximum depth to which temperatures above zero extend in any given summer season. The active layer depth often varies between seasons. Some workers also recognise a "transition layer" which is the part of the soil above the permafrost that may thaw in some, but not all, summers.
+
+### Desert Pavement {#sec-cdiag-dpav .unnumbered}
+
+Desert Pavement describes a surface cover directly above the mineral soil characterised by closely packed interlocking rock fragments that accumulate at the surface initially by winnowing and removal of the fine earth fraction (\<2 mm) by wind action. Over time, Antarctic desert pavement materials may become smaller, highly weathered, ventifacted, and polished.
+
+### Dry-permafrost soil material {#sec-cdiag-dpf .unnumbered}
+
+This is soil material with insufficient moisture (generally \<5%) for ice-cement to form when soil temperatures remain below 0°C for at least two consecutive years. Dry-permafrost can be readily excavated using hand tools.
+
+### Ice-cemented material {#sec-cdiag-ice .unnumbered}
+
+This describes soil material that is bound by ice formed within the soil such that it is not practical to excavate it with hand tools.
+
+### Ice-cored Moraine features {#sec-cdiag-imorf .unnumbered}
+
+Soils with this feature contain sub-surface stagnant glacier ice and an overlying layer of ablation till. This is mineral material which has accumulated as a result of sublimation, and melt and evaporation of ice until the mineral layer is thick enough to insulate the underlying ice from further rapid ablation.
+
+### Ornithogenic Soil Materials {#sec-cdiag-orny .unnumbered}
+
+These are soil materials that result from the activities of birds, which comprise guano, eggshells, remains of birds including bones and feathers, and nesting materials. Such soil materials are generally high in carbon and phosphorus. Those formed by Adélie penguins (*Pygoscelis adeliae*) in the Ross Sea Region generally contain a large proportion of 2–5 cm sized coarse rock fragments, which the birds use to construct their nests.
+
+### Patterned Ground {#sec-cdiag-pg .unnumbered}
+
+Patterned ground occurs where surface soil materials are somewhat sorted because of freezing and contraction during winter and subsequent expansion as temperatures increase in summer. Patterned ground contraction cracks often form surface polygons of up to about 10 m diameter and often have larger stones sorted towards the outer edges of a polygon. The exact shape and size of patterned ground surface features is influenced by the moisture/ice content, particle size distribution of the underlying materials and land surface gradient.
+
+### Permafrost soil material {#sec-cdiag-pf .unnumbered}
+
+Permafrost constitutes soil material with temperatures that remain below 0°C for at least two consecutive years. Permafrost may comprise ice, rock, regolith, or soil materials.
+
+## Concept of the Order
+
+Cryic Soils are soils that contain permafrost soil material within 1 m of the soil surface, or soils that have evidence of freeze-thaw activity in the top 1 m and contain permafrost within 2 m of the soil surface. Its definition is aligned with *Soil Taxonomy* and *World Reference Base for Soil Resources* [@iussworkinggroupwrb2022] but is simplified to fit the objectives and principles of the *New Zealand Soil Classification* and the range of soils encountered in the Ross Sea Region.
+
+## Correlation
+
+Cryic Soils have not been previously recognised in the *New Zealand Soil Classification*, but they correlate with the Gelisols of *Soil Taxonomy* and the Cryosols of *World Reference Base for Soil Resources*.
+
+## Occurrence
+
+Frozen Soils are primarily those of the Ross Sea Region of Antarctica where mean annual temperatures are generally less than -15°C, though soils with permafrost may exist in areas with higher mean annual temperatures.
+
+## Accessory Properties of the Order
+
+1. *1.	Low degree of weathering.* Most Cryic Soils are dominated by minimally weathered materials so tend to be coarse-textured. They may contain ice lenses, ice segregations, or massive relict glacier ice, iron oxides and free salts.  Clay content, unless clay was a significant component of the parent material, tends to be very low (<5%). 
+2. *Seasonal presence of an unfrozen layer.* Cryic Soils have a seasonally thawed active layer. Within the Ross Sea Region the depth of the active layer varies from less than 5 cm on some high-altitude inland sites to about 1 m in warm, sheltered, coastal microclimate sites on the margin of the Ross Sea. 
+3. *Desert pavement and patterned ground typically cover the soil surface.* Within the Ross Sea Region, Frozen Soils are characterised by a surface "desert pavement" of armouring coarse material that protects the underlying material from ongoing surface wind and/or water erosion. On older surfaces, the desert pavement stones may become strongly ventifacted and have a distinct desert varnish coating.  Patterned ground develops on many surfaces and is often particularly strongly developed on ice-cored moraine.
+4. *A wide range of different parent materials.* Parent materials comprise the locally derived rock materials, often having been moved, mixed, and sorted by glacial, alluvial, or colluvial activity.  Mineralogy is usually mixed and ranges from mafic to felsic, derived from the parent materials.
+5. *Minimal organic influence.* With exception of Ornithogenic Cryic Soils, soils in the Ross Sea Region have minimal organic matter, though microbes are generally present. There are currently no higher plants, with only occasional occurrences of moss and cyanobacteria in seasonally wet environments and sporadic occurrence of lichens. Cold temperatures, lack of liquid moisture, and at some sites high salt contents, generally limit the capacity of Cryic Soils to support extensive flora or fauna. 
+6. *Pedogenic salts (i.e., carbonate and non-carbonate salts) accumulate over time.* Within the Ross Sea Region, salt coatings are visible on the undersides of surface stones in most soils, forming characteristic pendants. Salts may be visible on the soil surface and on clasts and boulders close to the soil surface where they have accumulated due to evaporation. Some soils have subsurface horizons that are particularly high in salts. There is a wide range of salts reported depending on surface age, parent materials, water availability, and proximity to marine sources of salts. Salt contents are generally higher on older surfaces and in areas where water accumulates then evaporates, such as lake and pond margins. On older inland surfaces the predominant source of nitrate salts is probably accumulation from atmospheric deposition.
+
+## Summary of Cryic Soils hierarchy
+
+```{r}
+#| label: tbl-C
+#| tbl-cap: "Cryic Soils"
+#| classes: '.plain .hover'
+
+library(gt)
+
+table_C_dat <- data.frame(
+  'Code' = c('CB', '',
+             'CD', rep('', 6),
+             'CO', rep('', 5)),
+  'Group' = c('Ornithogenic', '',
+              'Dry-permafrost', rep('', 6),
+              'Orthic', rep('', 5)),
+  'Subgroup' = c('Abandoned', 'Typic',
+                 'Rocky', 'Ice-cored', 'Soft', 'Raw', 'Ultra-weathered', 'Weathered', 'Typic',
+                 'Rocky', 'Ice-cored', 'Raw', 'Ultra-weathered', 'Weathered', 'Typic'),
+  'Example_Series' = rep('-', 15)
+) 
+
+table_C <- gt(table_C_dat) |>
+  tab_options(
+    column_labels.font.weight = 'bold', 
+    heading.title.font.weight = 'bold',
+    table.align = 'center',
+    table.width = '95%'
+  ) |>
+  cols_label(Example_Series = 'Example Series') |>
+  tab_style(
+    style = cell_text(weight = "bold"),
+    locations = cells_body(columns = 1)) |>
+  cols_width(Code ~pct(10),  Group ~pct(20))
+
+table_C
+```
+
+## Key to Groups of Cryic Soils {#sec-grp-C}
+
+#### **CB** {#sec-key-CB .unnumbered}
+
+Cryic Soils that contain horizons with [ornithogenic soil material](#sec-cdiag-orny) of a combined thickness of at least 20 cm occurring within 60 cm of the mineral soil surface.
+
+::: {style="text-align: right"}
+[**ORNITHOGENIC CRYIC SOILS**](#sec-CB)
+:::
+
+#### **CD** {#sec-key-CD .unnumbered}
+
+Other Cryic Soils that have no [ice-cemented soil material](#sec-cdiag-ice) within 1 m of the mineral soil surface, or to the depth of a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) or stagnant ice, despite a soil temperature of less than 0°C.
+
+::: {style="text-align: right"}
+[**DRY-PERMAFROST CRYIC SOILS**](#sec-CD)
+:::
+
+#### **CO** {#sec-key-CO .unnumbered}
+
+Other Cryic Soils.
+
+::: {style="text-align: right"}
+[**ORTHIC CRYIC SOILS**](#sec-CB)
+:::
+
+## Key to Subgroups of Cryic Soils {#sec-sub-C}
+
+### **CB** - ORNITHOGENIC CRYIC SOILS {#sec-CB .unnumbered}
+
+Ornithogenic Cryic Soils occur in areas associated with bird ground-nesting sites where there is an accumulation of materials derived from bird activity. They may be in areas where birds are actively nesting, or they may be relict features from sites where nesting has been extensive but is now abandoned.  Compared to adjacent areas where intensive bird nesting has not occurred, Ornithogenic Cryic Soils typically have accumulations of organic matter and are enriched in nitrogen, and phosphorus, but also trace elements like cadmium, zinc, and copper that can restrict microbial activity.
+
+#### **CBA** {#sec-key-CBA .unnumbered}
+
+Ornithogenic Cryic Soils without surface evidence of bird nesting activity over the previous two or more years.
+
+::: {style="text-align: right"}
+**Abandoned Ornithogenic Cryic Soils**
+:::
+
+#### **CBT** {#sec-key-CBT .unnumbered}
+
+Other soils.
+
+::: {style="text-align: right"}
+**Typic Ornithogenic Cryic Soils**
+:::
+
+### **CD** - DRY-PERMAFROST CRYIC SOILS {#sec-CD .unnumbered}
+
+Dry-permafrost Cryic Soils occur where evaporation exceeds precipitation and there is insufficient soil moisture (<5%) within the permafrost to form [ice-cemented soil material](#sec-cdiag-ice), such that the soils may be readily excavated using hand tools. Dry-permafrost Cryic Soils typically occur on old, higher altitude surfaces and in the driest inland parts of the McMurdo Dry Valleys. Dry-permafrost Cryic Soils are likely to show evidence of salt accumulation, with visible subsurface salts present in weathered and ultra-weathered subgroups. Soft Dry-permafrost Cryic Soils occur in topographic areas where snowdrifts and dust tend to settle and fine soil material accumulates. They lack a strong desert pavement and are particularly vulnerable to disturbance by trampling.
+
+#### **CDX** {#sec-key-CDX .unnumbered}
+
+Dry-permafrost Cryic Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith)  within 30 cm of the mineral soil surface.
+
+::: {style="text-align: right"}
+**Rocky Dry-permafrost Cryic Soils**
+:::
+
+#### **CDI** {#sec-key-CDI .unnumbered}
+
+Other soils that have [ice-cored moraine features](#sec-cdiag-imorf) with stagnant ice within 1 m of the mineral soil surface.
+
+::: {style="text-align: right"}
+**Ice-cored Dry-permafrost Cryic Soils**
+:::
+
+#### **CDS** {#sec-key-CDS .unnumbered}
+
+Other soils that have a soft (i.e., extremely or very low penetration resistance), unconsolidated surface layer that is strongly indented if exposed to foot-traffic and that lacks a well-developed desert pavement.
+
+::: {style="text-align: right"}
+**Soft Dry-permafrost Cryic Soils**
+:::
+
+#### **CDR** {#sec-key-CDR .unnumbered}
+
+Other soils that have ALL of the following
+
+1.	Negligible weathering within 1 m from the mineral soil surface, AND
+2.	Surface rock fragments are angular and unstained, AND
+3.	Absence of salt under rock fragments or elsewhere within the soil profile.
+
+::: {style="text-align: right"}
+**Raw Dry-permafrost Cryic Soils**
+:::
+
+#### **CDU** {#sec-key-CDU .unnumbered}
+
+Other soils that have ALL of the following 
+
+1.	Strong iron staining with a hue of 10YR or redder and a value of 4, and chroma of 4 or higher on surface rock fragments and in the soil within 1 m of the mineral soil surface, AND
+2.	Visible accumulation of salts within 20 cm of the mineral soil surface, AND
+3.	Coarse rock fragments or bedrock on the soil surface are in the process of disintegrating (i.e., strongly weathered).
+
+::: {style="text-align: right"}
+**Ultra-weathered Dry-permafrost Cryic Soils**
+:::
+
+#### **CDW** {#sec-key-CDW .unnumbered}
+
+Other soils that have ALL of the following
+
+1.	A desert pavement on the soil surface, AND
+2.	A hue of 10YR and value of 5 or higher within 60 cm of the mineral soil surface, AND
+3.	Salt accumulation evident beneath the mineral soil surface.
+
+::: {style="text-align: right"}
+**weathered Dry-permafrost Cryic Soils**
+:::
+
+#### **CDT** {#sec-key-CDT .unnumbered}
+
+Other soils.
+
+::: {style="text-align: right"}
+**Typic Dry-permafrost Cryic Soils**
+:::
+
+### **CO** - ORTHIC CRYIC SOILS {#sec-CO .unnumbered}
+
+Orthic Cryic Soils account for most of the soils in the Ross Sea Region. Orthic Cryic Soils contain [ice-cemented soil material](#sec-cdiag-ice). They are often less studied than the Dry-permafrost soils as they are harder to excavate and are often less weathered. All Orthic Cryic Soils, except the Raw subgroup, are likely to contain some salts. Elevated salt accumulation occurs in the weathered subgroup. Carbonate coatings on the underside of near-surface clasts are common in many areas.
+
+#### **COX** {#sec-key-COX .unnumbered}
+
+Orthic Cryic Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith)  within 30 cm of the mineral soil surface.
+
+::: {style="text-align: right"}
+**Rocky Orthic Cryic Soils**
+:::
+
+#### **COI** {#sec-key-COI .unnumbered}
+
+Other soils that have [ice-cored moraine features](#sec-cdiag-imorf) with stagnant ice within 1 m of the mineral soil surface.
+
+::: {style="text-align: right"}
+**Ice-cored Orthic Cryic Soils**
+:::
+
+#### **COR** {#sec-key-COR .unnumbered}
+
+Other soils that have ALL of the following
+
+1.	Negligible weathering within 1 m from the mineral soil surface, AND
+2.	Surface rock fragments are angular and unstained, AND
+3.	Absence of salt under rock fragments or elsewhere within the soil profile.
+
+::: {style="text-align: right"}
+**Raw Orthic Cryic Soils**
+:::
+
+#### **COU** {#sec-key-COU .unnumbered}
+
+Other soils that have ALL of the following 
+
+1.	Strong iron staining with a hue of 10YR or redder and a value of 4, and chroma of 4 or higher on surface rock fragments and in the soil within 1 m of the mineral soil surface, AND
+2.	Visible accumulation of salts within 20 cm of the mineral soil surface, AND
+3.	Coarse rock fragments or bedrock on the soil surface are in the process of disintegrating (i.e., strongly weathered).
+
+::: {style="text-align: right"}
+**Ultra-weathered Orthic Cryic Soils**
+:::
+
+#### **COW** {#sec-key-COW .unnumbered}
+
+Other soils that have ALL of the following
+
+1.	A desert pavement on the soil surface, AND
+2.	A hue of 10YR and value of 5 or higher within 60 cm of the mineral soil surface, AND
+3.	Salt accumulation evident beneath the mineral soil surface.
+
+::: {style="text-align: right"}
+**weathered Orthic Cryic Soils**
+:::
+
+#### **COT** {#sec-key-COT .unnumbered}
+
+Other soils.
+
+::: {style="text-align: right"}
+**Typic Orthic Cryic Soils**
+:::
