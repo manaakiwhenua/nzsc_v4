@@ -6,67 +6,37 @@ editor_options:
 
 # Appendix {#sec-appendix}
 
-The system for designating the soils consists of letters only. This method has been adopted to make for easier insertion of new subgroups, and to make the codes easier to remember.
+The system for designating the soils consists of letters only. This method has been adopted to make for easier insertion of new subgroups, and to make the codes easier to remember. The following table (@tbl-codes) demonstrates how each code letter has been used in the soil classification, the level at which it has been used, and the meanings.
 
-The following is a list of how each code letter has been used in the soil classification, the level at which it has been used, and the meanings.
+| Code | Order | Group | Subgroup |
+|:--------------|:--------------|:---------------------------|:--------------|
+| **A** | Anthropic | Acid, Aged-argillic | Abandoned, Acidic, Aged, Artefact |
+| **B** | Brown | Ornithogenic | Brown, Buried |
+| **C** | Cryic | Cryic | Calcareous, Cemented, Compacted, Concretionary |
+| **D** |  | Densipan, Dry-permafrost | Pedal |
+| **E** | Melanic | Albic, Melanic | Albic, Melanic |
+| **F** |  | Fibric, Fill, Firm, Fluvial | Fill, Firm, Fluid |
+| **G** | Gley | Gley, Groundwater-gley | Gley, Gleyed, Granular, Magnesic |
+| **H** |  | Humic, Hydrothermal | Humose, Thick |
+| **I** |  | Immature, Impeded | Ice-cored, Immature, Inverted-tephric, Ironstone |
+| **J** |  | Argillic | Argillic |
+| **K** |  |  | Alkaline, Tephric |
+| **L** | Allophanic | Allophanic, Laminar, Litter | Allophanic, Laminar |
+| **M** | Pumice | Mafic, Mesic, Mixed | Mellow, Mottled |
+| **N** | Granular | Nodular | Granular, Nodular, Sodic |
+| **O** | Organic | Māori, Orthic | Organic, Orthic, Peaty |
+| **P** | Pallic | Perch-gley | Impeded, Pallic, Perch-gleyed, Placic, Pumice, Pumiceous |
+| **Q** |  |  | Ortstein, Saline |
+| **R** | Recent | Recent, Refuse, Rendzic | Raw, Sulfuric |
+| **S** | Semiarid | Sandy | Sandy, Scoriaceous, Soft, Sphagnic |
+| **T** |  | Tephric, Truncated | Typic |
+| **U** | Ultic | Duric, Sulfuric | Duric, Humus-pan, Sulfidic, Treated-sulfidic, Ultic, Ultra-weathered |
+| **V** |  | Vertic | Vertic, Vitric |
+| **W** | Raw | Hydric | Weathered, Wet |
+| **X** | Oxidic | Fragic, Oxidic, Pan, Rocky | Coarse, Fragic, Oxidic, Pan, Rocky |
+| **Y** |  | Yellow | Yellow |
+| **Z** | Podzol | Solonetzic | Inverted-impeded, Podzol, Podzolic, Silt-mantled |
 
-```{r}
-library(gt)
-
-table_A1_dat <- data.frame('Code' = LETTERS,
-                         'Order' = c('Anthropic', 'Brown', '', '', 'Melanic', '', 'Gley',
-                         '', '', '', '', 'Allophanic', 'Pumice', 'Granular', 'Organic', 'Pallic',
-                         '', 'Recent', 'Semiarid', '', 'Ultic', '', 'Raw', 'Oxidic', '', 'Podzol'),
-                         'Group' = c('Acid, Aged', 'Brown', '', 'Densipan', 'Melanic, Albic',
-                                     'Firm, Fibric, Fill, Fluvial', 'Gley, groundwater-gley',
-                                     'Humic, Hydrothermal', 'Immature, Impeded', 'Argillic', '',
-                                     'Allophanic, Laminar, Litter', 'Mesic, Mafic, Mixed',
-                                     'Nodular', 'Orthic', 'Pallic, Perch-gley', '',
-                                     'Recent, Refuse, Rendzic', 'Sandy', 'Truncated, Tephric',
-                                     'Sulphuric, Duric', 'Vertic', '', 'Oxidic, Pan, Rocky, Fragic',
-                                     'Yellow', 'Solonetzic'),
-                         'Subgroup' = c('Albic, Acid, Aged, Artifact',
-                                        'Brown, Buried',
-                                        'Calcareous, Concretionary,\n Cemented, Compacted',
-                                        'Pedal',
-                                        'Melanic, Earthy',
-                                        'Fluid',
-                                        'Gley, Gleyed, Magnesic, Granular',
-                                        'Thick, Humose',
-                                        'Immature, Inactive, Ironstone',
-                                        'Argillic',
-                                        'Alkaline',
-                                        'Allophanic, Laminar',
-                                        'Mottled, Yellow',
-                                        'Nodular, Sodic, Stony',
-                                        'Peaty, Orthic',
-                                        'Pallic, Placic, Pumice, Perch-gleyed',
-                                        'Saline, Ortstein',
-                                        'Recent',
-                                        'Sphagnic, Sandy, Tephric',
-                                        'Typic, Tailings',
-                                        'Sulphidic, Humus-pan, Duric',
-                                        'Active, Vitric, Vertic',
-                                        'Weathered, Welded, Wet',
-                                        'Pan, Fragic',
-                                        'Yellow, Ultic',
-                                        'Podzol, Podzolic, Silt')
-                                                               )
-
-table_A1 <- gt(table_A1_dat) |>
-  tab_options(
-    column_labels.font.weight = 'bold', 
-    heading.title.font.weight = 'bold',
-    table.align = 'center',
-    table.width = '95%'
-  ) |>
-  tab_style(
-    style = cell_text(weight = "bold"),
-    locations = cells_body(columns = 1)) |>
-  cols_width(Code ~pct(10), Order ~pct(20))
-
-table_A1
-
-```
+: NZSC Codes {#tbl-codes .hover tbl-colwidths="\[10,20,35,35\]"}
 
 {{< pagebreak >}}
