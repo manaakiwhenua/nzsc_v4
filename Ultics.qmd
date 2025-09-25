@@ -8,11 +8,11 @@ editor_options:
 
 ## Concept of the Order {#sec-con-U}
 
-Ultic soils are [acidic]{.min} soils with clayey and/or organic illuvial features in subsoil horizons. They are developed in clayey weathering products of [felsic]{.min} sediments or igneous rocks and usually contain mixtures of clay minerals including kaolinite, halloysite, aluminium-interlayered vermiculite and smectite. A few are developed in the weathering products of limestones and greensands. They have low potassium, magnesium and phosphorus reserves and [contain mostly]{.min} small concentrations of [highly weathered]{.min} minerals. [[Eluvial horizons](Diagnostics.qmd#sec-diag-eluv)]{.maj} or other features such as skeletans in the upper parts of the Bt horizon are indicative of clay destruction/removal processes. [Argillic horizons](Diagnostics.qmd#sec-diag-argh) are usually present.
+Ultic soils are acidic soils with clayey and/or organic illuvial features in subsoil horizons. They are developed in clayey weathering products of felsic sediments, igneous rocks or strongly weathered tephra deposits, and usually contain mixtures of clay minerals including kaolinite, halloysite, aluminium-interlayered vermiculite and smectite. A few are developed in the weathering products of limestones and greensands. They have low potassium, magnesium and phosphorus reserves and contain mostly highly weathered minerals. [Eluvial horizons](Diagnostics.qmd#sec-diag-eluv) or other features such as skeletans in the upper parts of the Bt horizon are indicative of clay destruction/removal processes. [Argillic horizons](Diagnostics.qmd#sec-diag-argh) are usually present.
 
 ## Correlation {#sec-cor-U}
 
-The order comprises most northern yellow-brown earths, podzolised northern yellow-brown earths, many central yellow-brown earths (particularly those described as derived from pre-weathered parent materials) and some northern podzols and yellow-brown sands of the NZ Genetic Soil Classification. Most Ultic Soils are Ultisols in Soil Taxonomy.
+The order comprises most northern yellow-brown earths, podzolised northern yellow-brown earths, many central yellow-brown earths (particularly those described as derived from pre-weathered parent materials) and some northern podzols and yellow-brown sands of the *New Zealand Genetic Soil Classification*. Most Ultic Soils are Ultisols in *Soil Taxonomy*.
 
 ## Occurrence {#sec-occ-U}
 
@@ -21,19 +21,19 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 ## Accessory Properties of the Order {#sec-acc-U}
 
 1.  *Acidity.* KCl-extractable aluminium levels of more than 1 cmol~c~/kg are usual in B horizons, and indicate toxic aluminium which may inhibit root function and may contribute to shallow rooting habits in aluminium-sensitive plants.
-2.  *Clayey subsoils.* CEC values are medium to high. Ultic Soils cover a wide range of mineralogy classes, Kandic and Smectitic being the most common.
-3.  [*Low magnesium and potassium.*]{.min} Low concentrations of reserve magnesium and potassium resulting from strong weathering.
+2.  *Clayey subsoils.* CEC values are medium to high. Ultic Soils cover a wide range of mineralogy classes, Kandic/Halloysitic and Smectitic being the most common.
+3.  *Low magnesium and potassium.* Low concentrations of reserve magnesium and potassium resulting from strong weathering.
 4.  *Strongly weathered with low nutrient reserves.* Low levels of 0.5M H~2~SO~4~^-^ extractable phosphorus (usually less than 3 mg/100 g) and total phosphorus (usually less than 20 mg/100 g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of 0.5M H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
-5.  *Slow permeability.* A slowly permeable layer occurs in clayey profiles. The majority of soils are imperfectly to poorly drained, few are well-drained. Soil water movement is mainly along planar voids.
-6.  *Susceptibility to livestock treading damage.* Clayey or low strength silty surface horizons are susceptible to treading damage or compaction during wet periods.
-7.  *Dispersible surface horizons.* Surface horizons, especially silty ones, are dispersible according to the test of @mcqueen1981, and are prone to erosion where the surface cover has been removed. Although P retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
+5.  *Slow permeability.* A [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp) occurs in clayey profiles, in some cases marking a buried paleosol beneath a lithological discontinuity. The majority of soils are imperfectly to poorly drained. Soil water movement is mainly along planar voids.
+6.  *Susceptibility to livestock treading damage.* Clayey or low strength, silty surface horizons are susceptible to treading damage or compaction during wet periods.
+7.  *Dispersible surface horizons.* Surface horizons, especially silty ones, are dispersible according to the test of @mcqueen1981, and are prone to erosion where the surface cover has been removed. Although phosphate retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
 
 ## Summary of Ultic Soils Hierarchy {#sec-sum-U}
 
 ```{r}
 #| label: tbl-U
 #| tbl-cap: "Ultic Soils"
-#| classes: '.plain, .hover'
+#| classes: '.plain .hover'
 
 library(gt)
 
@@ -56,8 +56,8 @@ table_U_dat <- data.frame(
                  'Buried-granular', 'Typic'),
   'Example_Series' = c('Wharekohe', 'Hukerenui', 
                        'Waikare, Okaka', 'Rangiora', 'Riponui',
-                       'pt. Tangitiki', 'Omu',
-                       'Tangitiki', 'pt. Tangitiki', 'pt. Red Hill',
+                       'Tangitiki', 'Omu',
+                       'Tangitiki', 'Tangitiki', 'Red Hill',
                        '-', 'Tennyson', 'Puhoi', 'Opouri', 'Kainui', 'Warkworth')
 ) 
 
@@ -79,15 +79,15 @@ table_U
 
 ## Key to Groups of Ultic Soils {#sec-grp-U}
 
-#### **UD** {#sec-key-UD}
+#### **UD** {#sec-key-UD .unnumbered}
 
-Ultic Soils that have a [densipan](Diagnostics.qmd#sec-diag-dens) (Ed horizon)
+Ultic Soils that have a [densipan](Diagnostics.qmd#sec-diag-dens) (Ed horizon).
 
 ::: {style="text-align: right"}
 [**DENSIPAN ULTIC SOILS**](#sec-UD)
 :::
 
-#### **UE** {#sec-key-UE}
+#### **UE** {#sec-key-UE .unnumbered}
 
 Other Ultic Soils that have an Eg or Er horizon overlying a firm, clayey B horizon that has prismatic peds with humus and/or clay coatings in some part.
 
@@ -95,15 +95,19 @@ Other Ultic Soils that have an Eg or Er horizon overlying a firm, clayey B horiz
 [**ALBIC ULTIC SOILS**](#sec-UE)
 :::
 
-#### **UP** {#sec-key-UP}
+#### **UP** {#sec-key-UP .unnumbered}
 
-Other Ultic Soils that have a [gley profile form](Diagnostics.qmd#sec-diag-gleypf).
+Other Ultic Soils that have BOTH
+
+1. A [gley profile form](Diagnostics.qmd#sec-diag-gleypf), AND
+2. [Perch-gley features](Diagnostics.qmd#sec-diag-pgley).
+
 
 ::: {style="text-align: right"}
 [**PERCH-GLEY ULTIC SOILS**](#sec-UP)
 :::
 
-#### **US** {#sec-key-US}
+#### **US** {#sec-key-US .unnumbered}
 
 Other Ultic soils with more than 60% sand in the B horizon.
 
@@ -111,7 +115,7 @@ Other Ultic soils with more than 60% sand in the B horizon.
 [**SANDY ULTIC SOILS**](#sec-US)
 :::
 
-#### **UY** {#sec-key-UY}
+#### **UY** {#sec-key-UY .unnumbered}
 
 Other Ultic Soils.
 
@@ -121,19 +125,19 @@ Other Ultic Soils.
 
 ## Key to Subgroups of Ultic Soils {#sec-sub-U}
 
-### **UD** - DENSIPAN ULTIC SOILS {#sec-UD}
+### **UD** - DENSIPAN ULTIC SOILS {#sec-UD .unnumbered}
 
 Densipan Ultic Soils have a high density but uncemented pan at shallow depth which severely limits root penetration and water movement. Surface soil horizons are seasonally wet and the soil is very susceptible to livestock treading damage.
 
-#### **UDP** {#sec-key-UDP}
+#### **UDP** {#sec-key-UDP .unnumbered}
 
-Soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) below the [densipan](Diagnostics.qmd#sec-diag-dens).
+Densipan Ultic Soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) below the [densipan](Diagnostics.qmd#sec-diag-dens).
 
 ::: {style="text-align: right"}
 **Perch-gleyed Densipan Ultic Soils**
 :::
 
-#### **UDM** {#sec-key-UDM}
+#### **UDM** {#sec-key-UDM .unnumbered}
 
 Other soils that have a [redox-mottled horizon](Diagnostics.qmd#sec-diag-redmh) immediately underlying the [densipan](Diagnostics.qmd#sec-diag-dens).
 
@@ -141,27 +145,27 @@ Other soils that have a [redox-mottled horizon](Diagnostics.qmd#sec-diag-redmh) 
 **Mottled Densipan Ultic Soils**
 :::
 
-### **UE** - ALBIC ULTIC SOILS {#sec-UE}
+### **UE** - ALBIC ULTIC SOILS {#sec-UE .unnumbered}
 
-Albic Ultic Soils have an [[Eluvial horizons](Diagnostics.qmd#sec-diag-eluv)]{.maj} immediately beneath the topsoil. The surface soil horizons are seasonally wet and the soil is very susceptible to damage from livestock treading.
+Albic Ultic Soils have an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) immediately beneath the topsoil. The surface soil horizons are seasonally wet and the soil is very susceptible to damage from livestock treading.
 
-#### **UEP** {#sec-key-UEP}
+#### **UEP** {#sec-key-UEP .unnumbered}
 
-Soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) below the [[Eluvial horizons](Diagnostics.qmd#sec-diag-eluv)]{.maj}.
+Albic Ultic Soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) below the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv).
 
 ::: {style="text-align: right"}
 **Perch-gleyed Albic Ultic Soils**
 :::
 
-#### **UEM** {#sec-key-UEM}
+#### **UEM** {#sec-key-UEM .unnumbered}
 
-Other soils that have a [redox-mottled horizon](Diagnostics.qmd#sec-diag-redmh) below the [[Eluvial horizons](Diagnostics.qmd#sec-diag-eluv)]{.maj}.
+Other soils that have a [redox-mottled horizon](Diagnostics.qmd#sec-diag-redmh) below the [eluvial horizons](Diagnostics.qmd#sec-diag-eluv).
 
 ::: {style="text-align: right"}
 **Mottled Albic Ultic Soils**
 :::
 
-#### **UEY** {#sec-key-UEY}
+#### **UEY** {#sec-key-UEY .unnumbered}
 
 Other soils.
 
@@ -169,19 +173,19 @@ Other soils.
 **Yellow Albic Ultic Soils**
 :::
 
-### **UP** - PERCH-GLEY ULTIC SOILS {#sec-UP}
+### **UP** - PERCH-GLEY ULTIC SOILS {#sec-UP .unnumbered}
 
-Perch-gley Ultic Soils have seasonal wetness close to the soil surface, indicated by grey colours in horizons immediately beneath the topsoil. The topsoil is clayey. The wetness is caused by perching on a clayey slowly permeable layer, although a groundwater table may also occur.
+Perch-gley Ultic Soils have seasonal wetness close to the soil surface, indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) in horizons immediately beneath the topsoil. The wetness is caused by perching on a clayey, [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), although a groundwater table may also occur. The topsoil is clayey.
 
-#### **UPS** {#sec-key-UPS}
+#### **UPS** {#sec-key-UPS .unnumbered}
 
-Soils that have more than 60% sand in the B horizon.
+Perch-gley Ultic Soils that have more than 60% sand in the B horizon.
 
 ::: {style="text-align: right"}
 **Sandy Perch-gley Ultic Soils**
 :::
 
-#### **UPT** {#sec-key-UPT}
+#### **UPT** {#sec-key-UPT .unnumbered}
 
 Other soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) with an upper boundary within either 15 cm of the base of the A horizon, or 30 cm of the mineral soil surface.
 
@@ -189,19 +193,19 @@ Other soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh)
 **Typic Perch-gley Ultic Soils**
 :::
 
-### **US** - SANDY ULTIC SOILS {#sec-US}
+### **US** - SANDY ULTIC SOILS {#sec-US .unnumbered}
 
-Sandy Ultic Soils occur in weathered aeolian sands. [They have relatively lower CEC and available water than is typical of Ultic Soils.]{.min}
+Sandy Ultic Soils occur in weathered aeolian sands. They have lower CEC and available water than is typical of Ultic Soils.
 
-#### **USE** {#sec-key-USE}
+#### **USE** {#sec-key-USE .unnumbered}
 
-Soils that have an Ea or Er horizon.
+Sandy Ultic Soils that have an Ea or Er horizon.
 
 ::: {style="text-align: right"}
 **Albic Sandy Ultic Soils**
 :::
 
-#### **USM** {#sec-key-USM}
+#### **USM** {#sec-key-USM .unnumbered}
 
 Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -209,7 +213,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Sandy Ultic Soils**
 :::
 
-#### **UST** {#sec-key-UST}
+#### **UST** {#sec-key-UST .unnumbered}
 
 Other soils.
 
@@ -217,33 +221,33 @@ Other soils.
 **Typic Sandy Ultic Soils**
 :::
 
-### **UY** - YELLOW ULTIC SOILS {#sec-UY}
+### **UY** - YELLOW ULTIC SOILS {#sec-UY .unnumbered}
 
-Yellow Ultic Soils are clayey and lack [densipans](Diagnostics.qmd#sec-diag-dens) or thick E horizons. They are moderately well or imperfectly drained. Few are well drained.
+Yellow Ultic Soils are clayey and lack [densipans](Diagnostics.qmd#sec-diag-dens) or thick [eluvial horizons](Diagnostics.qmd#sec-diag-eluv). They are moderately well or imperfectly drained. Few are well drained.
 
-#### **UYG** {#sec-key-UYG}
+#### **UYG** {#sec-key-UYG .unnumbered}
 
-Soils that have either
+Yellow Ultic Soils that have EITHER
 
-1.  5% (by volume) or more [rock fragments]{.min} that consist mainly of ultramafic rocks, *or*
-2.  have an exchangeable calcium/magnesium [molar]{.min} ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
+1.  5% (by volume) or more coarse rock fragments that consist mainly of ultramafic rocks, OR
+2.  Have an exchangeable calcium/magnesium molar ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Yellow Ultic Soils**
 :::
 
-#### **UYMZ** {#sec-key-UYMZ}
+#### **UYMZ** {#sec-key-UYMZ .unnumbered}
 
-Other soils that have both
+Other soils that have BOTH
 
-1.  pH of 4.8 or less in the [[Eluvial horizons](Diagnostics.qmd#sec-diag-eluv)]{.maj} (if present) or upper subhorizon of the B, and 10% or more humus coatings or coatings of colour value 4 or less on peds in some part of the B horizon, *and*
-2.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+1.  pH of 4.8 or less in the [eluvial horizons](Diagnostics.qmd#sec-diag-eluv) (if present) or uppermost B subhorizon, and 10% or more humus coatings or coatings of colour value 4 or less on peds in some part of the B horizon, AND
+2.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
 **Mottled-podzolic Yellow Ultic Soils**
 :::
 
-#### **UYM** {#sec-key-UYM}
+#### **UYM** {#sec-key-UYM .unnumbered}
 
 Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
@@ -251,26 +255,26 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Yellow Ultic Soils**
 :::
 
-#### **UYZ** {#sec-key-UYZ}
+#### **UYZ** {#sec-key-UYZ .unnumbered}
 
-Other soils that have pH of 4.8 or less in the [[Eluvial horizons](Diagnostics.qmd#sec-diag-eluv)]{.maj} (if present) or upper subhorizon of the B, and 10% or more humus coatings or coatings of colour value 4 or less on peds in some part of the B horizon.
+Other soils that have pH of 4.8 or less in the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) (if present) or uppermost B subhorizon, and 10% or more humus coatings or coatings of colour value 4 or less on peds in some part of the B horizon.
 
 ::: {style="text-align: right"}
 **Podzolic Yellow Ultic Soils**
 :::
 
-#### **UYBG** {#sec-key-UYBG}
+#### **UYBG** {#sec-key-UYBG .unnumbered}
 
-Other soils that *both*
+Other soils that have BOTH
 
-1.  have silt loam or silty clay texture dominant from the soil surface to a depth of 60 cm, *and*
-2.  [are underlain by a texture contrast to horizons with a clay texture class]{.min} that have colour values of 4 or less.
+1.  A silt loam or silty clay texture dominant from the soil surface to a depth of 60 cm, AND
+2.  A texture contrast to clay-textured horizons that have colour values of 4 or less.
 
 ::: {style="text-align: right"}
 **Buried-granular Yellow Ultic Soils**
 :::
 
-#### **UYT** {#sec-key-UYT}
+#### **UYT** {#sec-key-UYT .unnumbered}
 
 Other soils.
 
