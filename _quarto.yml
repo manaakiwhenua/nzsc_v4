@@ -41,9 +41,11 @@ book:
     - Semiarids.qmd
     - Ultics.qmd
     - Acknowledgements.qmd
-    - Appendix.qmd
     - references.qmd
-    - glossary.qmd
+  appendices:
+    - Appendix_cryic.qmd
+    - Appendix_letters.qmd
+
 
 bibliography: NZSC_reference_list_4e.bib
 csl: mwlr-citation-style-second-ed.csl
