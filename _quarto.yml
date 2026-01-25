@@ -5,8 +5,31 @@ project:
     browser: true
 
 book:
-  title: "New Zealand Soil Classification, 4th edition"
-  author: "A. E. Hewitt and NZSC Working Group"
+  title: "New Zealand Soil Classification"
+  edition: 4
+  author:
+    - id: nzscwg
+      name:
+        literal: "NZSC Working Group"
+    - id: aeh
+      name:
+        given: "Alan E."
+        family: "Hewitt"
+      degrees: "PhD"
+      attributes:
+        corresponding: false
+        deceased: true
+    - id: aeg
+      name:
+        given: "Andre"
+        family: "Eger"
+      email: "soilstandards@landcareresearch.co.nz"
+      orcid: "0000-0001-8442-6815"
+      degrees: "PhD"
+      attributes:
+        corresponding: true
+      role:
+        - editing: lead
   date: last-modified
   language: en
   page-navigation: true
