@@ -311,8 +311,8 @@ table_001_dat <- data.frame(
                          ))
 
 table_001 <- gt(table_001_dat,
-                rowname_col = 'NZSC_suborder',
-                groupname_col = 'NZSC_order') |>
+                rowname_col = 'NZSC_Suborder',
+                groupname_col = 'NZSC_Order') |>
    tab_options(
     column_labels.font.weight = 'bold', 
     heading.title.font.weight = 'bold',
