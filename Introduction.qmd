@@ -6,23 +6,23 @@ editor_options:
 
 # Introduction {#sec-intro}
 
-## Evolution of New Zealand soils {#sec-intro-evo}
+## Evolution of the soils of Aotearoa-New Zealand {#sec-intro-evo}
 
-The *New Zealand Soil Classification* broadly traces the evolution, or genesis, of New Zealand soils through time [@hewitt1998]. @fig-paths shows major pathways in the evolution of New Zealand soils. The pathways represent only those likely to have occurred over extensive areas, with many minor pathways or interlinkages omitted for clarity. In mineral parent materials, Raw Soils develop mostly into Recent Soils. The nature of the parent material then strongly determines the subsequent soil genesis pathway. Later, parent material becomes less important, and climate and vegetation, along with time, become more important controls over the character of the soil that evolves [@hewitt1998; @hewitt2021].
+The *New Zealand Soil Classification* broadly traces the evolution, or genesis, of New Zealand soils through time [@hewitt1998]. @fig-paths shows major pathways in the evolution of New Zealand soils. The pathways represent only those likely to have occurred over extensive areas, with many minor pathways or interlinkages omitted for clarity. In mineral parent materials, Raw Soils develop mostly into Recent Soils. The nature of the parent material then strongly determines the subsequent soil genesis pathway. Later, parent material becomes less important (except where upbuilding pedogenesis predominates), and climate and vegetation, along with time, become more important controls over the character of the soil that evolves [@hewitt1998; @hewitt2021].
 
-![Major genetic pathways in the evolution of New Zealand soils, based mainly around orders of the New Zealand Soil Classification, and some approximate age ranges for their formation. The pathways represent only those likely to have occurred over extensive areas. Other pathways, and broad mechanisms of soil evolution including topdown versus upbuilding pedogenesis, are omitted. From @hewitt2021, modified after @hewitt1998.](images/figure_001_nzscdev.png){#fig-paths .lightbox fig-align="center"}
+![Major genetic pathways in the evolution of New Zealand soils, based mainly around orders of the *New Zealand Soil Classification*, and some approximate age ranges for their formation. The pathways represent only those likely to have occurred over extensive areas. Other pathways, and broad mechanisms of soil evolution including topdown versus upbuilding pedogenesis, are omitted. From @hewitt2021, modified after @hewitt1998.](images/figure_001_nzscdev.png){#fig-paths .lightbox fig-align="center"}
 
 In terms of soil order frequency in New Zealand, Brown Soils are most common (43%), followed by Podzol (13%), Pallic (12%), Pumice (7%), Recent (6%) and Allophanic (5%). The other nine orders account for the remaining 14% with Oxidic and Anthropic the least common with \<1% each.
 
-Soil formation, in its traditionally recognised form, proceeds by modifying a pre-existing parent material according to soil forming factors that dictate a range of processes and their impacts [@simonson1959]. In this situation, the soil profile originates via two steps: step 1, accumulation (or exhumation) of a fresh parent material at the land surface, followed by step 2, the modification of the parent material by soil-forming processes and weathering to form soil horizons leading to a deepening of the soil profile. However, the outcomes of this classical model of ‘topdown pedogenesis’ are modified when geological deposits (e.g., alluvium, tephra, loess, colluvium) are simultaneously added to the surface as it is commonly the case in New Zealand landscapes. Here, step 1 and step 2 occur together (not sequentially) so that the soil profile deepens as the land surface rises over time. This situation, when topdown pedogenesis occurs concomitantly with surface deposition, is called ‘upbuilding pedogenesis’ [@johnson1990]. The concept of upbuilding pedogenesis was recognised in New Zealand more than 90 years ago [@taylor1933], but it is only in comparatively recent times that it has become more fully appreciated. The deposition at the surface may be incremental (developmental upbuilding pedogenesis) or may comprise the sudden deposition of a relatively thick deposit that buries and isolates the antecedent soil (retardant upbuilding pedogenesis) [@hartemink2020; @palmer2025]. Upbuilding pedogenesis is captured in the New Zealand Soil Classification mainly through the recognition of lithologic discontinuities and buried horizons (paleosols) in soil profiles, which demand specific notations [@clayden2015] often indicated in the text by the term ‘buried’ (e.g., Buried-allophanic Orthic Pumice Soil). Upbuilding pedogenesis is predominant to common in Allophanic, Pumice, Pallic, Raw, Recent, Gley, Podzol and Brown soils, and various other soils also exhibit upbuilding pedogenesis to some degree [@hewitt2021].
+Soil formation, in its traditionally recognised form, proceeds by modifying a pre-existing parent material according to soil forming factors that dictate a range of processes and their impacts [@simonson1959]. In this situation, the soil profile originates via two steps: step 1, accumulation (or exhumation) of a fresh parent material at the land surface, followed by step 2, the modification of the parent material by soil-forming processes and weathering to form soil horizons leading to a deepening of the soil profile. However, the outcomes of this classical model of ‘topdown pedogenesis’ are modified when geological deposits (e.g., alluvium, tephra, loess, colluvium) are simultaneously added to the surface as it is commonly the case in New Zealand landscapes. Here, step 1 and step 2 occur together (not sequentially) so that the soil profile deepens as the land surface rises over time. This situation, when topdown pedogenesis occurs concomitantly with surface deposition, is called ‘upbuilding pedogenesis’ [@johnson1990]. The concept of upbuilding pedogenesis was recognised in New Zealand more than 90 years ago [@taylor1933], but it is only in comparatively recent times that it has become more fully appreciated [@almond1999]. The deposition at the surface may be incremental (developmental upbuilding pedogenesis) or may comprise the sudden deposition of a relatively thick deposit that buries and isolates the antecedent soil (retardant upbuilding pedogenesis) [@hartemink2020; @palmer2025]. Upbuilding pedogenesis is captured in the *New Zealand Soil Classification* mainly through the recognition of lithologic discontinuities and buried horizons (paleosols) in soil profiles, which demand specific notations [@obrien2025] often indicated in the text by the term ‘buried’ (e.g., Buried-allophanic Orthic Pumice Soil). Upbuilding pedogenesis is predominant to common in Allophanic, Pumice, Pallic, Raw, Recent, Gley, Podzol and Brown soils, and various other soils also exhibit upbuilding pedogenesis to some degree [@hewitt2021].
 
 ## The history of the New Zealand Soil Classification {#sec-intro-history}
 
-The 4^th^ edition of the *Zealand Soil Classification* is the culmination of a period of development from its initiation in 1983 to wide circulation of preliminary draft versions 1.0 and 2.0 [@hewitt1987a; @hewitt1989] for comment and testing before the revised version 3.0 [@hewitt2010] was formally published in 1992 [@hewitt1992a], reviewed by [@lowe1992]. The latest edition represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary.
+The 4^th^ edition of the *Zealand Soil Classification* is the culmination of a period of development from its initiation in 1983 to wide circulation of preliminary draft versions 1.0 and 2.0 [@hewitt1987a; @hewitt1989] for comment and testing before the revised version 3.0 was formally published in 1992 [@hewitt1992a]. Two further editions followed in 1998 [@hewitt1998a]and 2010 [@hewitt2010]. The latest (fourth) edition represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary.
 
-The *New Zealand Soil Classification* is a national three-tier soil classification that replaced the *New Zealand Genetic Soil Classification* [@soilbureaustaff1948; @taylor1957; @taylor1962a; @taylor1968][^introduction-1]. The *New Zealand Genetic Soil Classification* grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played a vital role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s [@hewitt1992b]. The first edition developed from the *New Zealand Genetic Soil Classification* and preserved various parts of it. Since then, the *New Zealand Soil Classification* has further evolved through experience in using the earlier editions and new knowledge. It has also been influenced by experience in testing the first edition of *Soil Taxonomy* [@leamy1983; @leamy1990; @hewitt1992b], and the development of subsequent versions of Soil Taxonomy including the most recent edition and keys [@soilsurveystaff1999; @soilsurveystaff2022]. With the 4^th^ edition we also introduce an extended appendix that now includes an additional soil order (i.e., the Cryic Soil Order) and associated diagnostic criteria. This is to accommodate the soils of the Ross Sea Region of Antarctica, a focal point of Antarctic soil research with leading contributions of New Zealand soil scientists. It addresses the anomaly of New Zealand workers having to use international classifications when working in Antarctica. If, in the future, more empirical evidence emerges that taxa of the Cryic Soil Order might also be applicable to New Zealand soil environments (e.g., alpine environments of the Southern Alps), it can be shifted to the top of the main soil order key.
+The *New Zealand Soil Classification* is a national three-tier soil classification that replaced the *New Zealand Genetic Soil Classification* [@soilbureaustaff1948; @taylor1957; @taylor1962a; @taylor1968; @taylor1979][^introduction-1]. The *New Zealand Genetic Soil Classification* grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played an essential role in the development of pastoral agriculture. However, modern soil surveys and land evaluations required precise definition of classes and keys for their recognition. Furthermore, a new synthesis was needed of the large body of information collected since the 1950s [@hewitt1992b]. The first edition developed from the *New Zealand Genetic Soil Classification* and preserved various parts of it. Since then, the *New Zealand Soil Classification* has further evolved through experience in using the earlier editions and new knowledge. It has also been influenced by experience in testing the first edition of *Soil Taxonomy* [@leamy1983; @leamy1990; @hewitt1992b], and the development of subsequent versions of Soil Taxonomy including the most recent edition and keys [@soilsurveystaff1999; @soilsurveystaff2022]. With the fourth edition we also introduce an extended appendix that now includes an additional soil order (i.e., the Cryic Soil Order) and associated diagnostic criteria. This is to accommodate the soils of the Ross Sea Region of Antarctica, a focal point of Antarctic soil research with leading contributions of New Zealand soil scientists. It addresses the anomaly of New Zealand workers having to use international classifications when working in Antarctica. If, in the future, more empirical evidence emerges that taxa of the Cryic Soil Order might also be applicable to New Zealand soil environments (e.g., alpine environments of the Southern Alps), it can be shifted to the top of the main soil order key.
 
-[^introduction-1]: Note that Soil Bureau Bulletin 3, entitled "A genetic classification of New Zealand soils", was never published, except for the map "Soil map of New Zealand" in 1948.
+[^introduction-1]: Note that Soil Bureau Bulletin 3, entitled "A genetic classification of New Zealand soils", was never published, except for the map "Soil map of New Zealand" in 1948. To reference the *New Zealand Genetic Soil Classification*, we cite a range of readily accessible drafts, editions and summaries representing its evolution through time.
 
 ## Objectives {#sec-intro-objectives}
 
@@ -56,11 +56,11 @@ The soil individual is the fundamental unit of soil which is assigned to classes
 
 Accordingly, the pedon as defined in *Soil Taxonomy* [@soilsurveystaff1975] and referred to as "a unit of sampling" by [@soilsurveystaff1999] is recommended as the soil individual for the *New Zealand Soil Classification*. It is understood that assignments are often made from the examination of volumes of soil smaller than a complete pedon, where they are assumed representative of the pedon. Notwithstanding this definition, it is noted that an alternative concept of the pedon was proposed by @holmgren1988, this concept now forming in part the basis for digital soil mapping and thus also applying to parts of New Zealand’s soil survey online database, S-map: "A pedon is the possibility for soil observation in respect to a geographic point location. It can be realized by a set of observational propositions, each spatially and temporally specified in relation to that location".
 
-## How to assign a soil to Subgroup level {#sec-intro-assign-subgroup}
+## How to assign a soil to subgroup level {#sec-intro-assign-subgroup}
 
 Normally, a soil pit must be dug of sufficient size to expose the soil horizons to about 1 m depth, or to rock if shallower.
 
-The soil horizons are examined and the assignment is then made by following the key, starting with the [Key to Orders](Key-to-Orders.qmd#sec-key). The ["Diagnostic Horizons and Other Differentiae"](Diagnostics.qmd#sec-diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia, which will be applied according to a specified control section. For some classes, pH or other chemical measurements must be made. The characteristics of the soil are compared with the key statements of each soil order, starting with [Organic Soils](Key-to-Orders#sec-O) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup. Note that in the keys to the groups and subgroups, the soils, following usage in *Soil Taxonomy*, are generally listed from more to least problematic in terms of most agricultural or horticultural land uses. For example, in Allophanic Soils, Perch-gley Allophanic Soils are listed first in the group keys, and Ironstone Perch-gley Allophanic Soils head the list in the subgroup keys, with subsequent taxa in each section having decreasing limitations for agriculture. Further, the word 'typic' does not necessarily mean the most extensive or typical; rather, it is a taxon representing soils without any of the characteristics defined for other taxa in the same class, (i.e., with no aberrant properties). Being placed last in the keys, it is in effect a default class. Similarly, the word 'orthic', meaning normal, conventional, represents a soil with no special qualities worthy of separate taxon status. It is not necessarily the most common taxon.
+The soil horizons are examined, and the assignment is then made by following the key, starting with the [Key to Orders](Key-to-Orders.qmd#sec-key). The ["Diagnostic Horizons and Other Differentiae"](Diagnostics.qmd#sec-diagnostics) section is consulted as necessary to identify diagnostic horizons and other differentia, which will be applied according to a specified control section. For some classes, pH or other chemical measurements must be made. The characteristics of the soil are compared with the key statements of each soil order, starting with [Organic Soils](Key-to-Orders#sec-O) and passing down the key to the first soil order that fits them. When a soil order is identified, the chapter concerning that order is consulted and the keys to soil groups and soil subgroups are followed in the same manner to identify the appropriate soil group and subgroup. Note that in the keys to the groups and subgroups, the soils, following usage in *Soil Taxonomy*, are generally listed from more to least problematic in terms of most agricultural or horticultural land uses. For example, in Allophanic Soils, Perch-gley Allophanic Soils are listed first in the group keys, and Ironstone Perch-gley Allophanic Soils head the list in the subgroup keys, with subsequent taxa in each section having decreasing limitations for agriculture. Further, the word 'typic' does not necessarily mean the most extensive or typical; rather, it is a taxon representing soils without any of the characteristics defined for other taxa in the same class, (i.e., with no aberrant properties). Being placed last in the keys, it is in effect a default class. Similarly, the word 'orthic', meaning normal, conventional, represents a soil with no special qualities worthy of separate taxon status. It is not necessarily the most common taxon.
 
 The name given to a soil assigned to a subgroup is made up of three elements in the sequence: subgroup, group, and order (for example, [Nodular Perch-gley Oxidic Soils](Oxidics.qmd#sec-key-XPN)). Note that “Perch-gley”, being hyphenated, is one word, thereby conforming to these nomenclatural rules. @fig-oxfc illustrates the relationships between subgroups and groups in the [Oxidic Soils](Oxidics.qmd#sec-ord-X) order.
 
@@ -72,7 +72,7 @@ It is possible to classify soils to a more detailed level than the subgroup. His
 
 ## Misclassification {#sec-intro-misclass}
 
-The classes are the most important part of the soil classification. The key is merely a means of allocating soils to these classes, and by its nature is imperfect because only a sample of all the possible soils that might potentially be allocated were used in developing the key. Consequently, soils will be found that are not allocated to the appropriate class by the key. This will be apparent when a soil, allocated to a class, does not conform to the concept and accessory statements that can normally be made about that class. Because the key is the servant of the classes, the allocator is justified in placing the soil misfit into a more appropriate class. If this is done, however, it must be registered with the person with responsibility for the national soil classification system, so that appropriate adjustments may be made to the key when the soil classification is next revised. An allocation contrary to the key must also be noted in any records or publication of the allocation.
+The classes are the most important part of the soil classification. The key is merely a means of allocating soils to these classes, and by its nature is imperfect because only a sample of all the possible soils that might potentially be allocated were used in developing the key. Consequently, soils will be found that are not allocated to the appropriate class by the key. This will be apparent when a soil, allocated to a class, does not conform to the concept and accessory statements that can normally be made about that class. Because the key is the servant of the classes, the allocator is justified in placing the soil misfit into a more appropriate class. If this is done, however, it must be registered with the person(s) with responsibility for the national soil classification system, so that appropriate adjustments may be made to the key when the soil classification is next revised. An allocation contrary to the key must also be noted in any records or publication of the allocation.
 
 ## Justification of new subgroups {#sec-intro-new-sgs}
 
@@ -80,9 +80,9 @@ Justification for new subgroups may be made in two ways. First, if a soil is jud
 
 ## Correlations with other soil classification systems {#sec-intro-correls}
 
-Classes of the *New Zealand Soil Classification* do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. It is likely that all orders of *Soil Taxonomy* are represented in New Zealand, albeit some uncommonly or rarely, although Gelisols have not yet been formally identified [@tbl-nzscstareas].
+Classes of the *New Zealand Soil Classification* do not correspond precisely with classes of other soil classification systems. Despite this, correlations can be made where classes are substantially equivalent. It is likely that all orders of *Soil Taxonomy* are represented in New Zealand, albeit some uncommonly or rarely, although Gelisols have not yet been formally identified in the New Zealand archipelago.
 
-@tbl-nzsccorr summarises the correlations of classes of the *New Zealand Soil Classification* with those of the *New Zealand Genetic Soil Classification* [@taylor1968] and Soil Taxonomy [@soilsurveystaff1999; @soilsurveystaff2022]. Further correlation with *World Reference Base* [@iussworkinggroupwrb2022] are presented in @hewitt2021.
+@tbl-nzscstareas and @tbl-nzsccorr summarise the correlations of classes of the *New Zealand Soil Classification* with those of the *New Zealand Genetic Soil Classification* [@taylor1968] and *Soil Taxonomy* [@soilsurveystaff1999; @soilsurveystaff2022]. Further correlation with *World Reference Base* [@iussworkinggroupwrb2022] are presented in @hewitt2021.
 
 ```{r}
 #| label: tbl-nzscstareas
@@ -123,195 +123,253 @@ corr_pc_tab
 
 
 table_001_dat <- data.frame(
-  'NZSC_order' = c(rep('ALLOPHANIC SOILS', 4),
-                   rep('ANTHROPIC SOILS', 4),
-                   rep('BROWN SOILS', 7),
-                   rep('GLEY SOILS', 6),
-                   rep('GRANULAR SOILS', 4),
-                   rep('MELANIC SOILS', 5),
-                   rep('ORGANIC SOILS', 4),
-                   rep('OXIDIC SOILS', 3),
-                   rep('PALLIC SOILS', 6),
-                   rep('PODZOLS', 5),
-                   rep('PUMICE SOILS', 3),
-                   rep('RAW SOILS', 7),
-                   rep('RECENT SOILS', 6),
-                   rep('SEMIARID SOILS', 4),
-                   rep('ULTIC SOILS', 5)),
-  'NZSC_Suborder' = c(
-                      'Perch-Gley Allophanic Soils',
-                      'Gley Allophanic Soils',
-                      'Impeded Allophanic Soils',
-                      'Orthic Allophanic Soils',
-                      'Truncated Anthropic Soils',
-                      'Refuse Anthropic Soils',
-                      'Mixed Anthropic Soils',
-                      'Fill Anthropic Soils',
-                      'Allophanic Brown Soils',
-                      'Sandy Brown Soils',
-                      'Oxidic Brown Soils',
-                      'Mafic Brown Soils',
-                      'Acid Brown Soils',
-                      'Firm Brown Soils',
-                      'Orthic Brown Soils',
-                      'Sulpuric Gley Soils',
-                      'Sandy Gley Soils',
-                      'Acid Gley Soils',
-                      'Oxidic Gley Soils',
-                      'Recent Gley Soils',
-                      'Orthic Gley Soils',
-                      'Perch-gley Granular Soils',
-                      'Melanic Granular Soils',
-                      'Oxidic Granular Soils',
-                      'Orthic Granular Soils',
-                      'Vertic Melanic Soils',
-                      'Perch-gley Melanic Soils',
-                      'Rendzic Melanic Soils',
-                      'Mafic Melanic Soils',
-                      'Orthic Melanic Soils',
-                      'Litter Organic Soils',
-                      'Fibric Organic Soils',
-                      'Mesic Organic Soils',
-                      'Humic Organic Soils',
-                      'Perch-gley Oxidic Soils',
-                      'Nodular Oxidic Soils',
-                      'Orthic Oxidic Soils',
-                      'Perch-gley Pallic Soils',
-                      'Duric Pallic Soils',
-                      'Fragic Pallic Soils',
-                      'Laminar Pallic Soils',
-                      'Argillic Pallic Soils',
-                      'Immature Pallic Soils',
-                      'Densipan Podzols',
-                      'Perch-gley Podzols',
-                      'Groundwater-gley Podzols',
-                      'Pan Podzols',
-                      'Orthic Podzols',
-                      'Perch-gley Pumice Soils',
-                      'Impeded Pumice Soils',
-                      'Orthic Pumice Soils',
-                      'Gley Raw Soils',
-                      'Hydrothermal Raw Soils',
-                      'Rocky Raw Soils',
-                      'Sandy Raw Soils',
-                      'Fluvial Raw Soils',
-                      'Tephric Raw Soils',
-                      'Orthic Raw Soils',
-                      'Hydrothermal Recent Soils',
-                      'Rocky Recent Soils',
-                      'Sandy Recent Soils',
-                      'Fluvial Recent Soils',
-                      'Tephric Recent Soils',
-                      'Orthic Recent Soils',
-                      'Aged-argillic Semiarid Soils',
-                      'Solonetzic Semiarid Soils',
-                      'Argillic Semiarid Soils',
-                      'Immature Semiarid Soils',
-                      'Densipan Ultic Soils',
-                      'Albic Ultic Soils',
-                      'Perch-gley Ultic Soils',
-                      'Sandy Ultic Soils',
-                      'Yellow Ultic Soils'),
-  'NZ_Genetic_SC' = c(rep('gley soils', 2),
-                      rep('YB loams', 2),
-                      rep('anthropic soils', 4),
+  'NZSC_Order' = c(rep('Allophanic Soils', 4),
+                   rep('Anthropic Soils', 5),
+                   rep('Brown Soils', 7),
+                   rep('Gley Soils', 7),
+                   rep('Granular Soils', 4),
+                   rep('Melanic Soils', 5),
+                   rep('Organic Soils', 4),
+                   rep('Oxidic Soils', 3),
+                   rep('Pallic Soils', 6),
+                   rep('Podzol Soils', 5),
+                   rep('Pumice Soils', 3),
+                   rep('Raw Soils', 9),
+                   rep('Recent Soils', 6),
+                   rep('Semiarid Soils', 4),
+                   rep('Ultic Soils', 5)),
+  'NZSC_Suborder' = c(# L
+                      'Perch-Gley',
+                      'Gley',
+                      'Impeded',
+                      'Orthic',
+                      # A
+                      'Truncated',
+                      'Māori',
+                      'Refuse',
+                      'Mixed',
+                      'Fill',
+                      # B
+                      'Allophanic',
+                      'Sandy',
+                      'Oxidic',
+                      'Mafic',
+                      'Acid',
+                      'Firm',
+                      'Orthic',
+                      # G
+                      'Sulfuric',
+                      'Tephric',
+                      'Sandy',
+                      'Oxidic',
+                      'Recent',
+                      'Acid',
+                      'Orthic',
+                      # N
+                      'Perch-gley',
+                      'Melanic',
+                      'Oxidic',
+                      'Orthic',
+                      # E
+                      'Vertic',
+                      'Perch-gley',
+                      'Rendzic',
+                      'Mafic',
+                      'Orthic',
+                      # O
+                      'Litter',
+                      'Fibric',
+                      'Mesic',
+                      'Humic',
+                      # X
+                      'Perch-gley',
+                      'Nodular',
+                      'Orthic',
+                      # P
+                      'Perch-gley',
+                      'Duric',
+                      'Fragic',
+                      'Laminar',
+                      'Argillic',
+                      'Immature',
+                      # Z
+                      'Densipan',
+                      'Perch-gley',
+                      'Groundwater-gley',
+                      'Pan',
+                      'Orthic',
+                      # M
+                      'Perch-gley',
+                      'Impeded',
+                      'Orthic',
+                      # W
+                      'Hydric',
+                      'Gley',
+                      'Hydrothermal',
+                      'Cryic',
+                      'Rocky',
+                      'Sandy',
+                      'Fluvial',
+                      'Tephric',
+                      'Orthic',
+                      # R
+                      'Hydrothermal',
+                      'Rocky',
+                      'Sandy',
+                      'Fluvial',
+                      'Tephric',
+                      'Orthic',
+                      # S
+                      'Aged-argillic',
+                      'Solonetzic',
+                      'Argillic',
+                      'Immature',
+                      # U
+                      'Densipan',
+                      'Albic',
+                      'Perch-gley',
+                      'Sandy',
+                      'Yellow'),
+  'NZ_Genetic_SC' = c(# L
+                      rep('gley soils', 2),
+                      'yellow-brown (YB) loams',
+                      'YB loams',
+                      # A
+                      rep('unclassified', 5),
+                      # B
                       'YB earths (upland & high country)',
                       'YB sands',
-                      'YB earths (northern',
-                      'BG loams and clays',
-                      'podzolized YB earthsor YB earths',
+                      'YB earths (northern)',
+                      'brown granular (BG) loams and clays',
+                      'podzolized YB earths or YB earths',
                       rep('YB earths, YB shallow and stony soils', 2),
+                      # G
                       rep('gley soils', 4),
-                      rep('gleyed recent soils', 2),
-                      rep('BG loams or BG clays', 4),
-                      'BG loams and clays',
+                      'gleyed recent soils',
+                      'gley soils',
+                      'gleyed recent soils',
+                      # N
+                      rep('BG loams and BG clays', 4),
+                      # E
+                      'BG loams and BG clays',
                       'gley soils',
                       'rendzinas',
-                      'BG loams and clays',
-                      'rendzinas and rendzinic intergrades',
+                      'BG loams and BG clays',
+                      'rendzinas and rendzic intergrades',
+                      # O
                       'unclassified',
                       rep('organic soils', 3),
+                      # X
                       'gley soils',
-                      rep('strongly weathered red loams, brown loams, or BG loams or BG clays', 2),
-                      rep('yellow-grey earths', 5),
-                      'yellow-grey earths or recent soils',
+                      rep('strongly weathered red loams, brown loams, BG loams and BG clays', 2),
+                      # P
+                      rep('yellow grey earths', 5),
+                      'yellow grey earths or recent soils',
+                      # Z
                       'podzols',
                       rep('gley podzols', 2),
                       rep('podzols', 2),
+                      # M
                       'gley soils',
                       rep('YB pumice soils', 2),
-                      'unclassified',
+                      # W
+                      rep('unclassified', 2),
                       'hydrothermal soils',
-                      rep('unclassified', 5),
+                      rep('unclassified', 6),
+                      # R
                       'recent soils',
                       'lithosols',
                       rep('recent soils', 4),
+                      # S
                       'brown-grey earths',
                       'solonetz',
                       rep('brown-grey earths', 2),
-                      'YB earths or podzols',
-                      rep('YB earths',2),
-                      'YB earths or YB sands',
+                      # U
+                      'YB earths and podzols',
+                      rep('YB earths', 2),
+                      'YB earths and YB sands',
                       'YB earths'),
-  'US_Soil_Taxonomy' = c(rep('Aquands', 2), 
+  'US_Soil_Taxonomy' = c(# L
+                         rep('Aquands', 2), 
                          rep('Cryands and Udands', 2),
-                         'Arents',
-                         'Arents or Unclassified',
-                         'Arents',
-                         'Arents',
-                         'Dystrochrepts',
-                         'Ustochrepts, Dystrochrepts and Psamments',
-                         rep('Dsytrochrepts', 3),
-                         rep('Dystrochrepts and Ustochrepts', 2),
-                         'Sulphaquepts',
+                         # A
+                         rep('unclassified', 5),
+                         # B
+                         'Dystrudepts',
+                         'Dystrustepts, Dystrudepts, Haplustepts, and Psamments',
+                         rep('Dystrudepts', 3),
+                         rep('Dystrudepts and Dystrustepts', 2),
+                         # G
+                         'Sulphaquepts, Sulfaquents',
+                         'Aquands',
                          'Aquepts or Aquents',
-                         'Aquepts',
                          'Aquox',
                          'Aquents',
-                         'Aquepts or Aquents',
+                         'Aquepts',
+                         'Aquepts and Aquents',
+                         # N
                          'Aquults',
-                         'Humults and Udalfs',
-                         rep('Humults', 2),
-                         'Ustolls or Vertisols',
-                         'Aquolls',
+                         'Humults, Udults and Udalfs',
+                         rep('Humults and Udults', 2),
+                         # E
+                         'Ustolls and Usterts',
+                         'Aquolls and Aquerts',
                          'Rendolls',
-                         'Ustochrepts, Eutrochrepts, Ustolls or Udolls',
-                         'Ustolls, Udolls or Eutrochrepts',
-                         'Folists or unrecognised',
+                         'Haplustepts, Ustolls and Udolls',
+                         'Ustolls, Udolls, Haplustepts and Calciustepts',
+                         # O
+                         'Folists',
                          'Fibrists',
                          'Hemists',
                          'Saprists',
-                         'Aquox',
+                         # X
+                         'Aquox and Udox',
                          rep('Udox', 2),
-                         'Aquepts, Aqualfs',
-                         'Duraqualfs',
-                         'Fragiudalfs, Fragiochrepts',
-                         rep('Haplustalfs, Hapludalfs', 2),
-                         'Eutrochrepts, Ustochrepts',
-                         'Aquods, Orthods',
-                         rep('Aquods', 2),
-                         rep('Orthods', 2),
+                         # P
+                         'Aquepts, Aqualfs, Ustepts and Ustalfs',
+                         'Duraqualfs, Durustalfs and Durustepts',
+                         'Fragiochrepts, Haplustalfs and Fragiustalfs',
+                         'Haplustalfs',
+                         'Haplustalfs, Hapludalfs and Natrustalfs',
+                         'Haplustepts',
+                         # Z
+                         rep('Aquods and Orthods', 2),
+                         'Aquods',
+                         rep('Orthods and Humods', 2),
+                         # M
                          'Vitraquands',
-                         rep('Vitrands, Vitricryands', 2),
-                         rep('Entisols, or not-soil', 7),
+                         'Udivitrands and Vitricryands',
+                         'Udivitrands',
+                         # W
+                         'Aquents, Wassents and not soil',
+                         'Entisols, Aquents and not soil',
+                         'Entisols, Orthents and not soil',
+                         'Turbels and Orthels and not soil',
+                         'Entisols, Orthels and not soil',
+                         'Entisols, Psamments and not soil',
+                         'Entisols, Fluvents and not soil',
+                         rep('Entisols, Orthents and not soil', 2),
+                         # R
                          'Aquents, Orthents',
                          'Orthents',
                          'Psamments',
-                         'Fluvents, Ochrepts',
-                         'Orthents, Cryands, Udands',
-                         'Orthents, Ochrepts',
-                         'Haplargids',
-                         'Natragids',
-                         'Haplargids,',
-                         'Camborthids',
+                         'Fluvents, Udepts and Ustepts',
+                         'Orthents, Cryands and Udands',
+                         'Orthents, Udepts and Ustepts',
+                         # S
+                         'Haplargids and Paleargids',
+                         'Natrargids',
+                         'Haplargids and Calciargids',
+                         'Haplocambids and Aquicambids',
+                         # U
+                         'Aquults (Albiaquults, Epiaquults)',
+                         'Aquults, Humults and Udults',
                          'Aquults',
-                         'Aquults, Humults or Udults',
-                         'Aquults',
-                         rep('Hapludults', 2)
+                         'Hapludults and Haplohumults',
+                         'Hapludults'
                          ))
 
 table_001 <- gt(table_001_dat,
-                rowname_col = 'NZSC_Suborder',
                 groupname_col = 'NZSC_Order') |>
    tab_options(
     column_labels.font.weight = 'bold', 
