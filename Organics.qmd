@@ -1,8 +1,13 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Organic Soils {#sec-ord-O}
 
 ## Concept of the Order {#sec-con-O}
 
-Organic Soils are soils that occur in the partly decomposed remains of wetland plants (peat) or forest litter. Mineral soil material is commonly present but [organic soil material](Diagnostics.qmd#sec-diag-org) is dominant. The soils occur in sites where rates of organic matter decomposition are balanced or exceeded by rates of plant biomass production and accumulation.
+Organic Soils are soils that occur in the partly decomposed remains of wetland plants (peat) or thick forest litter. Mineral soil material is commonly present but [organic soil material](Diagnostics.qmd#sec-diag-org) is dominant. The soils occur in sites where rates of organic matter decomposition are balanced or exceeded by rates of plant biomass production and accumulation.
 
 ## Correlation {#sec-cor-O}
 
@@ -10,7 +15,7 @@ The order corresponds with the organic soils group of the *New Zealand Genetic S
 
 ## Occurrence {#sec-occ-O}
 
-Organic Soils occur in wetlands in most parts of New Zealand or under forest-produced acidic litter in areas with high precipitation.
+Organic Soils occur in wetlands in most parts of New Zealand with species of the Restionaceae family as the main peat former, or under forest-produced acidic litter in areas with high precipitation.
 
 ## Accessory Properties of the Order {#sec-acc-O}
 
@@ -22,7 +27,7 @@ Organic Soils occur in wetlands in most parts of New Zealand or under forest-pro
 6.  *High shrinkage potential.* The soils shrink markedly upon drying, and lose organic matter due to oxidation. Consequently, following drainage, the classification may change.
 7.  *High total available water capacity.* While total available water capacity is high, plant-available water capacity may only be moderate, due to limits in rooting depth (anoxic conditions, species-specific limitations).
 8.  *Common nutrient deficiencies.* The major nutrients nitrogen, phosphorus, potassium and sulfur, and the trace elements copper, selenium and molybdenum, are frequently deficient for crops and pasture.
-9.  *Peats are very poorly drained, litters are variable.* In their natural state, Organic Soils formed in peats are very poorly drained and those formed from litters may range from well drained to very poorly drained. Most Organic Soils from peat in New Zealand have been artificially drained, leading to drastic shifts towards drier soil moisture conditions.
+9.  *Peats are very poorly drained, whereas litters are variable.* In their natural state, Organic Soils formed in peats are very poorly drained and those formed from litters may range from well drained to very poorly drained. Most Organic Soils from peat in New Zealand have been artificially drained, leading to drastic shifts towards drier soil moisture conditions.
 
 ## Summary of Organic Soils Hierarchy {#sec-sum-O}
 
@@ -42,7 +47,7 @@ table_O_dat <- data.frame(
               'Fibric', '', '', '',
               'Mesic', '', '',
               'Humic', '', ''),
-  'Subgroup' = c('Buried-podzol', 'Buried-gleyed', 'Orthic', 
+  'Subgroup' = c('Buried-podzol', 'Buried-gley', 'Orthic', 
                  'Sphagnic', 'Sulfidic', 'Acid', 'Mellow',
                  'Sulfidic', 'Acid', 'Mellow',
                  'Sulfidic', 'Acid', 'Mellow'),
