@@ -16,13 +16,13 @@ The Melanic Soils include the rendzinas and rendzic intergrades to yellow-grey e
 
 ## Occurrence {#sec-occ-E}
 
-Melanic Soils are scattered throughout New Zealand in association with calcareous, mafic, and ultramafic rocks.
+Melanic Soils are scattered throughout New Zealand in association with calcareous, mafic, and ultramafic rocks or associated deposits.
 
 ## Accessory Properties of the Order {#sec-acc-E}
 
 1.  *Swelling clays.* Most soils have smectite, or minerals with interstratifications of smectite, in the clay mineral assemblage. Melanic Soils usually have a Smectitic, Illitic or Kandic mineralogy class.
 2.  *High base saturations.* Except for acidified variants, base saturations are usually more than 50%, and KCl-extractable aluminium values are usually very low.
-3.  *Stable structure.* Structural stability of topsoils is high with relatively large amounts of organic carbon intimately associated with clay minerals. The soils are likely to have relatively high resistance to structural damage under heavy cropping unless organic matter is reduced significantly. The porosity is stabilised by divalent ion/organic matter/ clay complexes.
+3.  *Stable structure.* Structural stability of topsoils is high with relatively large amounts of organic carbon intimately associated with clay minerals. The soils are likely to have relatively high resistance to structural damage under heavy cropping unless organic matter is reduced significantly. The porosity is stabilised by divalent ion/organic matter/clay complexes.
 4.  *High shrink/swell.* The soil materials are sticky and plastic. They are expected to have significant shrink/swell potential. This is reflected in strong polyhedral, blocky or prismatic pedality. P retention values are moderate to high.
 5.  *Fertile.* Except for acidified variants, exchangeable calcium and magnesium values are high, particularly at the base of profile.
 6.  *Parent materials.* The soils are derived from calcareous, mafic or ultramafic rock classes.
@@ -41,23 +41,23 @@ library(gt)
 table_E_dat <- data.frame(
   'Code' = c('EV', rep('', 3),
              'EP', rep('', 2),
-             'ER', rep('', 3),
+             'ER', rep('', 4),
              'EM', rep('', 4),
              'EO', rep('', 7)),
   'Group' = c('Vertic', rep('', 3),
               'Perch-gley', rep('', 2),
-              'Rendzic', rep('', 3),
+              'Rendzic', rep('', 4),
               'Mafic', rep('', 4),
               'Orthic', rep('', 7)),
   'Subgroup' = c('Mottled-calcareous', 'Mottled', 'Calcareous', 'Typic',
                  'Vertic', 'Argillic', 'Typic',
-                 'Peaty', 'Mottled', 'Weathered', 'Typic',
+                 'Peaty', 'Mottled', 'Argillic', 'Weathered', 'Typic',
                  'Magnesic', 'Mottled', 'Allophanic', 'Acidic', 'Typic',
                  'Mottled-calcareous', 'Argillic-calcareous', 'Pedal-calcareous',
                    'Calcareous', 'Mottled-argillic', 'Mottled', 'Argillic', 'Typic'),
   'Example_Series' = c('-', 'Waiareka', 'Te Aneraki', 'Waiareka',
                        'Awapuni', 'Okoia', '-',
-                       'Chalky', '-', 'Te Matai', 'Oamaru',
+                       'Chalky', '-', '-', 'Te Matai', 'Oamaru',
                        'Dun', 'Awapuku', 'Stewart', 'Stewart', 'Rapaki',
                        'Waikakahi', 'Kauana', 'Waikakahi', 'Pikikiruna',
                          '-', '-', 'Kaihiku', 'Bishopdale')
@@ -119,7 +119,7 @@ Other soils that, in a subhorizon of the B or BC horizon at 60 cm from the mine
 
 1.  A matrix colour value 4 or less and chroma 3 or more, OR
 2.  5% (by volume) or more coarse rock fragments that consist mainly of mafic or ultramafic rocks (but not tuffaceous greywacke), OR
-3.  an exchangeable calcium/magnesium molar ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
+3.  An exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
 [**MAFIC MELANIC SOILS**](#sec-EM)
@@ -225,6 +225,14 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 **Mottled Rendzic Melanic Soils**
 :::
 
+#### **ERJ** {#sec-key-ERJ .unnumbered}
+
+Other soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+
+::: {style="text-align: right"}
+**Argillic Rendzic Melanic Soils**
+:::
+
 #### **ERW** {#sec-key-ERW .unnumbered}
 
 Other soils that have a [weathered-B](Diagnostics.qmd#sec-diag-bw) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) 10 cm or more thick.
@@ -250,7 +258,7 @@ Mafic Melanic Soils occur in soil materials weathered from mafic rocks, ultramaf
 Mafic Melanic Soils that have, in some part of the B or BC horizon to 60 cm from the mineral soil surface, EITHER
 
 1.  5% (by volume) or more coarse rock fragments that consist mainly of ultramafic rocks, OR
-2.  Have an exchangeable calcium/magnesium molar ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
+2.  Have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more.
 
 ::: {style="text-align: right"}
 **Magnesic Mafic Melanic Soils**
