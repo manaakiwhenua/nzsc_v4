@@ -7,12 +7,14 @@ If any soil has an overthickened A horizon with its base at 45 cm or more from 
 :::
 
 ::: {#nte-arest .callout-note title="Restored Anthropic Soils" appearance="minimal"}
-Soils that have been drastically disturbed and may contain [anthropic soil material](Diagnostics.qmd#sec-diag-anthro) but have been restored to the extent that they will meet the requirements of orders other than [Recent Soils](#sec-R) or [Raw Soils](#sec-W), will not be assigned to [Anthropic Soils](#sec-A). For this reason, Anthropic Soils are placed late in the key to soil orders but before Recent Soils and Raw Soils. Restoration may refer to re-establishing the (near-)original soil type but in most cases aims at re-enabling selected soil functions to allow for an intended use (FAO 2025).
+Soils that have been drastically disturbed by anthropogenic activity but have been restored to the extent that they will meet the requirements of orders other than [Anthropic Soils](#sec-A), [Recent Soils](#sec-R) or [Raw Soils](#sec-W), will be assigned to these other orders accordingly[^key-to-orders-1]. For this reason, Anthropic Soils are placed late in the key to soil orders but before Recent Soils and Raw Soils.
 :::
+
+[^key-to-orders-1]: Restoration may refer to re-establishing the (near-)original soil type but in most cases aims at enabling selected soil functions to allow for an intended use.
 
 ## [**O** - Organic Soils](Organics.qmd#sec-ord-O) {#sec-O .unnumbered}
 
-Soils that have horizons that consist of [organic soil material](Diagnostics.qmd#sec-diag-org) (including soils that have skeletal layers in which the matrix of the rock fragments consists of organic soil material) that within 60 cm of the soil surface are EITHER
+Soils that have horizons that consist of [organic soil material](Diagnostics.qmd#sec-diag-org) (including soils that have more than 35% coarse rock fragments in which the fine-earth between the rock fragments consists of [organic soil material](Diagnostics.qmd#sec-diag-org)) that within 60 cm of the soil surface are EITHER
 
 1.  30 cm or more thick (cumulative) and are entirely formed from soil materials that have accumulated under wet conditions (they are saturated with water for at least 30 consecutive days in most years, or have been artificially drained) (O horizons), OR
 2.  40 cm or more thick and are formed from partly decomposed or well decomposed litter (F and H horizons).
@@ -36,24 +38,24 @@ Other soils that meet ALL of the following:
 1.  pH of less than 5.5 in the major part from the base of the A horizon to 60 cm from the mineral soil surface, AND
 2.  a B horizon which in the major part:
     (a) is pedal with clay or humus coatings present on 10% or more ped faces, *and*
-    (b) has slightly firm or stronger soil strength when moist unless the texture class is sandy loam or sandy clay loam, *and*
+    (b) has slightly firm or stronger unconfined soil strength when moist unless the texture class is sandy loam or sandy clay loam, *and*
     (c) has less silt than clay, unless there are weathered rock fragments, *and*
-    (d) has sandy loam or finer texture, *and*
+    (d) is in theloamy or clayey texture group, *and*
     (e) has a base deeper than 100 cm, AND
 3.  do not have
     (a) an [oxidic](Diagnostics.qmd#sec-diag-oxh) or [cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh), *nor*
     (b) a layer or layers of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that total 35 cm or more thick within 60 cm of the mineral soil surface, *nor*
-    (c) rock fragments, other than from quartz, that are strongly or very strongly indurated, *nor*
+    (c) coarse rock fragments, other than from quartz, that are strongly or very strongly indurated, *nor*
     (d) a [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb), AND
-4.  have *either* an [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), or the uppermost subhorizon of the B has colour value of 5 or more.
+4.  have *either* an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), or the uppermost subhorizon of the B has colour value of 5 or more.
 
-## [**Z** - Podzols](Podzols.qmd#sec-ord-Z) {#sec-Z .unnumbered}
+## [**Z** - Podzol Soils](Podzols.qmd#sec-ord-Z) {#sec-Z .unnumbered}
 
 Other soils that have either a [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb), or an [ortstein-pan](Diagnostics.qmd#sec-diag-opan), that has pH less than 5.5 in some part or a [humus-pan](Diagnostics.qmd#sec-diag-hpan).
 
 ## [**L** - Allophanic Soils](Allophanics.qmd#sec-ord-L) {#sec-L .unnumbered}
 
-Other soils that have a layer or layers of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), that total 35 cm or more thick, and occur within 60 cm of the mineral soil surface. If a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) is reached at a depth of less than 35 cm from the mineral soil surface, the thickness requirements to not apply, but instead, all mineral horizons above the contact must meet the criteria for [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) and a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) of 5 cm thickness or more must be present.
+Other soils that have a layer or layers of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that total 35 cm or more thick, and occur within 60 cm of the mineral soil surface. If a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) is reached at a depth of less than 35 cm from the mineral soil surface, the thickness requirements to not apply, but instead, all mineral horizons above the contact must meet the criteria for [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) and a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) of 5 cm thickness or more must be present.
 
 ## [**M** - Pumice Soils](Pumices.qmd#sec-ord-M) {#sec-M .unnumbered}
 
@@ -74,8 +76,8 @@ Other soils that have ALL the following
     (a) a visible reaction to 10% HCl in the soil matrix at 60 cm or less from the mineral soil surface, *or*
     (b) has a [weathered-B](Diagnostics.qmd#sec-diag-bw), [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) (more than 10 cm thick) in which the major part (to 60 cm from the mineral soil surface or to its base, whichever is less) has pH of 5.9 or more, moderate or strong pedality, and is moderately or very sticky, or, if pH is below 5.9, has a matrix colour of 4 or less, a moderate to strong polyhedral pedality, and is moderately or very sticky; AND
 4.  has in some part of the B horizon to its base, or to 90 cm from the mineral soil surface, whichever is less, *either*
-    (a) rock fragments that are not very highly weathered or completely weathered, *or*
-    (b) a subhorizon that is not clayey, *or*
+    (a) coarse rock fragments that are not very highly weathered or completely weathered, *or*
+    (b) a subhorizon that is not in the clayey texture group, *or*
     (c) the uppermost subhorizon of the B has colour value of 5 or more.
 
 ## [**S** - Semiarid Soils](Semiarids.qmd#sec-ord-S) {#sec-S .unnumbered}
@@ -83,11 +85,11 @@ Other soils that have ALL the following
 Other soils that have ALL of the following
 
 1.  no [fragipan](Diagnostics.qmd#sec-diag-fpan), AND
-2.  a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) 10 cm or more thick, or a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) (with evidence of pedogenic carbonate), AND
-3.  no primary calcium carbonate minerals in the sand fraction of the B horizon, AND
-4.  *either*
-    (a) a [calcareous horizon](Diagnostics.qmd#sec-diag-calch), or a horizon with pH of 7.5 or more, within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal), *or*
-    (b) P retention of 15% or less in the major part of the B horizon to 60 cm depth, and any worm mixed horizon at the base of the A horizon is less than 5 cm thick.
+2.  *either*
+    (a) a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) with evidence of pedogenic carbonate within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal (\>35% coarse rock fragments)), *or*
+    (b) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) 10 cm or more thick, and no primary carbonate within 90 cm of the soil surface, but combined with *either*
+        (i) a P retention of 15% or less in the major part of the B horizon to 60 cm depth, and any worm mixed horizon at the base of the A horizon is less than 5 cm thick, *or*
+        (ii) a pH of 7.5 or more within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal (\>35% coarse rock fragments)).
 
 ## [**X** - Oxidic Soils](Oxidics.qmd#sec-ord-X) {#sec-X .unnumbered}
 
@@ -99,7 +101,7 @@ Other soils that have BOTH
 
 1.  a B horizon which to its base, or to 90 cm from the mineral soil surface, whichever is less, is *both*
     (a) clayey throughout; *and*
-    (b) if any rock fragments occur they are either very highly weathered or completely altered, AND
+    (b) if any rock fragments occur they are either very highly or completely weathered, AND
 2.  a [cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh), or a moderately or strongly pedal [cutanic](Diagnostics.qmd#sec-diag-cuth) or [argillic horizon](Diagnostics.qmd#sec-diag-argh) occurs that has *either*
     (a) an overlying or overlapping [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) within 15 cm of the base of the A horizon, or 30 cm of the mineral soil surface; *or*
     (b) polyhedral peds 20 mm or less in size in most of the B horizon within 60 cm of the mineral soil surface.
@@ -110,23 +112,23 @@ Other soils that have textures of fine loamy sand or finer in some part from the
 
 1.  a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), that overlies a [fragipan](Diagnostics.qmd#sec-diag-fpan), [duripan](Diagnostics.qmd#sec-diag-dpan) or [argillic horizon](Diagnostics.qmd#sec-diag-argh); OR
 2.  *both*
-    (a) between the base of the A horizon to 60 cm from the mineral soil surface the moist matrix colour throughout is *either*
-        (i) hue 10YR or yellower with chroma 3 or less and value 4 or more, *or*
-        (ii) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (see @fig-two); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B horizon, *and*
+    (a) between the base of the A horizon to 60 cm from the mineral soil surface the matrix throughout is *either*
+        (i) a moist colour of hue 10YR or yellower with chroma 3 or less and value 4 or more, *or*
+        (ii) a moist colour of hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (see @fig-two); and P retention is less than 30% in the uppermost subhorizon (10 cm or more thick) of the B horizon, *and*
     (b) a B or BC horizon that is 10 cm or more thick, and has *either*
         (i) a [fragipan](Diagnostics.qmd#sec-diag-fpan), [duripan](Diagnostics.qmd#sec-diag-dpan) or [brittle-B horizon](Diagnostics.qmd#sec-diag-britb), *or*
-        (ii) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) that has in part a moderately or strongly pedal subhorizon with blocky, polyhedral or prismatic peds and slightly firm or greater soil or ped strength, *or*
+        (ii) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) that has in part a moderately or strongly pedal subhorizon with blocky, polyhedral or prismatic peds and slightly firm or greater unconfined soil or aggregate strength when moist, *or*
         (iii) [argillic horizon](Diagnostics.qmd#sec-diag-argh), [calcareous horizon](Diagnostics.qmd#sec-diag-calch), or a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) that has [sodic features](Diagnostics.qmd#sec-diag-sod) either within or immediately beneath it, *or*
-        (iv) an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh),\], skeletans on B horizon peds, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ("two-tone").
+        (iv) an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), skeletans on B horizon peds, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ("two-tone").
 
 ## [**B** - Brown Soils](browns.qmd#sec-ord-B) {#sec-B .unnumbered}
 
 Other soils that have BOTH
 
-1.  a [weathered-B](Diagnostics.qmd#sec-diag-bw), [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) 10 cm or more thick with a lower boundary at 30 cm or more from the mineral soil surface, unless such B horizons are buried (i.e., lie beneath a lithic discontinuity), AND
-2.  in the B horizon, a subhorizon that has a moist matrix colour *either*
-    (a) hue 7.5YR or redder, or hue 10YR and chroma 6 or more; *or*
-    (b) hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (see @fig-two); and P retention is 30% or more, or the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf) is at least moderate, in the uppermost subhorizon (10 cm or more thick) of the B horizon, *or*
+1.  a [weathered-B](Diagnostics.qmd#sec-diag-bw), [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) 10 cm or more thick with a lower boundary at 30 cm or more from the mineral soil surface, unless such B horizons are buried (i.e., lie beneath a lithologic discontinuity), AND
+2.  in the B horizon, a subhorizon that has in the matrix *either*
+    (a) a moist colur of hue 7.5YR or redder, or hue 10YR and chroma 6 or more; *or*
+    (b) a moist colour of hue 10YR or yellower with chroma 4 or 5 or chroma 3 with value 3, or hue 2.5Y or yellower with chroma 6 or more (see @fig-two); and P retention is 30% or more, or the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf) is at least moderate, in the uppermost subhorizon (10 cm or more thick) of the B horizon, *or*
     (c) the texture group is sandy in the B horizon to its base, or to 60 cm from the mineral soil surface, whichever is less.
 
 ## [**A** - Anthropic Soils](Anthropics.qmd#sec-ord-A) {#sec-A .unnumbered}
@@ -134,15 +136,15 @@ Other soils that have BOTH
 Other Soils that
 
 1.  *either*
-    (a) consist of [anthropic soil material](Diagnostics.qmd#sec-diag-anthro) with a combined thickness of \>30 cm within 90 cm of the soil surface, or constituting the entire soil thickness above a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith), *or*
-    (b) are interpreted to have been affected by truncation (i.e., excavation of solum material) by the human action. This truncation reached at least as deep as the natural *in-situ* A or AB horizon (i.e., to the upper boundary of the B horizon or deeper), AND
-2.  If the [anthropic soil material](Diagnostics.qmd#sec-diag-anthro) mainly consists of manufactured materials (e.g., plastic, bricks, concrete, asphalt) it must be overlain by at least 30 cm of soil or rock material (i.e., to exclude non-soil cover like active landfills or farm dumps).
+    (a) consist of [anthropic soil material](Diagnostics.qmd#sec-diag-anthro) with a combined thickness of \>30 cm within 90 cm of the soil surface, *or*
+    (b) are interpreted to have been affected by truncation (i.e., removal of solum material) by the human action. This truncation reached at least as deep as the natural *in-situ* A or AB or E horizons (i.e., to the upper boundary of the B horizon or deeper), AND
+2.  If the [anthropic soil material](Diagnostics.qmd#sec-diag-anthro) mainly consists of manufactured materials (e.g., plastic, bricks, concrete, asphalt, timber) it must be overlain by at least 30 cm of soil or rock material (i.e., to exclude non-soil cover like active landfills or farm dumps).
 
 ## [**R** - Recent Soils](Recents.qmd#sec-ord-R) {#sec-R .unnumbered}
 
 Other soils that BOTH
 
-1.  have a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or at least moderate structural development in the top 15 cm, or a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw); AND
+1.  have a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) at the surface or buried with its upper surface within 60 cm of the mineral soil surface, or at least moderate structural development within 15 cm of the mineral soil surface, or a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw); AND
 2.  do not have any horizon with a moderately fluid or very fluid fluidity class within 30 cm of the mineral soil surface.
 
 ## [**W** - Raw Soils](Raws.qmd#sec-ord-W) {#sec-W .unnumbered}
