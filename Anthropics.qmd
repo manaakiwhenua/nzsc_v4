@@ -8,25 +8,25 @@ editor_options:
 
 ## Concept of the Order {#sec-con-A}
 
-Anthropic Soils are soils that have been created or significantly altered by human activity. This includes the truncation (i.e. excavation) of natural soils by earth-moving equipment, the relocation of soils from their original sites, or the mixing of natural soils in a way that significantly alters their original character. Additionally, Anthropic soils may be formed through the deposition of thick layers of organic matter or inorganic material that may also contain artefacts. Their classification reflects the way in which they were created or altered, and the kinds of materials used.
+Anthropic Soils are soils that have been created or significantly altered by human activity. This includes the truncation (i.e., excavation) of natural soils by earth-moving equipment, the relocation of soils from their original sites, or the mixing of natural soils in a way that significantly alters their original character. Additionally, Anthropic soils may be formed through the deposition of thick layers of organic matter or inorganic material that may also contain manufactured materials. Their classification reflects the way in which they were created or altered, and the kinds of materials used.
 
-If the original soil type is known to at least order level, it has to be appended to the taxa name in parentheses. If unknown, this also has to be stated as parentheses, for example, ‘Typic Truncated Anthropic Soil (unknown soil)’ or ‘Typic Mixed Anthropic Soil (Perch-gley Pallic Soil)’. Evidence of the likely original soil type can be sourced from legacy soil maps (also geological maps, aerial imagery, etc.), and by correlation with non-anthropic soils found in a similar geomorphological context (e.g., non-Anthropic Soils of the same landform).
+If the original soil type is known to at least order level, it has to be appended to the taxa name in parentheses. If unknown, this also has to be stated as parentheses, for example, ‘Typic Truncated Anthropic Soil (unknown soil)’ or ‘Typic Mixed Anthropic Soil (Perch-gley Pallic Soil)’. Evidence of the likely original soil type can be sourced from legacy soil maps (also geological maps, aerial imagery, etc.), and by correlation with non-Anthropic soils found in a similar geomorphological context (e.g., on the same landform).
 
-Note that soils that have been drastically disturbed but have been restored to the extent that they will meet the requirements of orders other than [Recent Soils](#sec-ord-R) or [Raw Soils](#sec-ord-W), will not be assigned to Anthropic Soils. For this reason Anthropic soils are placed late in the Key to Orders but before Recent Soils and Raw Soils.
+Soils that have been drastically disturbed but have been restored to the extent that they will meet the requirements of orders other than [Recent Soils](#sec-ord-R) or [Raw Soils](#sec-ord-W), will not be assigned to Anthropic Soils. For this reason Anthropic soils are placed late in the Key to Orders but before Recent Soils and Raw Soils.
 
 ## Correlation {#sec-cor-A}
 
-Anthropic Soils were not formally part of the *New Zealand Genetic Soil Classification*, although Anthropic soils were described in some soil survey reports. In *Soil Taxonomy*, the soils either correlate with soils containing an Anthropic or Plaggen Epipedon, Entisols, or are unclassified.
+Anthropic Soils were not formally part of the *New Zealand Genetic Soil Classification* although Anthropic soils were described in some soil survey reports. In *Soil Taxonomy*, the soils either correlate with soils containing an anthropic or plaggen Epipedon, Entisols, or are unclassified.
 
 ## Occurrence {#sec-occ-A}
 
 In New Zealand, common land-use scenarios with a high occurrence of Anthropic Soils are:
 
--   Land development processes and construction in urban and peri-urban environments (e.g., urban/industrial construction, residential sub-division development, landscaping/soil restoration, dumping of excavated soil, infrastructure construction \[roads, rail, ports, underground utilities\])
+-   Land development processes and construction in urban and peri-urban environments (e.g., urban/industrial construction, residential sub-division development, landscaping/soil restoration, dumping of excavated soil, infrastructure construction \[roads, rail, ports, utilities\])
 -   Areas affected by mining activities (e.g., truncation by open-cast mining, sluicing of unconsolidated sediments, deposition of tailings and overburden, soil restoration)
 -   Infrastructure construction linked to agricultural activities (e.g., farm dams, buried irrigation lines, offal pits)
--   Deep soil inversion to break pedogenic pans in the subsurface or expose buried tephra layers especially in regions with naturally occurring Podzol Soils or tephra deposition
--   Deep ripping/excavation linked to intensive forestry
+-   Deep soil inversion to break pedogenic pans in the subsoil or expose buried tephra layers especially in regions with naturally occurring Podzol Soils or tephra deposition
+-   Deep ripping/excavation linked to forestry
 -   Regions with long history of Māori settlement (e.g., Maungawhau terraces, Waimea Plains)
 -   Closed landfills.
 
@@ -51,18 +51,18 @@ library(gt)
 table_A_dat <- data.frame(
   'Code' = c('AT', '',
              'AO', '', '',
-             'AR', '', '',
+             'AR', '', 
              'AM', '', '',
-             'AF', '', '', ''),
+             'AF', '', '', '', ''),
   'Group' = c('Truncated', '',
               'Māori', '', '',
-              'Refuse', '', '',
+              'Refuse', '', 
               'Mixed', '', '', 
-              'Fill', '', '', ''),
+              'Fill', '', '', '', ''),
   'Subgroup' = c('Rocky', 'Typic',
                  'Artefact', 'Organic', 'Fill',
                  'Buried', 'Typic',
-                 'Inverted-tephric', 'Inverted-mixed', 'Typic',
+                 'Inverted-tephric', 'Inverted-impeded',  'Typic',
                  'Treated-sulfidic', 'Compacted', 'Wet', 'Coarse', 'Typic')
 ) 
 
@@ -88,7 +88,7 @@ table_A
 Anthropic Soils that have been affected by truncation of the solum by the action of people and meet BOTH of the following criteria:
 
 1. The truncation reached at least as deep as the lower boundary of an *in-situ* A or AB horizon (i.e., to the upper boundary of the B horizon or deeper), AND
-2. If the truncated surface is overlain by relocated soil or rock material (e.g. for landscaping purposes, the natural *in-situ* materials must occur within 30 cm of the soil surface.
+2. If the truncated surface is overlain by relocated soil or rock material (e.g. for landscaping purposes), the natural *in-situ* materials must occur within 30 cm of the soil surface.
 
 ::: {style="text-align: right"}
 [**TRUNCATED ANTHROPIC SOILS**](#sec-AT)
@@ -98,7 +98,7 @@ Anthropic Soils that have been affected by truncation of the solum by the action
 
 Other Anthropic Soils that have been modified or altered through Māori cultural practice, often forming a distinct ‘cultural layer’ with artefacts (e.g. midden sites) and associated with modifications of the soil surface (e.g., terraces, borrow pits). These soils meet BOTH of the following criteria:
 
-1.  Contain additions to horizon(s) in the form of manufactured or natural mineral (e.g. rock fragments, sand), organic or biogenic material (e.g. seaweed, charcoal, ash, shells) thrugh Māori cultural practice; AND
+1.  Contain additions to horizon(s) in the form of manufactured or natural mineral (e.g. coarse rock fragments, sand), organic or biogenic material (e.g. seaweed, charcoal, ash, shells) through Māori cultural practice; AND
 2.  The modified horizon(s) have a combined thickness of at least 30 cm, with an upper boundary either at the land surface or within 90 cm if buried.
 
 ::: {style="text-align: right"}
@@ -143,7 +143,7 @@ Truncated Anthropic Soils result from cutting away any existing soil, typically 
 Truncated Anthropic Soils with a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) within 60 cm of the soil surface.
 
 ::: {style="text-align: right"}
-**Rocky Truncated Anthropic Soils**
+**Rocky Truncated Anthropic Soils (...)**
 :::
 
 #### **ATT** {#sec-key-ATT .unnumbered}
@@ -151,19 +151,19 @@ Truncated Anthropic Soils with a [lithic](Diagnostics.qmd#sec-diag-lithc) or [pa
 Other soils.
 
 ::: {style="text-align: right"}
-**Typic Truncated Anthropic Soils**
+**Typic Truncated Anthropic Soils (...)**
 :::
 
 ### **AO** - MĀORI ANTHROPIC SOILS {#sec-AO .unnumbered}
 
-These soils are attributed to Māori cultural activity, such as Māori-initiated construction or burial, gardening and horticultural practice, or signs of customary resource activity. Māori Anthropic Soils occur throughout New Zealand, at sites where Māori cultural activity has significantly altered the soil profile, mainly through redistribution of soil from original sites (excavation combined with fill). Examples include pā sites, trenches, terraces, cultural fortifications, papa kāinga (villages), ūrupa (burial sites). For gardening, horticulture, and cropping soil management practices result in the addition of local mineral material (e.g., rock fragments and sand) or the addition of organic or biogenic material (e.g., seaweed, charcoal, [fire] ash, shells), to ameliorate and enhance the physical, chemical, and biological properties of a soil (e.g., soil fertility, drainage, aeration, temperature). Customary resource activity often results in waste material altering soils and landforms (e.g., middens).
+These soils are attributed to Māori cultural activity, such as Māori-initiated construction or burial, gardening and horticultural practice, or signs of customary resource activity. Māori Anthropic Soils occur throughout New Zealand, at sites where Māori cultural activity has significantly altered the soil profile, mainly through redistribution of soil from original sites (excavation combined with fill). Examples include pā sites, trenches, terraces, cultural fortifications, papa kāinga (villages), ūrupa (burial sites). For gardening, horticulture, and cropping soil management practices result in the addition of local mineral material (e.g., rock fragments and sand) or the addition of organic or biogenic material (e.g., seaweed, charcoal, [fire] ash, shells), to ameliorate and enhance the physical, chemical, and biological properties of a soil (e.g., soil fertility, drainage, aeration, temperature). Customary resource activity often results in waste material altering soils and landforms (e.g., middens, borrow pits).
 
 #### **AOA** {#sec-key-AOA .unnumbered}
 
 Māori Anthropic Soils with a horizon containing Māori artefacts or other manufactured material (e.g., some middens), or a horizon resulting from excavation and redistribution of soil material for construction purposes (e.g., pā sites, fortifications, ūrupa).
 
 ::: {style="text-align: right"}
-**Artefact Māori Anthropic Soils**
+**Artefact Māori Anthropic Soils (...)**
 :::
 
 #### **AOO** {#sec-key-AOO .unnumbered}
@@ -171,7 +171,7 @@ Māori Anthropic Soils with a horizon containing Māori artefacts or other manuf
 Other soils with a horizon containing plant- or animal-derived material added by Māori.
 
 ::: {style="text-align: right"}
-**Organic Māori Anthropic Soils**
+**Organic Māori Anthropic Soils (...)**
 :::
 
 #### **AOF** {#sec-key-AOF .unnumbered}
@@ -179,7 +179,7 @@ Other soils with a horizon containing plant- or animal-derived material added by
 Other soils.
 
 ::: {style="text-align: right"}
-**Fill Māori Anthropic Soils**
+**Fill Māori Anthropic Soils (...)**
 :::
 
 ### **AR** - REFUSE ANTHROPIC SOILS {#sec-AR .unnumbered}
@@ -191,7 +191,7 @@ Refuse Anthropic Soils occur in sites where household, land management (e.g. fro
 Refuse Anthropic Soils in which refuse is buried beneath an overburden of soil or rock material greater than 60 cm thick.
 
 ::: {style="text-align: right"}
-**Buried Refuse Anthropic Soils**
+**Buried Refuse Anthropic Soils (...)**
 :::
 
 #### **ART** {#sec-key-ART .unnumbered}
@@ -199,7 +199,7 @@ Refuse Anthropic Soils in which refuse is buried beneath an overburden of soil o
 Other Soils.
 
 ::: {style="text-align: right"}
-**Typic Refuse Anthropic Soils**
+**Typic Refuse Anthropic Soils (...)**
 :::
 
 ### **AM** - MIXED ANTHROPIC SOILS {#sec-AM .unnumbered}
@@ -211,7 +211,7 @@ Mixed Anthropic Soils occur where the original soil has been disturbed by mechan
 Mixed Anthropic Soils comprising a modified tephra stratigraphy caused by mechanical flipping.
 
 ::: {style="text-align: right"}
-**Inverted-tephric Mixed Anthropic Soils**
+**Inverted-tephric Mixed Anthropic Soils (...)**
 :::
 
 #### **AMZ** {#sec-key-AMZ .unnumbered}
@@ -219,7 +219,7 @@ Mixed Anthropic Soils comprising a modified tephra stratigraphy caused by mechan
 Other soils comprising a soil horizon stratigraphy that is modified by mechanical flipping, lifting, or mixing to break up drainage-impeding soil horizons, often combined with recontouring of the soil surface (e.g., hump-and-hollowing).
 
 ::: {style="text-align: right"}
-**Inverted-impeded Mixed Anthropic Soils**
+**Inverted-impeded Mixed Anthropic Soils (...)**
 :::
 
 #### **AMT** {#sec-key-AMT .unnumbered}
@@ -227,7 +227,7 @@ Other soils comprising a soil horizon stratigraphy that is modified by mechanica
 Other soils.
 
 ::: {style="text-align: right"}
-**Typic Mixed Anthropic Soils**
+**Typic Mixed Anthropic Soils (...)**
 :::
 
 ### **AF** - FILL ANTHROPIC SOILS {#sec-AF .unnumbered}
@@ -236,10 +236,10 @@ Fill Anthropic Soils result from the deposition of dominantly inorganic material
 
 #### **AFU** {#sec-key-AFU .unnumbered}
 
-Fill Anthropic Soils in which [sulfidic](Diagnostics.qmd#sec-diag-sulfd) or [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr) is present in the major part within 90 cm of the mineral soil surface, together with acid-neutralising amendments.
+Fill Anthropic Soils in which [sulfidic](Diagnostics.qmd#sec-diag-sulfd) and/or [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr) is present in the major part within 90 cm of the mineral soil surface, together with acid-neutralising amendments.
 
 ::: {style="text-align: right"}
-**Treated-sulfidic Fill Anthropic Soils**
+**Treated-sulfidic Fill Anthropic Soils (...)**
 :::
 
 #### **AFC** {#sec-key-AFC .unnumbered}
@@ -247,7 +247,7 @@ Fill Anthropic Soils in which [sulfidic](Diagnostics.qmd#sec-diag-sulfd) or [sul
 Other soils that have been compacted to have a bulk density of 1.5 Mg/m^3^ or more.
 
 ::: {style="text-align: right"}
-**Compacted Fill Anthropic Soils**
+**Compacted Fill Anthropic Soils (...)**
 :::
 
 #### **AFW** {#sec-key-FWT .unnumbered}
@@ -255,7 +255,7 @@ Other soils that have been compacted to have a bulk density of 1.5 Mg/m^3^ or m
 Other soils that are wet within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
-**Wet Fill Anthropic Soils**
+**Wet Fill Anthropic Soils (...)**
 :::
 
 #### **AFX** {#sec-key-AFX .unnumbered}
@@ -263,7 +263,7 @@ Other soils that are wet within 60 cm of the mineral soil surface at some time 
 Other soils that have a coarse layer (added rock fragments, concrete, bricks) more than 30 cm thick in which there is insufficient fine-earth to fill more than half the interstices between clasts, with an upper boundary within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
-**Coarse Fill Anthropic Soils**
+**Coarse Fill Anthropic Soils (...)**
 :::
 
 #### **AFT** {#sec-key-AFT .unnumbered}
@@ -271,7 +271,7 @@ Other soils that have a coarse layer (added rock fragments, concrete, bricks) mo
 Other soils.
 
 ::: {style="text-align: right"}
-**Typic Fill Anthropic Soils**
+**Typic Fill Anthropic Soils (...)**
 :::
 
 {{< pagebreak >}}
