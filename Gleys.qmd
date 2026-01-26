@@ -8,7 +8,7 @@ editor_options:
 
 ## Concept of the Order {#sec-con-G}
 
-Gley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically affecting iron, manganese, nitrates, and sometimes sulfates). [Low-chroma colours](Diagnostics.qmd#sec-diag-lch) are dominant throughout the solum or to a depth of 90 cm or more.
+Gley Soils are poorly-drained and very poorly-drained soils. In their undrained state, saturation occurs during prolonged periods, oxygen is limited and reducing conditions occur (typically affecting manganese, iron, nitrates, and sometimes sulfates). [Low-chroma colours](Diagnostics.qmd#sec-diag-lch) are dominant throughout the solum or to a depth of 90 cm or more.
 
 ## Correlation {#sec-cor-G}
 
@@ -21,9 +21,9 @@ Gley Soils occur throughout New Zealand, usually in low parts of the landscape w
 ## Accessory Properties of the Order {#sec-acc-G}
 
 1.  *Segregation of iron and manganese oxides.* Particles in reduced parts of the soil are not coated by secondary oxides. [Redox segregations](Diagnostics.qmd#sec-diag-rsegs) of iron and manganese oxides, however, are usually present elsewhere in the soil and may occupy large volumes.
-2.  *Commonly formed in alluvial or colluvial parent materials.* Soils most frequently occur in relatively low parts of the landscape, in hollows or associated with rushes.
+2.  *Commonly formed in alluvial or colluvial parent materials.* Soils most frequently occur in relatively low parts of the landscape (e.g., hollows, footslopes, floodplains).
 3.  *Wide range of clay minerals.* The clay mineralogy commonly reflects the mineralogy of the non-gleyed material from which the soils are derived. Gley Soils cover a wide range of mineralogy classes with Mixed, Illitic, and Smectitic being the most common.
-4.  *Poorly or very poorly drained.* Topsoils have relatively high levels of organic matter and some are peaty. Subsurface horizons to depth are dominantly grey or bluish grey in colour (i.e., [low-chroma colours](Diagnostics.qmd#sec-diag-lch)) with strong brown to dark brown [redox segregations](Diagnostics.qmd#sec-diag-rsegs).
+4.  *Poorly or very poorly drained.* Topsoils have relatively high levels of organic matter and some are peaty. Subsurface horizons to depth are reduced and dominantly grey or bluish grey in colour (i.e., [low-chroma colours](Diagnostics.qmd#sec-diag-lch)) with strong brown to dark brown or reddish [redox segregations](Diagnostics.qmd#sec-diag-rsegs).
 5.  *High groundwater-tables.* Most are affected by high groundwater-tables, at least throughout winter months. Soils with [slowly permeable layers](Diagnostics.qmd#sec-diag-slowp) may also be subject to perching.
 6.  *Shallow potential rooting depth.* Potential rooting depth is limited by poor aeration. Even after drainage, root extension may be limited in some horizons.
 7.  *Relatively high bulk densities.* Bulk densities are likely to be higher than in well drained soils in similar soil materials.
@@ -177,7 +177,7 @@ Other Gley Soils.
 
 ### **GU** - SULFURIC GLEY SOILS {#sec-GU .unnumbered}
 
-Sulfuric Gley Soils occur in marine or estuarine sites in which sufficient oxidation of ferrous sulfides (e.g., pyrite) has occurred to produce either sulfuric acid, or the mineral jarosite, or both.
+Sulfuric Gley Soils occur in marine or estuarine settings in which sufficient oxidation of ferrous sulfides (e.g., pyrite) has occurred to produce either sulfuric acid, or the mineral jarosite, or both.
 
 #### **GUFQ** {#sec-key-GUFQ .unnumbered}
 
@@ -224,7 +224,7 @@ Other soils.
 
 ### **GT** - TEPHRIC GLEY SOILS {#sec-GT .unnumbered}
 
-Tephric Gley Soils occur in unconsolidated sediment of pyroclastic origin of varying composition and grain sizes.
+Tephric Gley Soils occur in unconsolidated deposits of pyroclastic origin of varying composition and grain sizes.
 
 #### **GTO** {#sec-key-GTO .unnumbered}
 
@@ -291,7 +291,7 @@ Other soils that within 60 cm of the mineral soil surface have [saline soil mat
 
 #### **GSC** {#sec-key-GSC .unnumbered}
 
-Other soils that have more than 2% by volume concretions in some horizon at a depth of 60 cm or less from the mineral soil surface.
+Other soils that have more than 2% concretions (by volume) in some horizon at a depth of 60 cm or less from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Concretionary Sandy Gley Soils**
@@ -315,7 +315,7 @@ Other soils.
 
 ### **GX** - OXIDIC GLEY SOILS {#sec-GX .unnumbered}
 
-Oxidic Gley Soils have variable charge properties and contain low-activity clays. The mineralogy is dominated by kaolin group clay minerals. Iron oxides are less common than in the [Oxidic Soils](Key-to-Orders.qmd#sec-X).
+Oxidic Gley Soils have variable charge properties and contain low-activity clays. The mineralogy is dominated by kaolin subgroup clay minerals. Iron oxides are less common than in the [Oxidic Soils](Key-to-Orders.qmd#sec-X).
 
 #### **GXN** {#sec-key-GXN .unnumbered}
 
