@@ -21,19 +21,19 @@ Allophanic Soils occur predominantly in central North Island rhyolitic and andes
 ## Accessory Properties of the Order {#sec-acc-L}
 
 1.  *Nanocrystalline minerals.* The soil matrix as well as pore surfaces are dominated by the clay minerals allophane, ferrihydrite, imogolite, and/or aluminium-humus complexes. The soil materials have very high specific surface area. Measured clay contents generally range from 10 to 25% though particle-size measurements can be difficult because of aggregation and the "true" or primary clay contents may often be considerably higher. P retention is high or very high.
-2.  *Low bases.* Sum of bases are low to very low and range from less than 1 to 10 cmol~c~/100 g in subsoils and unfertilised topsoils.
-3.  *Mainly pyroclastic (tephra) parent materials.* Predominantly in andesitic, rhyolitic or mixed tephra (and reworked derivatives), and in basaltic scoriae, they also occur in soil materials from sandstone (greywacke), or derivatives, of humid uplands and high country. According to proximity to volcanic sources, they often comprise multilayered profiles reflecting deposition of different tephra layers through time.
+2.  *Low bases.* Sum of bases are low to very low and range from less than 1 to 10 cmol~c~/100 g, in subsoils and unfertilised topsoils.
+3.  *Mainly pyroclastic (tephra) parent materials.* Predominantly in andesitic, rhyolitic or mixed tephra (and reworked derivatives), and in basaltic ash and scoriae, they also occur in soil materials from sandstone (e.g., greywacke), or derivatives, of humid uplands and high country. According to proximity to volcanic sources, they often comprise multilayered profiles reflecting deposition of different tephra layers periodically through time.
 4.  *Rapid, hydrolytic mineral weathering.* Volcanic glass, feldspars, and mafic minerals dominate the sand fractions of soils in pyroclastic parent materials, and are the primary source of the nanocrystalline minerals. Feldspars are most likely the primary source in non-pyroclastic parent materials. Typically they have Amorphic, Ferrihydritic, or Glassy mineralogy classes.
 5.  *Rapid permeability and high water retention.* The macroporosity is very high and rapid drainage occurs at low soil moisture tensions. Water contents at 1500 kPa soil moisture tension are very high.
-6.  *Well drained.* Although poorly, imperfectly and moderately well drained soils occur, well drained soils are predominant. Good drainage allows the key mechanism of desilication to occur that favours the formation of allophane and ferrihydrite.
+6.  *Well drained.* Although poorly, imperfectly and moderately well drained soils occur, well drained soils are predominant. Good drainage allows the key mechanism of desilication to occur that favours the formation of ferrihydrite and Al-rich allophane.
 7.  *Good rooting medium.* Bulk density is very low and there is little resistance to root extension. In many soils the potential rooting depth is very deep.
 8.  *Active soil fauna.* Microbial biomass is generally high.
-9.  *Stable topsoils.* Soils resist pugging under the impact of machinery or grazing animals in wet weather. The water content at field capacity is less than the plastic limit. Topsoil and subsoil horizons are friable, and organic/mineral complexes are stable. For mineral soils, carbon contents are medium to very high. Exposed topsoil may be subject to wind erosion.
+9.  *Stable topsoils.* Soils resist pugging under the impact of machinery or grazing animals in wet weather. The water content at field capacity is less than the plastic limit. Topsoil and subsoil horizons are friable, and organic/mineral complexes are stable. For mineral topsoils under natural conditions, organic carbon contents are at least 4%. Exposed topsoil may be subject to wind erosion.
 10. *High shrinkage potential.* Soil materials have high potential to shrink on drying. Rewetting may not achieve the original volume.
 11. *Slight to insignificant erosion under pasture.* Generally the erosion potential is low, except on steep slopes or exposed sites and under cultivation on rolling slopes.
 12. *Sensitive.* A pronounced loss of strength occurs on disturbance.
 13. *Limited fertility.* There are usually requirements for phosphorus, potassium and magnesium on dairy farms. There are no significant trace element deficiencies although cobalt is marginal in more strongly leached Allophanic Soils. Pasture may respond to lime where pH is less than 5.3. Sulfate reserves are held in B horizons. P retention and phosphate fixation are high in topsoils.
-14. *Moist climate.* Precipitation exceeds 1000 mm and soil moisture deficits are either absent or occur for only short periods.
+14. *Moist climate.* Mean annual precipitation exceeds 1000 mm and soil moisture deficits are either absent or occur for only short periods.
 
 ## Summary of Allophanic Soils {#sec-sum-L}
 
@@ -48,19 +48,19 @@ table_L_dat <- data.frame(
   'Code' = c('LP', '', # :/
              'LG', '',
              'LI', '', '',
-             'LO', '', '', '', ''),
+             'LO', '', '', '', '', ''),
   'Group' = c('Perch-gley', '', 
               'Gley', '',
               'Impeded', '', '',
-              'Orthic', '', '', '', ''),
+              'Orthic', '', '', '', '', ''),
   'Subgroup' = c('Ironstone', 'Typic',
                  'Peaty', 'Typic',
                  'Mottled-Ironstone', 'Mottled', 'Typic',
-                 'Mottled', 'Vitric-Acidic', 'Vitric', 'Acidic', 'Typic'),
+                 'Mottled', 'Vitric-Acidic', 'Vitric', 'Buried-granular', 'Acidic', 'Typic'),
   'Example_Series' = c('-', 'Awatuna',
-                       'Rahotu var.', 'Glenn',
-                       'pt. Okato var.', 'Tipoka', 'Bruntwood',
-                       'Oeo', 'Rowan', 'Lepperton', 'Patua', 'Tirau')
+                       'Rahotu', 'Glenn',
+                       'Okato', 'Tipoka', 'Bruntwood',
+                       'Oeo', 'Rowan', 'Lepperton', '-', 'Patua', 'Tirau')
 ) 
 
 table_L <- gt(table_L_dat) |>
@@ -212,7 +212,7 @@ Other soils that have BOTH
 1.  *either*
     (a) coatings on pores (excluding root linings), or gel-like masses bridging sand grains or coating coarse-fragments, that have hue 7.5YR or redder, value 5 or less and chroma 3 or more, *or*
     (b) pH less than 5.5 in some part of the B or BC horizon to 60 cm from the mineral soil surface, AND
-2.  [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that is formed predominantly from [tephric soil material](Diagnostics.qmd#sec-diag-teph) and has 50% or more sand (by weighted average).
+2.  [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) that is formed predominantly from [tephric soil material](Diagnostics.qmd#sec-diag-teph) and has 50% or more sand.
 
 ::: {style="text-align: right"}
 **Vitric-acidic Orthic Allophanic Soils**
@@ -235,6 +235,17 @@ Other soils that have, in some part of the B or BC horizon to 60 cm from the mi
 
 ::: {style="text-align: right"}
 **Acidic Orthic Allophanic Soils**
+:::
+
+#### **LOBG** {#sec-key-LOBG .unnumbered}
+
+Other soils in which [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) overlies a non-allophanic B horizon which has to its base, or to 90 cm from the mineral soil surface, whichever is less, BOTH
+
+1.  a clayey texture throughout and if any rock fragments occur, they are either very highly or completely weathered, AND
+2.  a [cutanoxidic horizon](Diagnostics.qmd#sec-diag-cutoxh), or a moderately or very strongly pedal [cutanic](Diagnostics.qmd#sec-diag-cuth) or [argillic horizon](Diagnostics.qmd#sec-diag-argh) with polyhedral peds 20 mm or less in size in most of the B horizon.
+
+::: {style="text-align: right"}
+**Buried-granular Orthic Allophanic Soils**
 :::
 
 #### **LOT** {#sec-key-LOT .unnumbered}
