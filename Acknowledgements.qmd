@@ -1,8 +1,10 @@
-# Acknowledgements for 1^st^ edition {#sec-ack1 .unnumbered}
+# Acknowledgements {#sec-ack .unnumbered}
+
+## Acknowledgements for 1^st^ edition {#sec-ack1 .unnumbered}
 
 Many have contributed to the development of this version, but in particular the guidance and encouragement of Ben Clayden is gratefully acknowledged. Alastair Wilson advanced the work considerably by developing the hierarchies of the [Oxidic](Key-to-Orders.qmd#sec-O) and [Granular Soils](Key-to-Orders.qmd#sec-N) orders, the [Mafic Brown Soils](Key-to-Orders.qmd#sec-BM) subgroups and revising the [Ultic Soils](Key-to-Orders.qmd#sec-U) hierarchy. The [Allophanic Soils](Key-to-Orders.qmd#sec-L) and [Pumice Soils](Key-to-Orders.qmd#sec-M) proposals are adapted from the ICOMAND proposal [@parfitt1991] and Roger Parfitt's assistance with these, and other orders, has been appreciated. There are many others who have willingly supplied information, discussed concepts and helped define classes. In particular I thank Trevor Webb, Robin Palmer, Brian Purdie, Hugh Wilde, Iain Campbell, Geoff Mew, Mike Laffan, Peter McIntosh, Alan Palmer, Jim Pollok, David Lowe, Megan Balks, Bob Allbrook, Malcolm McLeod, Gary Orbell and Peter Singleton. Cyril Childs' editorial help was also much appreciated.
 
-# Acknowledgements for 4^th^ edition {#sec-ack4 .unnumbered}
+## Acknowledgements for 4^th^ edition {#sec-ack4 .unnumbered}
 
 Allan Hewit (1949-2022) started collating the content for a future 4th edition in 2010. Additional contributors to this 4th edition are (in alphabetical order): Megan Balks, Maddison Bingham, Sam Carrick, Thomas Caspari, Jo Cavanagh, Kirstin Deuss, Andre Eger (compiler and corresponding author), Scott Fraser, Garth Harmsworth, David Lowe, Malcolm McLeod, Emily McKay, Lauren O’Brien, Veronica Penny, Lena Reifschneider, Balin Robertson, Robyn Simcock, Hadee Thompson-Morrison, and Trevor Webb. The Cryic Soils order was developed by Megan Balks with input from Iain Campbell, Tanya O'Neill, Josh Scarrow, Fiona Shanhun, Peter Almond, Carol Smith, Malcolm McLeod and Pierre Roudier.
 
