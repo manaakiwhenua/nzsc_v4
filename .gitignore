@@ -9,3 +9,5 @@ data/NZSC-Glossary.xlsx
 
 
 /.quarto/
+
+**/*.quarto_ipynb
