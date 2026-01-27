@@ -121,7 +121,7 @@ Other soils that have textures of fine loamy sand or finer in some part from the
         (iii) [argillic horizon](Diagnostics.qmd#sec-diag-argh), [calcareous horizon](Diagnostics.qmd#sec-diag-calch), or a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) that has [sodic features](Diagnostics.qmd#sec-diag-sod) either within or immediately beneath it, *or*
         (iv) an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), skeletans on B horizon peds, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ("two-tone").
 
-## [**B** - Brown Soils](browns.qmd#sec-ord-B) {#sec-B .unnumbered}
+## [**B** - Brown Soils](Browns.qmd#sec-ord-B) {#sec-B .unnumbered}
 
 Other soils that have BOTH
 
