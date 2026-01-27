@@ -1,3 +1,8 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Pallic Soils {#sec-ord-P}
 
 ## Concept of the Order {#sec-con-P}
@@ -6,11 +11,11 @@ Pallic Soils are soils with moderate to high base status and low contents of sec
 
 ## Correlation {#sec-cor-P}
 
-The order comprises most yellow-grey earths, associated steepland soils, intergrades between yellow-grey earths and yellow-brown earths, and intergrades between yellow-grey earths and brown-grey earths of the *New Zealand Genetic Soil Classification*. Most Pallic Soils are correlated with Alfisols and Inceptisols in *Soil Taxonomy*, particularly those under ustic (predominant) or udic moisture regimes, with aquic conditions, or ochric epipedons.
+The order comprises most yellow-grey earths, associated steepland soils, intergrades between yellow-grey earths and yellow-brown earths, and intergrades between yellow-grey earths and brown-grey earths of the *New Zealand Genetic Soil Classification*. Most Pallic Soils are correlated with Alfisols and Inceptisols in *Soil Taxonomy*, particularly those under ustic moisture regimes, with aquic conditions, or ochric epipedons.
 
 ## Occurrence {#sec-occ-P}
 
-Pallic Soils occur predominantly in the seasonally dry eastern part of North and South Islands and in the Manawatū.
+Pallic Soils occur predominantly in the seasonally dry eastern part of North and South Islands, and in the Manawatū.
 
 ## Accessory Properties of the Order {#sec-acc-P}
 
@@ -18,9 +23,9 @@ Pallic Soils occur predominantly in the seasonally dry eastern part of North and
 2.  *High base status.* Base saturation values in subsoils are high (more than 50%) except in perch-gleyed soils, where values may be lower in horizons overlying [fragipans](Diagnostics.qmd#sec-diag-fpan).
 3.  *Felsic parent materials.* Parent materials are predominantly loess or sediments derived from quartzo-feldspathic rocks (schist or greywacke).
 4.  *Mica/illite clay minerals.* Pallic Soils usually belong either to the Illitic or Vermilculitic, or to a Clay-mineralic mineralogy class.
-5.  *Slow permeability.* Subsurface horizons have restricted permeability, particularly in soils with fragipans or duripans in which the permeability is very slow.
+5.  *Slow permeability.* Subsurface horizons have restricted permeability, particularly in soils with [fragipans](Diagnostics.qmd#sec-diag-fpan) or [duripans](Diagnostics.qmd#sec-diag-dpan) in which the permeability is very slow.
 6.  *Perched water-tables.* Soils that are poorly or moderately well drained have water-tables perched on [slowly permeable layers](Diagnostics.qmd#sec-diag-slowp).
-7.  *Limited rooting depth.* Potential rooting depth in most soils is limited by a subsurface horizon of high bulk density at shallow depths or by brittle silty cappings on coarse rock fragments.
+7.  *Limited rooting depth.* Potential rooting depth in most soils is limited by a subsurface horizon of high bulk density at shallow depths, or by brittle silty cappings on coarse rock fragments.
 8.  *Strongly worm-mixed.* Topsoils generally have a significant proportion of worm casts and a distinct worm-mixed horizon occurs in the transition from A to B horizons. Topsoil worm activity is greatly reduced during summer periods of soil moisture deficit.
 9.  *High slaking and dispersion potential.* Soil material, particularly in B horizons, is strongly dispersive and will readily slake. Topsoil structures may break down under prolonged impact by heavy machinery or by continuous tillage.
 10. *Droughty summers, moist winters.* Average annual precipitation ranges from about 500 to 1000 mm per year. A spring surplus of soil water is common but the annual surplus is less than about 200 mm. The average annual deficit is approximately 90–200 mm/year.
@@ -201,7 +206,7 @@ Other soils.
 
 ### **PU** - DURIC PALLIC SOILS {#sec-PU .unnumbered}
 
-Duric Pallic Soils occur in areas with pronounced soil moisture deficits and often have some proportion of tephra in the soil parent material, or high exchangeable sodium. The total silica contents are not exceptional, but sufficient silica has been mobilised to form a pan that impedes roots and water.
+Duric Pallic Soils occur in areas with pronounced soil moisture deficits and often have some proportion of tephra in the soil parent material, or high exchangeable sodium. Sufficient silica has been mobilised to form a subsoil pan that impedes roots and water.
 
 #### **PUM** {#sec-key-PUM .unnumbered}
 
@@ -358,7 +363,7 @@ Other soils.
 
 Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duric horizon](Diagnostics.qmd#sec-diag-dpan) but have a clay-enriched B horizon in which clay coatings occur predominantly on polyhedral, blocky or prismatic ped surfaces, on coarse rock fragment surfaces, or within tubular pores.
 
-#### **PJMU** {#sec-key-PJMU .unnumbered}
+#### **PJMY** {#sec-key-PJMY .unnumbered}
 
 Argillic Pallic Soils that have BOTH
 
@@ -396,7 +401,7 @@ Other soils that have hue 7.5YR or redder or hue 10YR and chroma 6 or more in so
 **Aged Argillic Pallic Soils**
 :::
 
-#### **PJU** {#sec-key-PJU .unnumbered}
+#### **PJY** {#sec-key-PJY .unnumbered}
 
 Other soils that have an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
@@ -445,7 +450,7 @@ Immature Pallic Soils are insufficiently developed to have [fragipans](Diagnosti
 Immature Pallic Soils that have BOTH
 
 1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  Are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
+2.  Are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
 
 ::: {style="text-align: right"}
 **Mottled-pedal Immature Pallic Soils**
