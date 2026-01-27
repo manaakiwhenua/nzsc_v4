@@ -26,7 +26,7 @@ Raw Soils occur scattered throughout New Zealand, particularly in association wi
 4.  *In soils with a fluid subsurface layer, a continuously high water-table is present.* The deposition of fresh sediment may occur.
 5.  *Non-fluid soils occur in environments with active erosion or deposition.*
 6.  *Low fertility.* Nitrogen in particular, is deficient.
-7.  *Erosive.* Most materials are unaggregated and likely to be highly erosive.
+7.  *Erosive.* Most materials are non-cohesive and likely to be highly erosive.
 8.  *Sparse vegetation.* Vegetation is either absent, sparse or patchy, often consisting of ephemeral herbaceous plants, mosses or lichens. Mangroves occur mainly on Raw Soils.
 
 ## Summary of Raw Soils Hierarchy {#sec-sum-W}
@@ -131,7 +131,7 @@ Other Raw Soils that have [fluvial features](Diagnostics.qmd#sec-diag-fluv) and 
 
 #### **WT** {#sec-key-WT .unnumbered}
 
-Other Raw Soils in [tephric soil material](Diagnostics.qmd#sec-diag-teph) from the soil surface to 30 cm depth or more.
+Other Raw Soils in predominantly gravel-sized mafic or intermediate [tephric soil material](Diagnostics.qmd#sec-diag-teph) (basaltic, andesitic) from the soil surface to 30 cm depth or more.
 
 ::: {style="text-align: right"}
 [**TEPHRIC RAW SOILS**](#sec-WT)
@@ -149,7 +149,7 @@ Other Raw Soils.
 
 ### **WW** - HYDRIC RAW SOILS {#sec-WW .unnumbered}
 
-Hydric Raw Soils have surface water present for a majority of the time, but not always. They are commonly part of an active riverbed or other shore environment (coastal, lakes).
+Hydric Raw Soils have surface water present for a majority of the time, but not permanently. They are commonly part of active riverbeds or other shore environments (coastal, lacustrine).
 
 #### **WWU** {#sec-key-WWU .unnumbered}
 
@@ -169,7 +169,7 @@ Other soils.
 
 ### **WG** - GLEY RAW SOILS {#sec-WG .unnumbered}
 
-Gley Raw Soils occur in sites that are periodically or permanently flooded. Wetness is expressed in the soil by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) with brownish or reddish mottles, by water saturation or is indicated by a chemical test for the presence of reduced iron ([Childs' test](Diagnostics.qmd#sec-diag-fe2)).
+Gley Raw Soils occur in sites that are periodically flooded. Wetness is expressed in the soil by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) with brownish or reddish mottles, by water saturation or is indicated by the presence of reduced iron ([Childs' test](Diagnostics.qmd#sec-diag-fe2)).
 
 #### **WGR** {#sec-key-WGR .unnumbered}
 
@@ -244,6 +244,12 @@ Other soils.
 ### **WH** - HYDROTHERMAL RAW SOILS {#sec-WH .unnumbered}
 
 Hydrothermal Raw Soils occur in active hydrothermal areas affected by hot liquids or steam.
+
+No subgroups have been defined.
+
+### **WC** - CRYIC RAW SOILS {#sec-WC .unnumbered}
+
+Cryic Raw Soils likely occur (data deficient, see @tbl-nzscstareas) in alpine locations above ~2000 m elevation, particularly near glaciers. 
 
 No subgroups have been defined.
 
