@@ -4,12 +4,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Appendix {#sec-appendix}
+# Summary table of letters used in the NZSC {#sec-appendix}
 
 The system for designating the soils consists of letters only. This method has been adopted to make for easier insertion of new subgroups, and to make the codes easier to remember. The following table (@tbl-codes) demonstrates how each code letter has been used in the soil classification, the level at which it has been used, and the meanings.
 
 | Code | Order | Group | Subgroup |
-|:--------------|:--------------|:---------------------------|:--------------|
+|:----------------|:----------------|:----------------------|:----------------|
 | **A** | Anthropic | Acid, Aged-argillic | Abandoned, Acidic, Aged, Artefact |
 | **B** | Brown | Ornithogenic | Brown, Buried |
 | **C** | Cryic | Cryic | Calcareous, Cemented, Compacted, Concretionary |
@@ -34,7 +34,7 @@ The system for designating the soils consists of letters only. This method has b
 | **V** |  | Vertic | Vertic, Vitric |
 | **W** | Raw | Hydric | Weathered, Wet |
 | **X** | Oxidic | Fragic, Oxidic, Pan, Rocky | Coarse, Fragic, Oxidic, Pan, Rocky |
-| **Y** |  | Yellow | Yellow |
+| **Y** |  | Yellow | Ultic, Yellow |
 | **Z** | Podzol | Solonetzic | Inverted-impeded, Podzol, Podzolic, Silt-mantled |
 
 : NZSC Codes {#tbl-codes .hover tbl-colwidths="\[10,20,35,35\]"}
