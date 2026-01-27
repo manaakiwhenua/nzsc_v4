@@ -1,5 +1,7 @@
 ## References {.unnumbered}
 
+Note: For references published by the New Zealand Department of Scientific and Industrial Research, Manaaki Whenua-Landcare Research, and the New Zealand Soil Science Society we added links to freely accessible, digital copies of these resources via the Digital Object Identifier (doi) system. If a publication was reprinted or had multiple editions, we decided to cite the version for which a digital copy was readily available; this was usually the most recent reprint/edition.
+
 ::: {#refs}
 :::
 
