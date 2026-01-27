@@ -28,7 +28,7 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 6.  *Good drainage.* Poorly drained or very poorly drained soils are not included.
 7.  *Low phosphate retention.* Phosphate retention is likely to be either low or very low unless the soils occur in mafic parent materials.
 8.  *High fertility.* Natural fertility is generally high.
-9.  *Subject to erosion or sedimentation, including tephra deposition.* The soils are susceptible to erosion, sedimentation and/or tephra deposition.
+9.  *Subject to erosion or sedimentation.* The soils are susceptible to erosion and sedimentation, including tephra deposition.
 
 ## Summary of Recent Soils Hierarchy {#sec-sum-R}
 
@@ -63,9 +63,9 @@ table_R_dat <- data.frame(
                        'Titiraurangi', '-', '-', 'Cadzow', '-', '-',
                        'Waiowhiro', 'Poison Bay', 'Hangatahua', 'Selwyn', '-', '-',
                        'Waiwhetu', 'Motukarara', '-', 'Eweburn', 'Harihari',
-                         'Manawatu', 'Waimakariri', 'Seaforth', 'Selwyn',
-                       '-', 'Rangitoto', 'Tarawera', 'Matahina', '-', 'Ngauruhoe',
-                       '-', '-', '-', '-', '-', 'Barhill')
+                         'Manawatū', 'Waimakariri', 'Seaforth', 'Selwyn',
+                       'Reporoa', 'Rangitoto', 'Tarawera', 'Matahina', '-', 'Ngauruhoe',
+                       '-', 'Akatea', '-', '-', '-', 'Barhill')
   )
 
 table_R <- gt(table_R_dat) |>
@@ -183,11 +183,11 @@ Other soils.
 
 ### **RS** - SANDY RECENT SOILS {#sec-RS .unnumbered}
 
-Sandy Recent Soils occur in sand deposits which are dominantly aeolian, and sometimes alluvial in origin. Subsurface horizons are sandy.
+Sandy Recent Soils occur in sand deposits which are dominantly aeolian, and sometimes alluvial or pyroclastic in origin. Subsurface horizons are sandy.
 
 #### **RSR** {#sec-key-RSR .unnumbered}
 
-Sandy Recent Soils in which [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr) is present in some part within 90 cm of the mineral soil surface.
+Other soils in which [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr) is present in some part within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Sulfuric Sandy Recent Soils**
@@ -203,7 +203,7 @@ Other soils in which [sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) is
 
 #### **RSM** {#sec-key-RSM .unnumbered}
 
-Sandy Recent Soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
+Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
 **Mottled Sandy Recent Soils**

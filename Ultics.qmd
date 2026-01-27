@@ -23,10 +23,10 @@ Ultic Soils are most common in the northern North Island, and the Wellington, Ma
 1.  *Acidity.* KCl-extractable aluminium levels of more than 1 cmol~c~/kg are usual in B horizons, and indicate toxic aluminium which may inhibit root function and may contribute to shallow rooting habits in aluminium-sensitive plants.
 2.  *Clayey subsoils.* CEC values are medium to high. Ultic Soils cover a wide range of mineralogy classes, Kandic/Halloysitic and Smectitic being the most common.
 3.  *Low magnesium and potassium.* Low concentrations of reserve magnesium and potassium resulting from strong weathering.
-4.  *Strongly weathered with low nutrient reserves.* Low levels of 0.5M H~2~SO~4~^-^ extractable phosphorus (usually less than 3 mg/100 g) and total phosphorus (usually less than 20 mg/100 g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of 0.5M H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
+4.  *Strongly weathered with low nutrient reserves.* Low levels of H~2~SO~4~^-^ extractable phosphorus (usually less than 3 mg/100 g) and total phosphorus (usually less than 20 mg/100 g) are characteristic. The former reflects low solubility and/or a low level of inorganic phosphorus reserves. Phosphorus supply from inorganic sources under zero phosphorus input grassland farming is negligible after about 2 years. Strong weathering is indicated by low ratio of H~2~SO~4~^-^-extractable phosphorus to inorganic phosphorus, usually 0.25 or less.
 5.  *Slow permeability.* A [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp) occurs in clayey profiles, in some cases marking a buried paleosol beneath a lithological discontinuity. The majority of soils are imperfectly to poorly drained. Soil water movement is mainly along planar voids.
 6.  *Susceptibility to livestock treading damage.* Clayey or low strength, silty surface horizons are susceptible to treading damage or compaction during wet periods.
-7.  *Dispersible surface horizons.* Surface horizons, especially silty ones, are dispersible according to the test of @mcqueen1981, and are prone to erosion where the surface cover has been removed. Although phosphate retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
+7.  *Dispersible surface horizons.* Surface horizons, especially silty ones, are dispersible, and are prone to erosion where the surface cover has been removed. Although phosphate retention is usually moderate or high in B horizons, it may be low in A and E horizons consistent with low contents of secondary iron oxides.
 
 ## Summary of Ultic Soils Hierarchy {#sec-sum-U}
 
@@ -55,9 +55,9 @@ table_U_dat <- data.frame(
                  'Magnesic', 'Mottled-podzolic', 'Mottled', 'Podzolic',
                  'Buried-granular', 'Typic'),
   'Example_Series' = c('Wharekohe', 'Hukerenui', 
-                       'Waikare, Okaka', 'Rangiora', 'Riponui',
+                       'Waikare', 'Rangiora', 'Riponui',
                        'Tangitiki', 'Omu',
-                       'Tangitiki', 'Tangitiki', 'Red Hill',
+                       'Tangitiki', 'Tangitiki', 'Kaiteriteri',
                        '-', 'Tennyson', 'Puhoi', 'Opouri', 'Kainui', 'Warkworth')
 ) 
 
@@ -159,7 +159,7 @@ Albic Ultic Soils that have a [reductimorphic horizon](Diagnostics.qmd#sec-diag-
 
 #### **UEM** {#sec-key-UEM .unnumbered}
 
-Other soils that have a [redox-mottled horizon](Diagnostics.qmd#sec-diag-redmh) below the [eluvial horizons](Diagnostics.qmd#sec-diag-eluv).
+Other soils that have a [redox-mottled horizon](Diagnostics.qmd#sec-diag-redmh) below the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv).
 
 ::: {style="text-align: right"}
 **Mottled Albic Ultic Soils**
@@ -230,7 +230,7 @@ Yellow Ultic Soils are clayey and lack [densipans](Diagnostics.qmd#sec-diag-dens
 Yellow Ultic Soils that have EITHER
 
 1.  5% (by volume) or more coarse rock fragments that consist mainly of ultramafic rocks, OR
-2.  Have an exchangeable calcium/magnesium molar ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
+2.  Have an exchangeable calcium/magnesium ratio of 0.2 or less and exchangeable magnesium of 1.5 cmol~c~/kg or more in some part of the B horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Yellow Ultic Soils**

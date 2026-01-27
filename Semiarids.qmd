@@ -1,16 +1,21 @@
+---
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
 # Semiarid Soils {#sec-ord-S}
 
-## Concept of the Order {#sec-con-S}
+## Concept of the order {#sec-con-S}
 
 Semiarid Soils are high base status soils in which a soil water deficit prevails over most of the growing season. Wetting fronts under natural climate conditions (i.e., in the absence of irrigation) fail to penetrate deeper than the base of the solum, with consequent accumulation of pedogenic (secondary) carbonate and other soluble salts.
 
 ## Correlation {#sec-cor-S}
 
-The order comprises brown-grey earths, associated steepland soils and intergrades between brown-grey earths and yellow-grey earths and recent soils of the *New Zealand Genetic Soil Classification*. In *Soil Taxonomy*, the order corresponds with the Aridisols including Haplargids, Paleargids, Calciargids, and Natrargids, along with Cambids, but also with suborders under a xeric moisture regime (Xerepts, Xerults, Xeralfs, Xerorthents).
+The order comprises brown-grey earths, associated steepland soils and intergrades between brown-grey earths and yellow-grey earths and recent soils of the *New Zealand Genetic Soil Classification*. In *Soil Taxonomy*, the order mainly corresponds with the Aridisols including Haplargids, Paleargids, Calciargids, and Natrargids, along with Cambids.
 
 ## Occurrence {#sec-occ-S}
 
-Semiarid Soils occur in the inland basins of Otago and southern Canterbury, where average annual precipitation is less than about 500 mm.
+Semiarid Soils have originally been only recognised in the inland basins of Otago and southern Canterbury, where mean annual precipitation is less than about 500 mm. While this remains the geographic region with the highest occurrence of these soils, Semiarid Soils may also be found in other regions with a comparable climate. 
 
 ## Accessory Properties of the Order {#sec-acc-S}
 
@@ -111,7 +116,7 @@ Other Semiarid Soils.
 
 ### **SA** - AGED-ARGILLIC SEMIARID SOILS {#sec-SA .unnumbered}
 
-Aged-Argillic Semiarid Soils occur mainly on fans, terraces or hill slopes that have been relatively stable since mid to early Pleistocene. The [argillic horizons](Diagnostics.qmd#sec-diag-argh) are redder in colour than those in younger soils, and are usually [slowly permeable](Diagnostics.qmd#sec-diag-slowp).
+Aged-Argillic Semiarid Soils occur mainly on fans, terraces or hill slopes that have been relatively stable since the middle to early Pleistocene. The [argillic horizons](Diagnostics.qmd#sec-diag-argh) are redder in colour than those in younger soils, and are usually [slowly permeable](Diagnostics.qmd#sec-diag-slowp).
 
 #### **SAM** {#sec-key-SAM .unnumbered}
 
@@ -123,7 +128,7 @@ Aged-Argillic Semiarid Soils that have a [mottled soil profile form](Diagnostics
 
 #### **SAW** {#sec-key-SAW .unnumbered}
 
-Other soils in which the majority of coarse rock fragments are weathered to the extent that clasts may easily be broken by hammer or spade.
+Other soils in which the majority of coarse rock fragments are weathered to the extent that they may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Aged-argillic Semiarid Soils**
