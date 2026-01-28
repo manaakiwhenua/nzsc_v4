@@ -2,9 +2,15 @@
 
 ### Major
 
+#### Foreword
+
+-   **ADD** discussion of control sections and how they are used in the classification
+-   **ADD** discussion of lithological discontinuities
+-   **REMOVE** definitions of CEC, ECEC, and P retention
+
 #### Introduction
 
--   **ADD** subsection 'Evolution of New Zealand Soils', about the pathways soil development follows in the country
+-   **ADD** subsection 'Evolution of the soils of Aotearoa New Zealand', about the pathways soil development follows in the country
 -   **ADD** subsection 'The History of the New Zealand Soil Classification' recounting how the classification has developed from older classifications.\
     These two sections replace the previous introductory paragraphs.
 -   **ADD** subsection 'Soil series, families and siblings' to explain the history and use of these concepts
@@ -18,7 +24,7 @@
     **Rationale:** Anthropic materials were not previously defined, causing confusion during the classification process.
 -   **ADD** [Child's test](Diagnostics.qmd#sec-diag-fe2) as a diagnostic for reduction in soils.\
     **Rationale:** The test was previously mentioned at the subgroup level but not defined in detail. The test is also now described in the 'field tests' chapter of the *Soil Description Handbook* [@obrien2025].
--   **ADD** [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) as a diagnostic for Pallic and some Brown soils.\
+-   **ADD** [Eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) as a diagnostic for Pallic and some Brown, Podzol and Ultic soils.\
     **Rationale:** Concepts appearing in the key require a clear diagnostic definition within the classification, independent of the description manual, which was previously implicitly linked.
 -   **ADD** [Low-chroma colours](Diagnostics.qmd#sec-diag-lch) as a diagnostic for many soils affected by poor drainage or strong leaching.\
     **Rationale:** The definition of low-chroma colour was previously only available in the definition of a Bg horizon and was therefore hard to find. It is now clearly defined both in this document and in the 'horizon colour' chapter of the *Soil Description Handbook*.
@@ -28,12 +34,17 @@
     **Rationale:** Sulfidic soils were previously lumped in with less hazardous wet soils and their diagnostic criteria were outdated and only mentioned at subgroup level.
 -   **ADD** [Sulfuric Soil Material](Diagnostics.qmd#sec-diag-sulfr) as a diagnostic.\
     **Rationale:** Sulfuric soils were previously lumped in with less hazardous low-pH soils and their diagnostic criteria were outdated and only mentioned at subgroup level.
--   **AMEND** [Calcareous horizon](Diagnostics.qmd#sec-diag-calch) for clarity and brevity, adding a clearer definition of primary vs secondary carbonates and including example horizon notation. Removed extraneous second paragraph.\
+-   **AMEND** [Calcareous horizon](Diagnostics.qmd#sec-diag-calch) for clarity, adding a clearer definition of primary vs secondary carbonates and including example horizon notation. Removed extraneous second paragraph. Clarified that both primary and secondary carbonates are diagnostic in the fine fraction, but only secondary carbonates are relevant in the coarse fraction because they show evidence of significant carbonate dissolution, transport and precipitation. Coarse fragments of primary carbonates alone do not necessarily provide evidence that these processes are active.\
     **Rationale:** Removal of the second paragraph is justified on the grounds that the content is better suited to the Methods and Rationale of the NZSC [@hewitt1993].
+-   **AMEND** [Cutanoxidic horizon](Diagnostics.qmd#se-diag-cutoxh) to clarify that these must also meet the requirements of a cutanic horizon
 -   **AMEND** [Densipan](Diagnostics.qmd#sec-diag-dens) to include expected horizon notation, and remove reference to specific types of field testing.\
     **Rationale:** Strength and penetration resistance testing should be undertaken using current best practices, which do not need to be specified in this document.
 -   **AMEND** [Fragipan](Diagnostics.qmd#sec-diag-fpan) to include expected horizon notation, and remove reference to specific types of field testing. Additionally, clarify that bulk density is expected to be *greater than or equal to* 1.5 Mg/m^3^.
+-   **AMEND** [Nodular Horizon](Diagnostics.qmd#sec-diag-nodh) to have a 5% abundance requirement rather than 15%\
+    **Rationale** new soil observations
+-   **AMEND** [Peaty topsoil](Diagnostics.qmd#sec-diag-pts) to refer to updated texture class terminology
 -   **AMEND** the table in [Reactive Aluminium](Diagnostics.qmd#sec-diag-naf) test to match the new *Soil Description Manual* and demonstrate more realistic reaction colours.
+-   **AMEND** [Tephric material](Diagnostics.qmd#sec-diag-teph) definition to use updated terminology and newer references.
 -   **REMOVE** *Crumb structure* as a diagnostic.\
     **Rationale:** Updated terms for describing this kind of structure have become available in the new *Soil Description Manual*.
 
@@ -51,68 +62,147 @@
     **Rationale** The Melanic order has been occasionally misinterpreted to apply to a wider variety of profiles with dark topsoils than was originally intended.
 -   **CHANGE** criteria 3b of Melanic soils to include some additional possibilities for soils below pH 5.9\
     **Rationale** newly available data
+-   **CHANGE** criteria for Podzol Soils to clarify that the pH limitation applies to the podzolic-B specifically.
+-   **CHANGE** criteria for Oxidic soils to clarify that A horizons with oxidic properties count towards the thickness requirement.
+-   **CHANGE** criteria for Anthropic soils to refer to the new diagnostic soil material and better define truncation.
 
 #### Allophanic soils
 
 -   Update the concept, correlation, occurrence and accessory properties sections to reflect contemporary knowledge.
+-   **CHANGE** the definitions of Perch-Gley and Gley Allophanic Soils to only require signs of poor drainage within 30 cm of the mineral soil surface\
+    **Rationale** depth to a drainage limitation should not be dependent on A horizon thickness.
+-   **ADD** subgroup LOBG ([Buried-granular Orthic Allophanic Soils](Allophanics.qmd#sec-key-LOBG)) \
+    **Rationale** new soil observations
 
 #### Anthropic soils
 
--   **ADD** group AO ([Māori Anthropic](Anthropics.qmd#sec-key-AO)), containing subgroups AOA ([Artefact Māori Anthropic](Anthropics.qmd#sec-key-AOA)), AOB ([Organic Māori Anthropic](Anthropics.qmd#sec-key-AOB)), and AOF ([Fill Māori Anthropic](Anthropics.qmd#sec-key-AOF)).\
+-   Add discussion about how to relate Anthropic soils to their (probable) pre-altered classification
+-   Expand discussion of their occurrence
+-   **ADD** group AO ([Māori Anthropic](Anthropics.qmd#sec-key-AO)), containing subgroups AOA ([Artefact Māori Anthropic](Anthropics.qmd#sec-key-AOA)), AOO ([Organic Māori Anthropic](Anthropics.qmd#sec-key-AO0)), and AOF ([Fill Māori Anthropic](Anthropics.qmd#sec-key-AOF)).\
     **REMOVE** subgroup AFA (Artifact Fill Anthropic Soils).\
     **Rationale** Māori soils have been previously recognised in the classification at a lower level and with less detail. Adding these groups and subgroups enables clear identification (particularly in mapping) and more effectively distinguishes them from other Anthropic soils.
 -   **ADD** subgroup ARW ([Wet Refuse Anthropic Soils](Anthropics.qmd#sec-key-ARW))\
     **Rationale** These soils will break down in a different manner to other Refuse Anthropic Soils.
 -   **ADD** subgroups AMI ([Inverted-tephric Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMI)), AMZ ([Inverted-impeded Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMZ)) and AMT ([Typic Mixed Anthropic Soils](Anthropics.qmd#sec-key-AMT)).\
     **Rationale** the previous lack of subgroups prevented the classification from being able to represent particular and very distinctive modern land modification practices.
+-   **ADD** subgroup AFU ([Treated-sulfidic fill Anthropic Soils](Anthropics.qmd#sec-key-AFU)) \
+    **Rationale** AFU soils have particular management requirements and may be unsuitable for some uses while their chemistry stabilises post-treatment.
+-   **CHANGE** definition of ATX to allow paralithic contacts as well as lithic contacts
+-   **RENAME** AFST (Stony-tailings fill Anthropic Soils) to AFX ([Coarse Fill Anthropic Soils](Anthropics.qmd#sec-key-AFX)).
 
 #### Brown soils
 
--   **ADD** subgroup BML ([Allophanic Mafic Brown Soils](Browns.qmd#sec-diag-BML))\
-    **Rationale** see comments on Melanic soils below
+-   **ADD** subgroup BLP ([Placic Allophanic Brown Soils](Browns.qmd#sec-key-BLP))\
+    **Rationale** new soil observations
+-   **ADD** subgroup BXM ([Mottled Oxidic Brown Soils](Browns.qmd#sec-key-BXM))\
+    **Rationale** new soil observations
 -   **ADD** Subgroup BFF ([Placic Firm Brown Soils](Browns.qmd#sec-diag-BFF))\
-    **Rationale** new soil observations
--   **ADD** Subgroup BFWA ([Acidic-weathered Firm Brown Soils](Browns.qmd#sec-diag-BFWA))\
-    **Rationale** new soil observations
--   **ADD** Subgroup BFPA ([Acidic-pallic Firm Brown Soils](Browns.qmd#sec-diag-BFWA))\
     **Rationale** new soil observations
 -   **ADD** Subgroup BOMP ([Mottled-pallic Orthic Brown Soils](Browns.qmd#sec-diag-BOMP))\
     **Rationale** new soil observations
--   **ADD** Subgroup BOWA ([Acidic Weathered Orthic Brown Soils](Browns.qmd#sec-diag-BOMP))\
-    **Rationale** new soil observations
--   **REMOVE** requirement for no placic horizon in group BS ([Sandy Brown Soils](Browns.qmd#sec-key-BS))\
+-   **REMOVE** requirement for absence of a placic horizon in group BS ([Sandy Brown Soils](Browns.qmd#sec-key-BS))\
     **Rationale** requirement was inconsistent with the existence of BSMP ([Mottled-placic Sandy Brown Soils](Browns.qmd#sec-key-BSMP)) within the group.
 -   **REMOVE** subgroup BLAM (Acidic-mafic Allophanic Brown)\
     **Rationale:** With the additions made to the Mafic Melanic and Mafic Brown groups, this subgroup has become superfluous. Linking allophanic subgroups directly to mafic groups (EM, BM) will better account for the mechanisms behind the allophanic characteristics in these soils that are likely different to that of soils with allophanic characteristics from tephra and more felsic lithology.
--   **AMEND** Mottled subgroups in the Brown Soils (BLM, BSMP, BSM, BMMG, BMM, BAMP, BAM, BFMA, BFMC, BFMW, BFMP, BFM, BOMA, BOM) to be defined by the presence of a mottled profile form *or perch-gley features*. This also applies to the new subgroup BOMP.\
-    **Rationale**: Perch-gley features can induce a profile form that is in part reduced, but not necessarily as strongly as is required for a gley soil. The reduction is often seasonal rather than year-round. These soils are usually considered imperfectly rather than poorly drained. For further discussion, see @hewitt2021, pp. 76-78.
--   **MOVE** BAX ([Pan Acid Brown Soils](Browns.qmd#sec-key-BAX)) up one position in the key.\
-    **Rationale** this matches the order seen in the Pan Podzols.
+-   **REMOVE** subgroup BFAC (Acidic-cemented Firm Brown Soils)\
+    **Rationale** redundant
+-   **REMOVE** subgroup BFAL (Acidic-allophanic Firm Brown Soils)\
+    **Rationale** redundant
+-   **MOVE** BAX ([Pan Acid Brown Soils](Browns.qmd#sec-key-BAX)) up one position in the key and rename to BAC ([Cemented Acid Brown Soils](Browns.qmd#sec-key-BAC)).\
+    **Rationale** this matches the order seen in the Pan Podzols and allows for a wider range of iron-pan types.
+-   **MOVE** BFMA ([Mottled-acidic Firm Brown Soils](Browns.qmd#sec-key-BFMA)) from first to fourth position in the BF key and BFMW ([Mottled-weathered Firm Brown Soils](Browns.qmd#sec-key-BFMW)) from third to first position\
+    **Rationale** consistency with other parts of the classification
+
+#### Gley soils
+
+-   **CHANGE** the criteria for GU ([Sulfuric Gley Soils](Gleys.qmd#sec-key-GU)) group to refer to the new sulfuric soil materials diagnostic and extend the control section from top 60 cm to top 90 cm\
+    **Rationale** environmental hazard from these soils does not decrease with depth so the maximum control section should apply
+-   **ADD** Subgroups GSOU ([Peaty-sulfidic Sandy Gley Soils](Gleys.qmd#sec-key-GSOU)) and GSU ([Sulfidic Sandy Gley Soils](Gleys.qmd#sec-key-GSU)) to the top of the GS group key.\
+    **Rationale** Sulfidic soil materials can form in some coastal Sandy Gley Soils if the conditions are right. These subgroups can potentially be encountered in low dune-swales and poorly drained coastal sandplains.
+-   **ADD** Subgroups GROU ([Peaty-sulfidic Recent Gley Soils](Gleys.qmd#sec-key-GROU)) and GRU ([Sulfidic Recent Gley Soils](Gleys.qmd#sec-key-GRU)) to the top of the GR group key.\
+    **Rationale** Sulfidic soil materials can form in some Recent Gley Soils if the conditions are right. These subgroups can potentially be encountered adjacent to low-flow drainage lines and water bodies in coastal floodplains.
+-   **ADD** Subgroups GOOU ([Peaty-sulfidic Orthic Gley Soils](Gleys.qmd#sec-key-GOOU)) and GOU ([Sulfidic Orthic Gley Soils](Gleys.qmd#sec-key-GOU)) to the top of the GR group key.\
+    **Rationale** Sulfidic soil materials can form in some Orthic Gley Soils if the conditions are right. These subgroups can potentially be encountered in dips, prior stream channels, and other low-lying areas of coastal plains.
 
 #### Melanic soils
 
+-   **ADD** subgroup ERJ ([Argillic Rendzic Melanic Soils](Melanics.qmd#sec-key-ERJ))\
+    **Rationale** new soil observations
 -   **ADD** subgroups EML ([Allophanic Mafic Melanic](Melanics.qmd#sec-key-EML)), EMA ([Acidic Mafic Melanic](Melanics.qmd#sec-key-EMA)).\
-    **Rationale** Acidification, high P retention and presence of allophanic material in Melanic soils from mafic rock types (e.g., basalt) as observed under higher precipitation (\>800-1000 mm) does not necessarily lead to the loss of the typical characteristics of Melanic soils, such as the dominance of mafic parent material, dark-coloured Fe/Mg/Ti-rich minerals, smectitic clays, a well-developed pedality and higher organic carbon contents. Despite their lower soil pH and exchangeable bases, they are more closely related to soils in the existing EM group than they are to their former groups (BL, BM) in the Brown Soil order.
+    **Rationale** Acidification, high P retention and presence of allophanic material in Melanic soils from mafic rock types (e.g., basalt) as observed under higher precipitation (\>800–1000 mm) does not necessarily lead to the loss of the typical characteristics of Melanic soils, such as the dominance of mafic parent material, dark-coloured Fe/Mg/Ti-rich minerals, smectitic clays, a well-developed pedality and higher organic carbon contents. Despite their lower soil pH and exchangeable bases, they are more closely related to soils in the existing EM group than they are to their former groups (BL, BM) in the Brown Soil order.
+
+#### Organic soils
+
+-   **ADD** subgroups OFU ([Sulfidic Fibric Organic Soils](Organics.qmd#sec-key-OFU)), OMU ([Sulfidic Mesic Organic Soils](Organics.qmd#sec-key-OMU)) and OHU ([Sulfidic Humic Organic Soils](Organics.qmd#sec-key-OHU)) to their respective groups.\
+    **Rationale** Sulfidic soil materials can potentially occur beneath peaty materials in some coastal locations if the conditions are right.
+
+#### Oxidic soils
+
+-   **ADD** subgroups XNX ([Rocky Nodular Oxidic Soils](Oxidics.qmd#sec-key-XNX)) and XOX ([Rocky Orthic Oxidic Soils](Oxidics.qmd#sec-key-XOX)) to their respective groups\
+    **Rationale** new soil observations
+
+#### Pallic soils
+
+-   **RENAME** PXJM to PXMJ ([Argillic-mottled Fragic Pallic Soils](Pallics.qmd#sec-key-PXMJ))\
+    **Rationale** consistency with other mottled subgroups
+-   **MOVE** PJMU to the top of its group key and rename to PJMY ([Mottled-ultic Argillic Pallic Soils](Pallics.qmd#sec-key-PJMY))\
+    **Rationale** consistency with other key ordering, correct use of subgroup letters
+-   **RENAME** PJU to PJY ([Ultic Argillic Pallic Soils](Pallics.qmd#sec-key-PJY))\
+    **Rationale** correct use of subgroup letters
+
+#### Podzol soils
+
+-   **ADD** ZDJH ([Argillic-humose Densipan Podzol Soils](Podzols.qmd#sec-key-ZDJH)), ZXJH ([Argillic-humose Pan Podzol Soils](Podzols.qmd#sec-key-ZXJH)), and ZOJH ([Argillic-humose Orthic Podzol Soils](Podzols.qmd#sec-key-ZOJH)) subgroups to their respective groups.\
+    **Rationale** new soil observations
+
+#### Pumice soils
+
+-   Extended/updated information in the concept and occurrence sections
+-   **REMOVE** requirement for welding from the definition of MI ([Impeded Pumice](Pumices.qmd#sec-key-MI)) group
+-   **RENAME** MIMW to MIMC ([Mottled-welded Impeded Pumice Soils](Pumices.qmd#sec-key-MIMC)), removing the requirement for a welded character\
+    **Rationale** new soil observations
+-   **RENAME** MIW to MIC ([Welded Impeded Pumice Soils](Pumices.qmd#sec-key-MIC)), removing the requirement for a welded character\
+    **Rationale** new soil observations
+-   **ADD** MOS ([Scoriaceous Orthic Pumice Soils](Pumices.qmd#sec-key-MOS))\
+    **Rationale** new soil observations
 
 #### Raw soils
 
--   **ADD** group WW ([Hydric Raw Soils](Raws.qmd#sec-key-WW))\
+-   **ADD** group WW ([Hydric Raw Soils](Raws.qmd#sec-key-WW)) with subgroups WWU ([Sulfidic Hydric Raw Soils](Raws.qmd#sec-key-WWU)) and WWT ([Typic Hydric Raw Soils](Raws.qmd#sec-key-WWT))\
     **Rationale** These soils are usually under shallow water (e.g. lower tidal areas, lake shores).
-
--   **ADD** subgroups WST ([Tephric Sandy Raw Soils](Raws.qmd#sec-key-WST)) and WSS ([Typic Sandy Raw Soils](Raws.qmd#sec-key-WSS)).\
+-   **ADD** group WC ([Cryic Raw Soils](Raws.qmd#sec-key-WC))
+-   **ADD** subgroup WGR ([Sulfuric Gley Raw Soils](Raws.qmd#sec-key-WGR))\
+    **Rationale** Sulfidic Raw Soils have the potential to become sulfuric if disturbed, particularly by drainage or uplift.
+-   **ADD** subgroups WSK ([Tephric Sandy Raw Soils](Raws.qmd#sec-key-WSK)) and WST ([Typic Sandy Raw Soils](Raws.qmd#sec-key-WST)).\
     **Rationale** new soil observations
 
 #### Recent soils
 
 -   **ADD** subgroups RXMA ([Mottled-acidic Rocky Recent Soils](Recents.qmd#sec-key-RXMA)) and RXM ([Mottled Rocky Recent Soils](Recents.qmd#sec-key-RXM)).\
     **Rationale** new soil observations
+-   **REMOVE** subgroup RHI (Inactive hydrothermal Recent Soils)\
+    **Rationale** consistent with Hydrothermal Raw group; no reason to define only one subgroup
+-   **ADD** subgroups RSR ([Sulfuric Sandy Recent Soils](Recents.qmd#sec-key-RSR)) and RSU ([Sulfidic Sandy Recent Soils](Recents.qmd#sec-key-RSU)) to sandy recent group\
+    **Rationale** Sandy Recent Soils may contain sulfuric or sulfidic soil materials at depth, in low-lying coastal sandplains behind dune systems, within low dune swales, or near medium-energy stream mouths.
+-   **ADD** subgroups RFR ([Sulfuric Fluvial Recent Soils](Recents.qmd#sec-key-RFR)) and RFU ([Sulfidic Fluvial Recent Soils](Recents.qmd#sec-key-RFU)) to sandy recent group\
+    **Rationale** Fluvial Recent Soils may contain sulfuric or sulfidic soil materials at depth, around low-energy coastal stream mouths and lagoons.
+-   **ADD** subgroups RTS ([Scoriaceous Tephric Recent Soils](Recents.qmd#sec-key-RTS)) and RTSP ([Scoriaceous-pumiceous Tephric Recent Soils](Recents.qmd#sec-key-RTSP))\
+    **Rationale** new soil observations
+
+#### Appendices
+
+-   **ADD** [Cryic Soil](Appendix_cryic.qmd) order as an appendix for use in the Ross Sea region, with eight additional order-specific diagnostic criteria, three groups, and 15 subgroups.
 
 ### Minor
+
+#### Foreword
+
+-   Expand the list of key technical references to include recent publications e.g. *Soils of Aotearoa New Zealand*
 
 #### Introduction
 
 -   **UPDATE** subsection 'Objectives' to include a reference to the *Methods and Rationale*
--   **UPDATE** Figure 1.2 (new nodular subgroup)
+-   **UPDATE** Figure 1.2 (new nodular and rocky subgroups)
 -   **ADD** Table 1.1 summarising estimated occurrence of *Soil Taxonomy* orders in New Zealand
 
 #### Correlations
@@ -125,7 +215,7 @@
 -   **AMEND** the definition of [Densipan](Diagnostics.qmd#sec-diag-dens) to put all requirements in the numbered criteria list.
 -   **AMEND** the definition of [Duripan](Diagnostics.qmd#sec-diag-dpan) to include a horizon notation example.
 -   **AMEND** the definition of [Ironstone-pan](Diagnostics.qmd#sec-diag-ipan) to include a horizon notation example.
--   **AMEND** the definition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simpify the terminology list.
+-   **AMEND** the definition of [Tephric soil materials](Diagnostics.qmd#sec-diag-teph) to simplify the terminology list.
 -   **AMEND** the definition of [Truncated Anthropic](Anthropics.qmd#sec-AT) soils for clarity.
 -   **AMEND** the definition of [Mixed Anthropic](Anthropics.qmd#sec-AM) soils for clarity.
 -   **AMEND** the definition of [Refuse Anthropic](Anthropics.qmd#sec-key-AR) soils to specifically include plastics in 'manufactured organic material' and remove the requirement to attempt ignition of suspected methane.
@@ -133,19 +223,21 @@
 -   **AMEND** subgroup ZPOZ ([Peaty-silt-mantled Perch-gley Podzols](Podzols.qmd#sec-key-ZPOZ)); in requirement 1(b), 'pedality' was used where 'structure' should have been.
 -   **AMEND** group ZX ([Pan Podzols](Podzols.qmd#sec-ZX)) to be more specific about the strength requirements.
 -   **AMEND** group ZO ([Orthic Podzols](Diagnostics.qmd#sec-ZO)) to be more specific about excluded horizons.
--   **AMEND** the definition of MOI ([Immature OrthicPumiceSoils](Pumices.qmd#sec-key-MOI)) to correct colour requirements.
+-   **AMEND** the definition of MOI ([Immature Orthic Pumice Soils](Pumices.qmd#sec-key-MOI)) to correct colour requirements.
 -   **RECODE** AFE (Earthy Fill Anthropic Soils) to AFT ([Typic Fill Anthropic Soils](Anthropics.qmd#sec-key-AFT)).
 -   **RECODE** BFAC ([Acidic-cemented Firm Brown Soils](Browns.qmd#sec-key-BFCA)) to BFCA.
 -   **RECODE** BFAL ([Acidic-allophanic Firm Brown Soils](Browns.qmd#sec-key-BFLA)) to BFLA.
 -   **RECODE** PXJM ([Argillic-mottled Fragic Pallic Soils](Pallics.qmd#sec-key-PXMJ)) to PXMJ.
 -   **RENAME** BAMP (Mottled-placic Acid Brown Soils) to BAMP ([Mottled-*impeded* Acid Brown Soils](Browns.qmd#sec-key-BAMP)).
--   **REPLACE** use of the term 'calcium/magnesium ratio' with 'calcium/magnesium molar ratio'
--   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'rock fragments'.
+-   **REPLACE** 'short-range' and similar terms with 'nanocrystalline' when discussing allophane
+-   **REPLACE** various terms for in-profile stone \> 2 mm (e.g. clasts, gravel) with 'coarse rock fragments'.
+-   **REPLACE** qualitative terms for ped size with numeric ranges/limits
 -   **REPLACE** use of the term 'acid' with 'acidic' when used as a descriptor.
 -   **REPLACE** references to E horizons with cross-references to the new [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh) diagnostic.
 -   **REPLACE** references to salinity cutoffs with cross-references to the new [Saline soil materials](Diagnostics.qmd#sec-diag-salt) diagnostic.
 -   **REMOVE** the phrase '(or some subhorizon of the B)' from the definition of the [Podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) (superfluous).
 -   **REMOVE** redundant reference to depth requirements in part 2 of the LOA ([Acidic Orthic Allophanic](Allophanics.qmd#sec-key-LOA)) soil definition.
+-   **REMOVE** use of 'ripened/unripened' - dated terminology
 
 #### Consistency
 
