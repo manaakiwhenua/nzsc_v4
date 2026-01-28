@@ -317,7 +317,7 @@ Pan Podzol Soils that have a [humus-pan](Diagnostics.qmd#sec-diag-hpan).
 Other soils that have a Bh horizon that also have an [argillic horizon](Diagnostics.qmd#sec-diag-argh) beneath the [ortstein-pan](Diagnostics.qmd#sec-diag-opan) or [placic horizon](Diagnostics.qmd#sec-diag-plac).
 
 ::: {style="text-align: right"}
-**Humus Pan Podzol Soils**
+**Argillic-humose Pan Podzol Soils**
 :::
 
 #### **ZXH** {#sec-key-ZXH .unnumbered}
@@ -325,7 +325,7 @@ Other soils that have a Bh horizon that also have an [argillic horizon](Diagnost
 Other soils that have a Bh horizon that and either an [ortstein-pan](Diagnostics.qmd#sec-diag-opan) or [placic horizon](Diagnostics.qmd#sec-diag-plac).
 
 ::: {style="text-align: right"}
-**Humus Pan Podzol Soils**
+**Humose Pan Podzol Soils**
 :::
 
 #### **ZXX** {#sec-key-ZXX .unnumbered}
@@ -369,7 +369,7 @@ Orthic Podzol Soils are usually well or moderately well drained, and do not have
 Other soils with an [argillic horizon](Diagnostics.qmd#sec-diag-argh) beneath a Bh horizon.
 
 ::: {style="text-align: right"}
-**Humose Orthic Podzol Soils**
+**Argillic-humose Orthic Podzol Soils**
 :::
 
 #### **ZOH** {#sec-key-ZOH .unnumbered}

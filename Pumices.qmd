@@ -136,7 +136,7 @@ Impeded Pumice Soils that have BOTH
 2.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
-**Mottled-welded Impeded Pumice Soils**
+**Mottled-compacted Impeded Pumice Soils**
 :::
 
 #### **MIC** {#sec-key-MIC .unnumbered}
@@ -144,7 +144,7 @@ Impeded Pumice Soils that have BOTH
 Other soils that have a layer of Taupō ignimbrite that is at least densely packed, or with at least a firm moist, unconfined soil strength (possibly weakly cemented with secondary silica), having a brittle failure and acting as a root barrier with an upper boundary within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
-**Welded Impeded Pumice Soils**
+**Compacted Impeded Pumice Soils**
 :::
 
 #### **MIM** {#sec-key-MIM .unnumbered}

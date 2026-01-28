@@ -51,7 +51,7 @@ Other soils that meet ALL of the following:
 
 ## [**Z** - Podzol Soils](Podzols.qmd#sec-ord-Z) {#sec-Z .unnumbered}
 
-Other soils that have either a [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb), or an [ortstein-pan](Diagnostics.qmd#sec-diag-opan), that has pH less than 5.5 in some part or a [humus-pan](Diagnostics.qmd#sec-diag-hpan).
+Other soils that have either a [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) that has pH less than 5.5 in some part, or an [ortstein-pan](Diagnostics.qmd#sec-diag-opan), or a [humus-pan](Diagnostics.qmd#sec-diag-hpan).
 
 ## [**L** - Allophanic Soils](Allophanics.qmd#sec-ord-L) {#sec-L .unnumbered}
 

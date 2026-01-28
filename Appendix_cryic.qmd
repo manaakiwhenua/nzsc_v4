@@ -10,7 +10,7 @@ editor_options:
 **With contributions from**: Iain Campbell, Tanya O'Neill, Josh Scarrow, Fiona Shanhun, Peter Almond, Carol Smith, Malcolm McLeod, Pierre Roudier.
 :::
 
-## Diagnostic Horizons and other differentiae to classify Cryic Soils
+## Diagnostic Horizons and other differentiae to classify Cryic Soils {#sec-cdiag}
 
 ### Active layer {#sec-cdiag-actl .unnumbered}
 

@@ -61,7 +61,7 @@ Allophanic soil material has BOTH
         (i) Sensitive or strongly sensitive sensitivity class (distinctly greasy or smeary feel except in some sandy soils), *and*
         (ii) Very weak or weak unconfined soil strength class (when moist), *and*
         (iii) Non-sticky or slightly sticky stickiness class, *and*
-        (iv) Strong or very strong [reactive-aluminium test](#sec-diag-naf); *or*
+        (iv) Strong response to the [reactive-aluminium test](#sec-diag-naf); *or*
     (b) Phosphate (P) retention of 85% or more; AND
 2.  Dry bulk density of the fine-earth fraction (where the volume is determined on a field-moist soil) of less than 0.9 Mg/m^3^.
 
@@ -99,28 +99,28 @@ Horizons having coatings which do not meet the requirements of an argillic horiz
 A brittle-B horizon is a B or BC horizon that has ALL of the following:
 
 1.  Brittle failure (the horizon may contain rock fragments, but the fine-earth fraction must be sufficiently coherent to allow brittle failure); AND
-2.  It is apedal massive. Prismatic peds of >100 mm size may be present, if the interior of the prisms is apedal massive; AND
+2.  It is apedal massive. Prismatic peds of \>100 mm size may be present, if the interior of the prisms is apedal massive; AND
 3.  Few or less fine roots occur throughout the horizon.
 
 The brittle-B horizon differs from the [fragipan](#sec-diag-fpan) by having either lower unconfined soil strength or lower penetration resistance. Extremely coarse prism faces, if present, are not defined by [low-chroma colours](#sec-diag-lch) as they are in a fragipan. The horizon commonly has some roots throughout, in contrast to the fragipan in which roots are confined to cracks. A brittle-B horizon is usually given the horizon notation suffix **(x)**.
 
 ## Calcareous horizon {#sec-diag-calch .unnumbered}
 
-A A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. Two types of calcium carbonates are recognised in the classification:
+A calcareous horizon is a horizon in which calcium carbonate occurs in the fine-earth fraction. Two types of calcium carbonates are recognised in the classification:
 
 *Primary carbonates* may be lithogenic or biogenic. They are inherited from a calcareous parent material, such as limestone, marl, calcareous sandstone, or from non-lithified shells and bones.
 
 *Secondary carbonates* are pedogenic. These are new carbonate minerals that form in the soil due to pedogenic processes, typically via dissolution of primary carbonates and subsequent precipitation from soil solution under the conditions of a soil water deficit.
 
-Morphologically, pedogenic carbonate may be visible in the soil profile as masses, nodules, concretions, filaments or spheroidal aggregates that disrupt the soil structure and are soft and powdery when dry. They may also appear as coatings in pores, on ped faces, and on the undersides of rock fragments or as even finer particles impregnating the soil matrix. When only present as fine particles, visual identification of carbonate can be difficult. 
+Morphologically, pedogenic carbonate may be visible in the soil profile as masses, nodules, concretions, filaments or spheroidal aggregates that disrupt the soil structure and are soft and powdery when dry. They may also appear as coatings in pores, on ped faces, and on the undersides of rock fragments or as even finer particles impregnating the soil matrix. When only present as fine particles, visual identification of carbonate can be difficult.
 
-Generally, carbonates can be detected by an effervescent reaction with 10% HCl on samples from a freshly exposed profile, although this method becomes increasingly unreliable at lower concentrations (e.g., 1%). Larger fragments of primary carbonate (e.g., limestone gravels) can also be indicative of carbonates in the fine earth fraction. Distinguishing between and primary and secondary (pedogenic) carbonate, which is required for some taxa in the classification (e.g., Semiarid Soils), can be difficult and the assessment should not only consider morphological indicators but also the overall soil forming environment (particularly climate and geology). 
+Generally, carbonates can be detected by an effervescent reaction with 10% HCl on samples from a freshly exposed profile, although this method becomes increasingly unreliable at lower concentrations (e.g., 1%). Larger fragments of primary carbonate (e.g., limestone gravels) can also be indicative of carbonates in the fine earth fraction. Distinguishing between and primary and secondary (pedogenic) carbonate, which is required for some taxa in the classification (e.g., Semiarid Soils), can be difficult and the assessment should not only consider morphological indicators but also the overall soil forming environment (particularly climate and geology).
 
 A calcareous horizon is given the notation suffix **k**.
 
 ## Childs' test {#sec-diag-fe2 .unnumbered}
 
-This test indicates reduced conditions, manifested by [low-chroma colours](#sec-diag-lch) and/or a mottled profile form because of the presence of exchangeable and water-soluble ferrous iron (Fe^2+^). The reagent 2,2’-bipyridine, also known as ⍺,⍺’-dipyridyl [@childs1981] was originally applied to the soil as solution, but indicator strips are now also available [@berkowitz2017]. The latter are preferred, and the use of a spray bottle to apply the solution should be avoided due to the toxicity of the reagent. The development of a red or pink colour indicates a positive reaction (i.e., reduced conditions), normally within seconds, but weak reactions may take ~30 minutes. Note that in some cases, waterlogged [low-chroma-coloured](#sec-diag-lch) soils may not give positive tests if water-soluble ferrous ions have been leached from the system (i.e., Fe^2+^ is not present in the soil any more).
+This test indicates reduced conditions, manifested by [low-chroma colours](#sec-diag-lch) and/or a mottled profile form because of the presence of exchangeable and water-soluble ferrous iron (Fe^2+^). The reagent 2,2’-bipyridine, also known as ⍺,⍺’-dipyridyl [@childs1981] was originally applied to the soil as solution, but indicator strips are now also available [@berkowitz2017]. The latter are preferred, and the use of a spray bottle to apply the solution should be avoided due to the toxicity of the reagent. The development of a red or pink colour indicates a positive reaction (i.e., reduced conditions), normally within seconds, but weak reactions may take \~30 minutes. Note that in some cases, waterlogged [low-chroma-coloured](#sec-diag-lch) soils may not give positive tests if water-soluble ferrous ions have been leached from the system (i.e., Fe^2+^ is not present in the soil any more).
 
 ## Cutanic horizon {#sec-diag-cuth .unnumbered}
 
@@ -211,8 +211,8 @@ A fragipan is an non-cemented horizon that has high bulk density (usually ≥ 1
 2.  Brittle failure when moist (the horizon may be contain coarse rock fragments, but the fine-earth material must be sufficiently coherent to allow brittle failure); AND
 3.  It has at least slightly firm, moist unconfined soil strength; AND
 4.  *Either*
-    (a) prismatic peds with a size of >100 mm: the prisms have apedal massive interiors, or break to secondary peds with horizontal dimensions of 100 mm or more, and the prism faces are defined by colours of chroma 3 or less, *or*
-    (b) The horizon is apedal massive throughout, or has prismatic peds with a size of >100 mm, and the moist, unconfined soil strength is very firm; AND
+    (a) prismatic peds with a size of \>100 mm: the prisms have apedal massive interiors, or break to secondary peds with horizontal dimensions of 100 mm or more, and the prism faces are defined by colours of chroma 3 or less, *or*
+    (b) The horizon is apedal massive throughout, or has prismatic peds with a size of \>100 mm, and the moist, unconfined soil strength is very firm; AND
 5.  If roots are present, they are confined predominantly to planar voids between prisms or to worm burrows; AND
 6.  Penetration resistance under moist conditions is 3100 kPa or more; AND
 7.  It does not occur within an [eluvial horizon](#sec-diag-eluvh).
@@ -232,7 +232,7 @@ A humus-pan is a **B** horizon that is 10 mm or more thick and is normally give
 1.  It is apedal massive; AND
 2.  It has either firm or stronger moist, unconfined soil strength, brittle failure when moist, or moist penetration resistance of 3100 kPa or more; AND
 3.  It has dominant moist colour value in the matrix of 3 or less, or moist colour value of 4 if the chroma is 2; AND
-4.  It contains more than 2% organic matter (~1% organic carbon).
+4.  It contains more than 2% organic matter (\~1% organic carbon).
 
 ## Ironstone-pan {#sec-diag-ipan .unnumbered}
 
@@ -262,7 +262,7 @@ The lithic contact may be subdivided into coherent-lithic or shattered-lithic ma
 
 *Coherent-lithic* materials are equivalent to materials beneath the lithic contact of *Soil Taxonomy*. Cracks or joints occur at horizontal intervals of more than 100 mm. They often cause drainage impedance.
 
-*Shattered-lithic* materials are similar except that joints or cracks may occur at intervals of less than 100 mm. In contrast to material with very low fine-earth content (<10% by volume) or high content (>35%) of coarse rock fragments, shattered-lithic materials show continuity of geological structure between adjacent rock fragments and rock fragment faces accommodate one another. Shattered-lithic materials are more permeable than coherent-lithic materials, and offer a significant rooting volume.
+*Shattered-lithic* materials are similar except that joints or cracks may occur at intervals of less than 100 mm. In contrast to material with very low fine-earth content (\<10% by volume) or high content (\>35%) of coarse rock fragments, shattered-lithic materials show continuity of geological structure between adjacent rock fragments and rock fragment faces accommodate one another. Shattered-lithic materials are more permeable than coherent-lithic materials, and offer a significant rooting volume.
 
 ## Low-chroma colours {#sec-diag-lch .unnumbered}
 
@@ -273,7 +273,7 @@ Low-chroma colours are pale (generally value ≥4) with white, grey or blue-grey
 A mottled profile form is defined by EITHER
 
 1.  A [redox-mottled horizon](#sec-diag-roxh) within 30 cm of the mineral soil surface; OR
-2.  A [reductimorphic horizon](#sec-diag-redmh) with an upper boundary between ≥30 and <60 cm of the mineral soil surface.
+2.  A [reductimorphic horizon](#sec-diag-redmh) with an upper boundary between ≥30 and \<60 cm of the mineral soil surface.
 
 Soils with a mottled profile form have usually been recognised as imperfectly drained profiles in the soil drainage classification of @taylor1968. Redox mottles are formed as a result of the reduction and solubilisation of manganese and/or iron, their translocation and concentration, and their oxidation and precipitation in the form of oxides. Mottles that have originated in some other way (e.g. structural or weathering colour patterns of the parent material, or skeletans) are excluded. A mottled profile form can develop due to impeded vertical drainage of surface waters, lateral subsurface flow or fluctuations of the groundwater table.
 
@@ -281,7 +281,7 @@ Soils with a mottled profile form have usually been recognised as imperfectly dr
 
 A nodular horizon has more than 5% (by volume) nodules, as segregations of iron or aluminium oxyhydroxides, with some kaolinite, in a layer more than 10 cm thick. A nodular horizon is identified by the horizon notation suffix **i**.
 
-The nodules are common features in [Oxidic Soils](Key-to-Orders.qmd#sec-ord-X) and some [Granular Soils](Key-to-Orders.qmd#sec-ord-N). The nodular horizon limit is intended to exclude thin layers of rewashed nodules on colluvial footslopes, and also infrequent localised concentrations in soils with characteristically few nodules [@wilson1987]. 
+The nodules are common features in [Oxidic Soils](Key-to-Orders.qmd#sec-ord-X) and some [Granular Soils](Key-to-Orders.qmd#sec-ord-N). The nodular horizon limit is intended to exclude thin layers of rewashed nodules on colluvial footslopes, and also infrequent localised concentrations in soils with characteristically few nodules [@wilson1987].
 
 The nodular horizon limit is intended to exclude thin layers of rewashed nodules on colluvial footslopes, and also infrequent localised concentrations in soils with characteristically few nodules.
 
@@ -485,7 +485,7 @@ The nature of the water table is indicated by the association of low and high ch
 
 ## Reductimorphic horizon {#sec-diag-redmh .unnumbered}
 
-A reductimorphic horizon is a horizon that contains peat (>30% organic matter, or ≥17% organic matter if the clay content is less than 18%), or [low chroma colours](#sec-diag-lch) that occupy 50% or more of the matrix exposed in a cut face of the horizon or are dominant on ped faces.
+A reductimorphic horizon is a horizon that contains peat (\>30% organic matter, or ≥17% organic matter if the clay content is less than 18%), or [low chroma colours](#sec-diag-lch) that occupy 50% or more of the matrix exposed in a cut face of the horizon or are dominant on ped faces.
 
 A reductimorphic horizon is a horizon strongly affected by reducing conditions, as indicated by [low-chroma colours](#sec-diag-lch) consistent with long saturation by water, and will give a positive response to [Childs' test](#sec-diag-fe2). This excludes [low-chroma colours](#sec-diag-lch) associated with [eluvial horizons](#sec-diag-eluvh) or unweathered parent material. The prolonged wetness may be caused by a water-table perched on a [slowly permeable layer](#sec-diag-slowp) within the soil profile or by a groundwater-table. A reductimorphic horizon is identified by the horizon suffix **g** or **r**.
 
@@ -561,7 +561,7 @@ Sulfuric soil material will initially have a similar appearance to the [sulfidic
 
 Tephric soil material occurs in or below the soil solum. It includes:
 
-*Tephra:* The unconsolidated, primary pyroclastic products of explosive volcanic eruptions encompassing all grain sizes (i.e. ash: grains \<2 mm in diameter; lapilli: 2–64 mm; blocks/bombs: \>64 mm), and all compositions (rhyolitic, andesitic, or basaltic), irrespective of emplacement mechanism (Lowe 2011). Tephra thus includes unconsolidated deposits derived from non-welded (i.e., not lithified) pyroclastic flows (density currents) or surges as well as widespread fall deposits. Tephras comprise three main components: volcanic glass, including glass shards, pumice (highly vesicular glass), and scoriae; crystals (mineral grains); and (lithics) rock fragments [@lowe2017].
+*Tephra:* The unconsolidated, primary pyroclastic products of explosive volcanic eruptions encompassing all grain sizes (i.e. ash: grains \<2 mm in diameter; lapilli: 2–64 mm; blocks/bombs: \>64 mm), and all compositions (rhyolitic, andesitic, or basaltic), irrespective of emplacement mechanism [@lowe2011]. Tephra thus includes unconsolidated deposits derived from non-welded (i.e., not lithified) pyroclastic flows (density currents) or surges as well as widespread fall deposits. Tephras comprise three main components: volcanic glass, including glass shards, pumice (highly vesicular glass), and scoriae; crystals (mineral grains); and (lithics) rock fragments [@lowe2017].
 
 *Tephra deposits:* The material derived at least partly from tephra that has been reworked and mixed with material from other sources. The deposits include tephric loess, tephric blown sand and volcanogenic alluvium. As a general guide, tephric deposits from andesitic sources have more than 10% volcanic glass in the sand fraction and those from rhyolitic sources have more than 40% volcanic glass in the sand fraction.
 

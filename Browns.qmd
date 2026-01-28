@@ -328,7 +328,7 @@ Mafic Brown Soils that have BOTH
 1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
 2.  *Either*
     (a) 5% (by volume) or more coarse rock fragments consisting mainly of ultramafic rocks, *or*
-    (b) have an exchangeable calcium/magnesium molar ratio of 0.2 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
+    (b) have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-magnesic Mafic Brown Soils**
@@ -339,7 +339,7 @@ Mafic Brown Soils that have BOTH
 Other soils that have EITHER
 
 1.  5% (by volume) or more coarse rock fragments consisting mainly of ultramafic rocks, OR
-2.  Have an exchangeable calcium/magnesium molar ratio of 0.2 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
+2.  Have an exchangeable calcium/magnesium ratio of 0.2 or less in some part of the B or BC horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Magnesic Mafic Brown Soils**
