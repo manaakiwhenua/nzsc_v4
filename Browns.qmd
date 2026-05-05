@@ -25,7 +25,7 @@ Brown Soils occur in places in which summer dryness is uncommon and that are not
 3.  *Parent materials are mostly weakly weathered.* [Mafic Brown Soils](#sec-BM) are derived from weakly weathered intermediate or mafic igneous rocks (e.g. phonolite and basalt). Other groups are derived dominantly from quartzo-feldspathic sedimentary rocks (schist and greywacke) or felsic igneous rocks (e.g. rhyolites and granites), or derivatives including loess or aeolian sand. The alteration status of rock fragments or hard rock substrates is usually fresh to moderately weathered and occasionally highly weathered.
 4.  *Mica/illite and vermiculite are common clay minerals.* Profiles tend to be mineralogically uniform with depth. Brown Soils cover a wide range of mineralogy classes. Mixed, Illitic, Vermiculitic and Clay-mineralic (involving vermiculite and mica-vermiculite) are common. Some [Allophanic Brown Soils](#sec-BA) have an Amorphic mineralogy class.
 5.  *Good Drainage.* No poorly drained or very poorly drained soils are included. Macroporosity is generally moderate (10–14%) except in subsurface horizons of [Firm Brown Soils](#sec-BF).
-6.  *Biologically active.* Except in soils that are limited by coldness or acidity, Biogenic features, such as worm casts, are common in topsoils and C/N ratios are moderate to low. The roots of native plants penetrate deeply.
+6.  *Biologically active.* Except in soils that are limited by coldness or acidity. Biogenic features, such as worm casts, are common in topsoils and C/N ratios are moderate to low. The roots of native plants penetrate deeply.
 7.  *Relatively stable topsoils.* Aggregates are not readily dispersed.
 8.  *Moist climate or low available-water capacity.* Most soils occur in areas with mean annual precipitation of more than 1000 mm. Others have low available-water capacity, or are in sites with low evapotranspiration.
 
@@ -455,10 +455,10 @@ Other soils that have BOTH
 Other soils that have BOTH
 
 1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  That have in some part of the B or BC horizon to 90 cm in from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with *either*
+2.  That have in some part of the B or BC horizon to 90 cm from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with *either*
     (a) no more than a slight reaction to the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), *or*
     (b) a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), *or*
-    (c) P-retention less than 30%.
+    (c) P retention less than 30%.
 
 ::: {style="text-align: right"}
 **Mottled-pallic Firm Brown Soils**
@@ -523,7 +523,7 @@ Other soils that have in some part of the B or BC horizon to 90 cm from the min
 2.  Matrix hue of 10YR and chroma 4 or less with *either*
     (a) no more than a slight reaction to the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), *or*
     (b) a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), *or*
-    (c) P-retention less than 30%.
+    (c) P retention less than 30%.
 
 ::: {style="text-align: right"}
 **Pallic Firm Brown Soils**
@@ -568,10 +568,10 @@ Orthic Brown Soils that have BOTH
 Other soils that have BOTH
 
 1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  In some part of the B or BC horizon to 90cm in from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with *either*
+2.  In some part of the B or BC horizon to 90 cm from the mineral soil surface, either matrix hue of 2.5Y or yellower or matrix hue of 10YR and chroma 4 or less with *either*
     (a) no more than a slight reaction to the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), *or*
     (b) a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), *or*
-    (c) P-retention less than 30%.
+    (c) P retention less than 30%.
 
 ::: {style="text-align: right"}
 **Mottled-pallic Orthic Brown Soils**
@@ -600,7 +600,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 Other soils that have BOTH
 
-1.  Colour value of the matrix 4 or less and hue 2.5Y or redder, or 10% or more coatings of colour value 4 or less in the greater part of the B horizon, AND
+1.  Moist colour value of the matrix 4 or less and hue 2.5Y or redder, or 10% or more coatings of colour value 4 or less in the greater part of the B horizon, AND
 2.  10% or less clay within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
@@ -614,7 +614,7 @@ Other soils that have EITHER
 1.  A buried A horizon within 120 cm of the mineral soil surface, OR
 2.  A [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) 30 cm or less thick that, throughout has *both*
     (a) has a moist chroma less than 6, *and*
-    (b) is either apedal (massive or single-grain) and has weak or very weak moist, unconfined soil strength.
+    (b) is apedal (massive or single-grain) with a weak or very weak moist, unconfined soil strength.
 
 ::: {style="text-align: right"}
 **Immature Orthic Brown Soils**
@@ -636,7 +636,7 @@ Other soils that have in some part of the B or BC horizon within 90 cm from the
 2.  Moist matrix colour of hue of 10YR and chroma 4 or less with *either*
     (a) no more than a slight reaction to the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), *or*
     (b) a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), *or*
-    (c) P-retention less than 30%.
+    (c) P retention less than 30%.
 
 ::: {style="text-align: right"}
 **Pallic Orthic Brown Soils**
