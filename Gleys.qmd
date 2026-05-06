@@ -110,7 +110,7 @@ table_G
 
 #### **GU** {#sec-key-GU .unnumbered}
 
-Gley Soils that in some part within 90 cm of the mineral soil surface contain [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr).
+Gley Soils that in some part within 90 cm of the mineral soil surface contain [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr).
 
 ::: {style="text-align: right"}
 [**SULFURIC GLEY SOILS**](#sec-GU)
@@ -126,7 +126,7 @@ Other Gley Soils in [tephric soil material](Diagnostics.qmd#sec-diag-teph) from 
 
 #### **GS** {#sec-key-GS .unnumbered}
 
-Other Gley Soils that have a sand or loamy sand texture, and less than 35% (by volume) coarse rock fragments, in all horizons from the base of the A horizon to 60 cm from the mineral soil surface.
+Other Gley Soils that have a sand or loamy sand texture class, and less than 35% (by volume) coarse rock fragments, in all horizons from the base of the A horizon to 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 [**SANDY GLEY SOILS**](#sec-GS)
@@ -147,7 +147,7 @@ Other Gley Soils that have
 1.  *Either* of the following
     (a) sedimentary stratification at 60 cm or less, *or*
     (b) a buried A horizon with its upper surface deeper than 30 cm but within 120 cm of the mineral soil surface, or some other indication of an irregular carbon profile such as sedimentary plant leaf material, AND
-2.  De *neither* have
+2.  Do *neither* have
     (a) a buried B horizon with an upper surface at 60 cm or less from the mineral soil surface, *nor*
     (b) a B or BC horizon with base deeper than 30 cm from the mineral soil surface, *nor*
     (c) a [placic horizon](Diagnostics.qmd#sec-diag-plac) nor [ortstein-pan](Diagnostics.qmd#sec-diag-opan), *nor*
@@ -258,8 +258,8 @@ Sandy Gley Soils occur in sand deposits which are usually aeolian, but may also 
 
 Sandy Gley Soils that have BOTH
 
-1. A [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the mineral soil surface, AND
-2. [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) in some part within 90 cm of the mineral soil surface.
+1.  A [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the mineral soil surface, AND
+2.  [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) in some part within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Peaty-sulfidic Sandy Gley Soils**
@@ -341,8 +341,8 @@ Recent Gley Soils occur on young land surfaces, usually in fluvial or estuarine 
 
 Recent Gley Soils that have BOTH
 
-1. a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the soil surface, AND
-2. [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) in some part within 90 cm of the mineral soil surface.
+1.  a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the soil surface, AND
+2.  [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) in some part within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Peaty-sulfidic Recent Gley Soils**
@@ -467,8 +467,8 @@ Orthic Gley Soils occur on relatively stable land surfaces in sites affected by 
 
 Orthic Gley Soils that have BOTH
 
-1. A [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the mineral soil surface, AND
-2. [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) in some part within 90 cm of the mineral soil surface.
+1.  A [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at the surface or buried with its upper surface within 60 cm of the mineral soil surface, AND
+2.  [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) in some part within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Peaty-sulfidic Orthic Gley Soils**
@@ -492,7 +492,7 @@ Other soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) either at 
 
 #### **GOQ** {#sec-key-GOQ .unnumbered}
 
-Other soils that within 60 cm of the mineral soil surface have [saline soil materials](Diagnostics.qmd#sec-diag-salt).
+Other soils that within 60 cm of the mineral soil surface have [saline soil material](Diagnostics.qmd#sec-diag-salt).
 
 ::: {style="text-align: right"}
 **Saline Orthic Gley Soils**
@@ -516,7 +516,7 @@ Other soils that have an [ironstone-pan](Diagnostics.html#sec-diag-ipan) at 90 
 
 #### **GOE** {#sec-key-GOE .unnumbered}
 
-Other soils that have a B horizon, in which the major part to 60 cm from the mineral soil surface or to its base (whichever is less) 
+Other soils that have a B horizon, in which the major part to 60 cm from the mineral soil surface or to its base (whichever is less)
 
 1.  Has moderate or strong pedality, AND
 2.  Is moderately sticky or very sticky, AND
