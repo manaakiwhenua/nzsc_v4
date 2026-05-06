@@ -183,7 +183,7 @@ Perch-gley Melanic Soils occur in sites that are periodically saturated (unless 
 Perch-gley Melanic Soils that have EITHER
 
 1.  Cracks at least 4 mm wide in some part, either in the B horizon infilled with A horizon material, or extending to a depth of 30 cm or more, from the mineral soil surface, OR
-2.  Coefficient of linear expandability of 0.09 or more, with pedality that is moderate or strong, and blocky or prismatic in the major part of the B horizon.
+2.  Coefficient of linear expandibility of 0.09 or more, with pedality that is moderate or strong, and blocky or prismatic in the major part of the B horizon.
 
 ::: {style="text-align: right"}
 **Vertic Perch-gley Melanic Soils**
@@ -274,7 +274,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **EML** {#sec-key-EML .unnumbered}
 
-Other soils that have P-retention 85% or more, or a strong reaction to the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B or BC horizon, within 90 cm of the mineral soil surface.
+Other soils that have P retention 85% or more, or a strong reaction to the [reactive-aluminium test](Diagnostics.qmd#sec-diag-naf), in some part of the B or BC horizon, within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Allophanic Mafic Melanic Soils**
