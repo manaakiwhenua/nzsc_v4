@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Organic Soils {#sec-ord-O}
 
 ## Concept of the Order {#sec-con-O}
@@ -25,7 +26,7 @@ Organic Soils occur in wetlands in most parts of New Zealand with species of the
 4.  *Low bearing strength.* Construction of buildings or roads requires special foundation design.
 5.  *Very low thermal conductivity.* Soils warm and cool slowly. Bare soil surfaces, however, have high radiance.
 6.  *High shrinkage potential.* The soils shrink markedly upon drying, and lose organic matter due to oxidation. Consequently, following drainage, the classification may change.
-7.  *High total available water capacity.* While total available water capacity is high, plant-available water capacity may only be moderate, due to limits in rooting depth (anoxic conditions, species-specific limitations).
+7.  *High total available water capacity.* While total available-water capacity is high, plant-available-water capacity may only be moderate, due to limits in rooting depth (anoxic conditions, species-specific limitations).
 8.  *Common nutrient deficiencies.* The major nutrients nitrogen, phosphorus, potassium and sulfur, and the trace elements copper, selenium and molybdenum, are frequently deficient for crops and pasture.
 9.  *Peats are very poorly drained, whereas litters are variable.* In their natural state, Organic Soils formed in peats are very poorly drained and those formed from litters may range from well drained to very poorly drained. Most Organic Soils from peat in New Zealand have been artificially drained, leading to drastic shifts towards drier soil moisture conditions.
 
@@ -77,7 +78,7 @@ table_O
 
 #### **OL** {#sec-key-OL .unnumbered}
 
-Organic Soils that occur entirely in partly or fully decomposed forest litter and are not almost continually saturated in the natural state (F and H horizons).
+Organic Soils that occur entirely in partly or fully decomposed forest litter and are not almost continually saturated in the natural state (Lm and Lh horizons).
 
 ::: {style="text-align: right"}
 [**LITTER ORGANIC SOILS**](#sec-OL)
