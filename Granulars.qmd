@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Granular Soils {#sec-ord-N}
 
 ## Concept of the Order {#sec-con-N}
@@ -154,7 +155,7 @@ Melanic Granular Soils that have a [mottled profile form](Diagnostics.qmd#sec-di
 
 #### **NEL** {#sec-key-NEL .unnumbered}
 
-Other soils that have a horizon that is 10 cm or more thick within 60 cm of the mineral soil surface that meets all the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), but not necessarily the requirement for bulk density.
+Other soils that have a horizon that is 10 cm or more thick within 60 cm of the mineral soil surface that meets all the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph), but not necessarily the requirement for bulk density.
 
 ::: {style="text-align: right"}
 **Allophanic Melanic Granular Soils**
