@@ -8,7 +8,7 @@ editor_options:
 
 ## Concept of the Order {#sec-con-R}
 
-Recent Soils show only incipient marks of soil-forming processes because of youthfulness, truncation of an older solum or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a [distinct topsoil](Diagnostics.qmd#sec-diag-dts), or as in the case of fine-textured wetland soils, to have moderately fluid or very fluid layers not close to the surface, indicating the onset of pedogenesis. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.
+Recent Soils show only incipient marks of soil-forming processes because of youthfulness, truncation of an older solum or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) or, as in the case of fine-textured wetland soils, to have moderately fluid or very fluid layers not close to the surface, indicating the onset of pedogenesis. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.
 
 ## Correlation {#sec-cor-R}
 
@@ -16,7 +16,7 @@ The order correlates with the recent soils, but not the gleyed-recent soils, of 
 
 ## Occurrence {#sec-occ-R}
 
-Recent soils occur throughout New Zealand in young landscapes, including alluvial floodplains, unstable slopes and slopes mantled by young tephra deposits within the past \~700 years, including rhyolitic, andesitic and basaltic tephras [@hopkins2021].
+Recent soils occur throughout New Zealand in young landscapes, including alluvial floodplains, unstable slopes, and slopes mantled by young tephras deposited within the past \~700 years, including rhyolitic, andesitic and basaltic tephras [@hopkins2021].
 
 ## Accessory Properties of the Order {#sec-acc-R}
 
@@ -24,7 +24,7 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 2.  *Base saturations are generally high.* Base saturations are usually high except in very humid areas.
 3.  *Coarse rock fragments, bedrock, or pyroclastic materials are not strongly altered.* The alteration status usually ranges from fresh to moderately weathered.
 4.  *Illitic mineralogy.* The soil mineralogy reflects the mineralogy of the parent material. Most Recent Soils have an Illitic mineralogy class except for those formed in tephra which are usually Glassy.
-5.  *Deep rooting.* Although textures vary, potential rooting depths are mostly large. Subsurface horizons are usually apedal or weakly pedal, and penetration resistance may be low in some soils.
+5.  *Deep rooting.* Although textures vary, potential rooting depths are mostly large. Subsurface horizons are usually apedal or weakly pedal.
 6.  *Good drainage.* Poorly drained or very poorly drained soils are not included.
 7.  *Low phosphate retention.* Phosphate retention is likely to be either low or very low unless the soils occur in mafic parent materials.
 8.  *High fertility.* Natural fertility is generally high.
@@ -107,7 +107,7 @@ Other Recent Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [para
 
 #### **RS** {#sec-key-RS .unnumbered}
 
-Other Recent Soils that are have sand or loamy sand texture and have less than 35% (by volume) coarse rock fragments, in all horizons between the base of the A horizon and 60 cm from the mineral soil surface. Lamellae of sandy loam (of insufficient thickness to meet the requirements of an [argillic horizon](Diagnostics.qmd#sec-diag-argh)) may be present.
+Other Recent Soils that have sand or loamy sand texture and have less than 35% (by volume) coarse rock fragments, in all horizons between the base of the A horizon and 60 cm from the mineral soil surface. Lamellae of sandy loam (of insufficient thickness to meet the requirements of an [argillic horizon](Diagnostics.qmd#sec-diag-argh)) may be present.
 
 ::: {style="text-align: right"}
 [**SANDY RECENT SOILS**](#sec-RS)
@@ -187,7 +187,7 @@ Sandy Recent Soils occur in sand deposits which are dominantly aeolian, and some
 
 #### **RSR** {#sec-key-RSR .unnumbered}
 
-Other soils in which [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr) is present in some part within 90 cm of the mineral soil surface.
+Sandy Recent Soils in which [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr) is present in some part within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Sulfuric Sandy Recent Soils**
