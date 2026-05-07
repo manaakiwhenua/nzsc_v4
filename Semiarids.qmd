@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Semiarid Soils {#sec-ord-S}
 
 ## Concept of the order {#sec-con-S}
@@ -15,7 +16,7 @@ The order comprises brown-grey earths, associated steepland soils and intergrade
 
 ## Occurrence {#sec-occ-S}
 
-Semiarid Soils have originally been only recognised in the inland basins of Otago and southern Canterbury, where mean annual precipitation is less than about 500 mm. While this remains the geographic region with the highest occurrence of these soils, Semiarid Soils may also be found in other regions with a comparable climate. 
+Semiarid Soils have originally been only recognised in the inland basins of Otago and southern Canterbury, where mean annual precipitation is less than about 500 mm. While this remains the geographic region with the highest occurrence of these soils, Semiarid Soils may also be found in other regions with a comparable climate.
 
 ## Accessory Properties of the Order {#sec-acc-S}
 
@@ -128,7 +129,7 @@ Aged-Argillic Semiarid Soils that have a [mottled soil profile form](Diagnostics
 
 #### **SAW** {#sec-key-SAW .unnumbered}
 
-Other soils in which the majority of coarse rock fragments are weathered to the extent that they may easily be broken by hammer or spade.
+Other soils in which the majority of coarse rock fragments are weathered to the extent that clasts may easily be broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Aged-argillic Semiarid Soils**
