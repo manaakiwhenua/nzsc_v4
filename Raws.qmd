@@ -12,7 +12,7 @@ Raw Soils lack a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) or are fluid a
 
 ## Correlation {#sec-cor-W}
 
-Raw Soils correspond in part with very weakly developed recent soils of the *New Zealand Genetic Soil Classification*, and in part with materials that were often not considered to be soil. They are either Entisols or are unclassified in *Soil Taxonomy*.
+Raw Soils correspond in part with very weakly developed recent soils of the *New Zealand Genetic Soil Classification*, and in part with materials that were often not considered to be soil. They are mostly Entisols or are unclassified in *Soil Taxonomy*.
 
 ## Occurrence {#sec-occ-W}
 
@@ -184,7 +184,7 @@ Gley Raw Soils in which [sulfuric soil material](Diagnostics.qmd#sec-diag-sulfr)
 Other soils that have BOTH
 
 1.  Moderately fluid or very fluid fluidity class at a depth of 30 cm or less, AND
-2.  [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) is present in some part within 90 cm of the mineral soil surface.
+2.  [Sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) present in some part within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Fluid-sulfidic Gley Raw Soils**
@@ -200,7 +200,7 @@ Other soils in which [sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) is
 
 #### **WGFQ** {#sec-key-WGFQ .unnumbered}
 
-Other soils that within 30 cm of the mineral soil surface have BOTH
+Other soils that within 30 cm of the mineral soil surface have BOTH
 
 1.  Moderately fluid or very fluid fluidity class, AND
 2.  [Saline soil material](Diagnostics.qmd#sec-diag-salt).
@@ -249,7 +249,7 @@ No subgroups have been defined.
 
 ### **WC** - CRYIC RAW SOILS {#sec-WC .unnumbered}
 
-Cryic Raw Soils likely occur (data deficient, see @tbl-nzscstareas) in alpine locations above ~2000 m elevation, particularly near glaciers. 
+Cryic Raw Soils likely occur (data deficient, see @tbl-nzscstareas) in alpine locations above \~2000 m elevation, particularly near glaciers.
 
 No subgroups have been defined.
 
@@ -287,7 +287,7 @@ No subgroups have been defined.
 
 ### **WT** - TEPHRIC RAW SOILS {#sec-WT .unnumbered}
 
-Tephric Raw Soils occur in unconsolidated deposits of pyroclastic origin, predominantly basaltic scoriae, with potentially minor additions of rhyolitic to andesitic pyroclastic material. 
+Tephric Raw Soils occur in unconsolidated deposits of pyroclastic origin, predominantly basaltic scoriae, with potentially minor additions of rhyolitic to andesitic pyroclastic material.
 
 No subgroups have been defined.
 
