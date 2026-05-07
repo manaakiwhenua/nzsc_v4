@@ -9,7 +9,7 @@ editor_options:
 The system for designating the soils consists of letters only. This method has been adopted to make for easier insertion of new subgroups, and to make the codes easier to remember. The following table (@tbl-codes) demonstrates how each code letter has been used in the soil classification, the level at which it has been used, and the meanings.
 
 | Code | Order | Group | Subgroup |
-|:----------------|:----------------|:----------------------|:----------------|
+|:----------------|:----------------|:--------------------|:----------------|
 | **A** | Anthropic | Acid, Aged-argillic | Abandoned, Acidic, Aged, Artefact |
 | **B** | Brown | Ornithogenic | Brown, Buried |
 | **C** | Cryic | Cryic | Calcareous, Cemented, Compacted, Concretionary |
@@ -30,7 +30,7 @@ The system for designating the soils consists of letters only. This method has b
 | **R** | Recent | Recent, Refuse, Rendzic | Raw, Sulfuric |
 | **S** | Semiarid | Sandy | Sandy, Scoriaceous, Soft, Sphagnic |
 | **T** |  | Tephric, Truncated | Typic |
-| **U** | Ultic | Duric, Sulfuric | Duric, Humus-pan, Sulfidic, Treated-sulfidic, Ultic, Ultra-weathered |
+| **U** | Ultic | Duric, Sulfuric | Duric, Humus-pan, Sulfidic, Treated-sulfidic, Ultra-weathered |
 | **V** |  | Vertic | Vertic, Vitric |
 | **W** | Raw | Hydric | Weathered, Wet |
 | **X** | Oxidic | Fragic, Oxidic, Pan, Rocky | Coarse, Fragic, Oxidic, Pan, Rocky |
