@@ -108,7 +108,7 @@ Other Podzol Soils that have BOTH
 
 Other Podzol Soils that have BOTH
 
-1.  Either an [Eluvial horizon](Diagnostics.qmd#sec-diag-eluv) with the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), AND
+1.  Either an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) with the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), AND
 2.  A BC or C horizon that has the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), that *either*
     (a) extends to more than 90 cm from the mineral soil surface, *or*
     (b) has [redox segregations](Diagnostics.qmd#sec-diag-rsegs) that occur mainly as coatings on voids and/or skeletans.
@@ -152,7 +152,7 @@ Densipan Podzol Soils that have a [humus-pan](Diagnostics.qmd#sec-diag-hpan).
 
 #### **ZDJH** {#sec-key-ZDJH .unnumbered}
 
-Other soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh) beneath the Bh horizon.
+Other soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh) beneath a Bh horizon.
 
 ::: {style="text-align: right"}
 **Argillic-humose Densipan Podzol Soils**
@@ -207,8 +207,8 @@ Perch-gley Podzol Soils that have a moderately fluid or very fluid fluidity clas
 Other soils that have BOTH
 
 1.  an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has *all* of the following
-    (a) a slightly firm or greater moist soil strength, *and*
-    (b) an apedal-massive or very coarse to extremely coarse prismatic structure, *and*
+    (a) a slightly firm or greater moist, unconfined soil strength, *and*
+    (b) an apedal massive, or a prismatic structure ranging from 60–200 mm in size, *and*
     (c) is part of a silty layer that has a thickness of at least 15 cm, AND
 2.  A [peaty topsoil](Diagnostics.qmd#sec-diag-pts).
 
@@ -218,7 +218,7 @@ Other soils that have BOTH
 
 #### **ZPZ** {#sec-key-ZPZ .unnumbered}
 
-Other soils that have an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has slightly firm or greater moist, unconfined soil strength, is apedal massive, or prismatic structure ranging from 60–200 mm in size, and occurs within a layer that is silty and at least 15 cm thick.
+Other soils that have an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has slightly firm or greater moist, unconfined soil strength, is apedal massive, or has a prismatic structure ranging from 60–200 mm in size, and occurs within a layer that is silty and at least 15 cm thick.
 
 ::: {style="text-align: right"}
 **Silt-mantled Perch-gley Podzol Soils**
