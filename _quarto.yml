@@ -74,7 +74,7 @@ book:
     - Changelog.qmd
 
 bibliography: NZSC_reference_list_4e.bib
-csl: mwlr-citation-style-second-ed.csl
+csl: bsi-citation-style-202603.csl
 
 format:
   html:

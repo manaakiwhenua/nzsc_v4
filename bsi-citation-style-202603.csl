@@ -1,20 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
   <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
-    <title>MWLR Citation Style (2nd ed)</title>
-    <title-short>mwlr-second-ed</title-short>
-    <id>http://www.zotero.org/styles/mwlr-citation-style-second-ed</id>
-    <link href="http://www.zotero.org/styles/mwlr-citation-style-second-ed" rel="self"/>
+    <title>BSI Landcare Citation Style</title>
+    <title-short>bsi-landcare</title-short>
+    <id>http://www.zotero.org/styles/bsi-landcare-citation-style</id>
+    <link href="http://www.zotero.org/styles/bsi-landcare-citation-style" rel="self"/>
     <link href="http://www.zotero.org/styles/council-of-science-editors-author-date" rel="template"/>
     <link href="https://landcareresearch.sharepoint.com/Sites/research/SitePages/editing/guide-to-style.aspx" rel="documentation"/>
     <author>
-      <name>Andrew Neverman</name>
+      <name>Lauren O'Brien</name>
     </author>
     <category citation-format="author-date"/>
     <category field="science"/>
-    <summary>Based on the MWLR guide to style.</summary>
-    <updated>2023-02-08T21:26:14+00:00</updated>
+    <summary>Adapted from provided endnote style</summary>
+    <published>2026-03</published>
+    <updated>2026-03-11T06:45:46+00:00</updated>
   </info>
   <macro name="editor-translator">
     <names variable="editor translator" delimiter="; ">
@@ -25,7 +26,7 @@
   <macro name="author">
     <group>
       <names variable="author">
-        <name name-as-sort-order="all" sort-separator=" " initialize-with="" delimiter=", " delimiter-precedes-last="always"/>
+        <name delimiter-precedes-last="always" et-al-min="11" et-al-use-first="10" initialize-with="" name-as-sort-order="all" sort-separator=" "/>
         <label form="long" prefix=", "/>
         <substitute>
           <names variable="editor"/>
@@ -37,7 +38,7 @@
   </macro>
   <macro name="author-short">
     <names variable="author">
-      <name form="short" delimiter=", " initialize-with="." and="text"/>
+      <name form="short" and="text" et-al-min="3" et-al-use-first="1" initialize-with="."/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>
@@ -59,22 +60,19 @@
     <group delimiter=" ">
       <text variable="title" suffix="."/>
       <choose>
-        <if type="thesis" match="any">
-          <text variable="genre" form="long" prefix="[" suffix="]"/>
+        <if type="report" match="any">
+          <text variable="genre"/>
+          <text variable="number" suffix="."/>
         </if>
       </choose>
       <choose>
-        <if type="report" match="any">
+        <if type="report" match="all" variable="status">
           <text macro="report-detals"/>
         </if>
       </choose>
       <choose>
-        <if variable="container-title" match="none">
-          <choose>
-            <if variable="URL">
-              <text term="internet" prefix=" [" suffix="]" text-case="capitalize-first"/>
-            </if>
-          </choose>
+        <if type="thesis" match="any">
+          <text variable="genre" form="long" prefix="[" suffix="]"/>
         </if>
       </choose>
     </group>
@@ -124,7 +122,7 @@
   <macro name="container">
     <text variable="container-title" form="short" strip-periods="true"/>
     <choose>
-      <if variable="URL">
+      <if type="webpage post post-weblog" match="any">
         <text term="internet" prefix=" [" suffix="]" text-case="capitalize-first"/>
       </if>
     </choose>
@@ -145,7 +143,7 @@
   <macro name="report-detals">
     <choose>
       <if type="report" match="any">
-        <text variable="title-short"/>
+        <text variable="status" text-case="title"/>
       </if>
     </choose>
   </macro>

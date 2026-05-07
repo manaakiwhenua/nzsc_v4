@@ -4,10 +4,10 @@ Many technical terms are used throughout this report in the keys and definitions
 
 Further details and other technical terms are defined or can be found in the resources noted below:
 
--   Horizon notations are consistent with @clayden1989, @clayden2015, recently updated in @obrien2025.
+-   Horizon notations are consistent with @clayden2015, recently updated in @obrien2025.
 -   Soil morphology terms are defined by @obrien2025.
 -   Classes of *Soil Taxonomy* are defined by @soilsurveystaff1999 and @soilsurveystaff2022.
--   Soil colours are defined by @pantone2017; see also @soilcol1993 for application of colour in soil science.
+-   Soil colours are defined by @munsellcolorcompany2009; see also @soilcol1993 for application of colour in soil science.
 -   Control sections are designated parts of the soil profile/pedon, denoted as a depth, depth range, or thickness, in which specified diagnostic features occur to enable a soil to be categorised at each level in the classification. For example, a certain feature must occur "within 30 cm of the mineral surface" or a specific soil will have "a layer or layers of allophanic soil material that total 35 cm or more thick … within 60 cm of the mineral soil surface."
 -   A lithological discontinuity is a stratigraphic break in a soil profile/pedon that is the result of a geological (not pedological) process or event. The deposition of new geological material, such as a tephra layer or an alluvial or colluvial deposit, forms a new parent material/lithology at the land surface, burying the antecedent soil. The stratigraphic break is normally marked by textural, mineralogical, and other compositional differences between the earlier and later lithologies [@palmer2025].
 -   Soil mineralogy terms are explained, and the methods of clay mineral analysis, are described by @churchman1986 and @whitton1987 with updated overviews of soil mineralogy by @churchman2012 and @churchman2019.

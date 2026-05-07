@@ -482,7 +482,7 @@ The intermittent wetness may be caused by intermittent perched water, or by the 
 
 ## Redox segregations {#sec-diag-rsegs .unnumbered}
 
-Redox segregations are mottles or concretions formed as a result of the reduction and solubilisation of manganese and/or iron, their translocation, concentration, and their oxidation and precipitation in the form of oxides [@clayden1989]. They may have low or high chroma colours, or both.
+Redox segregations are mottles or concretions formed as a result of the reduction and solubilisation of manganese and/or iron, their translocation, concentration, and their oxidation and precipitation in the form of oxides [@clayden2015]. They may have low or high chroma colours, or both.
 
 The nature of the water table is indicated by the association of low and high chroma colours. If subject to reduction by perched water, the [low chroma colours](#sec-diag-lch) are likely to be at ped or pore surfaces and the high chroma colours are likely to be within the soil matrix. If the soil is subject to reduction by groundwater, the low chroma colours are likely to be within the soil matrix and the high chroma colours are likely to be at ped or pore surfaces. Reducing conditions may also be indicated by the presence of sufficient ferrous iron to give a positive reaction to [Childs' test](#sec-diag-fe2).
 
