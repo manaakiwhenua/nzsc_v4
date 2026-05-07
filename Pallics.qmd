@@ -3,6 +3,7 @@ output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
 # Pallic Soils {#sec-ord-P}
 
 ## Concept of the Order {#sec-con-P}
@@ -395,7 +396,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **PJA** {#sec-key-PJA .unnumbered}
 
-Other soils that have hue 7.5YR or redder or hue 10YR and chroma 6 or more in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+Other soils that have hue 7.5YR or redder or hue 10YR and chroma 6 or more, in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
 ::: {style="text-align: right"}
 **Aged Argillic Pallic Soils**
@@ -419,7 +420,7 @@ Other soils that have [sodic features](Diagnostics.qmd#sec-diag-sod) within or i
 
 #### **PJW** {#sec-key-PJW .unnumbered}
 
-Other soils that have  coarse rock fragments, the majority of which are weathered to the extent that clasts can be easily broken by hammer or spade.
+Other soils that have coarse rock fragments, the majority of which are weathered to the extent that clasts can be easily broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Weathered Argillic Pallic Soils**
