@@ -2,37 +2,30 @@
 
 *4^th^ edition*
 
-Manaaki Whenua - Landcare Research New Zealand Ltd
-
 Landcare Research Science Series No. 1
 
-*© Landcare Research New Zealand Ltd 2025*
+*© New Zealand Institute for Bioeconomy Science Ltd 2026*
 
 No part of this work covered by copyright may be reproduced or copied in any form or by any means (graphic, electronic or mechanical, including photocopying, recording, taping, information retrieval systems, or otherwise) without the written permission of the publisher.
 
-Cataloguing in publication:
+A catalogue record for this book is available from the National Library of New Zealand:
 
 > HEWITT, A.E. and NZSC Working Group\
-> New Zealand soil classification / A.E. Hewitt. – 4th edition – Lincoln, N.Z.:\
-> Manaaki Whenua Press 2025.\
+> New Zealand soil classification / A.E. Hewitt and NZSC Working Group – 4th edition – Lincoln, N.Z.:\
+> New Zealand Institute for Bioeconomy Science 2026.\
 > (Landcare Research science series, ISSN 1172-269X; no.1)\
-> ISBN 978-0-478-34710-4 1 \
+> ISBN 978-1-997319-05-4 (PDF)\
 > \
-> Soils – New Zealand – Classification. I.\
-> Manaaki Whenua – Landcare Research New Zealand Ltd. II. Title. III. Series. \
+> 1 Soils – New Zealand – Classification. I.\
+> Manaaki Whenua – Landcare Research New Zealand Ltd. II. Title. III. Series.\
 > \
 > UDC 631.44 (931)
 
-*First published as DSIR Land Resources Scientific Report No.19, 1992. Reprinted with corrections as Landcare Research Science Series No. 1, 1998 (2^nd^ edition) and Landcare Research Science Series No. 1, 2010 (3^rd^ edition). This is the 4th edition with further updates and corrections.*
+Published by New Zealand Institute for Bioeconomy Science, Manaaki Whenua – Landcare Research Group, 74 Gerald Street, Lincoln 7608, New Zealand
 
-First edition editing and desktop publishing by A.D. Pritchard and printing by The Caxton Press.
-
-------------------------------------------------------------------------
-
-Welcome!
-
-This is the 4^th^ edition of the New Zealand Soil Classification (NZSC).
-
-Introductory information about the NZSC is available at [The New Zealand Soils Portal](https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/).
+*First published as DSIR Land Resources Scientific Report No.19, 1992. \
+Reprinted with corrections as Landcare Research Science Series No. 1, 1993.\
+Reprinted with update and corrections as Landcare Research Science Series No. 1, 1998 (2^nd^ edition) and 2010 (3^rd^ edition). \
+This is the 4th edition with further updates and corrections.*
 
 {{< pagebreak >}}
