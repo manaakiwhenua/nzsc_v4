@@ -1,0 +1,32 @@
+# Preface {#sec-preface .unnumbered}
+
+## The history of the *New Zealand Soil Classification* {#sec-preface-history}
+
+The fourth edition of the *Zealand Soil Classification* is the culmination of a long period of development from its initiation in 1983. Preliminary draft versions 1.0 and 2.0 [@hewitt1987a; @hewitt1989] were widely circulated for comment and testing, before the revised version 3.0 was formally published as the first edition in 1992 [@hewitt1992a]. Two further editions followed, in 1998 [@hewitt1998a] and 2010 [@hewitt2010]. The latest (fourth) edition represents the best attempt, given the current state of knowledge, to classify New Zealand soils. As the knowledge and understanding of New Zealand soils grows, further revisions will be necessary.
+
+The *New Zealand Soil Classification* is a national, hierarchical soil classification, which replaced the *New Zealand Genetic Soil Classification* [@soilbureaustaff1948; @taylor1957; @taylor1962; @taylor1968; @taylor1979][^preface-1]. This earlier work grew out of the need for reconnaissance mapping of the nation's soil resources. It was successful as a unifying factor in New Zealand soil science, and it played an essential role in the development of pastoral agriculture. However, modern soil surveys and land evaluations require precise definition of classes and keys for their recognition, and a new synthesis was needed of the large body of information collected since the 1950s [@hewitt1992b].
+
+[^preface-1]: Note that Soil Bureau Bulletin 3, 'A genetic classification of New Zealand soils', was never published, except for the 'Soil map of New Zealand' in 1948. To reference the *New Zealand Genetic Soil Classification*, we cite a range of readily accessible drafts, editions and summaries representing its evolution.
+
+The first edition of the *New Zealand Soil Classification was* developed from the *New Zealand Genetic Soil Classification* and preserved various parts of it. Since then, it has further evolved through experience gained using the earlier editions and the accumulation of new knowledge. It has also been influenced by experience testing the first edition of the *Soil Taxonomy* [@leamy1983; @leamy1990; @hewitt1992b], and the development of subsequent versions of the *Soil Taxonomy,* including the most recent edition and keys [@soilsurveystaff1999; @soilsurveystaff2022].
+
+With the fourth edition we also introduce an extended appendix, which now includes an additional soil order (the Cryic Soils) and associated diagnostic criteria. This is to accommodate the soils of the Ross Sea Region of Antarctica, a focal point of Antarctic soil research, incorporating leading contributions from New Zealand soil scientists. It addresses the anomaly of New Zealand workers having to use international classifications when working in Antarctica. If, in the future, more empirical evidence emerges that taxa of the Cryic Soil Order might also be applicable to New Zealand soil environments (e.g., alpine environments of the Southern Alps), it can be moved to the top of the main soil order key.
+
+## Terminology and further reading
+
+Many technical terms are used throughout this handbook in the keys and definitions. The most relevant technical terms are printed with an underline and defined in section 2, [Diagnostic horizons and other differentiae](Diagnostics.qmd#sec-diagnostics). Further details and other technical terms are defined or can be found in the resources noted below.
+
+- The **horizon notations** are consistent with @clayden2015, recently updated in @obrien2025.
+- **Soil morphology terms** are defined by @obrien2025.
+- **Classes of the *Soil Taxonomy*** are defined by @soilsurveystaff1999 and @soilsurveystaff2022.
+- **Soil colours** are defined by @munsellcolorcompany2009; see also @soilcol1993 for application of colour in soil science.
+- **Control sections** are designated parts of the soil profile/pedon (depth, depth range, or thickness) in which specified diagnostic features occur to enable a soil to be categorised at each level in the classification. For example, a certain feature must occur "within 30 cm of the mineral surface" or a specific soil will have "a layer or layers of allophanic soil material that total 35 cm or more thick … within 60 cm of the mineral soil surface."
+- A **lithological discontinuity** is a stratigraphic break in a soil profile/pedon that is the result of a geological (not pedological) process or event. The deposition of new geological material, such as a tephra layer or an alluvial or colluvial deposit, forms a new parent material/lithology at the land surface, burying the antecedent soil. The stratigraphic break is normally marked by textural, mineralogical, and other compositional differences between the earlier and later lithologies [@palmer2025].
+- **Soil mineralogy terms** are explained, and the methods of clay mineral analysis described, by @churchman1986 and @whitton1987. Updated overviews of soil mineralogy are provided by @churchman2012 and @churchman2019.
+- **Soil mineralogy classes** originally proposed by @whitton1989 and @childs1990a are now also defined in the *Soil Taxonomy* @soilsurveystaff2022. Note that the soil mineralogy class names given here are based on the control section 25 cm to 100 cm, or to a lithic or paralithic contact if shallower.
+- **Soil chemical terms** are explained, and the analytical methods described, by @blakemore1987. Note that soil pH measurements are made in water, with a ratio of 1 part of soil to 2.5 parts of water, by weight.
+- **Soil physical terms** are explained, and the analytical methods described, by @gradwell1979, @mcqueen1993, and @gray2002. @allbrook1983 and @allbrook1985 focuses on the physical properties of allophanic soil materials.
+- **A summary of the *New Zealand Soil Classification*** is available in @hewitt1998. The fourth and fifth levels of the classification are documented by @webb2011.
+- **A companion document**, the *Methods and Rationale of the New Zealand Soil Classification* [@hewitt1993], discusses the intentions behind key decisions made in the classification.
+- **A comprehensive overview** of the diversity of soils and their properties, origins, and associated landscapes in New Zealand, on an order-by-order basis, is given by @hewitt2021.
+- **Many other soil science concepts and technical terms** are explained, in a New Zealand context, by @mclaren1990.

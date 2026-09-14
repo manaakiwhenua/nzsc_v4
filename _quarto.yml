@@ -34,11 +34,11 @@ book:
   language: en
   page-navigation: true
   back-to-top-navigation: true
-  publisher: "Bioeconomy Sciences Institute"
+  publisher: "New Zealand Institute for Bioeconomy Science "
   publisher-place: "Lincoln, Canterbury, New Zealand"
   collection-title: "Landcare Research Science Series"
   collection-number: 1
-  isbn: "978-0-478-34710-4" # to be updated
+  isbn: "978-1-997319-05-4 (PDF)"
   issn: "1172-269X"
   reader-mode: true
   search: true
@@ -47,7 +47,7 @@ book:
   repo-url: https://github.com/manaakiwhenua/nzsc_v4
   chapters:
     - index.qmd
-    - Foreword.qmd
+    - Preface.qmd
     - Introduction.qmd
     - Diagnostics.qmd
     - Key-to-Orders.qmd
