@@ -6,9 +6,9 @@ editor_options:
 
 # Oxidic Soils {#sec-ord-X}
 
-## Concept of the Order {#sec-con-X}
+## Concept of the order {#sec-con-X}
 
-Oxidic Soils contain low-activity phyllosilicate clays and secondary oxides (especially iron together with subordinate aluminium oxide clays) which give rise to variable charge properties and common reddish colours. They form in the clayey weathering products of mafic rocks. The soils have a fine or very fine polyhedral structure with friable failure to stable microaggregates of 2 mm or less, and low plasticity in relation to clay content. Surface horizons are clayey, and an increase in clay content occurs with depth although clay illuvial features are generally not apparent. Coarse materials in Oxidic Soils may comprise nodules (see [nodular horizon](Diagnostics.qmd#sec-diag-nodh)), or rock fragments that are frequently coated with secondary oxides.
+Oxidic Soils contain low-activity phyllosilicate clays and secondary oxides (especially iron, together with subordinate aluminium oxide clays) which give rise to variable charge properties and common reddish colours. They form in the clayey weathering products of mafic rocks. The soils have a fine or very fine polyhedral structure, with friable failure to stable microaggregates of 2 mm or less and low plasticity in relation to clay content. Surface horizons are clayey, and an increase in clay content occurs with depth although clay illuvial features are generally not apparent. Coarse materials in Oxidic Soils may comprise nodules (see [nodular horizon](Diagnostics.qmd#sec-diag-nodh)), or rock fragments that are frequently coated with secondary oxides.
 
 ## Correlation {#sec-cor-X}
 
@@ -16,22 +16,22 @@ The order comprises most of the strongly weathered red loams and brown loams, ma
 
 ## Occurrence {#sec-occ-X}
 
-Oxidic Soils are only known to occur in Northland, where they can be associated with boulder fields of mafic volcanic rock, the progression of rock weathering impeded by oxide coatings.
+Oxidic Soils are only known to occur in Northland, where they can be associated with boulder fields of mafic volcanic rock, and the progression of rock weathering is impeded by oxide coatings.
 
 ## Accessory Properties of the Order {#sec-acc-X}
 
-1.  *Low-activity clay.* CEC is low at field pH. ECEC is less than 12 cmol~c~/kg (clay), and CEC less than 16 cmol/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic/Gibbsitic.
+1.  *Low-activity clay.* CEC is low at field pH. ECEC is less than 12 cmol~c~/kg (clay), and CEC less than 16 cmol~c~/kg (clay). The soils are weakly buffered. Some subhorizons have a net positive charge. Oxidic Soils usually have the following mineralogy classes: Kandic, Ferritic or Aluminitic/Gibbsitic.
 2.  *High phosphate retention.* P retention ranges from 60 to 90%. High sulfate adsorption occurs in B horizons.
 3.  *Parent materials.* The soils are derived from andesites, dolerites and basalts of mid-Pleistocene age or older.
-4.  *Limited rooting depth.* The extension of plant roots is limited by high dry bulk density and high penetration resistance, particularly in well drained soils. Al-toxicity at depth can also be a limiting factor. Plant root depths are shallow to medium.
+4.  *Limited rooting depth.* The extension of plant roots is limited by high dry bulk density and high penetration resistance, particularly in well-drained soils. Aluminium toxicity at depth can also be a limiting factor. Plant root depths are shallow to medium.
 5.  *Moderate or rapid infiltration.* Hydraulic conductivity of surface horizons and upper B horizons is moderate or faster, giving excellent trafficability and workability immediately after rain.
-6.  *Slow permeability.* Hydraulic conductivity decreases to slow or moderately slow values with depth, such that perching of water occurs within the root zone after high intensity rainfalls. The duration of wetness varies from 1 to 2 days in well drained soils to 4 days or more in poorly drained soils.
-7.  *Soil water deficit.* Deficits occur in summer and are exacerbated by low readily available water capacities and shallow rooting depths.
+6.  *Slow permeability.* Hydraulic conductivity decreases to slow or moderately slow values with depth, such that perching of water occurs within the root zone after high-intensity rainfalls. The duration of wetness varies from 1 to 2 days in well-drained soils to 4 days or more in poorly drained soils.
+7.  *Soil-water deficit.* Deficits occur in summer and are exacerbated by low readily available-water capacities and shallow rooting depths.
 8.  *High clay contents.* Clay content ranges from 50 to 90%.
-9.  *Well-developed structure.* Topsoils have mostly well developed granular or polyhedral peds. Topsoil bulk densities are low.
-10. *Strongly weathered with very low nutrient reserves.* The soils have very low reserves of potassium, magnesium, calcium and phosphorus. Despite a strongly weathered fine-earth fraction, coarse rock fragments that are no more than moderately weathered may still occur.
+9.  *Well-developed structure.* Topsoils have mostly well-developed spheroidal or polyhedral peds. Topsoil bulk densities are low.
+10. *Strongly weathered with very low nutrient reserves.* The soils have very low reserves of potassium, magnesium, calcium, and phosphorus. Despite a strongly weathered fine-earth fraction, rock fragments that are no more than moderately weathered may still occur.
 
-## Summary of Oxidic Soils Hierarchy {#sec-sum-X}
+## Summary of Oxidic Soils hierarchy {#sec-sum-X}
 
 ```{r}
 #| label: tbl-O
@@ -47,8 +47,8 @@ table_X_dat <- data.frame(
                  'Rocky', 'Brown', 'Typic',
                  'Mottled', 'Rocky', 'Brown', 'Typic'),
   'Example_Series' = c('Kapiro', 'Otaha',
-                       '-', '-', 'Okaihau',
-                       'Puketotara', '-', 'Tanekaha', 'Kerikeri')
+                       '-', '-', 'Ōkaihau',
+                       'Puketōtara', '-', 'Tānekaha', 'Kerikeri')
 ) 
 
 table_X <- gt(table_X_dat) |>
@@ -67,17 +67,17 @@ table_X <- gt(table_X_dat) |>
 table_X
 ```
 
-## Key to Groups of Oxidic Soils {#sec-grp-X}
+## Key to groups of Oxidic Soils {#sec-grp-X}
 
 #### **XP** {#sec-key-XP .unnumbered}
 
-Oxidic Soils that have BOTH
+Oxidic Soils that have BOTH:
 
-1.  A [gley profile form](Diagnostics.qmd#sec-diag-gleypf), AND
+1.  A [gley profile form](Diagnostics.qmd#sec-diag-gleypf); AND
 2.  [Perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
-[**PERCH-GLEY OXIDIC SOILS**](#sec-XP)
+[**Perch-gley Oxidic Soils**](#sec-XP)
 :::
 
 #### **XN** {#sec-key-XN .unnumbered}
@@ -85,7 +85,7 @@ Oxidic Soils that have BOTH
 Other Oxidic Soils that have a [nodular horizon](Diagnostics.qmd#sec-diag-nodh) with an upper boundary within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
-[**NODULAR OXIDIC SOILS**](#sec-XN)
+[**Nodular Oxidic Soils**](#sec-XN)
 :::
 
 #### **XO** {#sec-key-XO .unnumbered}
@@ -93,12 +93,12 @@ Other Oxidic Soils that have a [nodular horizon](Diagnostics.qmd#sec-diag-nodh) 
 Other Oxidic Soils.
 
 ::: {style="text-align: right"}
-[**ORTHIC OXIDIC SOILS**](#sec-XO)
+[**Orthic Oxidic Soils**](#sec-XO)
 :::
 
-## Key to Subgroups of Oxidic Soils {#sec-sub-X}
+## Key to subgroups of Oxidic Soils {#sec-sub-X}
 
-### **XP** - PERCH-GLEY OXIDIC SOILS {#sec-XP .unnumbered}
+### **XP** - Perch-gley Oxidic Soils {#sec-XP .unnumbered}
 
 Perch-gley Oxidic Soils occur in sites that are periodically saturated (unless artificially drained). Wetness and associated reducing conditions are indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch), and are caused by perching on a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp).
 
@@ -118,7 +118,7 @@ Other soils.
 **Typic Perch-gley Oxidic Soils**
 :::
 
-### **XN** - NODULAR OXIDIC SOILS {#sec-XN .unnumbered}
+### **XN** - Nodular Oxidic Soils {#sec-XN .unnumbered}
 
 Nodular Oxidic Soils occur in clayey soil materials derived from Pliocene or early Pleistocene basalts. They have clay-enriched B horizons and a prominent layer of iron oxide nodules. The soils have extremely low CEC (at natural pH) and natural fertility. Intermittent wetness is usual.
 
@@ -134,7 +134,7 @@ Nodular Oxidic Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [pa
 
 Other Soils that have within 90 cm of the mineral soil surface at least ONE of the following:
 
-1.  A decrease in clay content with depth of more than 20% relative to that of the horizon with maximum clay, OR
+1.  A decrease in clay content with depth of more than 20% relative to that of the horizon with maximum clay; OR
 2.  More than 5% coarse rock fragments by volume.
 
 ::: {style="text-align: right"}
@@ -149,7 +149,7 @@ Other soils.
 **Typic Nodular Oxidic Soils**
 :::
 
-### **XO** - ORTHIC OXIDIC SOILS {#sec-XO .unnumbered}
+### **XO** - Orthic Oxidic Soils {#sec-XO .unnumbered}
 
 Orthic Oxidic Soils occur in clayey soil materials derived from early to mid-Pleistocene basalts. They have clay-enriched B horizons but lack prominent nodules, although up to 2% may be present in some horizons.
 
@@ -173,8 +173,8 @@ Other soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic 
 
 Other soils that have within 90 cm of the mineral soil surface at least ONE of the following:
 
-1.  A decrease in clay content with depth of more than 20% relative to that of the horizon with maximum clay, OR
-2.  More than 5% coarse rock fragments.
+1.  A decrease in clay content with depth of more than 20% relative to that of the horizon with maximum clay; OR
+2.  More than 5% coarse rock fragments or a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith).
 
 ::: {style="text-align: right"}
 **Brown Orthic Oxidic Soils**
