@@ -6,31 +6,31 @@ editor_options:
 
 # Podzol Soils {#sec-ord-Z}
 
-## Concept of the Order {#sec-con-Z}
+## Concept of the order {#sec-con-Z}
 
-Podzols are acidic soils with low base saturation. Podzol Soils have a horizon of aluminium accumulation occurring as complexes with organic matter and/or as nanocrystalline minerals including allophane (with some imogolite) that result from the translocation of silicon as well as aluminium in solution as proto-imogolite. Iron (typically as ferrihydrite) may or may not accumulate with aluminium and silicon. This [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) is usually associated with an overlying [eluvial horizon](#sec-diag-eluvh) indicating translocation. The [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) can develop into a [placic horizon](Diagnostics.qmd#sec-diag-plac) or [ortstein-pan](Diagnostics.qmd#sec-diag-opan) if cementation occurs. The [eluvial horizon](#sec-diag-eluvh) may be missing due to erosion, ploughing, or bioturbation, or it may be masked by organic matter.
+Podzols are acidic soils with low base saturation. They have a horizon of aluminium accumulation occurring as complexes with organic matter and/or as nanocrystalline minerals including allophane (with some imogolite), which results from the translocation of silicon, as well as aluminium in solution as proto-imogolite. Iron (typically as ferrihydrite) may or may not accumulate with aluminium and silicon. This [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) is usually associated with an overlying [eluvial horizon](#sec-diag-eluvh), indicating translocation. The [podzolic-B horizon](Diagnostics.qmd#sec-diag-podzb) can develop into a [placic horizon](Diagnostics.qmd#sec-diag-plac) or an [ortstein-pan](Diagnostics.qmd#sec-diag-opan) if cementation occurs. The [eluvial horizon](#sec-diag-eluvh) may be missing due to erosion, ploughing, or bioturbation, or it may be masked by organic matter.
 
 ## Correlation {#sec-cor-Z}
 
-Podzol Soils correspond to the podzols and some podzolised yellow-brown earths of the *New Zealand Genetic Soil Classification*. They mostly correspond with the Spodosols of *Soil Taxonomy*.
+Podzol Soils correspond to the podzols and some podzolised yellow-brown earths of the *New Zealand Genetic Soil Classification*. They mostly correspond to the Spodosols of the *Soil Taxonomy*.
 
 ## Occurrence {#sec-occ-Z}
 
-Podzol Soils occur in areas of high precipitation and are usually associated with forest species which produce an acidic litter. They are most common in Northland, the West Coast of the South Island, Stewart Island and throughout New Zealand at higher elevations.
+Podzol Soils occur in areas of high precipitation and are usually associated with forest species which produce an acidic litter. They are most common in Northland, the west coast of the South Island, Stewart Island / Rakiura, and throughout New Zealand at higher elevations.
 
 ## Accessory Properties of the Order {#sec-acc-Z}
 
-1.  *Secondary oxides strongly differentiated between horizons.* In A and E horizons, sand and silt grains are uncoated. In B horizons they are coated, and in some soils cemented, by nanocrystalline minerals and/or organic matter.
+1.  *Secondary oxides strongly differentiated between horizons.* In A and E horizons sand and silt grains are uncoated. In B horizons they are coated, and in some soils cemented, by nanocrystalline minerals and/or organic matter.
 2.  *Low base saturation.* Base saturations are very low, and the soils are extremely acidic, in A and E horizons. KCl-extractable-aluminium levels are high, and aluminium in soil solution may be toxic to some plants.
 3.  *Parent materials.* The soils occur mainly in materials from felsic rocks such as granite, greywacke, schist or rhyolite, and derivatives including loess and tephra deposits.
-4.  *Mineralogically differentiated.* Mica-smectite or smectite often occur in A and E horizons, and hydroxy-coated or interlayered minerals or allophane often occur in the B horizon. In some Northland soils, silica is dominant in B horizons. Podzols cover a wide range of mineralogy classes.
-5.  *Limited rooting depth.* The rooting depth is limited for many introduced plants by low pH or aluminium toxicity, or by pans which often impede drainage.
-6.  *Low biological activity.* Low levels of faunal activity occur with a low rate of mineralisation. Carbon/nitrogen ratios are very high. The accumulation of weakly decomposed humus and minimal incorporation of humus into the upper mineral soil results in a mor-like humus form.
-7.  *Mor-forming vegetation.* The soils have been associated with vegetation producing an acid litter of low nutrient content (mainly *Agathis australis*, *Nothofagaceae*, *Podocarpaceae*).
+4.  *Mineralogically differentiated.* Mica-smectite or smectite often occur in A and E horizons, and hydroxy-coated or interlayered minerals or allophane often occur in the B horizon. In some Northland soils silica is dominant in B horizons. Podzol Soils cover a wide range of mineralogy classes.
+5.  *Limited rooting depth.* The rooting depth is limited for many introduced plants by low pH, by aluminium toxicity, or by pans that often impede drainage.
+6.  *Low biological activity.* Low levels of faunal activity occur with a low rate of mineralisation. Carbon:nitrogen ratios are very high. The accumulation of weakly decomposed humus and minimal incorporation of humus into the upper mineral soil results in a mor-like humus form.
+7.  *Mor-forming vegetation.* The soils have been associated with vegetation producing an acid litter of low nutrient content (mainly *Agathis australis*, Nothofagaceae, Podocarpaceae).
 8.  *Infertile.* The soils have very low natural fertility and require a high level of fertiliser addition under agricultural land use.
-9.  *Wet climate.* The soils occur mainly in areas with an average annual precipitation of 1400 mm or more and, unless sandy, are likely to have a soil water surplus for a considerable part of the year.
+9.  *Wet climate.* The soils occur mainly in areas with an average annual precipitation of 1,400 mm or more and, unless sandy, are likely to have a soil-water surplus for a considerable part of the year.
 
-## Summary of Podzol Soils Hierarchy {#sec-sum-Z}
+## Summary of Podzol Soils hierarchy {#sec-sum-Z}
 
 ```{r}
 #| label: tbl-Z
@@ -58,12 +58,12 @@ table_Z_dat <- data.frame(
                  'Humus-pan', 'Argillic-humose', 'Humose', 'Fragic', 'Ortstein', 'Placic',
                    'Firm',
                  'Argillic-humose', 'Humose', 'Typic'),
-  'Example_Series' = c('Te Kopuru', 'Wharekohe', 'Wharekohe', 'Te Kopuru', 'Onahau', 'Parahaki',
-                       'Hukarere', 'Okarito', 'Okarito', 'Addison', 
+  'Example_Series' = c('Te Kōpuru', 'Wharekohe', 'Wharekohe', 'Te Kōpuru', 'Ōnahau', 'Parahaki',
+                       'Hukarere', 'Ōkarito', 'Ōkarito', 'Addison', 
                          'Rutherglen', 'Rakiura', 'Maimai', 'Charleston', 
                          'Maungatua', 'Rowallan',
                        '-', '-',
-                       'Kairua', '-', 'Tautuku', 'Nevis', 'Te Kopuru', 'Pukepahi', '-',
+                       'Kairua', '-', 'Tautuku', 'Nevis', 'Te Kōpuru', 'Pukepahi', '-',
                        'Hūkerenui',  'Borland', 'Shewell')
 ) 
 
@@ -83,49 +83,49 @@ table_Z <- gt(table_Z_dat) |>
 table_Z
 ```
 
-## Key to Groups of Podzol Soils {#sec-grp-Z}
+## Key to groups of Podzol Soils {#sec-grp-Z}
 
 #### **ZD** {#sec-key-ZD .unnumbered}
 
 Podzol Soils that have a [densipan](Diagnostics.qmd#sec-diag-dens) (Ed horizon).
 
 ::: {style="text-align: right"}
-[**DENSIPAN PODZOL SOILS**](#sec-ZD)
+[**Densipan Podzol Soils**](#sec-ZD)
 :::
 
 #### **ZP** {#sec-key-ZP .unnumbered}
 
-Other Podzol Soils that have BOTH
+Other Podzol Soils that have BOTH:
 
-1.  An [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) with either the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#sec-diag-plac) with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv), AND
+1.  An [eluvial horizon](Diagnostics.qmd#sec-diag-eluv), with either the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), or a [placic horizon](Diagnostics.qmd#sec-diag-plac) with [redox-segregations](Diagnostics.qmd#sec-diag-rsegs) in the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv); AND
 2.  A [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp) or [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
-[**PERCH-GLEY PODZOL SOILS**](#sec-ZP)
+[**Perch-gley Podzol Soils**](#sec-ZP)
 :::
 
 #### **ZG** {#sec-key-ZG .unnumbered}
 
-Other Podzol Soils that have BOTH
+Other Podzol Soils that have BOTH:
 
-1.  Either an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) with the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts), AND
-2.  A BC or C horizon that has the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), that *either*
-    (a) extends to more than 90 cm from the mineral soil surface, *or*
+1.  An [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) with the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh) or a [peaty topsoil](Diagnostics.qmd#sec-diag-pts); AND
+2.  A BC or C horizon that has the [low-chroma colours](Diagnostics.qmd#sec-diag-lch) of a [reductimorphic horizon](Diagnostics.qmd#sec-diag-redmh), that *either:*
+    (a) extends to more than 90 cm from the mineral soil surface; *or*
     (b) has [redox segregations](Diagnostics.qmd#sec-diag-rsegs) that occur mainly as coatings on voids and/or skeletans.
 
 ::: {style="text-align: right"}
-[**GROUNDWATER-GLEY PODZOL SOILS**](#sec-ZG)
+[**Groundwater-gley Podzol Soils**](#sec-ZG)
 :::
 
 #### **ZX** {#sec-key-ZX .unnumbered}
 
-Other Podzol Soils that have a subhorizon in the B horizon that is BOTH
+Other Podzol Soils that have a subhorizon in the B horizon that BOTH:
 
-1.  Apedal massive, AND
-2.  Has firm or greater moist, unconfined soil strength or has moist or wet penetration resistance of 3100 kPa or more.
+1.  Is apedal massive; AND
+2.  Has firm or greater moist, unconfined soil strength, or has moist or wet penetration resistance of 3,100 kPa or more.
 
 ::: {style="text-align: right"}
-[**PAN PODZOL SOILS**](#sec-ZX)
+[**Pan Podzol Soils**](#sec-ZX)
 :::
 
 #### **ZO** {#sec-key-ZO .unnumbered}
@@ -133,14 +133,14 @@ Other Podzol Soils that have a subhorizon in the B horizon that is BOTH
 Other Podzol Soils.
 
 ::: {style="text-align: right"}
-[**ORTHIC PODZOL SOILS**](#sec-ZO)
+[**Orthic Podzol Soils**](#sec-ZO)
 :::
 
-## Key to Subgroups of Podzol Soils {#sec-sub-Z}
+## Key to subgroups of Podzol Soils {#sec-sub-Z}
 
-### **ZD** - DENSIPAN PODZOL SOILS {#sec-ZD .unnumbered}
+### **ZD** - Densipan Podzol Soils {#sec-ZD .unnumbered}
 
-Densipan Podzol Soils have a high density but uncemented pan within the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) at shallow depths which severely limits root penetration and water movement.
+Densipan Podzol Soils have a high density but an uncemented pan within the [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) at shallow depths, which severely limits root penetration and water movement.
 
 #### **ZDU** {#sec-key-ZDU .unnumbered}
 
@@ -190,7 +190,7 @@ Other soils.
 **Typic Densipan Podzol Soils**
 :::
 
-### **ZP** - PERCH-GLEY PODZOL SOILS {#sec-ZP .unnumbered}
+### **ZP** - Perch-gley Podzol Soils {#sec-ZP .unnumbered}
 
 Perch-gley Podzol Soils occur in periodically, or predominantly, saturated sites (unless artificially drained) in which wetness is indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) along with brownish or reddish mottles or [peaty topsoils](Diagnostics.qmd#sec-diag-pts). The wetness is caused by the perching of water on a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), although a groundwater-table may also be present.
 
@@ -204,12 +204,12 @@ Perch-gley Podzol Soils that have a moderately fluid or very fluid fluidity clas
 
 #### **ZPOZ** {#sec-key-ZPOZ .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has *all* of the following
-    (a) a slightly firm or greater moist, unconfined soil strength, *and*
-    (b) an apedal massive, or a prismatic structure ranging from 60–200 mm in size, *and*
-    (c) is part of a silty layer that has a thickness of at least 15 cm, AND
+1.  An [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has *all* of the following
+    (a) a slightly firm or greater moist unconfined soil strength; *and*
+    (b) an apedal massive or a prismatic structure ranging from 60 to 200 mm in size; *and*
+    (c) is part of a silty layer that has a thickness of at least 15 cm; AND
 2.  A [peaty topsoil](Diagnostics.qmd#sec-diag-pts).
 
 ::: {style="text-align: right"}
@@ -218,7 +218,7 @@ Other soils that have BOTH
 
 #### **ZPZ** {#sec-key-ZPZ .unnumbered}
 
-Other soils that have an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has slightly firm or greater moist, unconfined soil strength, is apedal massive, or has a prismatic structure ranging from 60–200 mm in size, and occurs within a layer that is silty and at least 15 cm thick.
+Other soils that have an [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) that has slightly firm or greater moist, unconfined soil strength, is apedal massive or has a prismatic structure ranging from 60 to 200 mm in size, and occurs within a layer that is silty and at least 15 cm thick.
 
 ::: {style="text-align: right"}
 **Silt-mantled Perch-gley Podzol Soils**
@@ -280,9 +280,9 @@ Other soils.
 **Typic Perch-gley Podzol Soils**
 :::
 
-### **ZG** - GROUNDWATER-GLEY PODZOL SOILS {#sec-ZG .unnumbered}
+### **ZG** - Groundwater-gley Podzol Soils {#sec-ZG .unnumbered}
 
-Groundwater-gley Podzol Soils occur in periodically or predominantly saturated sites (unless artificially drained) in which the wetness is indicated by brownish or reddish mottles or [peaty topsoils](Diagnostics.qmd#sec-diag-pts). The wetness is caused by a groundwater-table.
+Groundwater-gley Podzol Soils occur in periodically or predominantly saturated sites (unless artificially drained), in which the wetness is indicated by brownish or reddish mottles or [peaty topsoils](Diagnostics.qmd#sec-diag-pts). The wetness is caused by a groundwater-table.
 
 #### **ZGH** {#sec-key-ZGH .unnumbered}
 
@@ -300,9 +300,9 @@ Other soils.
 **Typic Groundwater-gley Podzol Soils**
 :::
 
-### **ZX** - PAN PODZOL SOILS {#sec-ZX .unnumbered}
+### **ZX** - Pan Podzol Soils {#sec-ZX .unnumbered}
 
-Pan Podzol Soils have layer with firm or greater unconfined strength over all moisture states, or are at least weakly indurated, which restricts the penetration of roots and reduces permeability.
+Pan Podzol Soils have layer with firm or greater unconfined strength over all moisture states, or are at least weakly indurated, restricting the penetration of roots and reducing permeability.
 
 #### **ZXU** {#sec-key-ZXU .unnumbered}
 
@@ -322,7 +322,7 @@ Other soils that have a Bh horizon that also have an [argillic horizon](Diagnost
 
 #### **ZXH** {#sec-key-ZXH .unnumbered}
 
-Other soils that have a Bh horizon that and either an [ortstein-pan](Diagnostics.qmd#sec-diag-opan) or [placic horizon](Diagnostics.qmd#sec-diag-plac).
+Other soils that have a Bh horizon, that and either an [ortstein-pan](Diagnostics.qmd#sec-diag-opan) or [placic horizon](Diagnostics.qmd#sec-diag-plac).
 
 ::: {style="text-align: right"}
 **Humose Pan Podzol Soils**
@@ -360,7 +360,7 @@ Other soils.
 **Firm Pan Podzol Soils**
 :::
 
-### **ZO** - ORTHIC PODZOL SOILS {#sec-ZO .unnumbered}
+### **ZO** - Orthic Podzol Soils {#sec-ZO .unnumbered}
 
 Orthic Podzol Soils are usually well or moderately well drained, and do not have a pan or a firm horizon with massive structure.
 
