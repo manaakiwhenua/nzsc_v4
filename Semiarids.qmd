@@ -8,21 +8,21 @@ editor_options:
 
 ## Concept of the order {#sec-con-S}
 
-Semiarid Soils are high base status soils in which a soil water deficit prevails over most of the growing season. Wetting fronts under natural climate conditions (i.e., in the absence of irrigation) fail to penetrate deeper than the base of the solum, with consequent accumulation of pedogenic (secondary) carbonate and other soluble salts.
+Semiarid Soils are high base status soils in which a soil water deficit prevails over most of the growing season. Wetting fronts under natural climate conditions (i.e. in the absence of irrigation) fail to penetrate deeper than the base of the solum, with consequent accumulation of pedogenic (secondary) carbonate and other soluble salts.
 
 ## Correlation {#sec-cor-S}
 
-The order comprises brown-grey earths, associated steepland soils and intergrades between brown-grey earths and yellow-grey earths and recent soils of the *New Zealand Genetic Soil Classification*. In *Soil Taxonomy*, the order mainly corresponds with the Aridisols including Haplargids, Paleargids, Calciargids, and Natrargids, along with Cambids.
+The order comprises brown-grey earths, associated steepland soils and intergrades between brown-grey earths and yellow-grey earths and recent soils of the *New Zealand Genetic Soil Classification*. In the *Soil Taxonomy*, the order mainly corresponds with the Aridisols including Haplargids, Paleargids, Calciargids, and Natrargids, along with Cambids.
 
 ## Occurrence {#sec-occ-S}
 
-Semiarid Soils have originally been only recognised in the inland basins of Otago and southern Canterbury, where mean annual precipitation is less than about 500 mm. While this remains the geographic region with the highest occurrence of these soils, Semiarid Soils may also be found in other regions with a comparable climate.
+Semiarid Soils have originally been only recognised in the inland basins of Otago and southern Canterbury, where mean annual precipitation is less than about 500 mm. While this remains the geographical area with the highest occurrences of these soils, Semiarid Soils may also be found in other regions with a comparable climate.
 
 ## Accessory Properties of the Order {#sec-acc-S}
 
-1.  *Low secondary oxides.* Secondary iron and aluminium oxide levels are very low. Phosphate retention levels are also very low (usually less than 15%).
+1.  *Low secondary oxides.* Secondary iron and aluminium oxide levels are very low. P retention levels are also very low (usually less than 15%).
 2.  *High base status.* Base saturation values in subsoils are high and rise to 100% at the base of the solum.
-3.  *Parent materials.* The soils occur in materials from non-calcareous quartzo-feldspathic schist and indurated sandstone (greywacke), and fluvial and aeolian derivatives including fan and terrace deposits, and loess, respectively.
+3.  *Parent materials.* The soils occur in materials from non-calcareous quartzo-feldspathic schist and indurated sandstone (greywacke), and fluvial and aeolian derivatives, including fan and terrace deposits, and loess, respectively.
 4.  *Illitic clay mineralogy.* Mica/illite clay minerals predominate with trace primary chlorite and kaolinite. Semiarid Soils almost always have an Illitic mineralogy class unless they have a clay content of less than 10% and fall into the Mixed class.
 5.  *Permeability.* Saturated hydraulic conductivity is slow in soils with [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizons](Diagnostics.qmd#sec-diag-cuth), and in some other silty or fine sandy soils. Infiltration may be reduced by machine traffic or stock treading when soils are saturated by irrigation water.
 6.  *Drainage.* No poorly or very poorly drained soils are included.
@@ -31,11 +31,11 @@ Semiarid Soils have originally been only recognised in the inland basins of Otag
 9.  *High slaking and dispersion potential.* Soil materials are strongly dispersive and will readily slake.
 10. *Erosive.* The soils are susceptible to wind and water erosion.
 11. *Weakly buffered.* The soils are weakly buffered because of low CEC and anion adsorption capacity. They are consequently very sensitive to management, showing rapid changes in response to fertilisation, irrigation and cultivation.
-12. *Soluble salts.* Soluble salts are present in many soils and land management must consider the risk of salinisation.
+12. *Soluble salts.* Soluble salts are present in many soils, and land management must consider the risk of salinisation.
 13. *High sodium.* Sodium occupies a large proportion of the cation exchange complex, particularly in Semiarid Soils with [argillic horizons](Diagnostics.qmd#sec-diag-argh).
-14. *Climate.* Average annual precipitation ranges from about 350 to 500 mm, with zero water surplus and a spring soil moisture deficit.
+14. *Climate.* Mean annual precipitation ranges from about 350 to 500 mm, with zero water surplus and a spring soil moisture deficit.
 
-## Summary of Semiarid Soils Hierarchy {#sec-sum-S}
+## Summary of Semiarid Soils hierarchy {#sec-sum-S}
 
 ```{r}
 #| label: tbl-S
@@ -79,14 +79,14 @@ table_S <- gt(table_S_dat) |>
 table_S
 ```
 
-## Key to Groups of Semiarid Soils {#sec-grp-S}
+## Key to groups of Semiarid Soils {#sec-grp-S}
 
 #### **SA** {#sec-key-SA .unnumbered}
 
-Semiarid Soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh) in which the matrix has, in part, 7.5YR or redder hues or 10YR hue with chroma 6 or more.
+Semiarid Soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh) in which the matrix has, in part, 7.5YR or redder hues or a 10YR hue with chroma 6 or more.
 
 ::: {style="text-align: right"}
-[**AGED-ARGILLIC SEMIARID SOILS**](#sec-SA)
+[**Aged-argillic Semiarid Soils**](#sec-SA)
 :::
 
 #### **SZ** {#sec-key-SZ .unnumbered}
@@ -94,15 +94,15 @@ Semiarid Soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh) in
 Other Semiarid Soils containing an [argillic horizon](Diagnostics.qmd#sec-diag-argh) that has prismatic or blocky peds with more than 10% coatings of colour value 4 or less, and pH of 8.6 or more in some part.
 
 ::: {style="text-align: right"}
-[**SOLONETZIC SEMIARID SOILS**](#sec-SZ)
+[**Solonetzic Semiarid Soils**](#sec-SZ)
 :::
 
 #### **SJ** {#sec-key-SJ .unnumbered}
 
-Other Semiarid Soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh), or a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) that meets the requirements of a slowly permeable layer.
+Other Semiarid Soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh), or a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) that meets the requirements of a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp).
 
 ::: {style="text-align: right"}
-[**ARGILLIC SEMIARID SOILS**](#sec-SJ)
+[**Argillic Semiarid Soils**](#sec-SJ)
 :::
 
 #### **SI** {#sec-key-SI .unnumbered}
@@ -110,12 +110,12 @@ Other Semiarid Soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-ar
 Other Semiarid Soils.
 
 ::: {style="text-align: right"}
-[**IMMATURE SEMIARID SOILS**](#sec-SI)
+[**Immature Semiarid Soils**](#sec-SI)
 :::
 
-## Key to Subgroups of Semiarid Soils {#sec-sub-S}
+## Key to subgroups of Semiarid Soils {#sec-sub-S}
 
-### **SA** - AGED-ARGILLIC SEMIARID SOILS {#sec-SA .unnumbered}
+### **SA** - Aged-argillic Semiarid Soils {#sec-SA .unnumbered}
 
 Aged-Argillic Semiarid Soils occur mainly on fans, terraces or hill slopes that have been relatively stable since the middle to early Pleistocene. The [argillic horizons](Diagnostics.qmd#sec-diag-argh) are redder in colour than those in younger soils, and are usually [slowly permeable](Diagnostics.qmd#sec-diag-slowp).
 
@@ -137,7 +137,7 @@ Other soils in which the majority of coarse rock fragments are weathered to the 
 
 #### **SAK** {#sec-key-SAK .unnumbered}
 
-Other soils that have pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
+Other soils that have a pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Alkaline Aged-argillic Semiarid Soils**
@@ -159,7 +159,7 @@ Other soils.
 **Typic Aged-argillic Semiarid Soils**
 :::
 
-### **SZ** - SOLONETZIC SEMIARID SOILS {#sec-SZ .unnumbered}
+### **SZ** - Solonetzic Semiarid Soils {#sec-SZ .unnumbered}
 
 Solonetzic Semiarid Soils have a higher proportion of exchangeable sodium than other Semiarid Soils. This tends to promote the dispersion of clay and organic matter, resulting in very slow permeability through the clay enriched B horizons.
 
@@ -179,7 +179,7 @@ Other soils.
 **Typic Solonetzic Semiarid Soils**
 :::
 
-### **SJ** - ARGILLIC SEMIARID SOILS {#sec-SJ .unnumbered}
+### **SJ** - Argillic Semiarid Soils {#sec-SJ .unnumbered}
 
 Argillic Semiarid Soils occur on land surfaces of late Pleistocene or early Holocene age. The [argillic horizon](Diagnostics.qmd#sec-diag-argh) is brown, dark brown or olive brown in colour and usually slowly permeable.
 
@@ -201,7 +201,7 @@ Other soils that have [saline soil material](Diagnostics.qmd#sec-diag-salt) with
 
 #### **SJK** {#sec-key-SJK .unnumbered}
 
-Other soils that have pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
+Other soils that have a pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Alkaline Argillic Semiarid Soils**
@@ -223,7 +223,7 @@ Other soils.
 **Typic Argillic Semiarid Soils**
 :::
 
-### **SI** - IMMATURE SEMIARID SOILS {#sec-SI .unnumbered}
+### **SI** - Immature Semiarid Soils {#sec-SI .unnumbered}
 
 Immature Semiarid Soils occur on Holocene land surfaces. They do not have [argillic horizons](Diagnostics.qmd#sec-diag-argh) but usually have accumulations of calcium carbonate.
 
@@ -245,7 +245,7 @@ Soils that have a horizon with [saline soil material](Diagnostics.qmd#sec-diag-s
 
 #### **SIK** {#sec-key-SIK .unnumbered}
 
-Other soils that have pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
+Other soils that have a pH of 8.6 or more in some part within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Alkaline Immature Semiarid Soils**
