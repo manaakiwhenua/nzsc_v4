@@ -6,33 +6,33 @@ editor_options:
 
 # Pumice Soils {#sec-ord-M}
 
-## Concept of the Order {#sec-con-M}
+## Concept of the order {#sec-con-M}
 
-Pumice Soils are soils that have properties dominated by rhyolitic pumiceous and other glassy material along with crystals and rock fragments. They have a low clay content, typically including allophane. They occur in weak loamy and loose sandy to gravelly rhyolitic pumiceous tephra deposits ranging from 700 to 7600 years in age, and fluvially reworked derivatives. Despite their pyroclastic origin, some Pumice Soils are brittle and compact.
+Pumice Soils are soils that have properties dominated by rhyolitic pumiceous and other glassy material along with crystals and rock fragments. They have a low clay content, typically including allophane. They occur in weak loamy and loose sandy to gravelly rhyolitic pumiceous tephra deposits ranging from 700 to 7,600 years in age, and fluvially reworked derivatives. Despite their pyroclastic origin, some Pumice Soils are brittle and compact.
 
 ## Correlation {#sec-cor-M}
 
-Pumice Soils include the yellow-brown pumice soils, a few yellow-brown loams with high glass content and moderate phosphate retention, and a few recent soils of the *New Zealand Genetic Soil Classification*. They correlate mainly with the Vitrands suborder, or the great groups of Vitricryands, Vitraquands or Udivitrands of *Soil Taxonomy*.
+Pumice Soils include the yellow-brown pumice soils, a few yellow-brown loams with high glass content and moderate P retention, and a few recent soils of the *New Zealand Genetic Soil Classification*. They correlate mainly with the Vitrands suborder, or the great groups of Vitricryands, Vitraquands or Udivitrands of the *Soil Taxonomy*.
 
 ## Occurrence {#sec-occ-M}
 
-Pumice Soils occur largely in sandy and fine to coarse gravelly (ash and lapilli) rhyolitic pumiceous tephras which are relatively young, namely Kaharoa tephra (\~700 yrs old) and the more extensive Taupō tephra (\~1800 years old) [@lowe2021]. Much less extensive Pumice Soils are formed on Waimihia tephra (\~3500 years old) south-east of Taupō and on Tuhua Tephra (\~7600 years old) near Whangamata. On steeper slopes older undifferentiated pumice deposits can be exhumed or redeposited to form Pumice Soils. Formed by retardant upbuilding pedogenesis, the great majority of Pumice Soils are distributed in the central North Island, particularly in the central Volcanic Plateau and Bay of Plenty, and on terraces alongside rivers (including Waikato and Whanganui rivers) in fluvially reworked pumiceous tephra deposits.
+Pumice Soils occur largely in sandy and fine to coarse gravelly (ash and lapilli) rhyolitic pumiceous tephras which are relatively young, namely Kaharoa tephra (c. 700 yrs old) and the more extensive Taupō tephra (c. 1800 years old) [@lowe2021]. Much less extensive Pumice Soils are formed on Waimihia tephra (c. 3500 years old) south-east of Taupō and on Tuhua Tephra (c. 7600 years old) near Whangamata. On steeper slopes older undifferentiated pumice deposits can be exhumed or redeposited to form Pumice Soils. Formed by retardant upbuilding pedogenesis, the great majority of Pumice Soils are distributed in the central North Island, particularly in the central Volcanic Plateau and Bay of Plenty, and on terraces alongside rivers (including Waikato and Whanganui rivers) in fluvially reworked pumiceous tephra deposits.
 
 ## Accessory Properties of the Order {#sec-acc-M}
 
-1.  *Nanocrystalline and paracrystalline clay minerals.* Clay contents are low, generally less than 10%. The clay minerals are dominantly allophane, imogolite and possibly ferrihydrite, and occur as coatings around glass or pumice particles. Phosphate retention is moderate or high. Most Pumice Soils belong to the Glassy or Amorphic mineralogy classes.
-2.  *Low soil strength.* Unconfined soil strength is weak or very weak when moist. The soils have earthy structure, or are apedal single-grain, except where subsoils comprise compact or weakly cemented (non-welded) layers which are apedal massive and may have higher strength.
+1.  *Nanocrystalline and paracrystalline clay minerals.* Clay content is low, generally less than 10%. The clay minerals are predominantly allophane, imogolite and possibly ferrihydrite, and occur as coatings around glass or pumice particles. P retention is moderate or high. Most Pumice Soils belong to the Glassy or Amorphic mineralogy classes.
+2.  *Low soil strength.* Unconfined soil strength is weak or very weak when moist. The soils have earthy structure, or are apedal single-grain, except where subsoils comprise compact or weakly cemented (non-welded) layers, which are apedal massive and may have higher strength.
 3.  *Pumice is not strongly altered.* The alteration status of coarse pumice fragments ranges from fresh to moderately weathered. Volcanic glass is predominant in sand fractions.
-4.  *Deep rooting.* The soils provide a deep rooting medium except in compact and/or weakly cemented non-welded Taupō ignimbrite.
+4.  *Deep rooting.* The soils provide a deep rooting medium, except in compact and/or weakly cemented non-welded Taupō ignimbrite.
 5.  *Very high macroporosity.* The macroporosity enables rapid drainage at low soil-water tensions. The available water capacity is high.
 6.  *Sensitive.* The soils are non-plastic and are sensitive, with low strength when disturbed.
-7.  *Resistant to pugging.* Water contents at field capacity are less than the plastic limit. Pumice Soils may, however, be susceptible to compaction on loading, with consequent reduced infiltration.
+7.  *Resistant to pugging.* Water content at field capacity are less than the plastic limit. Pumice Soils may, however, be susceptible to compaction on loading, with consequent reduced infiltration.
 8.  *Low reserves of major nutrient elements.* Sulfur, potassium, nitrogen, phosphorus and magnesium are usually required for agricultural or horticultural crops. Reserve potassium is low and exchangeable magnesium is very low, particularly in subsoils.
 9.  *Trace elements are likely to be deficient.* Trace elements that are possibly deficient include cobalt, copper, molybdenum, boron, iodine and selenium.
 10. *Erosive.* The potential for erosion by water is high.
-11. *Multilayered.* Profiles with lithological discontinuities and buried soil horizons or paleosols are common where the diagnostic pumiceous mantle becomes sufficiently shallow so that underlying tephra (or other) layers and associated soil horizons occur within the pedon being classified.
+11. *Multilayered.* Profiles with lithological discontinuities and buried soil horizons or paleosols are common where the diagnostic pumiceous mantle becomes sufficiently shallow, so that underlying tephra (or other) layers and associated soil horizons occur within the pedon being classified.
 
-## Summary of Pumice Soils Hierarchy {#sec-sum-M}
+## Summary of Pumice Soils hierarchy {#sec-sum-M}
 
 ```{r}
 #| label: tbl-M
@@ -53,8 +53,8 @@ table_M_dat <- data.frame(
                  'Mottled', 'Podzolic', 'Allophanic', 'Buried-allophanic', 'Scoriaceous',
                    'Immature', 'Typic'),
   'Example_Series' = c('Mangawhero', '-',
-                       'Atiamuri', 'Atiamuri', '-', '-',
-                       '-', 'Rangipo', 'Lowgarth', 'Paengaroa', '-', 'Taupō', 'Turangi')
+                       'Ātiamuri', 'Ātiamuri', '-', '-',
+                       '-', 'Rangipo', 'Lowgarth', 'Paengaroa', '-', 'Taupō', 'Tūrangi')
 ) 
 
 table_M <- gt(table_M_dat) |>
@@ -73,17 +73,17 @@ table_M <- gt(table_M_dat) |>
 table_M
 ```
 
-## Key to Groups of Pumice Soils {#sec-grp-M}
+## Key to groups of Pumice Soils {#sec-grp-M}
 
 #### **MP** {#sec-key-MP .unnumbered}
 
-Pumice Soils that have BOTH
+Pumice Soils that have BOTH:
 
-1.  A [gley profile form](Diagnostics.qmd#sec-diag-gleypf), AND
+1.  A [gley profile form](Diagnostics.qmd#sec-diag-gleypf); AND
 2.  [Perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
-[**PERCH-GLEY PUMICE SOILS**](#sec-MP)
+[**Perch-gley Pumice Soils**](#sec-MP)
 :::
 
 #### **MI** {#sec-key-MI .unnumbered}
@@ -91,20 +91,20 @@ Pumice Soils that have BOTH
 Other Pumice Soils that have a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), or a compact layer that has brittle failure and no roots, within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
-[**IMPEDED PUMICE SOILS**](#sec-MI)
+[**Impeded Pumice Soils**](#sec-MI)
 :::
 
 #### **MO** {#sec-key-MO .unnumbered}
 
-Other soils.
+Other Pumice Soils.
 
 ::: {style="text-align: right"}
-[**ORTHIC PUMICE SOILS**](#sec-MO)
+[**Orthic Pumice Soils**](#sec-MO)
 :::
 
-## Key to Subgroups of Pumice Soils {#sec-sub-M}
+## Key to subgroups of Pumice Soils {#sec-sub-M}
 
-### **MP** - PERCH-GLEY PUMICE SOILS {#sec-MP .unnumbered}
+### **MP** - Perch-gley Pumice Soils {#sec-MP .unnumbered}
 
 Perch-gley Pumice Soils occur in periodically saturated sites (unless artificially drained) in which wetness is indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) along with brownish or reddish mottles. The wetness is caused by perching of water on a [slowly permeable layer](Diagnostics.qmd#sec-diag-slowp), although a groundwater-table may also be present.
 
@@ -124,15 +124,15 @@ Other soils.
 **Typic Perch-gley Pumice Soils**
 :::
 
-### **MI** - IMPEDED PUMICE SOILS {#sec-MI .unnumbered}
+### **MI** - Impeded Pumice Soils {#sec-MI .unnumbered}
 
 Impeded Pumice Soils have a horizon that severely restricts the movement of water and usually the penetration of roots. The restrictive horizon is commonly a layer of densely packed Taupō ignimbrite that was deposited into a pre-existing valley as a non-welded, valley-ponded ignimbrite. In some situations, with suitable drainage, they can be weakly cemented with secondary silica [@lowe2021].
 
 #### **MIMC** {#sec-key-MIMC .unnumbered}
 
-Impeded Pumice Soils that have BOTH
+Impeded Pumice Soils that have BOTH:
 
-1.  A layer of Taupō ignimbrite that is at least densely packed, or with at least a firm moist, unconfined soil strength (possibly weakly cemented with secondary silica), having a brittle failure and acting as a root barrier with an upper boundary within 90 cm of the mineral soil surface, AND
+1.  A layer of Taupō ignimbrite that is at least densely packed, or with at least a firm moist, unconfined soil strength (possibly weakly cemented with secondary silica), with a brittle failure and acting as a root barrier with an upper boundary within 90 cm of the mineral soil surface; AND
 2.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
@@ -141,7 +141,7 @@ Impeded Pumice Soils that have BOTH
 
 #### **MIC** {#sec-key-MIC .unnumbered}
 
-Other soils that have a layer of Taupō ignimbrite that is at least densely packed, or with at least a firm moist, unconfined soil strength (possibly weakly cemented with secondary silica), having a brittle failure and acting as a root barrier with an upper boundary within 90 cm of the mineral soil surface.
+Other soils that have a layer of Taupō ignimbrite that is at least densely packed, or with at least a firm moist, unconfined soil strength (possibly weakly cemented with secondary silica), with a brittle failure and acting as a root barrier with an upper boundary within 90 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Compacted Impeded Pumice Soils**
@@ -163,9 +163,9 @@ Other soils.
 **Typic Impeded Pumice Soils**
 :::
 
-### **MO** - ORTHIC PUMICE SOILS {#sec-MO .unnumbered}
+### **MO** - Orthic Pumice Soils {#sec-MO .unnumbered}
 
-Orthic Pumice Soils are well drained to imperfectly drained, are deep rooting and do not severely restrict water movement.
+Orthic Pumice Soils are well drained to imperfectly drained, are deep rooting, and do not severely restrict water movement.
 
 #### **MOM** {#sec-key-MOM .unnumbered}
 
@@ -185,7 +185,7 @@ Other soils that have a B horizon, or subhorizon of the B, that is thicker than 
 
 #### **MOL** {#sec-key-MOL .unnumbered}
 
-Other soils that have a layer within the upper and lower depth of [vitric soil material](Diagnostics.qmd#sec-diag-vitr), that also meets the requirements of an [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) (except for bulk density).
+Other soils that have a layer within the upper and lower depth of [vitric soil material](Diagnostics.qmd#sec-diag-vitr), which also meets the requirements of [allophanic soil material](Diagnostics.qmd#sec-diag-alloph) (except for bulk density).
 
 ::: {style="text-align: right"}
 **Allophanic Orthic Pumice Soils**
@@ -209,7 +209,7 @@ Other soils with a layer from the mineral soil surface to 25 cm depth consisting
 
 #### **MOI** {#sec-key-MOI .unnumbered}
 
-Other soils with a Bw horizon that is 30 cm or less thick and has hue 10YR or yellower and chroma 4 or less.
+Other soils with a Bw horizon that is 30 cm or less thick and has a hue of 10YR or yellower and chroma 4 or less.
 
 ::: {style="text-align: right"}
 **Immature Orthic Pumice Soils**
