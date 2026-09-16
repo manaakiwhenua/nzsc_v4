@@ -6,31 +6,31 @@ editor_options:
 
 # Pallic Soils {#sec-ord-P}
 
-## Concept of the Order {#sec-con-P}
+## Concept of the order {#sec-con-P}
 
-Pallic Soils are soils with moderate to high base status and low contents of secondary iron oxides. They have pale colours, high slaking potential and high density in subsurface horizons. Pallic Soils have water deficits in summer, and soil water surpluses in winter or spring.
+Pallic Soils are soils with moderate to high base status and low contents of secondary iron oxides. They have pale colours, high slaking potential, and high density in subsurface horizons. Pallic Soils have water deficits in summer, and soil water surpluses in winter or spring.
 
 ## Correlation {#sec-cor-P}
 
-The order comprises most yellow-grey earths, associated steepland soils, intergrades between yellow-grey earths and yellow-brown earths, and intergrades between yellow-grey earths and brown-grey earths of the *New Zealand Genetic Soil Classification*. Most Pallic Soils are correlated with Alfisols and Inceptisols in *Soil Taxonomy*, particularly those under ustic moisture regimes, with aquic conditions, or ochric epipedons.
+The order comprises most yellow-grey earths, associated steepland soils, intergrades between yellow-grey earths and yellow-brown earths, and intergrades between yellow-grey earths and brown-grey earths of the *New Zealand Genetic Soil Classification*. Most Pallic Soils are correlated with Alfisols and Inceptisols in the *Soil Taxonomy*, particularly those under ustic moisture regimes, with aquic conditions or ochric epipedons.
 
 ## Occurrence {#sec-occ-P}
 
-Pallic Soils occur predominantly in the seasonally dry eastern part of North and South Islands, and in the Manawatū.
+Pallic Soils occur predominantly in the seasonally dry eastern part of the North and South Islands, and in the Manawatū–Whanganui Region.
 
-## Accessory Properties of the Order {#sec-acc-P}
+## Accessory properties of the order {#sec-acc-P}
 
 1.  *Low concentrations of secondary oxides.* P retention is less than 30% in topsoils and in subsoils. Extractable iron and aluminium values are low or moderate, with a significant proportion of secondary iron oxides occurring in [redox segregations](Diagnostics.qmd#sec-diag-rsegs).
-2.  *High base status.* Base saturation values in subsoils are high (more than 50%) except in perch-gleyed soils, where values may be lower in horizons overlying [fragipans](Diagnostics.qmd#sec-diag-fpan).
+2.  *High base status.* Base saturation values in subsoils are high (more than 50%), except in perch-gleyed soils, where values may be lower in horizons overlying [fragipans](Diagnostics.qmd#sec-diag-fpan).
 3.  *Felsic parent materials.* Parent materials are predominantly loess or sediments derived from quartzo-feldspathic rocks (schist or greywacke).
-4.  *Mica/illite clay minerals.* Pallic Soils usually belong either to the Illitic or Vermilculitic, or to a Clay-mineralic mineralogy class.
+4.  *Mica/illite clay minerals.* Pallic Soils usually belong either to the Illitic or Vermilculitic, or to a Clay-mineralic, mineralogy class.
 5.  *Slow permeability.* Subsurface horizons have restricted permeability, particularly in soils with [fragipans](Diagnostics.qmd#sec-diag-fpan) or [duripans](Diagnostics.qmd#sec-diag-dpan) in which the permeability is very slow.
 6.  *Perched water-tables.* Soils that are poorly or moderately well drained have water-tables perched on [slowly permeable layers](Diagnostics.qmd#sec-diag-slowp).
 7.  *Limited rooting depth.* Potential rooting depth in most soils is limited by a subsurface horizon of high bulk density at shallow depths, or by brittle silty cappings on coarse rock fragments.
-8.  *Strongly worm-mixed.* Topsoils generally have a significant proportion of worm casts and a distinct worm-mixed horizon occurs in the transition from A to B horizons. Topsoil worm activity is greatly reduced during summer periods of soil moisture deficit.
+8.  *Strongly worm-mixed.* Topsoils generally have a significant proportion of worm casts, and a distinct, worm-mixed horizon occurs in the transition from A to B horizons. Topsoil worm activity is greatly reduced during summer periods of soil moisture deficit.
 9.  *High slaking and dispersion potential.* Soil material, particularly in B horizons, is strongly dispersive and will readily slake. Topsoil structures may break down under prolonged impact by heavy machinery or by continuous tillage.
-10. *Droughty summers, moist winters.* Average annual precipitation ranges from about 500 to 1000 mm per year. A spring surplus of soil water is common but the annual surplus is less than about 200 mm. The average annual deficit is approximately 90–200 mm/year.
-11. *Phosphorus status.* A high proportion of the inorganic phosphorus is non-occluded and a relatively high proportion of total phosphorus is in an organic form.
+10. *Droughty summers, moist winters.* Mean annual precipitation ranges from about 500 to 1,000 mm/yr. A spring surplus of soil water is common, but the annual surplus is less than about 200 mm. The average annual deficit is approximately 90–200 mm/year.
+11. *Phosphorus status.* A high proportion of the inorganic phosphorus is non-occluded, and a relatively high proportion of total phosphorus is in an organic form.
 12. *Sulfur status.* Levels of extractable sulfate are low.
 
 ## Summary of Pallic Soils Hierarchy {#sec-sum-P}
@@ -69,9 +69,9 @@ table_P_dat <- data.frame(
     'Mottled-ultic', 'Mottled-weathered', 'Mottled', 'Aged',  'Ultic', 'Sodic', 'Weathered', 'Calcareous', 'Typic',
     # PI
     'Mottled-pedal', 'Mottled', 'Calcareous', 'Pedal', 'Typic'),
-  'Example_Series' = c('Poporangi', 'Tokomaru', 'Otokia', 'Nalder', 'Marton', 'Caroline', 'Salix',
+  'Example_Series' = c('Pōpōrangi', 'Tokomaru', 'Otokia', 'Nalder', 'Marton', 'Caroline', 'Salix',
                        'Matapiro', '-', 'Matapiro', '-',
-                       'Wither', '-', 'Grampians', 'Seaview', 'Cluden', 'Timaru', 'Grampians', 'Takahe', 'Tima',
+                       'Wither', '-', 'Grampians', 'Seaview', 'Cluden', 'Timaru', 'Grampians', 'Takahē', 'Tima',
                        'Pukeuri', '-', 'Otama',
                        'Rosedale', 'Okuku', 'Halcombe', 'Naseby', 'Rosedale', '-', '-', '-', 'Abbotsford',
                        '-', 'Wakanui', '-', 'Kiwi', 'Templeton')
@@ -93,14 +93,14 @@ table_P <- gt(table_P_dat) |>
 table_P
 ```
 
-## Key to Groups of Pallic Soils {#sec-grp-p}
+## Key to groups of Pallic Soils {#sec-grp-p}
 
 #### **PP** {#sec-key-PP .unnumbered}
 
 Pallic Soils that have both a [gley profile form](Diagnostics.qmd#sec-diag-gleypf) and [perch-gley features](Diagnostics.qmd#sec-diag-pgley).
 
 ::: {style="text-align: right"}
-[**PERCH-GLEY PALLIC SOILS**](#sec-PP)
+[**Perch-gley Pallic Soils**](#sec-PP)
 :::
 
 #### **PU** {#sec-key-PU .unnumbered}
@@ -108,7 +108,7 @@ Pallic Soils that have both a [gley profile form](Diagnostics.qmd#sec-diag-gleyp
 Other soils that have a [duripan](Diagnostics.qmd#sec-diag-dpan).
 
 ::: {style="text-align: right"}
-[**DURIC PALLIC SOILS**](#sec-PU)
+[**Duric Pallic Soils**](#sec-PU)
 :::
 
 #### **PX** {#sec-key-PX .unnumbered}
@@ -116,7 +116,7 @@ Other soils that have a [duripan](Diagnostics.qmd#sec-diag-dpan).
 Other soils that have a [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 ::: {style="text-align: right"}
-[**FRAGIC PALLIC SOILS**](#sec-PX)
+[**Fragic Pallic Soils**](#sec-PX)
 :::
 
 #### **PL** {#sec-key-PL .unnumbered}
@@ -124,7 +124,7 @@ Other soils that have a [fragipan](Diagnostics.qmd#sec-diag-fpan).
 Other soils that have a [brittle-B horizon](Diagnostics.qmd#sec-diag-britb) and an [argillic horizon](Diagnostics.qmd#sec-diag-argh) that is predominantly in the form of lamellae.
 
 ::: {style="text-align: right"}
-[**LAMINAR PALLIC SOILS**](#sec-PL)
+[**Laminar Pallic Soils**](#sec-PL)
 :::
 
 #### **PJ** {#sec-key-PJ .unnumbered}
@@ -132,7 +132,7 @@ Other soils that have a [brittle-B horizon](Diagnostics.qmd#sec-diag-britb) and 
 Other soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh), or a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) with [sodic features](Diagnostics.qmd#sec-diag-sod) within it or immediately beneath it.
 
 ::: {style="text-align: right"}
-[**ARGILLIC PALLIC SOILS**](#sec-PJ)
+[**Argillic Pallic Soils**](#sec-PJ)
 :::
 
 #### **PI** {#sec-key-PI .unnumbered}
@@ -140,14 +140,14 @@ Other soils that have an [argillic horizon](Diagnostics.qmd#sec-diag-argh), or a
 Other soils.
 
 ::: {style="text-align: right"}
-[**IMMATURE PALLIC SOILS**](#sec-PI)
+[**Immature Pallic Soils**](#sec-PI)
 :::
 
-## Key to Subgroups of Pallic Soils {#sec-sub-P}
+## Key to subgroups of Pallic Soils {#sec-sub-P}
 
-### **PP** - PERCH-GLEY PALLIC SOILS {#sec-PP .unnumbered}
+### **PP** - Perch-gley Pallic Soils {#sec-PP .unnumbered}
 
-Perch-gley Pallic soils occur in sites that are periodically saturated (if undrained) in winter and spring, but dry out in summer. The wetness and associated reducing conditions are indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) on ped surfaces in horizons directly beneath the topsoil. Wetness is caused by perching of water on a [slowly permeable layer](Diagnostics.qmd#sec-siag-slowp) (e.g., [fragipan](Diagnostics.qmd#sec-diag-fpan), [argillic horizon](Diagnostics.qmd#sec-diag-argh), [duripan](Diagnostics.qmd#sec-diag-dpan)). The [reductimorphic horizons](Diagnostics.qmd#sec-diag-redmh) are commonly acidic (pH less than 5.5).
+Perch-gley Pallic soils occur in sites that are periodically saturated (if undrained) in winter and spring but dry out in summer. The wetness and associated reducing conditions are indicated by [low-chroma colours](Diagnostics.qmd#sec-diag-lch) on ped surfaces in horizons directly beneath the topsoil. Wetness is caused by perching of water on a [slowly permeable layer](Diagnostics.qmd#sec-siag-slowp) (e.g. [fragipan](Diagnostics.qmd#sec-diag-fpan), [argillic horizon](Diagnostics.qmd#sec-diag-argh), [duripan](Diagnostics.qmd#sec-diag-dpan)). The [reductimorphic horizons](Diagnostics.qmd#sec-diag-redmh) are commonly acidic (pH less than 5.5).
 
 #### **PPU** {#sec-key-PPU .unnumbered}
 
@@ -205,7 +205,7 @@ Other soils.
 **Typic Perch-gley Pallic Soils**
 :::
 
-### **PU** - DURIC PALLIC SOILS {#sec-PU .unnumbered}
+### **PU** - Duric Pallic Soils {#sec-PU .unnumbered}
 
 Duric Pallic Soils occur in areas with pronounced soil moisture deficits and often have some proportion of tephra in the soil parent material, or high exchangeable sodium. Sufficient silica has been mobilised to form a subsoil pan that impedes roots and water.
 
@@ -241,15 +241,15 @@ Other soils.
 **Typic Duric Pallic Soils**
 :::
 
-### **PX** - FRAGIC PALLIC SOILS {#sec-PX .unnumbered}
+### **PX** - Fragic Pallic Soils {#sec-PX .unnumbered}
 
 Fragic Pallic Soils occur in soil materials that are predominantly silty. A [fragipan](Diagnostics.qmd#sec-diag-fpan) which severely restricts the movement of water and penetration of roots occurs below the base of the B horizon.
 
 #### **PXJN** {#sec-key-PXJN .unnumbered}
 
-Fragic Pallic Soils that have BOTH
+Fragic Pallic Soils that have BOTH:
 
-1.  An [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) overlying the [fragipan](Diagnostics.qmd#sec-diag-fpan), AND
+1.  An [argillic](Diagnostics.qmd#sec-diag-argh) or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) overlying the [fragipan](Diagnostics.qmd#sec-diag-fpan); AND
 2.  [Sodic features](Diagnostics.qmd#sec-diag-sod) within or immediately above the [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 ::: {style="text-align: right"}
@@ -258,9 +258,9 @@ Fragic Pallic Soils that have BOTH
 
 #### **PXMJ** {#sec-key-PXMJ .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  An [argillic horizon](Diagnostics.qmd#sec-diag-argh) overlying the [fragipan](Diagnostics.qmd#sec-diag-fpan), AND
+1.  An [argillic horizon](Diagnostics.qmd#sec-diag-argh) overlying the [fragipan](Diagnostics.qmd#sec-diag-fpan); AND
 2.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
@@ -269,9 +269,9 @@ Other soils that have BOTH
 
 #### **PXJC** {#sec-key-PXJC .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  An [argillic horizon](Diagnostics.qmd#sec-diag-argh), AND
+1.  An [argillic horizon](Diagnostics.qmd#sec-diag-argh); AND
 2.  A [calcareous horizon](Diagnostics.qmd#sec-diag-calch).
 
 ::: {style="text-align: right"}
@@ -288,10 +288,10 @@ Other soils with an [argillic horizon](Diagnostics.qmd#sec-diag-argh) overlying 
 
 #### **PXMC** {#sec-key-PXMC .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  A [calcareous horizon](Diagnostics.qmd#sec-diag-calch) immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan) or calcium carbonate occurs within prism interiors of the [fragipan](Diagnostics.qmd#sec-diag-fpan).
+1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf); AND
+2.  A [calcareous horizon](Diagnostics.qmd#sec-diag-calch) immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan), or calcium carbonate occurs within prism interiors of the [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 ::: {style="text-align: right"}
 **Mottled-calcareous Fragic Pallic Soils**
@@ -307,10 +307,10 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **PXCN** {#sec-key-PXCN .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  A [calcareous horizon](Diagnostics.qmd#sec-diag-calch) immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan) or calcium carbonate occurs within prism interiors of the [fragipan](Diagnostics.qmd#sec-diag-fpan), AND
-2.  [Sodic features](Diagnostics.qmd#sec-diag-sod) within or immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan).
+1.  A [calcareous horizon](Diagnostics.qmd#sec-diag-calch) immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan) or calcium carbonate occurs within prism interiors of the [fragipan](Diagnostics.qmd#sec-diag-fpan); AND
+2.  [Sodic features](Diagnostics.qmd#sec-diag-sod) within, or immediately beneath, the [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 ::: {style="text-align: right"}
 **Calcareous-sodic Fragic Pallic Soils**
@@ -318,7 +318,7 @@ Other soils that have BOTH
 
 #### **PXC** {#sec-key-PXC .unnumbered}
 
-Other soils that have a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan) or calcium carbonate occurs within prism interiors of the [fragipan](Diagnostics.qmd#sec-diag-fpan).
+Other soils that have a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) immediately beneath the [fragipan](Diagnostics.qmd#sec-diag-fpan), or calcium carbonate occurs within prism interiors of the [fragipan](Diagnostics.qmd#sec-diag-fpan).
 
 ::: {style="text-align: right"}
 **Calcareous Fragic Pallic Soils**
@@ -332,9 +332,9 @@ Other soils.
 **Typic Fragic Pallic Soils**
 :::
 
-### **PL** - LAMINAR PALLIC SOILS {#sec-PL .unnumbered}
+### **PL** - Laminar Pallic Soils {#sec-PL .unnumbered}
 
-Laminar Pallic Soils occur predominantly in fine sandy or silty loess or alluvium. Although rooting is impeded in the subsurface horizons it is not restricted to the degree that it is in a [fragipan](Diagnostics.qmd#sec-diag-fpan). The soils are generally slowly permeable.
+Laminar Pallic Soils occur predominantly in fine sandy or silty loess or alluvium. Although rooting is impeded in the subsurface horizons, it is not restricted to the degree that it is in a [fragipan](Diagnostics.qmd#sec-diag-fpan). The soils are generally slowly permeable.
 
 #### **PLM** {#sec-key-PLM .unnumbered}
 
@@ -360,15 +360,15 @@ Other soils.
 **Typic Laminar Pallic Soils**
 :::
 
-### **PJ** - ARGILLIC PALLIC SOILS {#sec-PJ .unnumbered}
+### **PJ** - Argillic Pallic Soils {#sec-PJ .unnumbered}
 
-Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duric horizon](Diagnostics.qmd#sec-diag-dpan) but have a clay-enriched B horizon in which clay coatings occur predominantly on polyhedral, blocky or prismatic ped surfaces, on coarse rock fragment surfaces, or within tubular pores.
+Argillic Pallic Soils have no [fragipan](Diagnostics.qmd#sec-diag-fpan) or [duric horizon](Diagnostics.qmd#sec-diag-dpan), but have a clay-enriched B horizon in which clay coatings occur predominantly on polyhedral, blocky or prismatic ped surfaces, on coarse rock fragments, or within tubular pores.
 
 #### **PJMY** {#sec-key-PJMY .unnumbered}
 
-Argillic Pallic Soils that have BOTH
+Argillic Pallic Soils that have BOTH;
 
-1.  An [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh), AND
+1.  An [eluvial horizon](Diagnostics.qmd#sec-diag-eluv) and pH less than 5.5 in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh); AND
 2.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 ::: {style="text-align: right"}
@@ -377,10 +377,10 @@ Argillic Pallic Soils that have BOTH
 
 #### **PJMW** {#sec-key-PJMW .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH;
 
-1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  Coarse rock fragments, the majority of which are weathered to the extent that clasts can be easily broken by hammer or spade.
+1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
+2.  coarse rock fragments, the majority of which are weathered to the extent that clasts can be easily broken by hammer or spade.
 
 ::: {style="text-align: right"}
 **Mottled-weathered Argillic Pallic Soils**
@@ -396,7 +396,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **PJA** {#sec-key-PJA .unnumbered}
 
-Other soils that have hue 7.5YR or redder or hue 10YR and chroma 6 or more, in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
+Other soils that have hue 7.5YR or redder, or hue 10YR and chroma 6 or more, in some part of the [argillic horizon](Diagnostics.qmd#sec-diag-argh).
 
 ::: {style="text-align: right"}
 **Aged Argillic Pallic Soils**
@@ -442,16 +442,16 @@ Other soils.
 **Typic Argillic Pallic Soils**
 :::
 
-### **PI** - IMMATURE PALLIC SOILS {#sec-PI .unnumbered}
+### **PI** - Immature Pallic Soils {#sec-PI .unnumbered}
 
 Immature Pallic Soils are insufficiently developed to have [fragipans](Diagnostics.qmd#sec-diag-fpan), [duripans](Diagnostics.qmd#sec-diag-dpan) or [argillic horizons](Diagnostics.qmd#sec-diag-argh). They have either a [brittle-B horizon](Diagnostics.qmd#sec-diag-britb), an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), a [cutanic horizon](Diagnostics.qmd#sec-diag-cuth), or slightly firm or stronger blocky, polyhedral or prismatic peds.
 
 #### **PIMD** {#sec-key-PIMD .unnumbered}
 
-Immature Pallic Soils that have BOTH
+Immature Pallic Soils that BOTH:
 
-1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  Are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter, throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
+1.  Have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf); AND
+2.  Are moderately or strongly pedal, with peds 100 mm or less in horizontal diameter throughout the major part of the B horizon to 60 cm from the mineral soil surface, or to the base of the B horizon if shallower.
 
 ::: {style="text-align: right"}
 **Mottled-pedal Immature Pallic Soils**
