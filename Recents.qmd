@@ -6,9 +6,9 @@ editor_options:
 
 # Recent Soils {#sec-ord-R}
 
-## Concept of the Order {#sec-con-R}
+## Concept of the order {#sec-con-R}
 
-Recent Soils show only incipient marks of soil-forming processes because of youthfulness, truncation of an older solum or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) or, as in the case of fine-textured wetland soils, to have moderately fluid or very fluid layers not close to the surface, indicating the onset of pedogenesis. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.
+Recent Soils show only incipient marks of soil-forming processes because of youthfulness, or truncation of an older solum, or, less commonly, because the soil material is resistant to alteration. Soil formation has been sufficient to develop a [distinct topsoil](Diagnostics.qmd#sec-diag-dts) or, as in the case of fine-textured wetland soils, to have moderately fluid or very fluid layers not close to the surface, indicating the onset of pedogenesis. A continuous cover of vascular plants is normally well established. The concept of the order relates predominantly to weak soil development rather than to the length of time of soil formation.
 
 ## Correlation {#sec-cor-R}
 
@@ -16,7 +16,7 @@ The order correlates with the recent soils, but not the gleyed-recent soils, of 
 
 ## Occurrence {#sec-occ-R}
 
-Recent soils occur throughout New Zealand in young landscapes, including alluvial floodplains, unstable slopes, and slopes mantled by young tephras deposited within the past \~700 years, including rhyolitic, andesitic and basaltic tephras [@hopkins2021].
+Recent Soils occur throughout New Zealand in young landscapes, including alluvial floodplains, unstable slopes, and slopes mantled by young tephras deposited within the past c. 700 years, including rhyolitic, andesitic and basaltic tephras [@hopkins2021].
 
 ## Accessory Properties of the Order {#sec-acc-R}
 
@@ -26,11 +26,11 @@ Recent soils occur throughout New Zealand in young landscapes, including alluvia
 4.  *Illitic mineralogy.* The soil mineralogy reflects the mineralogy of the parent material. Most Recent Soils have an Illitic mineralogy class except for those formed in tephra which are usually Glassy.
 5.  *Deep rooting.* Although textures vary, potential rooting depths are mostly large. Subsurface horizons are usually apedal or weakly pedal.
 6.  *Good drainage.* Poorly drained or very poorly drained soils are not included.
-7.  *Low phosphate retention.* Phosphate retention is likely to be either low or very low unless the soils occur in mafic parent materials.
+7.  *Low P retention.* P retention is likely to be either low or very low unless the soils occur in mafic parent materials.
 8.  *High fertility.* Natural fertility is generally high.
 9.  *Subject to erosion or sedimentation.* The soils are susceptible to erosion and sedimentation, including tephra deposition.
 
-## Summary of Recent Soils Hierarchy {#sec-sum-R}
+## Summary of Recent Soils hierarchy {#sec-sum-R}
 
 ```{r}
 #| label: tbl-R
@@ -84,25 +84,25 @@ table_R <- gt(table_R_dat) |>
 table_R
 ```
 
-## Key to Groups of Recent Soils {#sec-grp-R}
+## Key to groups of Recent Soils {#sec-grp-R}
 
 #### **RH** {#sec-key-RH .unnumbered}
 
-Recent soils that have EITHER
+Recent soils that have EITHER:
 
-1.  Mean annual soil temperature at 30 cm from the mineral soil surface of at least 2.5°C more than the mean annual air temperature, OR
-2.  pH of 4.8 or less in some part of a subsurface horizon at less than 60 cm from the mineral soil surface.
+1.  A mean annual soil temperature at 30 cm from the mineral soil surface of at least 2.5°C more than the mean annual air temperature; OR
+2.  A pH of 4.8 or less in some part of a subsurface horizon at less than 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
-[**HYDROTHERMAL RECENT SOILS**](#sec-RH)
+[**Hydrothermal Recent Soils**](#sec-RH)
 :::
 
 #### **RX** {#sec-key-RX .unnumbered}
 
-Other Recent Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) either directly beneath the A horizon or have a [weathered-B](Diagnostics.qmd#sec-diag-bw) or unconsolidated C horizon that is less than 10 cm thick.
+Other Recent Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [paralithic contact](Diagnostics.qmd#sec-diag-plith) either directly beneath the A horizon, or have a [weathered-B](Diagnostics.qmd#sec-diag-bw) or unconsolidated C horizon that is less than 10 cm thick.
 
 ::: {style="text-align: right"}
-[**ROCKY RECENT SOILS**](#sec-RX)
+[**Rocky Recent Soils**](#sec-RX)
 :::
 
 #### **RS** {#sec-key-RS .unnumbered}
@@ -110,7 +110,7 @@ Other Recent Soils that have a [lithic](Diagnostics.qmd#sec-diag-lithc) or [para
 Other Recent Soils that have sand or loamy sand texture and have less than 35% (by volume) coarse rock fragments, in all horizons between the base of the A horizon and 60 cm from the mineral soil surface. Lamellae of sandy loam (of insufficient thickness to meet the requirements of an [argillic horizon](Diagnostics.qmd#sec-diag-argh)) may be present.
 
 ::: {style="text-align: right"}
-[**SANDY RECENT SOILS**](#sec-RS)
+[**Sandy Recent Soils**](#sec-RS)
 :::
 
 #### **RF** {#sec-key-RF .unnumbered}
@@ -118,7 +118,7 @@ Other Recent Soils that have sand or loamy sand texture and have less than 35% (
 Other Recent Soils that have [fluvial features](Diagnostics.qmd#sec-diag-fluv) and are not buried by more than 30 cm of material without [fluvial features](Diagnostics.qmd#sec-diag-fluv).
 
 ::: {style="text-align: right"}
-[**FLUVIAL RECENT SOILS**](#sec-RF)
+[**Fluvial Recent Soils**](#sec-RF)
 :::
 
 #### **RT** {#sec-key-RT .unnumbered}
@@ -126,7 +126,7 @@ Other Recent Soils that have [fluvial features](Diagnostics.qmd#sec-diag-fluv) a
 Other Recent Soils containing [tephric soil material](Diagnostics.qmd#sec-diag-teph) from the mineral soil surface to 30 cm depth or more.
 
 ::: {style="text-align: right"}
-[**TEPHRIC RECENT SOILS**](#sec-RT)
+[**Tephric Recent Soils**](#sec-RT)
 :::
 
 #### **RO** {#sec-key-RO .unnumbered}
@@ -134,24 +134,24 @@ Other Recent Soils containing [tephric soil material](Diagnostics.qmd#sec-diag-t
 Other Recent Soils.
 
 ::: {style="text-align: right"}
-[**ORTHIC RECENT SOILS**](#sec-RO)
+[**Orthic Recent Soils**](#sec-RO)
 :::
 
-## Key to Subgroups of Recent Soils {#sec-sub-R}
+## Key to subgroups of Recent Soils {#sec-sub-R}
 
-### **RH** - HYDROTHERMAL RECENT SOILS {#sec-RH .unnumbered}
+### **RH** - Hydrothermal Recent Soils {#sec-RH .unnumbered}
 
 Hydrothermal Recent Soils occur adjacent to areas that were formerly hydrothermally active or are of sufficiently reduced activity that it allows the establishment of a topsoil. The soils indicate past or low hydrothermal activity by either elevated soil temperatures or extreme acidity, respectively.
 
 No subgroups have been defined.
 
-### **RX** - ROCKY RECENT SOILS {#sec-RX .unnumbered}
+### **RX** - Rocky Recent Soils {#sec-RX .unnumbered}
 
 Rocky Recent Soils have rock at shallow depths, severely restricting the soil volume available to roots.
 
 #### **RXOA** {#sec-key-RXOA .unnumbered}
 
-Rocky Recent Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) and a pH less than 5.5 in some part below 20 cm from the mineral soil surface.
+Rocky Recent Soils that have a [peaty topsoil](Diagnostics.qmd#sec-diag-pts) and a pH of less than 5.5 in some part below 20 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Peaty-acidic Rocky Recent Soils**
@@ -167,7 +167,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **RXA** {#sec-key-RXA .unnumbered}
 
-Other soils that have pH less than 5.5 in some part below 20 cm from the mineral soil surface.
+Other soils that have pH of less than 5.5 in some part below 20 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Rocky Recent Soils**
@@ -181,7 +181,7 @@ Other soils.
 **Typic Rocky Recent Soils**
 :::
 
-### **RS** - SANDY RECENT SOILS {#sec-RS .unnumbered}
+### **RS** - Sandy Recent Soils {#sec-RS .unnumbered}
 
 Sandy Recent Soils occur in sand deposits which are dominantly aeolian, and sometimes alluvial or pyroclastic in origin. Subsurface horizons are sandy.
 
@@ -211,7 +211,7 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **RSA** {#sec-key-RSA .unnumbered}
 
-Other soils that have pH less than 5.5 in some part between 20 and 60 cm from the mineral soil surface.
+Other soils that have a pH of less than 5.5 in some part between 20 and 60 cm from the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Sandy Recent Soils**
@@ -233,7 +233,7 @@ Other soils.
 **Typic Sandy Recent Soils**
 :::
 
-### **RF** - FLUVIAL RECENT SOILS {#sec-RF .unnumbered}
+### **RF** - Fluvial Recent Soils {#sec-RF .unnumbered}
 
 Fluvial Recent Soils occur in sediments deposited by flowing water. Many occur on land surfaces that are susceptible to flooding.
 
@@ -255,10 +255,10 @@ Other soils in which [sulfidic soil material](Diagnostics.qmd#sec-diag-sulfd) is
 
 #### **RFMA** {#sec-key-RFMA .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
+1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf); AND
+2.  A pH of less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Mottled-acidic Fluvial Recent Soils**
@@ -266,9 +266,9 @@ Other soils that have BOTH
 
 #### **RFMQ** {#sec-key-RFMQ .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
+1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf); AND
 2.  [Saline soil material](Diagnostics.qmd#sec-diag-salt) within 60 cm of the mineral soil surface at some time of the year.
 
 ::: {style="text-align: right"}
@@ -285,9 +285,9 @@ Other soils that have [saline soil material](Diagnostics.qmd#sec-diag-salt) with
 
 #### **RFMW** {#sec-key-RFMW .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
+1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf); AND
 2.  A [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface.
 
 ::: {style="text-align: right"}
@@ -304,10 +304,10 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **RFAW** {#sec-key-RFAW .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  A [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface, AND
-2.  pH less than 5.5 in some part of the subsurface horizons within 60 cm of the mineral soil surface.
+1.  A [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface; AND
+2.  A pH of less than 5.5 in some part of the subsurface horizons within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic-weathered Fluvial Recent Soils**
@@ -323,7 +323,7 @@ Other soils that have a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with 
 
 #### **RFA** {#sec-key-RFA .unnumbered}
 
-Other soils that have pH less than 5.5 in some part of subsurface horizons within 60 cm of the mineral soil surface.
+Other soils that have a pH of less than 5.5 in some part of subsurface horizons within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Fluvial Recent Soils**
@@ -337,7 +337,7 @@ Other soils.
 **Typic Fluvial Recent Soils**
 :::
 
-### **RT** - TEPHRIC RECENT SOILS {#sec-RT .unnumbered}
+### **RT** - Tephric Recent Soils {#sec-RT .unnumbered}
 
 Tephric Recent Soils occur in unconsolidated deposits of pyroclastic origin.
 
@@ -389,16 +389,16 @@ Other soils.
 **Typic Tephric Recent Soils**
 :::
 
-### **RO** - ORTHIC RECENT SOILS {#sec-RO .unnumbered}
+### **RO** - Orthic Recent Soils {#sec-RO .unnumbered}
 
 Orthic Recent Soils occur on land that is being eroded or has received sediment that has been deposited mainly as a result of slope processes.
 
 #### **ROMP** {#sec-key-ROMP .unnumbered}
 
-Orthic Recent Soils that have BOTH
+Orthic Recent Soils that have BOTH:
 
-1.  A [mottled profile form](Diagnostics.qmd#sec-diag-mottpf), AND
-2.  Meets part 2(b) of the requirements for [Pallic Soils](Key-to-Orders.qmd#sec-P).
+1.  Have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf); AND
+2.  Meet part 2(b) of the requirements for [Pallic Soils](Key-to-Orders.qmd#sec-P).
 
 ::: {style="text-align: right"}
 **Mottled-pallic Orthic Recent Soils**
@@ -414,10 +414,10 @@ Other soils that have a [mottled profile form](Diagnostics.qmd#sec-diag-mottpf).
 
 #### **ROAW** {#sec-key-ROAW .unnumbered}
 
-Other soils that have BOTH
+Other soils that have BOTH:
 
-1.  A [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface, AND
-2.  pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
+1.  A [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with its lower boundary at 30 cm or more from the mineral soil surface; AND
+2.  A pH of less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic-weathered Orthic Recent Soils**
@@ -433,7 +433,7 @@ Other soils that have a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) with 
 
 #### **ROA** {#sec-key-ROA .unnumbered}
 
-Other soils that have pH less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
+Other soils that have a pH of less than 5.5 in some part between the base of the A horizon and within 60 cm of the mineral soil surface.
 
 ::: {style="text-align: right"}
 **Acidic Orthic Recent Soils**
