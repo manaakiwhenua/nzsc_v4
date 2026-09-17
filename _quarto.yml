@@ -40,10 +40,9 @@ book:
   collection-number: 1
   isbn: "978-1-997319-05-4 (PDF)"
   issn: "1172-269X"
+  doi: '10.7931/dl1-lrss-4-2026'
   reader-mode: true
   search: true
-  downloads: [pdf]
-  output-file: BSI-MWLR_2024_NZSC-4e
   repo-url: https://github.com/manaakiwhenua/nzsc_v4
   chapters:
     - index.qmd
@@ -71,7 +70,6 @@ book:
   appendices:
     - Appendix_cryic.qmd
     - Appendix_letters.qmd
-    - Changelog.qmd
 
 bibliography: NZSC_reference_list_4e.bib
 csl: bsi-citation-style-202603.csl
@@ -83,14 +81,6 @@ format:
     citations-hover: true
     footnotes-hover: true
     css: styles.css
-  # Word doc was prepped manually
-  epub:
-    split-level: 2
-    toc: true
-    css: styles.css
-    number-sections: false
-    tbl-colwidths: true
-    df-print: paged
 
 # global knitr options
 knitr:
@@ -105,3 +95,14 @@ knitr:
     warning: false
     message: false
     error: false
+
+## Current dependencies
+## renv::dependencies() |>
+##   dplyr::distinct(Package) |>
+##   dplyr::arrange(Package)
+#
+#              dplyr
+#                 gt
+#           gtExtras
+#          rmarkdown
+#             tibble

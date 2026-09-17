@@ -35,7 +35,7 @@ Allophanic Soils occur predominantly in central North Island rhyolitic and andes
 13. *Limited fertility.* There are usually requirements for phosphorus, potassium and magnesium on dairy farms. There are no significant trace element deficiencies, although cobalt is marginal in more strongly leached Allophanic Soils. Pasture may respond to lime where pH is less than 5.3. Sulfate reserves are held in B horizons. Phosphate retention and fixation are high in topsoils.
 14. *Moist climate.* Mean annual precipitation exceeds 1,000 mm and soil moisture deficits are either absent or occur for only short periods.
 
-## Summary of Allophanic Soils {#sec-sum-L}
+## Summary of Allophanic Soils hierarchy {#sec-sum-L}
 
 ```{r}
 #| label: tbl-L

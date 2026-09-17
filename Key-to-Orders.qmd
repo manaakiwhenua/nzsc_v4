@@ -92,10 +92,10 @@ Other soils that have all of the following:
 
 1.  No [fragipan](Diagnostics.qmd#sec-diag-fpan); and
 2.  *Either*
-    (a) a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) with evidence of pedogenic carbonate within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal (\>35% coarse rock fragments)), *or*
+    (a) a [calcareous horizon](Diagnostics.qmd#sec-diag-calch) with evidence of pedogenic carbonate within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal \[\>35% coarse rock fragments)\], *or*
     (b) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) 10 cm or more thick, and no primary carbonate within 90 cm of the soil surface, but combined with *either*
         (i) a P retention of 15% or less in the major part of the B horizon to 60 cm depth, and any worm mixed horizon at the base of the A horizon is less than 5 cm thick, *or*
-        (ii) a pH of 7.5 or more within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal (\>35% coarse rock fragments)).
+        (ii) a pH of 7.5 or more within 90 cm of the soil surface (or within 150 cm if the texture group is dominantly sandy or sandy-skeletal \[\>35% coarse rock fragments).
 
 ## [**X** - Oxidic Soils](Oxidics.qmd#sec-ord-X) {#sec-X .unnumbered}
 
@@ -125,7 +125,7 @@ Other soils that have textures of fine loamy sand or finer in some part from the
         (i) a [fragipan](Diagnostics.qmd#sec-diag-fpan), [duripan](Diagnostics.qmd#sec-diag-dpan) or [brittle-B horizon](Diagnostics.qmd#sec-diag-britb); *or*
         (ii) a [weathered-B horizon](Diagnostics.qmd#sec-diag-bw) that has in part a moderately or strongly pedal subhorizon with blocky, polyhedral or prismatic peds and slightly firm or greater unconfined soil or aggregate strength when moist; *or*
         (iii) an [argillic horizon](Diagnostics.qmd#sec-diag-argh), [calcareous horizon](Diagnostics.qmd#sec-diag-calch), or [cutanic horizon](Diagnostics.qmd#sec-diag-cuth) that has [sodic features](Diagnostics.qmd#sec-diag-sod) either within or immediately beneath it; *or*
-        (iv) an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), skeletans on B horizon peds, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ("two-tone").
+        (iv) an [eluvial horizon](Diagnostics.qmd#sec-diag-eluvh), skeletans on B horizon peds, or skeletans as apparent segregations of relatively higher colour value in B or BC horizons ('two-tone').
 
 ## [**B** - Brown Soils](Browns.qmd#sec-ord-B) {#sec-B .unnumbered}
 
