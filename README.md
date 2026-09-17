@@ -1,9 +1,35 @@
-Welcome!
+# New Zealand Soil Classification
 
-This is the draft 4th edition of the New Zealand Soil Classification (NZSC). 🚧 This draft is currently being finalised and may change at any time 🚧. Feedback can be provided via the [Github Repository](https://github.com/manaakiwhenua/nzsc_v4), or email at [SoilStandards\@landcareresearch.co.nz](mailto:SoilStandards@landcareresearch.co.nz). 
+*Fourth edition*
 
-Introductory information about the NZSC is available at [The New Zealand Soils Portal](https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/).
+Landcare Research Science Series No. 1
 
-The third edition of the NZSC [@hewitt2010] should be treated as current until this review is finalised, and can be downloaded from the [Manaaki Whenua Digital Library](http://doi.org/10.7931/DL1-LRSS-1-2010).
+*© New Zealand Institute for Bioeconomy Science Ltd 2026*
+
+No part of this work covered by copyright may be reproduced or copied in any form or by any means (graphic, electronic or mechanical, including photocopying, recording, taping, information retrieval systems, or otherwise) without the written permission of the publisher.
+
+A catalogue record for this book is available from the National Library of New Zealand:
+
+> HEWITT, A.E. and NZSC Working Group\
+> New Zealand soil classification / A.E. Hewitt and NZSC Working Group – 4th edition – Lincoln, N.Z.:\
+> New Zealand Institute for Bioeconomy Science 2026.\
+> (Landcare Research science series, ISSN 1172-269X; no.1)\
+> ISBN 978-1-997319-05-4 (PDF)\
+> \
+> 1 Soils – New Zealand – Classification. I.\
+> Manaaki Whenua – Landcare Research New Zealand Ltd. II. Title. III. Series.\
+> \
+> UDC 631.44 (931)
+
+Published by New Zealand Institute for Bioeconomy Science, Manaaki Whenua – Landcare Research Group, 74 Gerald Street, Lincoln 7608, New Zealand
+
+*First published as DSIR Land Resources Scientific Report No.19, 1992.\
+Reprinted with corrections as Landcare Research Science Series No. 1, 1993.\
+Reprinted with update and corrections as Landcare Research Science Series No. 1, 1998 (2^nd^ edition) and 2010 (3^rd^ edition).\
+This is the 4th edition with further updates and corrections.*
+
+The PDF version of this book can be downloaded from [https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/nzsc-4th-edition](https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/nzsc-4th-edition).
+
+Please email [soilstandards@landcareresearch.co.nz](mailto:soilstandards@landcareresearch.co.nz?subject=NZSSS%204th%20edition) if you have any questions or comments about this new edition.
 
 ------------------------------------------------------------------------
