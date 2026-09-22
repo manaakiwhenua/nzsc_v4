@@ -25,7 +25,7 @@ Published by New Zealand Institute for Bioeconomy Science, Manaaki Whenua – La
 
 *First published as DSIR Land Resources Scientific Report No.19, 1992.\
 Reprinted with corrections as Landcare Research Science Series No. 1, 1993.\
-Reprinted with update and corrections as Landcare Research Science Series No. 1, 1998 (2^nd^ edition) and 2010 (3^rd^ edition).\
+Reprinted with update and corrections as Landcare Research Science Series No. 1, 1998 (2nd edition) and 2010 (3rd edition).\
 This is the 4th edition with further updates and corrections.*
 
 The PDF version of this book can be downloaded from [https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/nzsc-4th-edition](https://soils.landcareresearch.co.nz/topics/soil-classification/nzsc/nzsc-4th-edition).
