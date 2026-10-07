@@ -1,4 +1,4 @@
-# New Zealand Soil Classification {.unnumbered}
+# About {.unnumbered}
 
 *4^th^ edition*
 

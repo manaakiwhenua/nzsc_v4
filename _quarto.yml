@@ -81,9 +81,11 @@ csl: bsi-citation-style-202603.csl
 format:
   html:
     theme:
-      light: cosmo
+      - cosmo
+      - custom.scss
     citations-hover: true
     footnotes-hover: true
+    lightbox: true
     css: styles.css
 
 # global knitr options
