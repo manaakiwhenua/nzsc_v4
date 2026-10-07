@@ -13,7 +13,7 @@ book:
         literal: "NZSC Working Group"
     - id: aeh
       name:
-        given: "Alan E."
+        given: "Allan E."
         family: "Hewitt"
       degrees: "PhD"
       attributes:
