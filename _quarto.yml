@@ -43,6 +43,10 @@ book:
   doi: '10.7931/dl1-lrss-4-2026'
   reader-mode: true
   search: true
+  cover-image: images/NZSC_cover_2026.png
+  cover-image-alt: "An image of the cover of the NZSC fourth edition, light orange in colour."
+  sharing:
+    - linkedin
   repo-url: https://github.com/manaakiwhenua/nzsc_v4
   chapters:
     - index.qmd
